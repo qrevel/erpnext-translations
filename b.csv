@@ -1,204 +1,204 @@
-,English,Français
-0,Backflush Raw Materials Based On,Backflush matières premières basée sur
-1,Background Email Queue,Contexte Email Queue
-2,Background Workers,Exécution d'opérations en arrière-plan
-3,Backup Frequency,Fréquence de sauvegarde
-4,ban-circle,interdiction de cercle
-5,Bank Draft,Projet de la Banque
-6,Bank Entry,Entrée de la Banque
-7,Bank Overdraft Account,Compte du découvert bancaire
-8,Bank Reconciliation Statement,Énoncé de rapprochement bancaire
-9,Bank Statement balance as per General Ledger,Solde du relevé bancaire que par General Ledger
-10,Bank Transaction Reference,Bank Transaction Référence
-11,Bank/Cash transactions against party or for internal transfer,transactions Banque / Trésorerie contre partie ou pour le transfert interne
-12,Banking and Payments,Banque et Paiements
-13,Base Amount (Company Currency),Montant de base (Devise de la Société)
-14,Base Change Amount (Company Currency),Montant de Variation de Base (Devise de la Société)
-15,Base Distinguished Name (DN),Nom distinctif de base (DN)
-16,Base Hour Rate(Company Currency),Taux de base Hour (Société Monnaie)
-17,Based on Permissions For User,Basé sur les permissions de l'utilisateur
-18,Basic Amount (Company Currency),Montant de base (Société Monnaie)
-19,Basic Rate (as per Stock UOM),Taux de base (comme par Stock UDM)
-20,Batch Inventory,Batch Inventaire
-21,Batch Name,Batch Nom
-22,Batch-Wise Balance History,Discontinu Histoire de la balance
-23,Before reconciliation,Avant la réconciliation
-24,Beginner,Débutant
-25,Better add a few more letters or another word,Mieux vaut ajouter quelques lettres ou un autre mot
-26,Between,Entre
-27,Billing Address Name,Nom de l'adresse de facturation
-28,Billing currency must be equal to either default comapany's currency or party account currency,La devise de facturation doit être égale à la devise par défaut de la companie ou du compte du parti
-29,Bimonthly,Bimensuel
-30,Bin,Boîte
-31,Block Date,Date de bloquer
-32,Block Days,Bloquer les jours
-33,Block Holidays on important days.,Bloc Vacances sur les jours importants.
-34,Block Module,Module Bloquer
-35,Block Modules,Modules blocs
-36,BOM,LDM (Liste de Matériaux)
-37,BOM and Manufacturing Quantity are required,LDM et Quantité de Fabrication sont nécessaires
-38,BOM Detail No,Numéro du détail LDM
-39,BOM Explosion Item,Article éclatement de la nomenclature
-40,BOM No. for a Finished Good Item,N ° nomenclature pour un produit fini Bonne
-41,BOM recursion: {0} cannot be parent or child of {2},S'il vous plaît entrer une adresse valide Id
-42,BOM Replace Tool,Outil de Remplacement de LDM
-43,BOM Scrap Item,BOM Scrap Item
-44,BOM Search,Recherche de LDM
-45,Bot,Bot
-46,Box,boîte
-47,Brake Oil,huile de frein
-48,Brake Pad,Plaquette de frein
-49,Brand HTML,Marque HTML
-50,Brand Image,Image de marque
-51,Breadcrumbs,Chapelure
-52,Browse BOM,Parcourir LDM
-53,Budget Account,Compte Budgétaire
-54,Budget Accounts,Comptes Budgétaires
-55,Budget Against,budget contre
-56,Budget Amount,Montant Budgétaire
-57,Budget and Cost Center,Centre de Budget et Coûts
-58,"Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget ne peut pas être affecté contre {0}, car il est pas un compte de revenus ou de dépenses"
-59,Budget cannot be assigned against Group Account {0},Budget ne peut pas être attribué à l'encontre du compte de groupe {0}
-60,bullhorn,mégaphone
-61,Business Development Manager,Directeur du développement des affaires
-62,Button Help,Bouton Aide
-63,Button Label,Bouton Étiquette
-64,Buyer of Goods and Services.,Lors de votre achat des biens et services.
-65,"Buying must be checked, if Applicable For is selected as {0}","Achat doit être vérifiée, si pour Applicable est sélectionné comme {0}"
-66,B-,B-
-67,B+,B +
-68,Back to Login,Retour connexion
-69,Background,Arrière plan
-70,Background Color,Couleur de fond
-71,Background Events,Événements en Arrière Plan
-72,Background Image,Image de fond
-73,Background Jobs,Travaux en arrière-plan
-74,Background Style,Style du fond
-75,Backup Size,Taille de Sauvegarde
-76,Backups,Sauvegardes
-77,backward,Revenir en arrière
-78,Balance,Balance
-79,Balance for Account {0} must always be {1},Solde pour le compte {0} doit toujours être {1}
-80,Balance must be,Solde doit être
-81,Balance Qty,Qté soldée
-82,Balance Sheet,Bilan
-83,Balance Value,Valeur du solde
-84,Bank,Banque
-85,Bank / Cash Account,Banque et liquidités
-86,Bank A/C No.,No. de compte bancaire
-87,Bank Account,Compte bancaire
-88,Bank account cannot be named as {0},Compte bancaire ne peut pas être nommé {0}
-89,Bank Account No.,No. de compte bancaire
-90,Bank Accounts,Comptes bancaires
-91,Bank Balance,Solde bancaire
-92,Bank Clearance Summary,Résumé des Compensations Bancaires
-93,Bank Entries,Entrées bancaire
-94,Bank Name,Nom de la banque
-95,Bank Reconciliation,Rapprochement bancaire
-96,Bank Reconciliation Detail,Détail du rapprochement bancaire
-97,Banking,Bancaire
-98,Banner,Bannière
-99,Banner HTML,HTML Bannière
-100,Banner is above the Top Menu Bar.,La Bannière est au-dessus de la barre de menu en haut.
-101,barcode,code barres
-102,Barcode {0} already used in Item {1},Le code barre {0} est déjà utilisé dans l'article {1}
-103,Base,Base
-104,Based On,Basé sur
-105,Basic,de base
-106,Basic Amount,Montant de base
-107,Basic Rate,Taux de base
-108,Basic Rate (Company Currency),Taux de base (Monnaie de la Société )
-109,Batch,Lot
-110,Batch (lot) of an Item.,Lot d'un article.
-111,Batch {0} of Item {1} has expired.,Lot {0} de l'article {1} a expiré.
-112,Batch Description,Description du lot
-113,Batch ID,ID. du lot
-114,Batch No,Numéro du lot
-115,Batch number is mandatory for Item {0},Le numéro de lot est obligatoire pour l'article {0}
-116,Beginning with,commençant par
-117,bell,cloche
-118,Beta,Bêta
-119,Better Prospects,De meilleures perspectives
-120,Bill,Facture
-121,Bill Date,Date de la facture
-122,Bill No,Numéro de la facture
-123,Bill of Materials,Nomenclatures
-124,Bill of Materials (BOM),Nomenclatures (BOM)
-125,Billed,Facturé
-126,Billed Amount,Montant facturé
-127,Billed Amt,Montant facturé
-128,Billing,Facturation
-129,Billing Address,Adresse de facturation
-130,Billing Amount,Montant de facturation
-131,Billing and Delivery Status,Facturation et statut de livraison
-132,Billing City,Ville de facturation
-133,Billing Country,Pays de facturation
-134,Billing County,Comté de facturation
-135,Billing Currency,Devise de facturation
-136,Billing Details,Détails de la facturation
-137,Billing Hours,Heures de facturation
-138,Billing Rate,Taux de facturation
-139,Billing State,État de facturation
-140,Billing Status,Statut de la facturation
-141,Bills raised by Suppliers.,Factures reçues des fournisseurs.
-142,Bills raised to Customers.,Factures émises aux clients.
-143,Bio,Biographie
-144,Biotechnology,biotechnologie
-145,Birth Date,Date de naissance
-146,Birthday Reminder for {0},Rappel d'anniversaire pour {0}
-147,Black,Noir
-148,Block leave applications by department.,Bloquer les demandes de congé par département
-149,Blocked,Bloqué
-150,Blog,Blog
-151,Blog Category,Catégorie du blog
-152,Blog Intro,Blog Intro
-153,Blog Introduction,Introduction du blog
-154,Blog Post,Article de blog
-155,Blog Settings,Paramètres du blog
-156,Blog Subscriber,Abonné Blog
-157,Blog Title,Titre du blog
-158,Blogger,Blogger
-159,Blood Group,Groupe sanguin
-160,Blue,Bleu
-161,bold,gras
-162,Bold (Ctrl/Cmd+B),Gras (Ctrl/Cmd+B)
-163,BOM {0} must be active,BOM {0} doit être actif
-164,BOM {0} must be submitted,BOM {0} doit être soumis
-165,BOM Browser,Navigateur BOM
-166,BOM does not contain any stock item,BOM ne contient aucun article en stock
-167,BOM Item,Article BOM
-168,BOM No,Numéro BOM
-169,BOM Operation,Opération BOM
-170,BOM Rate,Taux BOM
-171,BOM replaced,BOM remplacé
-172,book,livre
-173,bookmark,favoris
-174,Both DocType and Name required,Les deux champs DocType et Nom sont nécessaire
-175,Both login and password required,Un login et un mot de passe sont requis
-176,Both Warehouse must belong to same Company,Les deux Entrepôt doivent appartenir à la même entreprise
-177,Bounced,Renvoyés
-178,Branch,Branche
-179,Brand,Marque
-180,Brand master.,Marque Principale
-181,Brand Name,Nom de la marque
-182,Breakdown,Panne
-183,briefcase,Malette
-184,Broadcasting,Diffusion
-185,Brokerage,courtage
-186,Browse,Parcourir
-187,Budget,Budget
-188,Budget Variance Report,Rapport sur les écarts du budget
-189,Build Report,Créer un rapport
-190,Buildings,Bâtiments
-191,Bulk Edit {0},Modifier vrac {0}
-192,Bulk Import Help,Aide pour Importer en vrac
-193,Bulk Rename,Renommer en vrac
-194,Bulk Update,Mise à jour en vrac
-195,Bullet list,liste à puces
-196,Bundle items at time of sale.,Regrouper les articles au moment de la vente.
-197,Button,Bouton
-198,Buy,Acheter
-199,Buying,Achat
-200,Buying Amount,Montant d'achat
-201,Buying Settings,Réglages d'achat
-202,BOM {0} does not belong to Item {1},BOM {0} ne appartient pas à l'article {1}
+,English,Français,Commentaires
+0,Backflush Raw Materials Based On,Enregistrer les Matières Premières sur la Base de,
+1,Background Email Queue,File d’Attente d’Email en Arrière-Plan,
+2,Background Workers,Exécution d'Opérations en Arrière-Plan,
+3,Backup Frequency,Fréquence de Sauvegarde,
+4,ban-circle,Interdiction(ban-circle),Nom d’icône font-awesome
+5,Bank Draft,Traite Bancaire,
+6,Bank Entry,Entrée Bancaire,
+7,Bank Overdraft Account,Compte de Découvert Bancaire,
+8,Bank Reconciliation Statement,Relevé de Réconciliation Bancaire,
+9,Bank Statement balance as per General Ledger,Solde du Relevé Bancaire d’après le Grand Livre,
+10,Bank Transaction Reference,Référence de Transaction Bancaire,
+11,Bank/Cash transactions against party or for internal transfer,Transactions Bancaires/de Trésorerie avec une partie ou pour transfert interne,
+12,Banking and Payments,Banque et Paiements,
+13,Base Amount (Company Currency),Montant de Base (Devise de la Société),
+14,Base Change Amount (Company Currency),Montant de Base à Rendre (Devise de la Société),
+15,Base Distinguished Name (DN),« Distinguished Name » (DN) de base,Nom technique : je propose de laisser tel quel pour ne pas créer de confusion
+16,Base Hour Rate(Company Currency),Taux Horaire de Base (Devise de la Société),
+17,Based on Permissions For User,Basé sur les Permissions De l'Utilisateur,
+18,Basic Amount (Company Currency),Montant de Base (Devise de la Société),
+19,Basic Rate (as per Stock UOM),Taux de base (comme l’UDM du Stock),
+20,Batch Inventory,Inventaire du Lot,
+21,Batch Name,Nom du Lot,
+22,Batch-Wise Balance History,Historique de Balance des Lots,
+23,Before reconciliation,Avant la réconciliation,
+24,Beginner,Débutant,
+25,Better add a few more letters or another word,Mieux vaut ajouter quelques lettres ou un autre mot,
+26,Between,Entre,
+27,Billing Address Name,Nom de l'Adresse de Facturation,
+28,Billing currency must be equal to either default comapany's currency or party account currency,La devise de facturation doit être égale à la devise par défaut de la companie ou du compte de la partie,Traduction anglaise à corriger
+29,Bimonthly,Bimensuel,
+30,Bin,Boîte,
+31,Block Date,Blocker la Date,
+32,Block Days,Bloquer les Jours,
+33,Block Holidays on important days.,Blocker les Vacances sur les jours importants.,
+34,Block Module,Bloquer le Module,
+35,Block Modules,Blocker les Modules,
+36,BOM,LDM (Liste de Matériaux),
+37,BOM and Manufacturing Quantity are required,LDM et Quantité de Fabrication sont nécessaires,
+38,BOM Detail No,N° de Détail LDM,
+39,BOM Explosion Item,Article Eclaté LDM,
+40,BOM No. for a Finished Good Item,N° d’Article Produit Fini LDM,
+41,BOM recursion: {0} cannot be parent or child of {2},Répétition LDM: {0} ne peut pas être parent ou enfant de {2},
+42,BOM Replace Tool,Outil de Remplacement LDM,
+43,BOM Scrap Item,Poste de Rebut LDM ,
+44,BOM Search,Recherche LDM,
+45,Bot,Bot,
+46,Box,Boîte,
+47,Brake Oil,Liquide de Frein,
+48,Brake Pad,Plaquettes de Frein,
+49,Brand HTML,Marque HTML,
+50,Brand Image,Logo,
+51,Breadcrumbs,Fil d’Ariane (Breadcrumbs),"Nom technique, difficile de trouver une traduction qui ne crée pas la confusion"
+52,Browse BOM,Parcourir la LDM,
+53,Budget Account,Compte de Budget,
+54,Budget Accounts,Comptes de Budgets,
+55,Budget Against,Budget pour,
+56,Budget Amount,Montant Budgétaire,
+57,Budget and Cost Center,Centre de Budget et Coûts,
+58,"Budget cannot be assigned against {0}, as it's not an Income or Expense account","Budget ne peut pas être affecté pour {0}, car ce n’est pas un compte de revenus ou de dépenses",
+59,Budget cannot be assigned against Group Account {0},Budget ne peut pas être attribué pour le Compte de Groupe {0},
+60,bullhorn,Mégaphone (bullhorn),Nom d’icône font-awesome
+61,Business Development Manager,Directeur Commercial,
+62,Button Help,Aide du Bouton,
+63,Button Label,Étiquette du Bouton,
+64,Buyer of Goods and Services.,Acheteur des biens et services.,
+65,"Buying must be checked, if Applicable For is selected as {0}","Achat doit être vérifié, si Applicable Pour {0} est sélectionné",
+66,B-,B-,
+67,B+,B +,
+68,Back to Login,Retour à la Connexion,
+69,Background,Arrière-plan,
+70,Background Color,Couleur d’Arrière-plan,
+71,Background Events,Événements en Arrière-Plan,
+72,Background Image,Image d’Arrière-plan,
+73,Background Jobs,Travaux en Arrière-plan,
+74,Background Style,Style d’Arrière-Plan,
+75,Backup Size,Taille de la Sauvegarde,
+76,Backups,Sauvegardes,
+77,backward,Revenir en arrière,
+78,Balance,Solde,
+79,Balance for Account {0} must always be {1},Solde pour le compte {0} doit toujours être {1},
+80,Balance must be,Solde doit être,
+81,Balance Qty,Qté de Solde,
+82,Balance Sheet,Bilan,
+83,Balance Value,Valeur du Solde,
+84,Bank,Banque,
+85,Bank / Cash Account,Banque et liquidités,
+86,Bank A/C No.,N° de Compte Bancaire,
+87,Bank Account,Compte Bancaire,
+88,Bank account cannot be named as {0},Compte Bancaire ne peut pas être nommé {0},
+89,Bank Account No.,N° de Compte Bancaire,
+90,Bank Accounts,Comptes Bancaires,
+91,Bank Balance,Solde Bancaire,
+92,Bank Clearance Summary,Bilan des Compensations Bancaires,
+93,Bank Entries,Entrées Bancaires,
+94,Bank Name,Nom de la Banque,
+95,Bank Reconciliation,Réconciliation Bancaire,
+96,Bank Reconciliation Detail,Détail de la Réconciliation Bancaire,
+97,Banking,Banque,
+98,Banner,Bannière,
+99,Banner HTML,Bannière HTML ,
+100,Banner is above the Top Menu Bar.,La Bannière est au-dessus de la Barre de Menu Supérieure.,
+101,barcode,Code Barre,
+102,Barcode {0} already used in Item {1},Le Code Barre {0} est déjà utilisé dans l'article {1},
+103,Base,Base,
+104,Based On,Basé Sur,
+105,Basic,de Base,
+106,Basic Amount,Montant de Base,
+107,Basic Rate,Taux de Base,
+108,Basic Rate (Company Currency),Taux de Base (Devise de la Société ),
+109,Batch,Lot,
+110,Batch (lot) of an Item.,Lot d'un Article.,
+111,Batch {0} of Item {1} has expired.,Lot {0} de l'Article {1} a expiré.,
+112,Batch Description,Description du Lot,
+113,Batch ID,ID du Lot,
+114,Batch No,N° du Lot,
+115,Batch number is mandatory for Item {0},Le numéro de lot est obligatoire pour l'Article {0},
+116,Beginning with,Commençant par,
+117,bell,cloche (bell),Nom d’icône font-awesome
+118,Beta,Bêta,
+119,Better Prospects,Meilleures Perspectives,
+120,Bill,Facture,
+121,Bill Date,Date de la Facture,
+122,Bill No,Numéro de Facture,
+123,Bill of Materials,Liste de Matériaux,
+124,Bill of Materials (BOM),Liste de Matériaux (LDM),
+125,Billed,Facturé,
+126,Billed Amount,Montant Facturé,
+127,Billed Amt,Mnt Facturé,
+128,Billing,Facturation,
+129,Billing Address,Adresse de Facturation,
+130,Billing Amount,Montant de Facturation,
+131,Billing and Delivery Status,Facturation et Statut de Livraison,
+132,Billing City,Ville de Facturation,
+133,Billing Country,Pays de Facturation,
+134,Billing County,Département de Facturation,
+135,Billing Currency,Devise de Facturation,
+136,Billing Details,Détails de la Facturation,
+137,Billing Hours,Heures Facturés,
+138,Billing Rate,Taux de Facturation,
+139,Billing State,État de la Facturation,
+140,Billing Status,Statut de la Facturation,
+141,Bills raised by Suppliers.,Factures émises par des Fournisseurs.,
+142,Bills raised to Customers.,Factures émises pour des Clients.,
+143,Bio,Biographie,
+144,Biotechnology,Biotechnologie,
+145,Birth Date,Date de Naissance,
+146,Birthday Reminder for {0},Rappel d'Anniversaire pour {0},
+147,Black,Noir,
+148,Block leave applications by department.,Bloquer les demandes de congé par département,
+149,Blocked,Bloqué,
+150,Blog,Blog,
+151,Blog Category,Catégorie du Blog,
+152,Blog Intro,Intro du Blog,
+153,Blog Introduction,Introduction du Blog,
+154,Blog Post,Article de blog,
+155,Blog Settings,Paramètres du blog,
+156,Blog Subscriber,Abonné au Blog,
+157,Blog Title,Titre du Blog,
+158,Blogger,Blogueur,
+159,Blood Group,Groupe Sanguin,
+160,Blue,Bleu,
+161,bold,gras,
+162,Bold (Ctrl/Cmd+B),Gras (Ctrl/Cmd+B),
+163,BOM {0} must be active,LDM {0} doit être active,
+164,BOM {0} must be submitted,LDM {0} doit être soumise,
+165,BOM Browser,Explorateur LDM,Me sembe plus parlant que navigateur
+166,BOM does not contain any stock item,LDM ne contient aucun article en stock,
+167,BOM Item,Article LDM,
+168,BOM No,N° LDM,
+169,BOM Operation,Opération LDM,
+170,BOM Rate,Taux LDM,
+171,BOM replaced,LDM Remplacée,Traduction anglaise à corriger
+172,book,livre,
+173,bookmark,favoris,
+174,Both DocType and Name required,Les champs DocType et Nom sont nécessaires,
+175,Both login and password required,Un login et un mot de passe sont requis,
+176,Both Warehouse must belong to same Company,Les deux Entrepôt doivent appartenir à la même Société,
+177,Bounced,Refusés,
+178,Branch,Branche,
+179,Brand,Marque,
+180,Brand master.,Marque Principale,
+181,Brand Name,Nom de la Marque,
+182,Breakdown,Panne,
+183,briefcase,malette (briefcase),référence non trouvée mais il doit surement s’agit d’une icône font-awesome
+184,Broadcasting,Radio/Télévision,
+185,Brokerage,Courtage,
+186,Browse,Parcourir,
+187,Budget,Budget,
+188,Budget Variance Report,Rapport d’Écarts de Budget,
+189,Build Report,Créer un Rapport,
+190,Buildings,Bâtiments,
+191,Bulk Edit {0},Modification en Masse {0},
+192,Bulk Import Help,Aide pour Importer en Masse,
+193,Bulk Rename,Renommer en Masse,
+194,Bulk Update,Mise à jour en Masse,
+195,Bullet list,Liste à Puces,
+196,Bundle items at time of sale.,Grouper les articles au moment de la vente.,
+197,Button,Bouton,
+198,Buy,Acheter,
+199,Buying,Achat,
+200,Buying Amount,Montant d'Achat,
+201,Buying Settings,Réglages d'Achat,
+202,BOM {0} does not belong to Item {1},LDM {0} n’appartient pas à l'article {1},
