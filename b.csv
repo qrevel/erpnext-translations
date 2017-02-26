@@ -3,7 +3,7 @@
 1,Background Email Queue,File d’Attente d’Email en Arrière-Plan,
 2,Background Workers,Exécution d'Opérations en Arrière-Plan,
 3,Backup Frequency,Fréquence de Sauvegarde,
-4,ban-circle,Interdiction(ban-circle),Nom d’icône font-awesome
+4,ban-circle,Interdiction (ban-circle),Nom d’icône font-awesome
 5,Bank Draft,Traite Bancaire,
 6,Bank Entry,Écriture Bancaire,
 7,Bank Overdraft Account,Compte de Découvert Bancaire,
@@ -30,9 +30,9 @@
 28,Billing currency must be equal to either default comapany's currency or party account currency,La devise de facturation doit être égale à la devise par défaut de la société ou du compte de la partie,Traduction anglaise à corriger
 29,Bimonthly,Bimensuel,
 30,Bin,Boîte,
-31,Block Date,Blocker la Date,
+31,Block Date,Bloquer la Date,
 32,Block Days,Bloquer les Jours,
-33,Block Holidays on important days.,Blocker les Vacances sur les jours importants.,
+33,Block Holidays on important days.,Bloquer les Vacances sur les jours importants.,
 34,Block Module,Bloquer le Module,
 35,Block Modules,Bloquer les Modules,
 36,BOM,LDM (Liste de Matériaux),
@@ -65,6 +65,7 @@
 63,Button Label,Étiquette du Bouton,
 64,Buyer of Goods and Services.,Acheteur des Biens et Services.,
 65,"Buying must be checked, if Applicable For is selected as {0}","Achat doit être vérifié, si Applicable Pour {0} est sélectionné",
+Below This Line All Translations Are Already Verified,,,
 66,B-,B-,
 67,B+,B +,
 68,Back to Login,Retour à la Connexion,
