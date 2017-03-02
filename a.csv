@@ -1,43 +1,43 @@
 ,English,Français
-0,Account Info,
-1,Accural Journal Entry for salaries from {0} to {1},
-2,Add / Manage Email Domains.,
-3,Add Employees to Manage Them,
-4,Add Students,
-5,Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts,
-6,"Add your Employees so you can manage leaves, expenses and payroll",
-7,Addresses And Contacts,
-8,All Assessment Groups,
-9,All Results,
-10,Allow page break inside tables,
-11,Arrear,
-12,"As there are existing transactions against item {0}, you can not change the value of {1}",
-13,Ask a Feedback,
-14,Assessment Criteria Group,
-15,Assessment Plan,
-16,Assessment Plan Criteria,
-17,Assessment Result Detail,
-18,Assessment Result Tool,
-19,Auto close Issue after 7 days,
-20,Auto close Opportunity after 15 days,
-21,A Lead with this Email Address should exist,Un chef de file de cette adresse e-mail doit exister
-22,Abbreviation {0} already used for another salary component,Abréviation {0} déjà utilisé pour un autre volet salarial
+0,Account Info, Information du Compte
+1,Accrual Journal Entry for salaries from {0} to {1}, Accumulation des Journaux d'Écritures pour les salaires de {0} à {1}
+2,Add / Manage Email Domains., Ajouter / Gérer les nom de Domaines des Emails
+3,Add Employees to Manage Them, Ajouter Employées pour Les Gérer
+4,Add Students, Ajouter des Étudiants
+5,Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts, Ajouter le reste de votre organisation en tant qu'utilisateurs. Vous pouvez aussi inviter des Clients sur votre portail en les ajoutant depuis les Contacts
+6,"Add your Employees so you can manage leaves, expenses and payroll","Ajouter vos Employés pour que vous puissiez gérer les congés, notes de frais et fiches de paie"
+7,Addresses And Contacts,Adresses Et Contacts
+8,All Assessment Groups, Tous les Groupes d'Évaluation
+9,All Results,Tous les Résulats
+10,Allow page break inside tables,Autoriser les sauts de page dans les tables
+11,Arrear,Arriéré
+12,"As there are existing transactions against item {0}, you can not change the value of {1}","Comme il existe des transactions aec l'article {0}, vous ne pouvez pas changer la valeur de {1}"
+13,Ask a Feedback,Demander un Retour d'Information
+14,Assessment Criteria Group,Groupe de Critère d'Évaluation
+15,Assessment Plan,Plan d'Évaluation
+16,Assessment Plan Criteria,Critères du Plan d'Évaluation
+17,Assessment Result Detail,Détails des Résultats d'Évaluation
+18,Assessment Result Tool,Outil de Résultat d'Évaluation
+19,Auto close Issue after 7 days,Fermer automatique les Questions après 7 jours
+20,Auto close Opportunity after 15 days,Fermer automatiquement les Opportunités après 15 jours
+21,A Lead with this Email Address should exist,Un Prospect avec cette Adresse Email devrait exister
+22,Abbreviation {0} already used for another salary component,L'abréviation {0} déjà utilisé pour un autre volet salarial
 23,Account balance ({0}) and stock value ({1}) must be same,Le solde du compte ({0}) et la valeur des actions ({1}) doit être le même
-24,Accural Journal Entry Submitted,Accural Journal Entry Soumis
+24,Accrual Journal Entry Submitted,Accumulation des Journaux d'Écritures Soumis
 25,Add a column,Ajouter une colonne
-26,Add Custom Column Field,Ajouter un champ de colonne personnalisée
-27,Additional Charges,Frais supplémentaires
-28,All BOMs,Toutes les nomenclatures
-29,Allow user to edit Rate,Autoriser l'utilisateur à modifier Noter
-30,Always use Account's Email Address as Sender,Toujours utiliser l'adresse e-mail de compte comme expéditeur
-31,App {0} removed,App {0} supprimé
+26,Add Custom Column Field,Ajouter un Champ de Colonne Personnalisée
+27,Additional Charges,Frais Supplémentaires
+28,All BOMs,Toutes les LDM
+29,Allow user to edit Rate,Autoriser l'utilisateur à modifier le Taux
+30,Always use Account's Email Address as Sender,Toujours utiliser l'Adresse Email du Compte comme Expéditeur
+31,App {0} removed,App {0} supprimée
 32,Archive,Archiver
-33,Archived Columns,Colonnes archivées
+33,Archived Columns,Colonnes Archivées
 34,Are you sure you want to relink this communication to {0}?,Êtes-vous sûr de vouloir relier cette communication à {0}?
-35,Assessment Criteria,Critères d'évaluation
-36,Authentication Log,authentification Connexion
-37,Automatically triggers the feedback request based on conditions.,déclenche automatiquement la requête de retour en fonction des conditions.
-38,Awaiting Password,En attente Mot de passe
+35,Assessment Criteria,Critères d'Évaluation
+36,Authentication Log,Journal d'Authentification
+37,Automatically triggers the feedback request based on conditions.,Déclencher automatiquement la demande de retour d'information en fonction des conditions.
+38,Awaiting Password,En attente du Mot de Passe
 39,A Customer Group exists with same name please change the Customer name or rename the Customer Group,BOM récursivité : {0} ne peut pas être le parent ou l'enfant de {2}
 40,A log of request errors,Historique des erreurs de requête
 41,A logical Warehouse against which stock entries are made.,Un Entrepôt logique dans lequel les entrées en stocks sont faites.
