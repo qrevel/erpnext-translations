@@ -1,293 +1,293 @@
 ,English,Français
-0,Cost center is required to book an expense claim,
-1,Create customer quotes,
-2,Create Employee Records,
-3,Create new Contact to Match Email Address,
-4,Create Users,
-5,Create/Add new Contact,
-6,Created Salary Slips,
+0,Cost center is required to book an expense claim,Un centre de coût est requis pour réserver une note de frais
+1,Create customer quotes,Créer les devis client
+2,Create Employee Records,Créer les Dossiers des Employés
+3,Create new Contact to Match Email Address,Créer un nouveau Contact pour Aller avec l'Adresse Email
+4,Create Users,Créer les Utilisateurs
+5,Create/Add new Contact,Créer/Ajouter un nouveau Contact
+6,Created Salary Slips,Fiches de Paie Créées
 7,C-FORM-,C-Form-
-8,Can't identify open {0}. Try something else.,Vous ne pouvez pas identifier open {0}. Essayez autre chose.
+8,Can't identify open {0}. Try something else.,Impossible d'identifier les {0} ouvertes. Essayez autre chose.
 9,cancelled this document,annulé ce document
-10,Cannot {0} {1} {2} without any negative outstanding invoice,Can not {0} {1} {2} sans aucune facture impayée négative
-11,Cannot automatically create Account as there is already stock balance in the Account. You must create a matching account before you can make an entry on this warehouse,Vous ne pouvez pas créer automatiquement compte car il est déjà disponible solde du compte. Vous devez créer un compte correspondant avant de pouvoir faire une entrée sur cet entrepôt
-12,Cannot change docstatus from 0 to 2,Vous ne pouvez pas changer docstatus 0-2
-13,Cannot change docstatus from 1 to 0,Vous ne pouvez pas changer docstatus 1-0
-14,Cannot change status as student {0} is linked with student application {1},Vous ne pouvez pas changer le statut d'étudiant {0} est liée à l'application de l'élève {1}
-15,Cannot convert Cost Center to ledger as it has child nodes,Vous ne pouvez pas convertir le centre de coûts à livre car il possède des nœuds enfant
-16,Cannot covert to Group because Account Type is selected.,Vous ne pouvez pas convertir au groupe parce que le type de compte est sélectionnée.
-17,Cannot create a {0} against a child document: {1},Vous ne pouvez pas créer un {0} contre un document enfant: {1}
-18,Cannot deactivate or cancel BOM as it is linked with other BOMs,Vous ne pouvez pas désactiver ou annuler la nomenclature car elle est liée à d'autres nomenclatures
-19,"Cannot declare as lost, because Quotation has been made.","Vous ne pouvez pas déclarer comme perdu, parce que le devis a été fait."
-20,Cannot deduct when category is for 'Valuation' or 'Valuation and Total',"Vous ne pouvez pas déduire lorsqu'une catégorie est pour « évaluation » ou « évaluation et Total """
-21,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Vous ne pouvez pas déduire lorsqu'une catégorie est pour 'Évaluation' ou 'Vaulation et Total'
-22,Cannot delete standard field. You can hide it if you want,Vous ne pouvez pas supprimer champ standard. Vous pouvez cacher si vous voulez
-23,Cannot edit a standard report. Please duplicate and create a new report,Vous ne pouvez pas modifier un rapport standard. S'il vous plaît dupliquer et créer un nouveau rapport
-24,Cannot enroll more than {0} students for this student group.,Vous ne pouvez pas inscrire plus de {0} étudiants pour ce groupe d'étudiants.
-25,Cannot map because following condition fails:,Impossible de mapper parce condition suivante échoue:
-26,"Cannot overbill for Item {0} in row {1} more than {2}. To allow overbilling, please set in Stock Settings","Vous ne pouvez pas surfacturer pour objet {0} à la ligne {1} plus {2}. Pour permettre à la surfacturation, s'il vous plaît situé dans Réglages Stock"
-27,Cannot Remove,Impossible de supprimer
+10,Cannot {0} {1} {2} without any negative outstanding invoice,Ne peut pas {0} {1} {2} sans aucune facture impayée négative
+11,Cannot automatically create Account as there is already stock balance in the Account. You must create a matching account before you can make an entry on this warehouse,Impossible de créer automatiquement le Compte car il y a déjà du stock dans ce Compte. Vous devez créer un compte à associer avant de pouvoir faire une écriture sur cet entrepôt
+12,Cannot change docstatus from 0 to 2,Impossible de changer le statut du document de 0 à 2
+13,Cannot change docstatus from 1 to 0,Impossible de changer le status du document de 1 à 0
+14,Cannot change status as student {0} is linked with student application {1},Impossible de changer le statut car l'étudiant {0} est lié à la candidature de l'étudiant {1}
+15,Cannot convert Cost Center to ledger as it has child nodes,Convertion impossible du Centre de Coûts en livre car il possède des nœuds enfants
+16,Cannot convert to Group because Account Type is selected.,Convertion impossible en Groupe car le Type de Compte est sélectionné.
+17,Cannot create a {0} against a child document: {1},Création impossible d'un {0} pour un document enfant: {1}
+18,Cannot deactivate or cancel BOM as it is linked with other BOMs,Désactivation ou annulation de la LDM impossible car elle est liée avec d'autres LDMs
+19,"Cannot declare as lost, because Quotation has been made.","Impossible de déclarer comme perdu, parce que le Devis a été fait."
+20,Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Déduction impossible lorsque la catégorie est pour 'Valorisation' ou 'Valorisation et Total'
+21,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Déduction impossible lorsque la catégorie est pour 'Évaluation' ou 'Vaulation et Total'
+22,Cannot delete standard field. You can hide it if you want,Suppression de champ standard impossible. Vous pouvez le cacher si vous voulez
+23,Cannot edit a standard report. Please duplicate and create a new report,Modification d'un rapport standard impossible. Veuillez le dupliquer et créer un nouveau rapport
+24,Cannot enroll more than {0} students for this student group.,Inscription de plus de {0} étudiants impossible pour ce groupe d'étudiants.
+25,Cannot map because following condition fails:,Impossible de mapper parce que la condition suivante échoue :
+26,"Cannot overbill for Item {0} in row {1} more than {2}. To allow overbilling, please set in Stock Settings","Impossible de surfacturer pour l'Article {0} à la ligne {1} plus {2}. Pour permettre la surfacturation, veuillez le définir dans les Réglages du Stock"
+27,Cannot Remove,Suppression Impossible
 28,Cannot set as Lost as Sales Order is made.,Impossible de définir comme perdu alors qu'un Bon de Commande a été créé.
-29,Cannot set authorization on basis of Discount for {0},Impossible de définir l'autorisation sur la base des prix réduits pour {0}
-30,Cannot set Email Alert on Document Type {0},Vous ne pouvez pas définir une alerte email sur Type de document {0}
-31,Cannot set permission for DocType: {0} and Name: {1},Vous ne pouvez pas définir des autorisations pour DocType : {0} et Nom : {1}
-32,Capitalization doesn't help very much.,Capitalisation ne contribue pas beaucoup.
-33,Cash Flow,Flux de trésorerie
-34,Cash Flow from Operations,Flux de trésorerie provenant des opérations
-35,Cash Flow Statement,Flux de trésorerie
-36,Categorize blog posts.,Catégoriser les messages de blog.
-37,Category Description,description de la catégorie
+29,Cannot set authorization on basis of Discount for {0},Impossible de définir l'autorisation sur la base des Prix Réduits pour {0}
+30,Cannot set Email Alert on Document Type {0},Impossible de définir une Alerte Email sur Type de Document {0}
+31,Cannot set permission for DocType: {0} and Name: {1},Impossible de définir des autorisations pour le Type de Document : {0} et le Nom : {1}
+32,Capitalization doesn't help very much.,La capitalisation ne contribue pas beaucoup.
+33,Cash Flow,Flux de Trésorerie
+34,Cash Flow from Operations,Flux de Trésorerie provenant des Opérations
+35,Cash Flow Statement,États des Flux de Trésorerie
+36,Categorize blog posts.,Catégoriser les posts de blog.
+37,Category Description,Description de la Catégorie
 38,CC,CC
-39,Centralize access to Integrations,Centraliser l'accès à Integrations
-40,Change Amount,Variation Montant
-41,"Change field properties (hide, readonly, permission etc.)","Modification des propriétés de champ (masquer , en lecture seule , permission etc )"
-42,Change Label (via Custom Translation),Modifier le libellé (via personnalisée Traduction)
+39,Centralize access to Integrations,Centraliser l'accès aux Integrations
+40,Change Amount,Changer le Montant
+41,"Change field properties (hide, readonly, permission etc.)","Modification des propriétés de champ (masquer, en lecture seule, permission etc )"
+42,Change Label (via Custom Translation),Modifier le libellé (via Traduction Personnalisé)
 43,"Change type of field. (Currently, Type change is \
-						allowed among 'Currency and Float')","Modifier le type de champ. (Actuellement, Type de changement est \
- permis entre «Monnaie et Float ')"
+						allowed among 'Currency and Float')","Modifier le type de champ. (Actuellement, le changement de type est \
+ permis entre «Monnaie et Décimale')"
 44,changed value of {0},changé valeur de {0}
 45,changed values for {0},valeurs modifiées pour {0}
-46,Channel Partner,Channel Partner
-47,Charges are updated in Purchase Receipt against each item,Les frais sont mis à jour en Achat réception contre chaque article
-48,"Charges will be distributed proportionately based on item qty or amount, as per your selection","Les frais seront distribués proportionnellement en fonction de l'article Quantité ou montant, selon votre sélection"
-49,Chart Of Accounts Template,Plan comptable Template
-50,Chart of Cost Centers,Carte des centres de coûts
-51,Chassis No,N ° de châssis
+46,Channel Partner,Partenaire de Canal
+47,Charges are updated in Purchase Receipt against each item,Les frais sont mis à jour dans le Reçu d'Achat pour chaque article
+48,"Charges will be distributed proportionately based on item qty or amount, as per your selection","Les frais seront distribués proportionnellement à la qté ou au montant de l'article, selon votre sélection"
+49,Chart Of Accounts Template,Modèle de Plan Comptable
+50,Chart of Cost Centers,Tableau des Centres de Coûts
+51,Chassis No,N° de Châssis
 52,Chat messages and other notifications.,Discuter des messages et d'autres notifications.
-53,Chat Support,support chat
-54,"Check columns to select, drag to set order.","Vérifiez colonnes pour sélectionner, glisser pour définir l'ordre."
-55,Check Communication,Vérifiez Communication
-56,Check Frappe Server URL,Vérifiez Frappe URL du serveur
-57,Check in (group),Arrivée (groupe)
-58,Check Supplier Invoice Number Uniqueness,Vérifiez Fournisseur numéro de facture Unicité
+53,Chat Support,Support du Chat
+54,"Check columns to select, drag to set order.","Vérifiez les colonnes à sélectionner, glisser pour définir l'ordre."
+55,Check Communication,Vérifiez la Communication
+56,Check Frappe Server URL,Vérifiez l'URL du Serveur Frappe
+57,Check in (group),Enregistrement (groupe)
+58,Check Supplier Invoice Number Uniqueness,Vérifiez l'Unicité du Numéro de Facture du Fournisseur
 59,Check this if you are testing your payment using the Sandbox API,Cochez cette case si vous testez votre paiement en utilisant l'API Sandbox
 60,Check this to disallow fractions. (for Nos),Cochez cette case pour interdire les fractions. (Pour les numéros)
-61,Check this to make this the default letter head in all prints,"Cochez cette case pour faire de cette entête de lettre, celle par défaut dans toutes les imprimés"
+61,Check this to make this the default letter head in all prints,"Cochez cette case pour faire de cette en-tête de lettre, celle par défaut dans toutes les imprimés"
 62,Check this to pull emails from your mailbox,Cochez cette case pour extraire des emails de votre boîte aux lettres
 63,Checking one moment,Vérification un moment
-64,Checkout,Check-out
-65,Checkout Settings,Commander Réglages
+64,Checkout,Règlement
+65,Checkout Settings,Réglages Règlement
 66,Cheque Date,Date du Chèque
 67,Cheque Height,Hauteur du Chèque
 68,Cheque Number,Numéro de Chèque
-69,Cheque Print Template,Modèles d'impression de Chèques
+69,Cheque Print Template,Modèles d'Impression de Chèques
 70,Cheque Size,Taille du Chèque
 71,Cheque Width,Largeur du Chèque
-72,Cheque/Reference Date,Chèque / Date de Référence
-73,Cheque/Reference No,Chèque / N° de Référence
+72,Cheque/Reference Date,Chèque/Date de Référence
+73,Cheque/Reference No,Chèque/N° de Référence
 74,Cheques and Deposits incorrectly cleared,Chèques et Dépôts incorrectement compensés
-75,chevron-down,chevron vers le bas
-76,chevron-left,chevron gauche
-77,chevron-right,chevron droit
-78,chevron-up,chevron-up
-79,Child account exists for this account. You can not delete this account.,Les matières premières ne peut pas être le même que l'article principal
+75,chevron-down,chevron-bas
+76,chevron-left,chevron-gauche
+77,chevron-right,chevron-droit
+78,chevron-up,chevron-haut
+79,Child account exists for this account. You can not delete this account.,Un compte enfant existe pour ce compte. Vous ne pouvez pas supprimer ce compte.
 80,Child nodes can be only created under 'Group' type nodes,Les noeuds enfants peuvent être créés uniquement dans les nœuds de type 'Groupe'
-81,Child Tables are shown as a Grid in other DocTypes.,Les tableaux enfants sont présentés comme une grille dans les autres documents.
-82,Child warehouse exists for this warehouse. You can not delete this warehouse.,existe entrepôt de l'enfant pour cet entrepôt. Vous ne pouvez pas supprimer cet entrepôt.
+81,Child Tables are shown as a Grid in other DocTypes.,Les Tableaux Enfants sont présentés comme une Grille dans les autres Type de Documents.
+82,Child warehouse exists for this warehouse. You can not delete this warehouse.,Un entrepôt enfant existe pour cet entrepôt. Vous ne pouvez pas supprimer cet entrepôt.
 83,CI-,CI-
-84,circle-arrow-down,cercle flèche vers le bas
-85,circle-arrow-left,cercle flèche gauche
-86,circle-arrow-right,cercle flèche à droite
-87,circle-arrow-up,cercle-flèche-haut
-88,Circular Reference Error,Référence circulaire erreur
+84,circle-arrow-down,flèche-cercle-bas
+85,circle-arrow-left,flèche-cercle-gauche
+86,circle-arrow-right,flèche-cercle-droite
+87,circle-arrow-up,flèche-cercle-haut
+88,Circular Reference Error,Erreur de Référence Circulaire
 89,Class / Percentage,Classe / Pourcentage
-90,Classrooms/ Laboratories etc where lectures can be scheduled.,Les salles de classe / Laboratoires etc où des conférences peuvent être programmées.
-91,Clear Attachment,Effacer la pièce jointe
-92,Clear Error Logs,Effacer les journaux d'erreur
+90,Classrooms/ Laboratories etc where lectures can be scheduled.,Les Salles de Classe / Laboratoires etc où des conférences peuvent être programmées.
+91,Clear Attachment,Effacer la Pièce Jointe
+92,Clear Error Logs,Effacer les Journaux d'Erreur
 93,Clearance Date,Date de Compensation
 94,Clearance Date not mentioned,Date de Compensation non indiquée
-95,Clearance Date updated,Date de Compensation Mise à Jour
+95,Clearance Date updated,Date de Compensation mise à jour
 96,click here,cliquez ici
 97,Click here to check your usage or upgrade to a higher plan,Cliquez ici pour vérifier votre usage ou passer à un plan supérieur
-98,Click on the link below to complete your registration and set a new password,Cliquez sur le lien ci-dessous pour compléter votre inscription et fixer un nouveau mot de passe
+98,Click on the link below to complete your registration and set a new password,Cliquez sur le lien ci-dessous pour compléter votre inscription et définir un nouveau mot de passe
 99,Click table to edit,Cliquez sur la table pour modifier
-100,Client Credentials,Pouvoirs des clients
-101,Close Balance Sheet and book Profit or Loss.,Fermer Bilan et livre Bénéfice ou perte .
-102,Close Issue After Days,Fermer Problème Après Days
-103,Close Opportunity After Days,Fermer Opportunity Après Days
-104,Closed order cannot be cancelled. Unclose to cancel.,Afin fermé ne peut pas être annulée. Unclose pour annuler.
-105,Closing (Opening + Totals),Fermeture (ouverture + totaux)
-106,Closing Account {0} must be of type Liability / Equity,Fermeture compte {0} doit être de type passif / Equity
-107,Closing Account Head,Fermeture chef Compte
-108,Clutch Plate,plaque d'embrayage
-109,Collapse,Plier
-110,Collapse All,Réduire tout
-111,Collapsible,Pliable
-112,Collapsible Depends On,Pliable dépend
+100,Client Credentials,Identifiants du Client
+101,Close Balance Sheet and book Profit or Loss.,Clôturer Bilan et Compte de Résultats.
+102,Close Issue After Days,Fermer Problème Après Jours
+103,Close Opportunity After Days,Fermer Opportunité Après Days
+104,Closed order cannot be cancelled. Unclose to cancel.,Les commandes fermées ne peuvent être annulées. Réouvrir pour annuler.
+105,Closing (Opening + Totals),Clôture (Ouverture + Totaux)
+106,Closing Account {0} must be of type Liability / Equity,Le Compte Clôturé {0} doit être de type Passif / Capitaux Propres
+107,Closing Account Head,Responsable du Compte Clôturé
+108,Clutch Plate,Plaque d'Embrayage
+109,Collapse,Réduire
+110,Collapse All,Réduire Tout
+111,Collapsible,Réductible
+112,Collapsible Depends On,Réductible Dépends de
 113,Collect,Collecte
-114,Collect Fees,Collecter les frais
-115,Column Labels:,étiquettes de colonne:
-116,Column Name cannot be empty,Nom de la colonne ne peut pas être vide
+114,Collect Fees,Collecter les Frais
+115,Column Labels:,Étiquettes de Colonne :
+116,Column Name cannot be empty,Nom de la Colonne ne peut pas être vide
 117,Columns,Colonnes
-118,Columns based on,Colonnes sur la base de
-119,comm_name,Nom_Comm
-120,Comment Type,Type de commentaire
-121,Common names and surnames are easy to guess.,noms et prénoms communs sont faciles à deviner.
-122,Communicated via {0} on {1}: {2},Communiquée par {0} sur {1}: {2}
-123,Communication log.,Journal des communications.
-124,Communication Type,Type de communication
-125,Community Forum,Communauté Forum
-126,Compact Item Print,Compact article Imprimer
-127,Company {0} does not exist,n'existe pas Société {0}
-128,Company Description for website homepage,Description de l'entreprise pour le site Web page d'accueil
-129,"Company is mandatory, as it is your company address","Société est obligatoire, car il est votre adresse de l'entreprise"
+118,Columns based on,Colonnes basées sur
+119,comm_name,nom_comm
+120,Comment Type,Type de Commentaire
+121,Common names and surnames are easy to guess.,Noms et prénoms communs sont faciles à deviner.
+122,Communicated via {0} on {1}: {2},Communiquée par {0} sur {1} : {2}
+123,Communication log.,Journal des Communications.
+124,Communication Type,Type de Communication
+125,Community Forum,Forum de la Communauté
+126,Compact Item Print,Impression de l'Article Compacté
+127,Company {0} does not exist,Société {0} n'existe pas
+128,Company Description for website homepage,Description de la Société pour la page d'accueil du site web
+129,"Company is mandatory, as it is your company address","Société est obligatoire, car il s'agit de l'adresse de société"
 130,Company is missing in warehouses {0},Société est manquant dans les entrepôts {0}
-131,Company Name cannot be Company,Nom de l'entreprise ne peut pas être entreprise
-132,Company Tagline for website homepage,Société Slogan pour le site Web page d'accueil
-133,"Company, From Date and To Date is mandatory","Company, De date et à ce jour est obligatoire"
-134,Completed Qty can not be greater than 'Qty to Manufacture',Terminé Quantité ne peut pas être supérieure à «Quantité de Fabrication '
+131,Company Name cannot be Company,Nom de la Société ne peut être Company
+132,Company Tagline for website homepage,Slogan de la Société pour la page d'accueil du site web
+133,"Company, From Date and To Date are mandatory","Société, Date Début et Date Fin sont obligatoires"
+134,Completed Qty can not be greater than 'Qty to Manufacture',Qté Terminée ne peut pas être supérieure à «Qté à Fabriquer'
 135,Component,Composant
 136,Components,Composants
 137,Condition,Conditions
-138,Condition and Formula Help,Condition et Formule Aide
+138,Condition and Formula Help,Aide Condition et Formule
 139,Conference,Conférence
 140,Consultant,Consultant
-141,Consulting,consultant
-142,Consumable Cost,Coût de consommable
-143,Consumed Amount,Quantité consommée
-144,Consumed Qty,Quantité consommée
-145,Consumer Products,Produits de consommation
+141,Consulting,Consultant
+142,Consumable Cost,Coût de Consommable
+143,Consumed Amount,Montant Consommé
+144,Consumed Qty,Qté Consommée
+145,Consumer Products,Produits de Consommation
 146,Contact Details,Coordonnées
-147,Contact Name,Contact Nom
-148,Contact No.,Contactez No.
-149,Contact Number,Numéro de contact
-150,"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","Les options de contact, comme ""Requête Commerciale, Demande d'Aide"" etc doivent être chacune sur une nouvelle ligne ou séparées par des virgules."
-151,Contact Person,Personne à contacter
-152,Contact Us Settings,Réglages de la section Contactez-nous.
-153,Content Hash,Hash contenu
-154,Content Type,Type de contenu
-155,Content web page.,Contenu de page Web.
+147,Contact Name,Nom du Contact
+148,Contact No.,N° du Contact
+149,Contact Number,Numéro de Contact
+150,"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","Les options de contact, comme ""Demande de Ventes, Demande d'Aide"" etc doivent être chacune sur une nouvelle ligne ou séparées par des virgules."
+151,Contact Person,Personne à Contacter
+152,Contact Us Settings,Réglages de Contactez Nous.
+153,Content Hash,Hash du Contenu
+154,Content Type,Type de Contenu
+155,Content web page.,Contenu de la page web.
 156,Continue,Continuer
-157,Contra Entry,Contra Entrée
+157,Contra Entry,Contre-passation
 158,Contribution (%),Contribution (%)
-159,Contribution %,Contribution%
-160,Contribution Amount,Montant de la contribution
-161,Contribution to Net Total,Contribution à Total net
-162,Conversion Factor,Facteur de conversion
-163,Conversion Rate,Taux de conversion
+159,Contribution %,Contribution %
+160,Contribution Amount,Montant de la Contribution
+161,Contribution to Net Total,Contribution au Total Net
+162,Conversion Factor,Facteur de Conversion
+163,Conversion Rate,Taux de Conversion
 164,Conversion rate cannot be 0 or 1,Le taux de conversion ne peut pas être égal à 0 ou 1
-165,Copy From Item Group,Copy From Group article
-166,Cost as on,Coût que sur
-167,Cost Center,Centre de coûts
-168,Cost Center is required in row {0} in Taxes table for type {1},Livré de série n ° {0} ne peut pas être supprimé
-169,Cost Centers,Centres de coûts
-170,Cost of Delivered Items,Coût des articles livrés
-171,Cost of Issued Items,Coût de documents publiés
-172,Cost of New Purchase,Coût du Nouvel achat
-173,Cost of Purchased Items,Coût des articles achetés
-174,Cost of Scrapped Asset,Coût des biens demantelé
-175,Cost of Sold Asset,Coût des biens Vendu
-176,Costing,Costing
-177,Costing Amount,Montant des coûts
-178,Costing Rate,Taux Costing
+165,Copy From Item Group,Copier Depuis un Groupe d'Articles
+166,Cost as on,Coût à partir de
+167,Cost Center,Centre de Coûts
+168,Cost Center is required in row {0} in Taxes table for type {1},Le Centre de Coûts est requis à la ligne {0} dans le tableau des Taxes pour le type {1}
+169,Cost Centers,Centres de Coûts
+170,Cost of Delivered Items,Coût des Articles Livrés
+171,Cost of Issued Items,Coût de Articles Publiés
+172,Cost of New Purchase,Coût du Nouvel Achat
+173,Cost of Purchased Items,Coût des Articles Achetés
+174,Cost of Scrapped Asset,Coût des Immobilisations Mises au Rebut
+175,Cost of Sold Asset,Coût des Immobilisations Vendus
+176,Costing,Coût
+177,Costing Amount,Montant des Coûts
+178,Costing Rate,Taux des Coûts
 179,Could not connect to outgoing email server,Impossible de se connecter au serveur de messagerie sortant
-180,"Could not update stock, invoice contains drop shipping item.","Impossible de mettre à jour de stock, facture contient baisse élément de l'expédition."
-181,Country wise default Address Templates,Modèles pays sage d'adresses par défaut
+180,"Could not update stock, invoice contains drop shipping item.","Impossible de mettre à jour le stock, la facture contient un article en livraison directe."
+181,Country wise default Address Templates,Modèles d'Adresse par défaut en fonction du pays
 182,Course,Cours
-183,Course Abbreviation,Abréviation de cours
-184,Course Assessment Criteria,Critères d'évaluation du cours
-185,Course Code,Code de cours
-186,Course End Date,Course Date de fin
-187,Course Intro,Cours Intro
+183,Course Abbreviation,Abréviation du Cours
+184,Course Assessment Criteria,Critères d'Évaluation du Cours
+185,Course Code,Code de Cours
+186,Course End Date,Date de Fin du Cours
+187,Course Intro,Intro du Cours
 188,Course is mandatory in row {0},Cours est obligatoire à la ligne {0}
-189,Course Name,Nom du cours
-190,Course Schedule,Horaire des cours
-191,Course Schedules created:,Horaires des cours créés:
-192,Course Schedules deleted:,Horaires des cours supprimés:
-193,Course Scheduling Tool,Calendrier des cours Outil
-194,Course Start Date,Cours Date de début
+189,Course Name,Nom du Cours
+190,Course Schedule,Horaire des Cours
+191,Course Schedules created:,Horaires des Cours crés:
+192,Course Schedules deleted:,Horaires des Cours supprimés:
+193,Course Scheduling Tool,Outil de Planification des Cours
+194,Course Start Date,Date de Début du Cours
 195,Courses,Cours
-196,Cover Letter,Lettre de motivation
+196,Cover Letter,Lettre de Motivation
 197,Create a new {0},Créer un nouveau {0}
-198,Create a new Customer,Créer un nouveau client
-199,Create a New Format,Créer un nouveau format
-200,Create Bank Entry for the total salary paid for the above selected criteria,Créer une entrée de la Banque pour le salaire total payé pour les critères ci-dessus sélectionnés
-201,Create Chart Of Accounts Based On,Créer Plan comptable basé sur
-202,"Create Employee records to manage leaves, expense claims and payroll","Créer des dossiers des employés pour gérer les feuilles, les demandes de remboursement et de la paie"
-203,"Create for full quantity, ignoring quantity already on order","Créer pour la quantité totale, en ignorant quantité déjà sur commande"
-204,Create Leads,Créer Leads
-205,Create Material Requests,Créer des demandes de matériel
-206,Create New,Créer un nouveau
-207,"Create new Contact for a Customer, Supplier, User or Organisation to Match ""","Créer un nouveau contact pour un client, fournisseur, utilisateur ou organisation à Match """
-208,Create Print Format,Créer Format d'impression
-209,Create Production Orders,Créer des ordres de fabrication
-210,Create Purchase Orders,Créer des commandes d'achat
-211,Create Receiver List,Créer une liste Receiver
-212,Create Salary Slip,Créer bulletin de salaire
-213,Create Student Groups,Créer des groupes d'étudiants
-214,Create User,Créer un utilisateur
-215,Created Custom Field {0} in {1},Crée un champ personnalisé {0} dans {1}
-216,Creates salary slip for above mentioned criteria.,Crée le bulletin de salaire pour les critères mentionnés ci-dessus.
-217,Creation Date,date de création
-218,Creation Document No,Création document n
-219,Creation Document Type,Type de document de création
+198,Create a new Customer,Créer un nouveau Client
+199,Create a New Format,Créer un Nouveau Format
+200,Create Bank Entry for the total salary paid for the above selected criteria,Créer une Écriture Bancaire pour le salaire total payé avec les critères sélectionnés ci-dessus
+201,Create Chart Of Accounts Based On,Créer un Plan Comptable Basé Sur
+202,"Create Employee records to manage leaves, expense claims and payroll","Créer des dossiers des Employés pour gérer les congés, les notes de frais et la paie"
+203,"Create for full quantity, ignoring quantity already on order","Créer pour la quantité totale, en ignorant la quantité déjà commandée"
+204,Create Leads,Créer des Prospects
+205,Create Material Requests,Créer des Demandes de Matériel
+206,Create New,Créer un Nouveau
+207,"Create new Contact for a Customer, Supplier, User or Organisation to Match ""","Créer un nouveau Contact à associer pour un Client, Fournisseur, Utilisateur ou Organisation """
+208,Create Print Format,Créer Format d'Impression
+209,Create Production Orders,Créer des Commandes de Production
+210,Create Purchase Orders,Créer des Commandes d'Achat
+211,Create Receiver List,Créer une Liste de Réception
+212,Create Salary Slip,Créer une Fiche de Paie
+213,Create Student Groups,Créer des Groupes d'Étudiants
+214,Create User,Créer un Utilisateur
+215,Created Custom Field {0} in {1},Crée un Champ Personnalisé {0} dans {1}
+216,Creates salary slip for above mentioned criteria.,Crée la fiche de paie pour les critères mentionnés ci-dessus.
+217,Creation Date,Date de Création
+218,Creation Document No,N° du Document de Création
+219,Creation Document Type,Type de Document de Création
 220,Credit,Crédit
-221,Credit Account,Compte créditeur
-222,Credit Amount,Le montant du crédit
-223,Credit Amount in Account Currency,Montant de crédit en compte Devises
-224,Credit Balance,Solde de crédit
-225,Credit Controller,Credit Controller
-226,Credit Days,Jours de crédit
-227,Credit Days Based On,Jours de crédit basée sur
-228,Credit in Company Currency,Crédit Entreprise Devise
-229,Credit Note Issued,Note de crédit émises
-230,Credit To,Crédit Pour
-231,Credit To account must be a Balance Sheet account,Crédit du compte doit être un compte de bilan
-232,Credit To account must be a Payable account,Crédit du compte doit être un compte à payer
+221,Credit Account,Compte Créditeur
+222,Credit Amount,Montant du Crédit
+223,Credit Amount in Account Currency,Montant du Crédit dans la Devise du Compte
+224,Credit Balance,Solde du Crédit
+225,Credit Controller,Controlleur du Crédit
+226,Credit Days,Jours de Crédit
+227,Credit Days Based On,Jours de Crédit Basés sur
+228,Credit in Company Currency,Crédit dans la Devise de la Société
+229,Credit Note Issued,Note de Crédit Émise
+230,Credit To,À Créditer
+231,Credit To account must be a Balance Sheet account,Le compte À Créditer doit être un compte de Bilan
+232,Credit To account must be a Payable account,Le compte À Créditer doit être un compte Créditeur
 233,CRM,CRM
-234,Cross Listing of Item in multiple groups,Croix Listing des articles dans plusieurs groupes
+234,Cross Listing of Item in multiple groups,Listage Croisé d'Article dans plusieurs groupes
 235,CSS,CSS
 236,CSV,CSV
-237,Ctrl + Enter to post,Ctrl + Entrée pour poster
-238,Ctrl+Enter to add comment,Ctrl + Entrée pour ajouter un commentaire
-239,Currency can not be changed after making entries using some other currency,Devise ne peut être modifié après avoir fait des entrées en utilisant une autre monnaie
-240,Currency Exchange,Change de devises
+237,Ctrl+Enter to post,Ctrl+Entrée pour poster
+238,Ctrl+Enter to add comment,Ctrl+Entrée pour ajouter un commentaire
+239,Currency can not be changed after making entries using some other currency,Devise ne peut être modifiée après avoir fait des entrées en utilisant une autre devise
+240,Currency Exchange,Change de Devises
 241,Currency for {0} must be {1},Devise pour {0} doit être {1}
-242,Currency Name,Nom de la devise
-243,Currency of the Closing Account must be {0},Devise de la clôture des comptes doit être {0}
-244,Currency of the price list {0} is not similar with the selected currency {1},Devise de la liste de prix {0} ne ressemble pas à la devise sélectionnée {1}
-245,Current Address,Adresse actuelle
-246,Current Address Is,Adresse actuelle
-247,Current Amount,Montant actuel
-248,Current BOM,Nomenclature actuelle
-249,Current BOM and New BOM can not be same,Référence # {0} {1} du
-250,Current Fiscal Year,Exercice en cours
-251,Current Job Openings,Possibilités d'emploi actuelles
-252,Current Odometer reading entered should be greater than initial Vehicle Odometer {0},Current odomètre entré doit être supérieure à l'odomètre du véhicule initial {0}
-253,Current Qty,Quantité actuelle
-254,Current Users,Les utilisateurs actuels
-255,Current Valuation Rate,Valorisation Taux actuel
-256,Currently Viewing,Affichage de
+242,Currency Name,Nom de la Devise
+243,Currency of the Closing Account must be {0},La devise du Compte Cloturé doit être {0}
+244,Currency of the price list {0} is not similar with the selected currency {1},La devise de la liste de prix {0} ne ressemble pas à la devise sélectionnée {1}
+245,Current Address,Adresse Actuelle
+246,Current Address Is,Adresse Actuelle est
+247,Current Amount,Montant Actuel
+248,Current BOM,LDM Actuelle
+249,Current BOM and New BOM can not be same,La LDM actuelle et la nouvelle LDM ne peuvent être pareils
+250,Current Fiscal Year,Exercice en Cours
+251,Current Job Openings,Offres d'Emploi Actuelles
+252,Current Odometer reading entered should be greater than initial Vehicle Odometer {0},Le Compteur(kms) Actuel entré devrait être plus grand que le Compteur(kms) initial du Véhicule {0}
+253,Current Qty,Qté Actuelle
+254,Current Users,Utilisateurs Actuels
+255,Current Valuation Rate,Taux de Valorisation Actuel
+256,Currently Viewing,Affichage Actuel
 257,CUST-,CUST-
-258,Custom,Coutume
-259,Custom CSS,CSS personnalisé
-260,Custom DocPerm,personnalisé DocPerm
-261,Custom Field,Champ personnalisé
-262,Custom Format,Format personnalisé
-263,Custom HTML,HTML personnalisé
-264,Custom HTML Help,Aide personnalisée HTML
-265,Custom Menu Items,Menu personnalisé Articles
-266,Custom Message,Message personnalisé
-267,Custom Sidebar Menu,Personnalisé Sidebar Menu
-268,Custom Tags,balises personnalisées
-269,Custom Translations,Traductions sur mesure
+258,Custom,Personnaliser
+259,Custom CSS,CSS Personnalisé
+260,Custom DocPerm,Permission de Document Personnalisé
+261,Custom Field,Champ Personnalisé
+262,Custom Format,Format Personnalisé
+263,Custom HTML,HTML Personnalisé
+264,Custom HTML Help,Aide HTML Personnalisée
+265,Custom Menu Items,Éléments du Menu Personnalisés
+266,Custom Message,Message Personnalisé
+267,Custom Sidebar Menu,Menu Latéral Personnalisé
+268,Custom Tags,Balises Personnalisées
+269,Custom Translations,Traductions Personnalisées
 270,Custom?,Custom?
-271,Customer {0} does not belong to project {1},S'il vous plaît définir la valeur par défaut {0} dans Société {0}
-272,Customer > Customer Group > Territory,Client> Groupe Client> Territoire
-273,Customer Acquisition and Loyalty,Acquisition et fidélisation client
-274,Customer Contact,Contact client
-275,Customer Credit Balance,Solde de crédit à la clientèle
-276,Customer Groups,Groupes de clients
-277,Customer Naming By,Client de nommage par
-278,Customer required for 'Customerwise Discount',Colonne inconnu : {0}
-279,Customer Warehouse (Optional),Entrepôt de clientèle (Facultatif)
-280,Customer's Purchase Order,Bon de commande du client
-281,Customer's Purchase Order Date,Date du bon de commande client
-282,Customerwise Discount,Remise Customerwise
-283,Customize Form Field,Personnaliser un champ de formulaire
-284,"Customize Label, Print Hide, Default etc.","Personnaliser Label, Imprimer Cacher, etc Par défaut"
-285,Customize the Notification,Personnaliser la notification
-286,Customized HTML Templates for printing transactions.,Modèles HTML personnalisés pour les opérations d'impression.
+271,Customer {0} does not belong to project {1},Le Client {0} ne fait pas parti du projet {1}
+272,Customer > Customer Group > Territory,Client > Groupe Client > Territoire
+273,Customer Acquisition and Loyalty,Acquisition et Fidélisation des Clients
+274,Customer Contact,Contact Client
+275,Customer Credit Balance,Solde de Crédit des Clients
+276,Customer Groups,Groupes de Clients
+277,Customer Naming By,Client Nommé par
+278,Customer required for 'Customerwise Discount',Client requis pour applique une 'Remise en fonction du Client'
+279,Customer Warehouse (Optional),Entrepôt des Clients (Facultatif)
+280,Customer's Purchase Order,Bon de Commande du Client
+281,Customer's Purchase Order Date,Date du Bon de Commande du Client
+282,Customerwise Discount,Remise en fonction du Client
+283,Customize Form Field,Personnaliser un Champ de Formulaire
+284,"Customize Label, Print Hide, Default etc.","Personnaliser l'Étiquette, Cacher à l'Impression, Défaut etc"
+285,Customize the Notification,Personnaliser les Notifications
+286,Customized HTML Templates for printing transactions.,Modèles HTML Personnalisés pour les opérations d'impression.
 287,C-Form,Formulaire - C
 288,C-Form Applicable,Formulaire - C applicable
 289,C-Form Invoice Detail,Formulaire - C Détail de la facture
