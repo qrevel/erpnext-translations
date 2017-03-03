@@ -1,8 +1,8 @@
 ,English,Français
 0,Account Info, Information du Compte
 1,Accrual Journal Entry for salaries from {0} to {1}, Accumulation des Journaux d'Écritures pour les salaires de {0} à {1}
-2,Add / Manage Email Domains., Ajouter / Gérer les nom de Domaines des Emails
-3,Add Employees to Manage Them, Ajouter Employées pour Les Gérer
+2,Add / Manage Email Domains., Ajouter / Gérer les Noms de Domaines des Emails
+3,Add Employees to Manage Them, Ajouter Employés pour Les Gérer
 4,Add Students, Ajouter des Étudiants
 5,Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts, Ajouter le reste de votre organisation en tant qu'utilisateurs. Vous pouvez aussi inviter des Clients sur votre portail en les ajoutant depuis les Contacts
 6,"Add your Employees so you can manage leaves, expenses and payroll","Ajouter vos Employés pour que vous puissiez gérer les congés, notes de frais et fiches de paie"
@@ -11,8 +11,8 @@
 9,All Results,Tous les Résulats
 10,Allow page break inside tables,Autoriser les sauts de page dans les tables
 11,Arrear,Arriéré
-12,"As there are existing transactions against item {0}, you can not change the value of {1}","Comme il existe des transactions aec l'article {0}, vous ne pouvez pas changer la valeur de {1}"
-13,Ask a Feedback,Demander un Retour d'Information
+12,"As there are existing transactions against item {0}, you can not change the value of {1}","Comme il existe des transactions avec l'article {0}, vous ne pouvez pas changer la valeur de {1}"
+13,Ask a Feedback,Demander un Retour d'Expérience
 14,Assessment Criteria Group,Groupe de Critère d'Évaluation
 15,Assessment Plan,Plan d'Évaluation
 16,Assessment Plan Criteria,Critères du Plan d'Évaluation
@@ -21,11 +21,11 @@
 19,Auto close Issue after 7 days,Fermer automatique les Questions après 7 jours
 20,Auto close Opportunity after 15 days,Fermer automatiquement les Opportunités après 15 jours
 21,A Lead with this Email Address should exist,Un Prospect avec cette Adresse Email devrait exister
-22,Abbreviation {0} already used for another salary component,L'abréviation {0} déjà utilisé pour un autre volet salarial
+22,Abbreviation {0} already used for another salary component,L'abréviation {0} est déjà utilisé pour un autre volet salarial
 23,Account balance ({0}) and stock value ({1}) must be same,Le solde du compte ({0}) et la valeur des actions ({1}) doit être le même
 24,Accrual Journal Entry Submitted,Accumulation des Journaux d'Écritures Soumis
 25,Add a column,Ajouter une colonne
-26,Add Custom Column Field,Ajouter un Champ de Colonne Personnalisée
+26,Add Custom Column Field,Ajouter un Champ de Colonne Personnalisé
 27,Additional Charges,Frais Supplémentaires
 28,All BOMs,Toutes les LDM
 29,Allow user to edit Rate,Autoriser l'utilisateur à modifier le Taux
@@ -36,7 +36,7 @@
 34,Are you sure you want to relink this communication to {0}?,Êtes-vous sûr de vouloir relier cette communication à {0}?
 35,Assessment Criteria,Critères d'Évaluation
 36,Authentication Log,Journal d'Authentification
-37,Automatically triggers the feedback request based on conditions.,Déclencher automatiquement la demande de retour d'information en fonction des conditions.
+37,Automatically triggers the feedback request based on conditions.,Déclencher automatiquement la demande de retour d'expérience en fonction des conditions.
 38,Awaiting Password,En attente du Mot de Passe
 39,A Customer Group exists with same name please change the Customer name or rename the Customer Group,BOM récursivité : {0} ne peut pas être le parent ou l'enfant de {2}
 40,A log of request errors,Historique des erreurs de requête
