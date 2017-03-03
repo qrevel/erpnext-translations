@@ -1,365 +1,365 @@
-,English,Français,
-0,Default Grading Scale,Échelle de Notation par Défault,
-1,Define various loan types,Définir différents types de prêts,
-2,Delete comment?,Supprimer le commentaire ?,
-3,Deleted DocType,Suppimer le DocType,
-4,Deleted Document,Supprimer le Document,
-5,Deleting {0},Suppression de {0},
-6,Disbursement Date,Date de Décaissement,
-7,Document ID,N° de Document,
-8,domain name,Nom de Domaine,
-9,Don't have an account? Sign up,Vous n’avez pas encore de compte ? Inscrivez-vous,
-10,Dropbox Setup,Paramétrage Dropbox,
-11,Dropbox Setup via Site Config,Paramétrage Dropbox via les Paramètrages du Site,
-12,Daily Event Digest is sent for Calendar Events where reminders are set.,Un Récapitulatif Quotidien est Envoyé pour les Événements du Calendrier ayant des Rappels.,
-13,Daily Timesheet Summary,Récapitulatif Quotidien des Feuilles de Présence,
-14,Daily Work Summary,Récapitulatif Quotidien de Travail,
-15,Daily Work Summary for {0},Récapitulatif Quotidien de Travail pour {0},
-16,Daily Work Summary Settings,Paramètres du Récapitulatif Quotidien,
-17,Daily Work Summary Settings Company,Paramètres du Récapitulatif Quotidien Société,
-18,darkgrey,gris foncé,
-19,Date of Leaving,Date de Départ,
-20,Date Range,Intervalle de Date,
-21,Debit Amount in Account Currency,Montant Débiteur en Devise du Compte,
-22,Debit and Credit not equal for {0} #{1}. Difference is {2}.,Débit et Crédit non égaux pour {0} # {1}. La différence est de {2}.,
-23,Debit in Company Currency,Débit en Devise Société,
-24,Debit Note Issued,Notes de Débit Émises,
-25,Debit To,Débit Pour,
-26,Debit To account must be a Balance Sheet account,Le compte de débit doit être un compte de Bilan,
-27,Debit To account must be a Receivable account,Le compte de débit doit être un compte Débiteur,
-28,Debit To is required,Compte Client Requis,
-29,Default Activity Cost exists for Activity Type - {0},Un Coût d’Activité par défault existe pour le Type d’Activité {0},
-30,Default Bank / Cash account will be automatically updated in POS Invoice when this mode is selected.,"Le compte par défaut de Banque / Caisse sera automatiquement mis à jour dans la Facture ""POS"" lorsque ce mode est sélectionné.",
-31,Default Bank / Cash account will be automatically updated in Salary Journal Entry when this mode is selected.,Le compte par défaut de Banque / Caisse sera automatiquement mis à jour dans l’écriture de Journal de Salaire lorsque ce mode est sélectionné.,
-32,Default BOM ({0}) must be active for this item or its template,LDM par défaut ({0}) doit être actif pour ce produit ou son modèle,
-33,Default BOM for {0} not found,LDM par défaut {0} introuvable,
-34,Default Cost of Goods Sold Account,Compte de coûts des marchandises vendues par Défaut,
-35,Default for 'Check' type of field must be either '0' or '1',"""Vérifier"" le type de champ doit être '0' ou '1' par Défaut",
-36,Default for {0} must be an option,{0} doit être une option par Défaut,
-37,Default Incoming,Entrant par Défaut,
-38,Default Item Group,Groupe d'Éléments par Défaut,
-39,Default Material Request Type,Type de Requête de Matériaux par Défaut,
-40,Default Outgoing,Sortant par Défaut,
-41,Default Payment Request Message,Message de Demande de Paiement par Défaut,
-42,Default Redirect URI,URI de Redirection par Défaut,
-43,Default Role at Time of Signup,Rôle au Moment de l’Inscription par Défaut,
-44,Default settings for Shopping Cart,Paramètres par Défaut pour le Panier d’Achat,
-45,Default Source Warehouse,Entrepôt Source par Défaut,
-46,Default Stock UOM,UDM par Défaut des Articles,
-47,Default Supplier Type,Type de Fournisseur par Défaut,
-48,Default Target Warehouse,Entrepôt Cible par Défaut,
-49,Default theme is set in {0},Le Thème par défaut est défini dans {0},
-50,Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You will need to create a new Item to use a different Default UOM.,L’Unité de Mesure par Défaut pour l’Article {0} ne peut pas être modifiée directement parce que vous avez déjà fait une (des) transaction (s) avec une autre unité de mesure. Vous devez créer un nouvel article pour utiliser une UDM par défaut différente.,
-51,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',L’Unité de mesure par défaut pour la variante '{0}' doit être la même que dans le Modèle '{1}',
-52,Default warehouse is required for selected item,Un Entrepôt par défaut est nécessaire pour l’Article sélectionné,
-53,Default Work In Progress Warehouse,Entrepôt de Travail en Cours par Défaut,
-54,Define Frappe Server URL in Social Login Keys,Définir l’URL du serveur Frappe dans les Clés de Réseaux Sociaux,
-55,Defines actions on states and the next step and allowed roles.,Défini les actions sur les états et l’étape suivantes ainsi que les rôles autorisés.,
-56,Delete Company Transactions,Supprimer les Transactions de la Société,
-57,Deleted Name,Nom Supprimé,
-58,Delivery Document No,Numéro de Document de Livraison,
-59,Delivery Document Type,Type de Document de Livraison,
-60,Delivery Note Trends,Tendance des Bordereaux de Livraisons,
-61,depends_on,Dépend de,
-62,depends_on_tasks,Dépend des Tâches,
-63,Depreciation,Amortissment,
-64,Depreciation Amount,Montant d'Amortissement,
-65,Depreciation Amount during the period,Montant d'Amortissement au cours de la période,
-66,Depreciation Date,Date d’Amortissement,
-67,Depreciation Eliminated due to disposal of assets,Amortissement Eliminé en raison de cessions d'actifs,
-68,Depreciation Entry,Ecriture d’Amortissement,
-69,Depreciation Expense Account,Compte de Dotations aux Amortissement,
-70,Depreciation Method,Méthode d'Amortissement,
-71,"Description for listing page, in plain text, only a couple of lines. (max 140 characters)","Texte de description pour l'affichage en liste, quelques lignes seulement. (Max 140 caractères)",
-72,Desk Access,Accès au Bureau,
-73,Detailed feedback,Retour d’Éxpérience détaillé,
-74,Details of the operations carried out.,Détails des opérations effectuées.,
-75,Difference Account,Compte d’écart,
-76,"Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry","Le Compte d’Écart doit être un compte de type Actif / Passif, puisque cette Réconciliation de Stock est une écriture d'à-nouveau",
-77,Difference Amount (Company Currency),Écart de Montant (Devise de la Société),
-78,Difference Amount must be zero,L’Écart de Montant doit être égal à zéro,
-79,"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","Différents «Etats» dans lesquels le présent document peut exister. Comme ""Ouvert"", ""En attente d'approbation"", etc",
-80,Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM.,Différentes UDM pour les articles conduira à un Poids Net (Total) incorrect . Assurez-vous que le Poids Net de chaque article a la même unité de mesure .,
-81,Disable Capacity Planning and Time Tracking,Désactiver la Plannification de Capacité et la Gestion du Temps,
-82,Disabled template must not be default template,Un Modèle Désactivé ne doit pas être un Modèle par Défaut,
-83,Disables creation of time logs against Production Orders. Operations shall not be tracked against Production Order,Désactive la création de registres de temps pour les Ordres de Fabrication. Le suivi des Opérations ne nécessite pas d’Ordres de Fabrication,
-84,Discount Percentage can be applied either against a Price List or for all Price List.,Pourcentage de Réduction peut être appliqué pour une liste de prix en particulier ou pour toutes les listes de prix.,
-85,Dispatch,Envoi,
-86,Display Depends On,Affichage Dépend de,
-87,Disposal Date,Date d’Élimination,
-88,Distance from left edge,Distance du bord gauche,
-89,Distance from top edge,Distance du bord supérieur,
-90,Distinct unit of an Item,Unité distincte d'un Article,
-91,Distribute Charges Based On,Distribuer les Charges sur la Base de,
-92,Distribution Name,Nom de Distribution,
-93,DN Detail,Détail du Bon de Livraison,
-94,DN-,DN-,
-95,DN-RET-,DN-RET-,
-96,Do not allow user to change after set the first time,Ne pas permettre à l'utilisateur de changer après avoir le premier paramétrage,
-97,Do not Match,Ne Correspondent Pas,
-98,Do you really want to Submit all Salary Slip from {0} to {1},Voulez-vous vraiment Soumettre tous les Bulletins de Salaire de {0} à {1},
-99,DocField,DocField,
-100,DocPerm,DocPerm,
-101,DocShare,DocShare,
-102,DocType,DocType,
-103,DocType can not be merged,DocType ne peut pas être fusionné,
-104,DocType is a Table / Form in the application.,DocType est un Tableau / Formulaire dans l'application.,
-105,DocType or Field,DocType ou Champ,
-106,Doctype to Assign Tags,Doctype pour Affecter des Étiquettes,
-107,"DocType's name should start with a letter and it can only consist of letters, numbers, spaces and underscores","Le nom du DocType doit commencer par une lettre et il peut uniquement se composer de lettres, des chiffres, d’espaces et du tiret bas (underscore)",
-108,Doctypes,Doctypes,
-109,Document is only editable by users of role,Document est modifiable uniquement par les utilisateurs de rôle,
-110,Document Queued,Document en Attente,
-111,Document Share Report,Rapport de Partage de Document,
-112,Document States,États du Document,
-113,Document Status,Statut du Document,
-114,Document Status transition from,Changement de Statut du Document depuis,
-115,"Don't HTML Encode HTML tags like <script> or just characters like < or >, as they could be intentionally used in this field","Ne pas encoder les balises HTML en HTML comme <script> ou tout simplement des caractères comme <ou>, car ils pourraient être utilisés intentionnellement dans ce champ",
-116,"Don't know, ask 'help'","Vous ne savez pas, demandez de l’ ""aide""",
-117,Don't Override Status,Ne pas Remplacer le Statut,
-118,Doors,Portes,
-119,Double Declining Balance,Double Solde Dégressif,
-120,Download a report containing all raw materials with their latest inventory status,Télécharger un rapport contenant toutes les matières premières avec leur dernier état de stocks,
-121,Download link for your backup will be emailed on the following email address: {0},Le lien de téléchargement pour votre sauvegarde sera envoyé sur l'adresse email suivante: {0},
-122,Download Materials Required,Télécharger les Matériaux Requis,
+,English,Français
+0,Default Grading Scale,
+1,Define various loan types,
+2,Delete comment?,
+3,Deleted DocType,
+4,Deleted Document,
+5,Deleting {0},
+6,Disbursement Date,
+7,Document ID,
+8,domain name,
+9,Don't have an account? Sign up,
+10,Dropbox Setup,
+11,Dropbox Setup via Site Config,
+12,Daily Event Digest is sent for Calendar Events where reminders are set.,Le résumé quotidien des événements est envoyé pour les événements du calendrier où les rappels sont fixés.
+13,Daily Timesheet Summary,Sommaire quotidien de la feuille de présence
+14,Daily Work Summary,Sommaire quotidien de travail
+15,Daily Work Summary for {0},Résumé de travail quotidien pour {0}
+16,Daily Work Summary Settings,Daily Settings Résumé de travail
+17,Daily Work Summary Settings Company,Travail quotidien Résumé Réglages Société
+18,darkgrey,gris foncé
+19,Date of Leaving,Date de partir
+20,Date Range,Date de Gamme
+21,Debit Amount in Account Currency,Montant de débit en compte Devises
+22,Debit and Credit not equal for {0} #{1}. Difference is {2}.,De débit et de crédit pas égale pour {0} # {1}. La différence est {2}.
+23,Debit in Company Currency,Débit en Entreprise Devise
+24,Debit Note Issued,Les notes de débit émises
+25,Debit To,Débit Pour
+26,Debit To account must be a Balance Sheet account,Débit Pour compte doit être un compte de bilan
+27,Debit To account must be a Receivable account,Débit Pour compte doit être un compte à recevoir
+28,Debit To is required,Débit Pour est nécessaire
+29,Default Activity Cost exists for Activity Type - {0},Existe défaut Activité Coût pour le type d'activité - {0}
+30,Default Bank / Cash account will be automatically updated in POS Invoice when this mode is selected.,Par défaut Banque / argent compte sera automatiquement mis à jour dans la facture POS lorsque ce mode est sélectionné.
+31,Default Bank / Cash account will be automatically updated in Salary Journal Entry when this mode is selected.,Par défaut Compte bancaire / Trésorerie sera automatiquement mis à jour dans le Salaire Journal Entrée lorsque ce mode est sélectionné.
+32,Default BOM ({0}) must be active for this item or its template,Par défaut BOM ({0}) doit être actif pour ce produit ou de son modèle
+33,Default BOM for {0} not found,BOM par défaut pour {0} introuvable
+34,Default Cost of Goods Sold Account,Coût par défaut du compte marchandises vendues
+35,Default for 'Check' type of field must be either '0' or '1',"Par défaut pour ""Vérifier"" type de champ doit être '0' ou '1'"
+36,Default for {0} must be an option,Par défaut pour {0} doit être une option
+37,Default Incoming,Par défaut entrant
+38,Default Item Group,Groupe d'éléments par défaut
+39,Default Material Request Type,Par défaut Matériau Type de demande
+40,Default Outgoing,Sortant par défaut
+41,Default Payment Request Message,Défaut de demande de paiement message
+42,Default Redirect URI,Par défaut Redirect URI
+43,Default Role at Time of Signup,Par défaut Rôle au moment de l'inscrire
+44,Default settings for Shopping Cart,Les paramètres par défaut pour Panier
+45,Default Source Warehouse,Source d'entrepôt par défaut
+46,Default Stock UOM,UDM par défaut des Articles
+47,Default Supplier Type,Type de Fournisseur par défaut
+48,Default Target Warehouse,Entrepôt cible par défaut
+49,Default theme is set in {0},Thème par défaut est définie dans {0}
+50,Default Unit of Measure for Item {0} cannot be changed directly because you have already made some transaction(s) with another UOM. You will need to create a new Item to use a different Default UOM.,Unité de mesure pour le point de défaut {0} ne peut pas être modifié directement parce que vous avez déjà fait une transaction (s) avec une autre unité de mesure. Vous aurez besoin de créer un nouveau poste d'utiliser un défaut UOM différente.
+51,Default Unit of Measure for Variant '{0}' must be same as in Template '{1}',Unité de mesure par défaut pour la variante '{0}' doit être la même que dans le Modèle '{1}'
+52,Default warehouse is required for selected item,entrepôt par défaut est nécessaire pour l'élément sélectionné
+53,Default Work In Progress Warehouse,Entrepôt de Travail en Cours par défaut
+54,Define Frappe Server URL in Social Login Keys,Définir Frappe URL du serveur dans Social Connexion Clés
+55,Defines actions on states and the next step and allowed roles.,Définit les actions sur les Etats et la prochaine étape et rôles autorisés.
+56,Delete Company Transactions,Supprimer Transactions de Société
+57,Deleted Name,Nom supprimé
+58,Delivery Document No,Numéro de document de livraison
+59,Delivery Document Type,Type de document de livraison
+60,Delivery Note Trends,Bordereau de livraison Tendances
+61,depends_on,dépend de
+62,depends_on_tasks,depends_on_tasks
+63,Depreciation,Actifs d'impôt
+64,Depreciation Amount,Montant d'Amortissement
+65,Depreciation Amount during the period,Montant d'amortissement au cours de la période
+66,Depreciation Date,amortissement date
+67,Depreciation Eliminated due to disposal of assets,Amortissement Eliminé en raison de cessions d'actifs
+68,Depreciation Entry,amortissement Entrée
+69,Depreciation Expense Account,Compte dotations aux amortissements
+70,Depreciation Method,Méthode d'amortissement
+71,"Description for listing page, in plain text, only a couple of lines. (max 140 characters)","Description textuel pour l'affichage en liste, quelques lignes seulement. (Max 140 caractères)"
+72,Desk Access,Accès au Bureau
+73,Detailed feedback,rétroaction détaillée
+74,Details of the operations carried out.,Les détails des opérations effectuées.
+75,Difference Account,Compte de différence
+76,"Difference Account must be a Asset/Liability type account, since this Stock Reconciliation is an Opening Entry","Compte de différence doit être un compte de type actif / passif, puisque cette Stock réconciliation est une entrée d'ouverture"
+77,Difference Amount (Company Currency),Différence Montant (Société Monnaie)
+78,Difference Amount must be zero,Différence Le montant doit être égal à zéro
+79,"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","Différents «Etats» dans lesquels le présent document peut exister. Comme ""Ouvert"", ""En attente d'approbation"", etc"
+80,Different UOM for items will lead to incorrect (Total) Net Weight value. Make sure that Net Weight of each item is in the same UOM.,Différents Emballage des articles mènera à incorrects (Total ) Valeur de poids . Assurez-vous que poids net de chaque article se trouve dans la même unité de mesure .
+81,Disable Capacity Planning and Time Tracking,Planification de la capacité Désactiver et Gestion du Temps
+82,Disabled template must not be default template,modèle handicapé ne doit pas être modèle par défaut
+83,Disables creation of time logs against Production Orders. Operations shall not be tracked against Production Order,Désactive la création de registres de temps contre les ordres de fabrication. Opérations ne doivent pas être suivis contre ordre de fabrication
+84,Discount Percentage can be applied either against a Price List or for all Price List.,Pourcentage de réduction peut être appliquée contre une liste de prix ou pour toute liste de prix.
+85,Dispatch,envoi
+86,Display Depends On,Affichage dépend
+87,Disposal Date,élimination date de
+88,Distance from left edge,Distance du bord gauche
+89,Distance from top edge,Distance du bord supérieur
+90,Distinct unit of an Item,Unité distincte d'un élément
+91,Distribute Charges Based On,Distribuer accusations fondées sur
+92,Distribution Name,Nom distribution
+93,DN Detail,Détail DN
+94,DN-,DN-
+95,DN-RET-,DN-RET-
+96,Do not allow user to change after set the first time,Ne pas permettre à l'utilisateur de changer après avoir défini la première fois
+97,Do not Match,Ne correspondent pas
+98,Do you really want to Submit all Salary Slip from {0} to {1},Voulez-vous vraiment à Soumettre tous Slip Salaire de {0} {1}
+99,DocField,DocField
+100,DocPerm,DocPerm
+101,DocShare,DocShare
+102,DocType,DOCTYPE
+103,DocType can not be merged,DOCTYPE ne peut pas être fusionné
+104,DocType is a Table / Form in the application.,DocType est un tableau / formulaire dans l'application.
+105,DocType or Field,DocType ou Champ
+106,Doctype to Assign Tags,Doctype pour affecter Balises
+107,"DocType's name should start with a letter and it can only consist of letters, numbers, spaces and underscores","Le nom de DocType doit commencer par une lettre et il ne peut se composer de lettres, des chiffres, des espaces et des caractères de soulignement"
+108,Doctypes,doctypes
+109,Document is only editable by users of role,Document est modifiable uniquement par les utilisateurs de rôle
+110,Document Queued,document de Queued
+111,Document Share Report,Partager document Rapport
+112,Document States,États de document
+113,Document Status,Statut du document
+114,Document Status transition from,Statut du document de transition
+115,"Don't HTML Encode HTML tags like <script> or just characters like < or >, as they could be intentionally used in this field","Ne pas les balises HTML Encode HTML comme <script> ou tout simplement des caractères comme <ou>, car ils pourraient être utilisés intentionnellement dans ce domaine"
+116,"Don't know, ask 'help'","Je ne sais pas, demandez «aide»"
+117,Don't Override Status,Ne pas remplacer Statut
+118,Doors,Des portes
+119,Double Declining Balance,Double amortissement dégressif
+120,Download a report containing all raw materials with their latest inventory status,Télécharger un rapport contenant toutes les matières premières avec leur dernier état des stocks
+121,Download link for your backup will be emailed on the following email address: {0},Le lien de téléchargement pour votre sauvegarde sera envoyé sur l'adresse email suivante: {0}
+122,Download Materials Required,Télécharger Matériel requis
 123,"Download the Template, fill appropriate data and attach the modified file.
-All dates and employee combination in the selected period will come in the template, with existing attendance records","Téléchargez le modèle, remplissez les données appropriées et joignez le fichier modifié.
-Toutes les dates et combinaisons d’employés pour la période choisie seront inclus dans le modèle, avec les enregistrements de présence existants",
-124,download-alt,Télécharger-alt,
-125,Downloading App {0},Téléchargement de l’App {0},
-126,Drop Ship,Expédition Directe,
-127,Dropbox access is approved!,Accès Dropbox approuvé!,
-128,Dropbox Access Key,Clé d'accès Dropbox,
-129,Dropbox Access Secret,Accès Secret Dropbox,
-130,Dropbox Settings,Paramètres Dropbox,
-131,Due / Reference Date cannot be after {0},Date d’échéance / de référence ne peut pas être après le {0},
-132,Duplicate customer group found in the cutomer group table,Groupe de clients en double trouvé dans le tableau des groupes de clients,Faute de frappe dans la traduction anglaise
-133,Duplicate entry,Écriture en double,
-134,Duplicate Entry. Please check Authorization Rule {0},Écriture en double. Merci de vérifier la Règle d’Autorisation {0},
-135,Duplicate item group found in the item group table,Groupe d’articles en double trouvé dans la table des groupes d'articles,
-136,Duplicate row {0} with same {1},Ligne {0} en double avec le même {1},
-137,Daily,Quotidien,
-138,Daily Reminders,Rappels Quotidiens,
-139,Danger,Danger,
-140,Data,Données,
-141,Data Import and Export,Importer et Exporter des Données,
-142,Data Import Template,Modèle d'Importation de Données,
-143,Data Import Tool,Outil d'Importation de Données,
-144,Data missing in table,Données manquantes dans le tableau,
-145,Database Engine,Moteur de Base de Données,
-146,Database of potential customers.,Base de données de clients potentiels.,
-147,Database Size,Taille de la Base de Données,
-148,Date,Date,
-149,Date and Number Format,Format de Date et Nombre,
-150,Date Format,Format de Date,
-151,Date is repeated,La Date est répétée,
-152,Date must be in format: {0},Les Dates doivent être au format: {0},
-153,Date of Birth,Date de Naissance,
-154,Date of Birth cannot be greater than today.,Date de Naissance ne peut être après la Date du Jour.,
-155,Date of Issue,Date d'Émission,
-156,Date of Joining,Date d'Embauche,
-157,Date of Joining must be greater than Date of Birth,La Date d'Embauche doit être après à la Date de Naissance,
-158,Date Of Retirement,Date de Départ à la Retraite,
-159,Date Of Retirement must be greater than Date of Joining,La Date de Départ à la Retraite doit être supérieure à Date d'Embauche,
-160,Date Settings,Paramètres de Date,
-161,Dates are often easy to guess.,Les Dates sont souvent faciles à deviner.,
-162,Datetime,Date/Heure,
-163,Day,Jour,
-164,Day of Week,Jour de la Semaine,
-165,Days After,Jours Suivants,
-166,Days Before,Jours Précedents,
-167,Days Before or After,Jours Précédents ou Suivants,
-168,Days for which Holidays are blocked for this department.,Jours pour lesquels les Vacances sont bloquées pour ce département.,
-169,Days Since Last Order,Jours Depuis la Dernière Commande,
-170,dd-mm-yyyy,jj-mm-aaaa,
-171,dd.mm.yyyy,dd.mm.yyyy,
-172,dd/mm/yyyy,jj/mm/aaaa,
-173,Dealer,Revendeur,
-174,Dear,Cher,
-175,"Dear System Manager,","Cher Administrateur Système ,",
-176,Debit,Débit,
-177,Debit Account,Compte de Débit,
-178,Debit Amount,Montant du Débit,
-179,Debit Note,Note de Débit,
-180,Debtors,Débiteurs,
-181,Debtors ({0}),Débiteurs ({0}),
-182,Deduct,Déduire,
-183,Deduction,Déduction,
-184,Deductions,Déductions,
-185,Deductions or Loss,Déductions ou Perte,
-186,Default,Par Défaut,
-187,Default 10 mins,10 minutes Pa Défaut,
-188,Default Account,Compte par Défaut,
-189,Default Address Template cannot be deleted,Le Modèle d’Adresse par défaut ne peut pas être supprimé,
-190,Default Amount,Montant par Défaut,
-191,Default Bank Account,Compte Bancaire par Défaut,
-192,Default Billing Rate,Prix de Facturation par Défaut,
-193,Default BOM,LDM par Défaut,
-194,Default Buying Cost Center,Centre de Coûts d'Achat par Défaut,
-195,Default Buying Price List,Liste des Prix d'Achat par Défaut,
-196,Default Cash Account,Compte de Caisse par Défaut,
-197,Default Company,Société par Défaut,
-198,Default Cost Center,Centre de Coûts par Défaut,
-199,Default Costing Rate,Coût de Revient par Défaut,
-200,Default Currency,Devise par Défaut,
-201,Default Customer Group,Groupe de Clients par Défaut,
-202,Default Expense Account,Compte de Charges par Défaut,
-203,Default Finished Goods Warehouse,Entrepôt de Produits Finis par Défaut,
-204,Default Holiday List,Liste de Vacances par Défaut,
-205,Default Inbox,Boîte de Réception par Défaut,
-206,Default Income Account,Compte de Produits par Défaut,
-207,Default Letter Head,En-Tête de Courrier par Défaut,
-208,Default Payable Account,Compte Fournisseur par Défaut,
-209,Default Payable Accounts,Comptes Fournisseurs par Défaut,
-210,Default Price List,Liste des Prix par Défaut,
-211,Default Print Format,Format d'Impression par Défaut,
-212,Default Receivable Account,Compte Client par Défaut,
-213,Default Selling Cost Center,Centre de Coût Vendeur par Défaut,
-214,Default Sending,Envoi par Défaut,
-215,Default Sending and Inbox,Boîte d’Envois et de Réception par Défaut,
-216,Default settings for accounting transactions.,Paramètres par défaut pour les opérations comptables .,
-217,Default settings for buying transactions.,Paramètres par défaut pour les transactions d'achat.,
-218,Default settings for selling transactions.,Paramètres par défaut pour les transactions de vente.,
-219,Default settings for stock transactions.,Paramètres par défaut pour les mouvements de stock.,
-220,Default Supplier,Fournisseur par Défaut,
-221,Default Terms,Termes et Conditions par Défaut,
-222,Default Territory,Région par Défaut,
-223,Default Unit of Measure,Unité de Mesure par Défaut,
-224,Default Valuation Method,Méthode de Valorisation par Défaut,
-225,Default Value,Valeur par Défaut,
-226,Default Values,Valeurs Par Défaut,
-227,Default Warehouse,Entrepôt par Défaut,
-228,Default Workstation,Station de Travail par Défaut,
-229,"Default: ""Contact Us""","Par Défaut: ""Contactez-nous""",
-230,Defaults,Valeurs Par Défaut,
-231,DefaultValue,Valeur par Défaut,
-232,Defense,Défense,
-233,Define budget for a financial year.,Définir le budget pour un exercice.,
-234,Define workflows for forms.,Définir des flux de travail pour les formulaires.,
-235,Defines workflow states and rules for a document.,Défini les états du flux de travail et les règles pour un document.,
-236,Delay in payment (Days),Retard de paiement (jours),
-237,Delayed,Différé,
-238,Delete,Supprimer,
-239,Delete all the Transactions for this Company,Supprimer toutes les Transactions pour cette Société,
-240,Delete permanently?,Supprimer définitivement?,
-241,Delete this record to allow sending to this email address,Supprimer cet enregistrement pour permettre l'envoi à cette adresse Email,
-242,Deleted,Supprimé,
-243,Delivered,Livré,
-244,Delivered Amount,Montant Livré,
-245,Delivered By Supplier,Livré par le Fournisseur,
-246,Delivered by Supplier (Drop Ship),Livré par le Fournisseur (Expédition Directe),
-247,Delivered Items To Be Billed,Articles Livrés à Facturer,
-248,Delivered Qty,Qté Livrée,
-249,Delivered: {0},Livré: {0},
-250,Delivery,Livraison,
-251,Delivery Date,Date de Livraison,
-252,Delivery Details,Détails de la Livraison,
-253,Delivery Note,Bon de Livraison,
-254,Delivery Note {0} is not submitted,Bon de Livraison {0} n'est pas soumis,
-255,Delivery Note {0} must not be submitted,Bon de Livraison {0} ne doit pas être soumis,
-256,Delivery Note Item,Bon de Livraison article,
-257,Delivery Note Message,Message du Bon de Livraison,
-258,Delivery Note No,Bon de Livraison No,
-259,Delivery Note Required,Bon de Livraison Requis,
-260,Delivery Notes {0} must be cancelled before cancelling this Sales Order,Bons de Livraison {0} doivent être annulés avant d’annuler cette commande,
-261,Delivery Status,Statut de la Livraison,
-262,Delivery Time,Heure de la Livraison,
-263,Delivery To,Livraison à,
-264,Delivery Warehouse,Entrepôt de Livraison,
-265,Delivery warehouse required for stock item {0},Entrepôt de Livraison requis pour article du stock {0},
-266,Department,Département,
-267,Department Stores,Grands Magasins,
-268,Dependent Task,Tâche Dépendante,
-269,Depends On,Dépend De,
-270,Depends on Leave Without Pay,Dépend de Congé Non Payé,
-271,Depreciation Schedule,Calendrier d'Amortissement,
-272,Depreciation Schedules,Calendriers d'Amortissement,
-273,DESC,DESC,
-274,Descending,Descendant,
-275,Description,Description,
-276,Description for search engine optimization.,Description pour l'optimisation des moteurs de recherche.,
-277,Description of a Job Opening,Description d'une Nouvelle Offre d’Emploi,
-278,Designation,Désignation,
-279,Designer,Designer,
-280,Desk,Bureau,
-281,Desktop,Bureau,
-282,Desktop Background,Fond d'Écran du Bureau,
-283,Desktop Icon,Icône du Bureau,
-284,Details,Détails,
-285,Developer,Développeur,
-286,Developer Tools,Outils de Développement,
-287,Did not add,N'a pas été ajouté,
-288,Did not cancel,N'a pas été annulé,
-289,Did not find {0} for {0} ({1}),Nous n'avons pas trouvé {0} pour {0} ({1}),
-290,Did not find any item called {0},N'a pas trouvé d'élément appelé {0},
-291,Did not load,N'a pas été chargé,
-292,Did not remove,N'a pas été retiré,
-293,Did not save,N'a pas été sauvé,
-294,Did not set,N'a pas été défini,
-295,Diesel,Diesel,
-296,Difference (Dr - Cr),Écart (Dr - Cr ),
-297,Difference Amount,Écart de Montant,
-298,Direct Expenses,Dépenses Directes,
-299,Direct Income,Revenu Direct,
-300,Disable,Désactiver,
-301,Disable Customer Signup link in Login page,Désactiver le Lien d'Inscription dans la Page de Connexion,
-302,Disable In Words,"Désactiver ""En Lettres""",
-303,Disable Report,Désactiver Rapport,
-304,Disable Rounded Total,Désactiver le Total Arrondi,
-305,Disable Signup,Désactiver Inscription,
-306,Disable Standard Email Footer,Désactiver le Pied de Page d’Email Standard,
-307,Disabled,Desactivé,
-308,disabled user,Utilisateur Désactivé,
-309,Discount,Remise,
-310,Discount and Margin,Remise et Marge,
-311,Discount must be less than 100,La Remise doit être inférieure à 100,
-312,Discount on Price List Rate (%),Remise sur la Liste des Prix (%),
-313,Discount Percentage,Remise en Pourcentage,
-314,Discussion,Discussion,
-315,Display,Afficher,
-316,Distribution,Distribution,
-317,Distributor,Distributeur,
-318,Dividends Paid,Dividendes Payés,
-319,Divorced,Divorcé,
-320,Do Not Contact,Ne Pas Contacter,
-321,Do not send Emails.,Ne pas envoyer d'e-mails.,
-322,Do not show any symbol like $ etc next to currencies.,"Ne plus afficher le symbole (tel que $, €...) à côté des montants.",
-323,"Do not update, but insert new records.","Ne pas mettre à jour, mais insérer les nouveaux enregistrements.",
-324,Do you really want to restore this scrapped asset?,Voulez-vous vraiment restaurer cet actif mis au rebut?,
-325,Do you really want to scrap this asset?,Voulez-vous vraiment mettre cet actif au rebut?,
-326,Doc Status,Statut du Document,
-327,DocType can only be renamed by Administrator,DocType peut être renommé que par l'Administrateur,
-328,DocType on which this Workflow is applicable.,DocType pour lequel ce Flux de Travail est applicable.,
-329,Document,Document,
-330,Document Name,Nom du Document,
-331,Document Status transition from {0} to {1} is not allowed,Changement de Statut du Document de {0} à {1} n'est pas autorisé,
-332,Document Type,Type de Document,
-333,"document type..., e.g. customer","type de document ..., ex. client",
-334,Document Types,Types de Documents,
-335,Documentation,Documentation,
-336,Documents,Documents,
-337,Documents assigned to you and by you.,Documents attribués à vous et par vous.,
-338,Domain,Domaine,
-339,Domains,Domaines,
-340,Don't send Employee Birthday Reminders,Ne pas envoyer de rappel pour le Jour d'Anniversaire des Employés,
-341,Done,Terminé,
-342,Download,Télécharger,
-343,Download Backups,Télécharger les Sauvegardes,
-344,Download Blank Template,Télécharger un Modèle Vierge,
-345,Download PDF,Télécharger au Format PDF,
-346,Download Template,Télécharger le Modèle,
-347,Download with data,Télécharger avec les données,
-348,Dr,Dr,
-349,Draft,Brouillon,
-350,Drag and Drop tool to build and customize Print Formats.,Outil Glisser/Déposer pour construire et personnaliser les Formats d'Impression.,
-351,Drag elements from the sidebar to add. Drag them back to trash.,Faites glisser les éléments de la barre latérale pour les ajouter. Faites les glisser vers la barre latérale pour les mettre à la corbeille.,
-352,Drag to sort columns,Faites glisser pour trier les colonnes,
-353,Due Date,Date d'Échéance,
-354,Due Date cannot be before Posting Date,La Date d'Échéance ne peut être antérieure à la Date de Comptabilisation,
-355,Due Date is mandatory,La Date d’Échéance est obligatoire,
-356,Duplicate,Dupliquer,
-357,Duplicate name {0} {1},Dupliquer nom {0} {1},
-358,Duplicate Serial No entered for Item {0},Dupliquer N° de Série pour l'Article {0},
-359,Duties and Taxes,Droits de Douane et Taxes,
-360,Dynamic Link,Lien Dynamique,
-361,Discount Amount,Remise,
+All dates and employee combination in the selected period will come in the template, with existing attendance records","Télécharger le modèle, remplissez les données appropriées et joindre le fichier modifié.
+Toutes les dates et employé combiné dans la période choisie viendra dans le modèle, avec les enregistrements de présence existants"
+124,download-alt,Télécharger alt-
+125,Downloading App {0},Téléchargement App {0}
+126,Drop Ship,Drop Ship
+127,Dropbox access is approved!,accès Dropbox est approuvé!
+128,Dropbox Access Key,Dropbox Clé d'accès
+129,Dropbox Access Secret,Dropbox accès secrète
+130,Dropbox Settings,Paramètres Dropbox
+131,Due / Reference Date cannot be after {0},En raison / Date de référence ne peut pas être après {0}
+132,Duplicate customer group found in the cutomer group table,groupe de clients en double trouvé dans le tableau de groupe cutomer
+133,Duplicate entry,dupliquer entrée
+134,Duplicate Entry. Please check Authorization Rule {0},Point {0} n'est pas un objet sérialisé
+135,Duplicate item group found in the item group table,Duplicate groupe article trouvé dans la table de groupe d'articles
+136,Duplicate row {0} with same {1},Pièces de journal {0} sont non liée
+137,Daily,Quotidien
+138,Daily Reminders,Rappels quotidiens
+139,Danger,Danger
+140,Data,Données
+141,Data Import and Export,Importer et exporter des données
+142,Data Import Template,Modèle d'Importation de données
+143,Data Import Tool,Outil d'importation de données
+144,Data missing in table,Données manquantes dans le tableau
+145,Database Engine,Moteur de base de données
+146,Database of potential customers.,Base de données de clients potentiels.
+147,Database Size,Taille de la Base de données
+148,Date,Date
+149,Date and Number Format,Format de date et nombre
+150,Date Format,Format de date
+151,Date is repeated,La date est répétée
+152,Date must be in format: {0},Les dates doivent être au format: {0}
+153,Date of Birth,Date de naissance
+154,Date of Birth cannot be greater than today.,Date de naissance ne peut être ultérieur à aujourd'hui.
+155,Date of Issue,Date d'émission
+156,Date of Joining,Date d'embauche
+157,Date of Joining must be greater than Date of Birth,La date d'embauche doit être supérieure à la date de naissance
+158,Date Of Retirement,Date de départ à la retraite
+159,Date Of Retirement must be greater than Date of Joining,La date de départ en retraite doit être supérieure à date d'embauche
+160,Date Settings,Paramètres de date
+161,Dates are often easy to guess.,Les dates sont souvent faciles à deviner.
+162,Datetime,Datetime
+163,Day,Jour
+164,Day of Week,Jour de la semaine
+165,Days After,Jours suivants
+166,Days Before,Jours précedents
+167,Days Before or After,Jours avant ou après
+168,Days for which Holidays are blocked for this department.,Jours pour lesquels les vacances sont bloqués pour ce département.
+169,Days Since Last Order,Jours depuis la dernière commande
+170,dd-mm-yyyy,jj-mm-aaaa
+171,dd.mm.yyyy,dd.mm.yyyy
+172,dd/mm/yyyy,jj/mm/aaaa
+173,Dealer,Revendeur
+174,Dear,Cher
+175,"Dear System Manager,","Cher System Manager ,"
+176,Debit,Débit
+177,Debit Account,Compte de débit
+178,Debit Amount,Montant du débit
+179,Debit Note,Note de débit
+180,Debtors,Débiteurs
+181,Debtors ({0}),Débiteurs ({0})
+182,Deduct,Déduire
+183,Deduction,Déduction
+184,Deductions,Déductions
+185,Deductions or Loss,Déductions ou perte
+186,Default,Par défaut
+187,Default 10 mins,Par défaut 10 minutes
+188,Default Account,Compte par défaut
+189,Default Address Template cannot be deleted,Adresse modèle par défaut ne peut pas être supprimé
+190,Default Amount,Montant par défaut
+191,Default Bank Account,Compte bancaire par défaut
+192,Default Billing Rate,Prix facturation par défaut
+193,Default BOM,Nomenclature par défaut
+194,Default Buying Cost Center,Centre de coûts d'achat par défaut
+195,Default Buying Price List,Liste des prix d'achat par défaut
+196,Default Cash Account,Compte de trésorerie par défaut
+197,Default Company,Société par défaut
+198,Default Cost Center,Centre de coûts par défaut
+199,Default Costing Rate,Coût de revient par défaut
+200,Default Currency,Devise par défaut
+201,Default Customer Group,Groupe de clients par défaut
+202,Default Expense Account,Compte de dépenses
+203,Default Finished Goods Warehouse,Entrepôt par défaut pour marchandises finies
+204,Default Holiday List,Liste de vacances par défaut
+205,Default Inbox,Boîte de réception par défaut
+206,Default Income Account,Compte d'exploitation
+207,Default Letter Head,En-Tête de courrier par défaut
+208,Default Payable Account,Compte de créances fournisseur par défaut
+209,Default Payable Accounts,Comptes de créances fournisseur par défaut
+210,Default Price List,Liste des prix par défaut
+211,Default Print Format,Format d'impression par défaut
+212,Default Receivable Account,Compte de créances clients par défaut
+213,Default Selling Cost Center,Coût des marchandises vendues
+214,Default Sending,Envoi par défaut
+215,Default Sending and Inbox,Boîte d’envois et de réception
+216,Default settings for accounting transactions.,Paramètres par défaut pour les opérations comptables .
+217,Default settings for buying transactions.,Paramètres par défaut pour les transactions d'achat.
+218,Default settings for selling transactions.,Paramètres par défaut pour les transactions de vente.
+219,Default settings for stock transactions.,Paramètres par défaut pour les mouvements de stock.
+220,Default Supplier,Fournisseur par défaut
+221,Default Terms,Conditions contractuelles par défaut
+222,Default Territory,Région par défaut
+223,Default Unit of Measure,Unité de mesure par défaut
+224,Default Valuation Method,Méthode de valorisation par défaut
+225,Default Value,Valeur par défaut
+226,Default Values,Valeurs Par Défaut
+227,Default Warehouse,Entrepôt par défaut
+228,Default Workstation,Station de travail par défaut
+229,"Default: ""Contact Us""","Par défaut: ""Contactez-nous"""
+230,Defaults,Valeurs par défaut
+231,DefaultValue,Valeur par défaut
+232,Defense,Défense
+233,Define budget for a financial year.,Définir le budget pour un exercice.
+234,Define workflows for forms.,Définir des flux de production pour les formulaires.
+235,Defines workflow states and rules for a document.,Définit états du flux de travail et des règles pour un document.
+236,Delay in payment (Days),Retard de paiement (jours)
+237,Delayed,Différé
+238,Delete,Supprimer
+239,Delete all the Transactions for this Company,Supprimer toutes les transactions pour cette Société
+240,Delete permanently?,Supprimer définitivement?
+241,Delete this record to allow sending to this email address,Supprimer cet enregistrement pour permettre l'envoi à cette adresse Email
+242,Deleted,Supprimé
+243,Delivered,Livré
+244,Delivered Amount,Montant Livré
+245,Delivered By Supplier,Livré par le fournisseur
+246,Delivered by Supplier (Drop Ship),Livré par le Fournisseur (Drop Ship)
+247,Delivered Items To Be Billed,Articles livrés à facturer
+248,Delivered Qty,Qté livrée
+249,Delivered: {0},Livré: {0}
+250,Delivery,Livraison
+251,Delivery Date,Date de livraison
+252,Delivery Details,Détails de la livraison
+253,Delivery Note,Bon de livraison
+254,Delivery Note {0} is not submitted,Bon de livraison {0} n'est pas soumis
+255,Delivery Note {0} must not be submitted,Bon de livraison {0} ne doit pas être soumis
+256,Delivery Note Item,Bon de livraison article
+257,Delivery Note Message,Message du bon de livraison
+258,Delivery Note No,Bon de livraison No
+259,Delivery Note Required,Remarque livraison requise
+260,Delivery Notes {0} must be cancelled before cancelling this Sales Order,Bons de livraison {0} doivent être annulé avant d’effacer cette commande
+261,Delivery Status,Statut de la livraison
+262,Delivery Time,L'heure de la livraison
+263,Delivery To,Livraison à
+264,Delivery Warehouse,Entrepôt de livraison
+265,Delivery warehouse required for stock item {0},Entrepôt de livraison requis pour stockage article {0}
+266,Department,Département
+267,Department Stores,Grands Magasins
+268,Dependent Task,Tâche dépendante
+269,Depends On,Dépend de
+270,Depends on Leave Without Pay,Dépend de congé non payé
+271,Depreciation Schedule,Calendrier d'amortissement
+272,Depreciation Schedules,Calendriers d'amortissement
+273,DESC,DESC
+274,Descending,Descendant
+275,Description,Description
+276,Description for search engine optimization.,Description pour l'optimisation des moteurs de recherche.
+277,Description of a Job Opening,Description d'une ouverture d'emploi
+278,Designation,Désignation
+279,Designer,Designer
+280,Desk,Bureau
+281,Desktop,Bureau
+282,Desktop Background,Fond d'écran du bureau
+283,Desktop Icon,Icône du bureau
+284,Details,Détails
+285,Developer,Développeur
+286,Developer Tools,Outils de développement
+287,Did not add,N'a pas été ajouté
+288,Did not cancel,N'a pas été annulé
+289,Did not find {0} for {0} ({1}),Nous n'avons pas trouvé {0} pour {0} ( {1} )
+290,Did not find any item called {0},N'a pas trouvé d'élément appelé {0}
+291,Did not load,N'a pas été chargé
+292,Did not remove,N'a pas été retirer
+293,Did not save,N'a pas été sauvé
+294,Did not set,N'a pas défini
+295,Diesel,Diesel
+296,Difference (Dr - Cr),Différence (Dr - Cr )
+297,Difference Amount,Différence de montant
+298,Direct Expenses,Dépenses directes
+299,Direct Income,Revenu direct
+300,Disable,Désactiver
+301,Disable Customer Signup link in Login page,Désactiver le lien d'inscription dans la page de connexion
+302,Disable In Words,Désactiver en lettre
+303,Disable Report,Désactiver Rapport
+304,Disable Rounded Total,Désactiver le Total arrondi
+305,Disable Signup,Désactiver Inscription
+306,Disable Standard Email Footer,Désactiver le Pied de Page Email standard
+307,Disabled,Desactivé
+308,disabled user,utilisateur désactivé
+309,Discount,Remise
+310,Discount and Margin,Remise et marge
+311,Discount must be less than 100,La remise doit être inférieure à 100
+312,Discount on Price List Rate (%),Remise sur la liste des prix (%)
+313,Discount Percentage,Remise en pourcentage
+314,Discussion,Discussion
+315,Display,Afficher
+316,Distribution,Distribution
+317,Distributor,Distributeur
+318,Dividends Paid,Dividendes payés
+319,Divorced,Divorcé
+320,Do Not Contact,Ne pas contacter
+321,Do not send Emails.,Ne pas envoyer d'e-mails.
+322,Do not show any symbol like $ etc next to currencies.,"Ne plus afficher le symbole (tel que $, €...) à côté des montants."
+323,"Do not update, but insert new records.","Ne pas mettre à jour, mais insérer les nouveaux enregistrements."
+324,Do you really want to restore this scrapped asset?,Voulez-vous vraiment restaurer cet actif mis au rebut?
+325,Do you really want to scrap this asset?,Voulez-vous vraiment supprimer cet actif?
+326,Doc Status,Statut du document
+327,DocType can only be renamed by Administrator,DocType peut être renommé que par l'administrateur
+328,DocType on which this Workflow is applicable.,DOCTYPE du quel ce flux de travail est applicable.
+329,Document,Document
+330,Document Name,Nom du document
+331,Document Status transition from {0} to {1} is not allowed,Statuts transition du document de {0} à {1} n'est pas autorisé
+332,Document Type,Type de document
+333,"document type..., e.g. customer","type de document ..., ex. client"
+334,Document Types,Types de documents
+335,Documentation,Documentation
+336,Documents,Documents
+337,Documents assigned to you and by you.,Documents attribués à vous et par vous.
+338,Domain,Domaine
+339,Domains,Domaines
+340,Don't send Employee Birthday Reminders,Ne pas envoyer de rappel pour le jour d'anniversaire des employés
+341,Done,Fini
+342,Download,Télécharger
+343,Download Backups,Télécharger sauvegardes
+344,Download Blank Template,Télécharger un modèle vide
+345,Download PDF,Télécharger en format PDF
+346,Download Template,Télécharger le modèle
+347,Download with data,Télécharger avec les données
+348,Dr,Dr
+349,Draft,Brouillon
+350,Drag and Drop tool to build and customize Print Formats.,Outil glisser et déposer pour construire et personnaliser les formats d'impression.
+351,Drag elements from the sidebar to add. Drag them back to trash.,Faites glisser les éléments de la barre latérale à ajouter. Faites glisser les ramener à la corbeille.
+352,Drag to sort columns,Faites glisser pour trier les colonnes
+353,Due Date,Date d'échéance
+354,Due Date cannot be before Posting Date,La date d'échéance ne peut être antérieure Date de publication
+355,Due Date is mandatory,Date d'échéance est obligatoire
+356,Duplicate,Dupliquer
+357,Duplicate name {0} {1},Dupliquer nom {0} {1}
+358,Duplicate Serial No entered for Item {0},Dupliquer N ° de série pour l'article {0}
+359,Duties and Taxes,Frais et taxes
+360,Dynamic Link,Lien dynamique
+361,Discount Amount,S'il vous plaît tirer des articles de livraison Note
