@@ -1,0 +1,654 @@
+,English,Français
+0,Account Info, Information du Compte
+1,Accrual Journal Entry for salaries from {0} to {1}, Accumulation des Journaux d'Écritures pour les salaires de {0} à {1}
+2,Add / Manage Email Domains., Ajouter / Gérer les Noms de Domaines des Emails
+3,Add Employees to Manage Them, Ajouter Employés pour Les Gérer
+4,Add Students, Ajouter des Étudiants
+5,Add the rest of your organization as your users. You can also add invite Customers to your portal by adding them from Contacts, Ajouter le reste de votre organisation en tant qu'utilisateurs. Vous pouvez aussi inviter des Clients sur votre portail en les ajoutant depuis les Contacts
+6,"Add your Employees so you can manage leaves, expenses and payroll","Ajouter vos Employés pour que vous puissiez gérer les congés, notes de frais et fiches de paie"
+7,Addresses And Contacts,Adresses Et Contacts
+8,All Assessment Groups, Tous les Groupes d'Évaluation
+9,All Results,Tous les Résulats
+10,Allow page break inside tables,Autoriser les sauts de page dans les tables
+11,Arrear,Arriéré
+12,"As there are existing transactions against item {0}, you can not change the value of {1}","Comme il existe des transactions avec l'article {0}, vous ne pouvez pas changer la valeur de {1}"
+13,Ask a Feedback,Demander un Retour d'Expérience
+14,Assessment Criteria Group,Groupe de Critère d'Évaluation
+15,Assessment Plan,Plan d'Évaluation
+16,Assessment Plan Criteria,Critères du Plan d'Évaluation
+17,Assessment Result Detail,Détails des Résultats d'Évaluation
+18,Assessment Result Tool,Outil de Résultat d'Évaluation
+19,Auto close Issue after 7 days,Fermer automatique les Questions après 7 jours
+20,Auto close Opportunity after 15 days,Fermer automatiquement les Opportunités après 15 jours
+21,A Lead with this Email Address should exist,Un Prospect avec cette Adresse Email devrait exister
+22,Abbreviation {0} already used for another salary component,L'abréviation {0} est déjà utilisé pour un autre volet salarial
+23,Account balance ({0}) and stock value ({1}) must be same,Le solde du compte ({0}) et la valeur des actions ({1}) doit être le même
+24,Accrual Journal Entry Submitted,Accumulation des Journaux d'Écritures Soumis
+25,Add a column,Ajouter une colonne
+26,Add Custom Column Field,Ajouter un Champ de Colonne Personnalisé
+27,Additional Charges,Frais Supplémentaires
+28,All BOMs,Toutes les LDM
+29,Allow user to edit Rate,Autoriser l'utilisateur à modifier le Taux
+30,Always use Account's Email Address as Sender,Toujours utiliser l'Adresse Email du Compte comme Expéditeur
+31,App {0} removed,App {0} supprimée
+32,Archive,Archiver
+33,Archived Columns,Colonnes Archivées
+34,Are you sure you want to relink this communication to {0}?,Êtes-vous sûr de vouloir relier cette communication à {0}?
+35,Assessment Criteria,Critères d'Évaluation
+36,Authentication Log,Journal d'Authentification
+37,Automatically triggers the feedback request based on conditions.,Déclencher automatiquement la demande de retour d'expérience en fonction des conditions.
+38,Awaiting Password,En attente du Mot de Passe
+39,A Customer Group exists with same name please change the Customer name or rename the Customer Group,BOM récursivité : {0} ne peut pas être le parent ou l'enfant de {2}
+40,A log of request errors,Historique des erreurs de requête
+41,A logical Warehouse against which stock entries are made.,Un Entrepôt logique dans lequel les entrées en stocks sont faites.
+42,A new account has been created for you at {0},Un nouveau compte a été créé pour vous à {0}
+43,"A new task, {0}, has been assigned to you by {1}. {2}","Une nouvelle tâche, {0}, vous a été attribuée par {1}. {2}"
+44,"A Product or a Service that is bought, sold or kept in stock.","Un produit ou un service qui est acheté, vendu ou conservé en stock."
+45,A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission.,Un tiers distributeur / commerçant / commissionnaire / affilié / revendeur qui vend les produits de l'entreprise en échange d'une commission.
+46,"A user with ""Expense Approver"" role","Un utilisateur avec le rôle ""Autorise les dépenses"""
+47,A word by itself is easy to guess.,Un mot unique est facile à deviner.
+48,A-,A-
+49,A+,A +
+50,A4,A4
+51,AB-,AB-
+52,AB+,AB+
+53,Abbr,Abréviation
+54,Abbr can not be blank or space,Abré. ne peut être vide ou contenir un espace
+55,Abbreviation,Abréviation
+56,Abbreviation already used for another company,Abréviation déjà utilisé pour une autre société
+57,Abbreviation cannot have more than 5 characters,L'abbréviation ne peut pas avoir plus de 5 caractères
+58,Abbreviation is mandatory,Abréviation est obligatoire
+59,About,À propos
+60,About Us Settings,Paramètrages À propos
+61,About Us Team Member,À propos du membre de l'équipe
+62,Above,Au dessus
+63,Absent,Absent
+64,Absent Student Report,Rapport des Absences
+65,Academic,Académique
+66,Academic Term,Terme Académique
+67,Academic Year,Année Académique
+68,Academic Year Name,Nom de l'année académique
+69,Academics User,Utilisateur académique
+70,Accept Payment,Accepter Paiement
+71,Acceptance Criteria,Critères d'acceptation
+72,Accepted + Rejected Qty must be equal to Received quantity for Item {0},La quantité acceptée + rejetée doit être égale à la quantité reçue pour l'article {0}
+73,Accepted Quantity,Quantité acceptés
+74,Accepted Warehouse,Entrepôt accepté
+75,Account {0} does not belong to company: {1},Compte {0} n'appartient pas à la société : {1}
+76,Account {0} does not belongs to company {1},Le compte {0} n'appartient pas à la société {1}
+77,Account {0} does not exists,Le compte {0} ne existe pas
+78,Account {0} has been entered multiple times,Le compte {0} a été entré plusieurs fois
+79,Account {0} is frozen,Le compte {0} est gelé
+80,Account {0} is invalid. Account Currency must be {1},Le compte {0} est invalide. La devise du compte doit être {1}
+81,Account {0}: Parent account {1} can not be a ledger,Compte {0}: Le Compte parent {1} ne peut pas être un grand livre
+82,Account {0}: Parent account {1} does not belong to company: {2},Compte {0}: le compte parent {1} n'appartient pas à l'entreprise: {2}
+83,Account {0}: Parent account {1} does not exist,Compte {0}: Le Compte parent {1} n'existe pas
+84,Account {0}: You can not assign itself as parent account,Compte {0}: Vous ne pouvez pas assigner un compte comme son propre parent
+85,Account Balance,Solde du compte
+86,"Account balance already in Credit, you are not allowed to set 'Balance Must Be' as 'Debit'","Le solde du compte est déjà en crédit, vous n'êtes pas autorisé à mettre en 'Doit être en équilibre' comme 'débit'"
+87,"Account balance already in Debit, you are not allowed to set 'Balance Must Be' as 'Credit'","Le solde du compte est déjà en débit, vous n'êtes pas autorisé à définir 'Doit être en équilibre' comme 'Crédit'"
+88,Account Currency,Compte Devise
+89,Account does not match with Company,Compte ne correspond pas avec la société
+90,Account for Change Amount,Compte pour le Rendu de Monnaie
+91,Account for the warehouse (Perpetual Inventory) will be created under this Account.,Compte de l'entrepôt ( de l'inventaire permanent ) sera créé sous ce compte .
+92,Account Head,Responsable du compte
+93,Account head {0} created,Responsable du compte {0} a été crée
+94,Account Name,Nom du compte
+95,Account Paid From,Compte payé du
+96,Account Paid To,Compte payé au
+97,Account Pay Only,Compte Bénéficiaire Seulement
+98,Account Type,Type de compte
+99,Account Type for {0} must be {1},Le type de compte pour {0} doit être {1}
+100,Account with child nodes cannot be converted to ledger,Un compte avec des enfants ne peut pas être converti en grand livre
+101,Account with child nodes cannot be set as ledger,Les comptes avec des nœuds enfants ne peuvent pas être défini comme grand livre
+102,Account with existing transaction can not be converted to group.,Un compte contenant une transaction ne peut pas être converti en groupe
+103,Account with existing transaction can not be deleted,Un compte contenant une transaction ne peut pas être supprimé
+104,Account with existing transaction cannot be converted to ledger,Un compte contenant une transaction ne peut pas être converti en grand livre
+105,Account: {0} can only be updated via Stock Transactions,Compte: {0} ne peut être mis à jour via les transactions boursières
+106,Account: {0} with currency: {1} can not be selected,Compte: {0} avec la devise: {1} ne peut pas être sélectionné
+107,Accountant,Comptable
+108,Accounting Details,Détails Comptabilité
+109,Accounting Entries,Écritures comptables
+110,Accounting entries have already been made in currency {0} for company {1}. Please select a receivable or payable account with currency {0}.,Des écritures comptables ont déjà été réalisées en devise {0} pour la société {1}. Veuillez sélectionner un compte de crédit ou de débit  en devise {0}.
+111,Accounting Entry for {0}: {1} can only be made in currency: {2},Entrée comptable pour {0}: {1} ne peut être effectuée qu'en devise: {2}
+112,Accounting Entry for Stock,Entrée comptable pour Stock
+113,"Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.","Les entrées comptable sont gelées jusqu'à cette date, personne ne peut ajouter / modifier les entrées sauf le(s) rôle(s) spécifié ci-dessous."
+114,Accounting journal entries.,Les écritures comptables.
+115,Accounting Ledger,Livre des comptes
+116,Accounting Statements,Déclarations comptables
+117,Accounts,Comptes
+118,Accounts Browser,Navigateur des comptes
+119,Accounts Frozen Upto,Comptes gelés jusqu'au
+120,Accounts Manager,Gestionnaire de comptes
+121,Accounts Payable,Comptes à payer
+122,Accounts Payable Summary,Le résumé des comptes à payer
+123,Accounts Receivable,Débiteurs
+124,Accounts Receivable Summary,Le résumé de comptes débiteurs
+125,Accounts table cannot be blank.,Le tableau de comptes ne peut être vide.
+126,Accounts User,Comptes utilisateur
+127,accounts-browser,Navigateur de Comptes
+128,Accumulated Depreciation,Dépréciation accumulée
+129,Accumulated Depreciation Account,Compte d'amortissements cumulé
+130,Accumulated Depreciation Amount,Montant d'amortissement cumulé
+131,Accumulated Depreciation as on,Amortissement Accumulé depuis
+132,Accumulated Monthly,Cumul Mensuel
+133,Accumulated Values,Les valeurs accumulées
+134,Achieved,Atteint
+135,Achievement,Réalisation
+136,Acquisition Date,Date d'Aquisition
+137,Action Failed,Échec de l'action
+138,Action if Accumulated Monthly Budget Exceeded,Action si le Budget Mensuel Cumulé est Dépassé
+139,Action if Annual Budget Exceeded,Action si le budget annuel est dépassé
+140,"Actions for workflow (e.g. Approve, Cancel).","Actions pour le flux de travail (par exemple approuver, annuler ) ."
+141,Active,Actif
+142,Active Leads / Customers,Pistes ouverte / Clients actifs
+143,Activity Cost,Coût des Activités
+144,Activity Cost exists for Employee {0} against Activity Type - {1},Des Coûts d'Activité existent pour l'Employé {0} pour le Type d'Activité - {1}
+145,Activity Cost per Employee,Coût de l'activité par employé
+146,Activity Log,Journal d'activité
+147,Activity log of all users.,Journal d'activité de tous les utilisateurs.
+148,Activity Log:,Journal d'activité:
+149,Activity Type,Type d'activité
+150,Actual,Réel
+151,Actual Date,Date Réelle
+152,Actual End Date,Date de fin réelle
+153,Actual End Date (via Time Sheet),Date de fin réelle (via la feuille de temps)
+154,Actual End Time,Fin du temps réel
+155,Actual Operating Cost,Coût de fonctionnement réel
+156,Actual Operation Time,Temps Opérationnel Réel
+157,Actual Qty,Quantité réelle
+158,Actual Qty (at source/target),Quantité réelle (à la source / cible)
+159,Actual Qty After Transaction,Quantité réelle après transaction
+160,Actual Qty is mandatory,Quantité réelle est obligatoire
+161,Actual Quantity,Quantité réelle
+162,Actual Start Date,Date de début réelle
+163,Actual Start Date (via Time Sheet),Date de début réelle (via la feuille de temps)
+164,Actual Start Time,Heure de début réelle
+165,Actual Time (in Hours),Temps réel (en heures)
+166,Actual Time and Cost,Temps réel et coût
+167,Actual type tax cannot be included in Item rate in row {0},Le type de taxe réel ne peut pas être inclus dans le prix de l'article à la ligne {0}
+168,Acutal Qty {0} / Waiting Qty {1},Quantité réelle {0} / Quantité en attente {1}
+169,Acutal qty in stock,Qté réelle en stock
+170,Add,Ajouter
+171,Add / Edit Prices,Ajouter / Modifier Prix
+172,Add / Edit Taxes and Charges,Ajouter / Modifier Taxes et Charges
+173,Add / Manage Email Accounts.,Ajouter / Gérer les comptes de messagerie.
+174,Add a comment,Ajouter un commentaire
+175,Add a few sample records,Ajouter quelque exemple de dossier
+176,Add A New Restriction,Ajouter une nouvelle restriction
+177,Add a New Role,Ajouter un nouveau rôle
+178,Add A New Rule,Ajouter une nouvelle règle
+179,Add a tag,Ajouter un tag
+180,Add A User Restriction,Ajouter une restriction de l'utilisateur
+181,Add all roles,Ajouter tous les rôles
+182,Add Another Comment,Ajouter un autre commentaire
+183,Add Attachment,Ajouter une Pièce Jointe
+184,Add Child,Ajouter une sous-categorie
+185,Add code as <script>,Ajoutez le code en tant que <script>
+186,Add Column,Ajouter une colonne
+187,Add Comment,Ajouter un commentaire
+188,Add custom forms.,Ajouter des formulaires personnalisés.
+189,Add custom javascript to forms.,Ajouter du code javascript aux formulaires.
+190,Add Employees,Ajouter des Employés
+191,Add fields to forms.,Ajouter des champs aux formulaires .
+192,Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information.,Ajouter l'identifiant de Google Analytics: par ex. UA-89XXX57-1. Veuillez chercher de l'aide sur Google Analytics pour plus d'informations.
+193,Add Item,Ajouter un article
+194,Add Items,Ajouter des articles
+195,Add items from,Ajouter des articles de
+196,Add more items or open full form,Ajouter plus d'articles ou ouvrir le formulaire complet
+197,Add multiple rows,Ajouter plusieurs lignes
+198,Add New Permission Rule,Ajouter une nouvelle règle d'autorisation
+199,Add new row,Ajouter une nouvelle ligne
+200,Add or Deduct,Ajouter ou déduire
+201,Add Quote,Ajouter Citer
+202,Add Row,Ajouter une rangée
+203,Add Serial No,Ajouter Numéro de série
+204,Add Signature,Ajouter Signature
+205,Add Subscribers,Ajouter abonnés
+206,Add Taxes,Ajouter impôts
+207,"Add the name of a ""Google Web Font"" e.g. ""Open Sans""","Ajouter le nom d'une ""Google Web Font"" par exemple ""Open Sans"""
+208,Add to calendar on this date,Ajouter cette date au calendrier
+209,Add to Desktop,Ajouter au bureau
+210,Add to Knowledge Base,Ajouter à la Base de Connaissances
+211,Add Total Row,Ajouter une ligne totale
+212,Add unused leaves from previous allocations,Ajouter les congés inutilisés des précédentes allocations
+213,Add Users,Ajouter des utilisateurs
+214,"Add users to your organization, other than yourself","Ajouter des utilisateurs à votre organisation, autre que vous-même"
+215,Add your own Tag Categories,Ajoutez vos propres Catégories d'Étiquettes
+216,Add your own translations,Ajoutez vos propres traductions
+217,Add/Remove Recipients,Ajouter / supprimer des destinataires
+218,Added,Ajouté
+219,Added {0},Ajouté {0}
+220,Added {0} ({1}),Ajouté {0} ({1})
+221,"Added HTML in the <head> section of the web page, primarily used for website verification and SEO","HTML ajouté dans la section   de la page web, utilisé principalement pour la vérification de site et le référencement"
+222,Adding System Manager to this User as there must be atleast one System Manager,Ajout du rôle System Manager pour l'utilisateur car il doit y avoir au moins un System Manager
+223,Additional Cost,Supplément
+224,Additional Costs,Coûts additionels
+225,Additional Details,Détails supplémentaires
+226,Additional Discount,Remise supplémentaires
+227,Additional Discount Amount,Montant de réduction supplémentaire
+228,Additional Discount Amount (Company Currency),Montant de réduction supplémentaire (devise Société)
+229,Additional Discount Percentage,Pourcentage de réduction supplémentaire
+230,Additional information regarding the customer.,Informations supplémentaires concernant le client.
+231,Additional Operating Cost,Coût de fonctionnement supplémentaires
+232,Additional Permissions,autorisations supplémentaires
+233,Address,Adresse
+234,Address & Contact,Adresse et coordonnées
+235,Address & Contacts,Adresse & Coordonnées
+236,Address and Contact,Adresse et contact
+237,Address and Contacts,Adresse et contacts
+238,Address and other legal information you may want to put in the footer.,Adresse et autres informations juridiques que vous voudriez mettre dans le pied de page.
+239,Address Desc,Adresse Desc
+240,Address HTML,Adresse HTML
+241,Address Line 1,Adresse ligne 1
+242,Address Line 2,Adresse ligne 2
+243,Address Template,Modèle d'adresse
+244,Address Title,Titre de l'adresse
+245,Address Title is mandatory.,Le titre de l'adresse est obligatoire
+246,Address Type,Type d'adresse
+247,Addresses,Adresses
+248,Adds a custom field to a DocType,Ajoute un champ personnalisé à un DocType
+249,Adds a custom script (client or server) to a DocType,Ajoute un script personnalisé (client ou serveur) à un DocType
+250,adjust,paramétrer
+251,Administrative Expenses,Dépenses administratives
+252,Administrative Officer,Agent administratif
+253,Administrator,Administrateur
+254,Administrator accessed {0} on {1} via IP Address {2}.,L'administrateur a accedé à {0} sur {1} avec l'adresse IP {2}.
+255,Administrator Logged In,Administrateur connecté
+256,Admission,Admission
+257,Admission End Date,Date de fin de l'Admission
+258,Admission Start Date,Date de début de l'Admission
+259,Admissions for {0},Admissions pour {0}
+260,Admitted,Admis
+261,Advance Amount,Montant de l'avance
+262,Advance amount cannot be greater than {0} {1},Montant de l'avance ne peut être supérieur à {0} {1}
+263,Advance Paid,Acompte payée
+264,"Advance paid against {0} {1} cannot be greater \
+						than Grand Total {2}",L'avance versée pour {0} {1} ne peut être supérieure \ au Total Général {2}
+265,Advance Payments,Paiements anticipés
+266,Advanced,Avancé
+267,Advanced Search,Recherche avancée
+268,Advances,Avances
+269,Advertising,publicité
+270,Aerospace,aérospatial
+271,After payment completion redirect user to selected page.,"Le paiement terminé, rediriger l'utilisateur vers la page sélectionnée."
+272,Against,Contre
+273,Against Account,Sur le compte
+274,Against Docname,Contre docName
+275,Against Doctype,Contre Doctype
+276,Against Document Detail No,Sur le détail du document n°
+277,Against Document No,Sur le document n °
+278,Against Expense Account,Sur le compte des dépenses
+279,Against Income Account,Sur le compte des revenus
+280,Against Journal Entry {0} does not have any unmatched {1} entry,L'Écriture de Journal {0} n'a pas d'entrée non associée {1}
+281,Against Journal Entry {0} is already adjusted against some other voucher,L'Écriture de Journal {0} est déjà ajustée par un autre bon
+282,Against Sales Invoice,Sur la facture de vente
+283,Against Sales Invoice Item,Pour l'Article de la Facture de Vente
+284,Against Sales Order,Sur la commande
+285,Against Sales Order Item,Pour l'Article de la Commande Client
+286,Against Supplier Invoice {0} dated {1},Sur le fournisseur de la facture {0} datée  {1}
+287,Against Voucher,Sur le bon
+288,Against Voucher Type,Sur le type de bon
+289,Age,Âge
+290,Age (Days),Âge (jours)
+291,Ageing Based On,Basé sur le vieillissement
+292,Ageing Range 1,Gamme de vieillissement 1
+293,Ageing Range 2,Gamme de vieillissement 2
+294,Ageing Range 3,Gamme de vieillissement 3
+295,Agent,Agent
+296,"Aggregate group of **Items** into another **Item**. This is useful if you are bundling a certain **Items** into a package and you maintain stock of the packed **Items** and not the aggregate **Item**. 
+
+The package **Item** will have ""Is Stock Item"" as ""No"" and ""Is Sales Item"" as ""Yes"".
+
+For Example: If you are selling Laptops and Backpacks separately and have a special price if the customer buys both, then the Laptop + Backpack will be a new Product Bundle Item.
+
+Note: BOM = Bill of Materials","Regroupement d' **Articles** dans un autre **Article**. Ceci est utile si vous regroupez certains **Articles** dans un lot et que vous maintenez l'inventaire des **Articles** du lot et non de l'**Article** composé. L'**Article** composé aura ""Article En Stock"" à ""Non"" et ""Article À Vendre"" à ""Oui"". Exemple : Si vous vendez des Ordinateurs Portables et Sacs à Dos séparément et qu'il y a un prix spécial si le client achète les deux, alors l'Ordinateur Portable + le Sac à Dos sera un nouveau Produit Groupé. Remarque: LDM = Liste
+Des Matériaux"
+297,Agriculture,agriculture
+298,Airline,compagnie aérienne
+299,Align Labels to the Left,Aligner les Étiquettes à Gauche
+300,Align Value,Aligner la Valeur
+301,align-center,Centrer
+302,align-justify,alignement justifier
+303,align-left,alignement à gauche
+304,align-right,aligner à droite
+305,All,Tous
+306,All Addresses.,Toutes les adresses.
+307,All Contact,Tout contact
+308,All Contacts.,Tous les contacts.
+309,All Customer Contact,Tous les contacts clients
+310,All Customer Groups,Tous les groupes client
+311,All customizations will be removed. Please confirm.,Toutes les personnalisations seront supprimés. Veuillez confirmer.
+312,All Day,Toute la journée
+313,All Employee (Active),Tous les employés (Actif)
+314,All Item Groups,Tous les groupes d'article
+315,All items have already been invoiced,Tous les articles ont déjà été facturés
+316,All items have already been transferred for this Production Order.,Tous les éléments ont déjà été transférés pour cet ordre de production.
+317,All Jobs,Tous les emplois
+318,All Lead (Open),Toutes les pistes (Ouvertes)
+319,"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Tous les États et Rôles possibles du Flux de Travail. Options de Statut du Document : 0 est ""Enregistré"", 1 est ""Soumis"" et 2 est ""Annulé"""
+320,All Posts,Tous les Messages
+321,All Products or Services.,Tous les produits ou services.
+322,All Sales Partner Contact,Tous les contacts des partenaires commerciaux
+323,All Sales Person,Tous les commerciaux
+324,All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,Toutes les opérations de vente peuvent être assignées à plusieurs **Agent Commerciaux** de sorte que vous pouvez configurer et surveiller les cibles.
+325,All Student Admissions,Toutes les admissions des étudiants
+326,All Students,Tous les étudiants
+327,All Supplier Contact,Tous les contacts fournisseur
+328,All Supplier Types,Tous les types de fournisseurs
+329,All Territories,Tous les secteurs
+330,All these items have already been invoiced,Tous ces articles ont déjà été facturés
+331,All Warehouses,Tous les entrepôts
+332,All-uppercase is almost as easy to guess as all-lowercase.,Tout en majuscules est presque aussi facile à deviner que tout en minuscules.
+333,Allocate,Allouer
+334,Allocate leaves for a period.,Compte temporaire ( actif)
+335,Allocate leaves for the year.,Allouer des congés pour l'année.
+336,Allocate Payment Amount,Montant du Paiement Alloué
+337,Allocated,Alloué
+338,Allocated amount,Montant alloué
+339,Allocated amount can not be negative,Le montant alloué ne peut être négatif
+340,Allocated amount can not greater than unadjusted amount,Montant alloué ne peut pas plus grande que le montant non ajusté
+341,Allocated To,Attribué à
+342,Allocations,Allocations
+343,Allow Comments,Autoriser les commentaires
+344,Allow Delete,Autoriser la suppression
+345,Allow Dropbox Access,Autoriser l'accès au Dropbox
+346,Allow Edit,Autoriser la modification
+347,Allow field to remain editable even after submission,"Autoriser la modification, même après la soumission"
+348,Allow Import,Permettre l'importation
+349,Allow Import via Data Import Tool,Autoriser l'importation via l'outil d'importation de données
+350,Allow Incomplete Forms,Autoriser les formulaires incomplets
+351,Allow Item to be added multiple times in a transaction,Autorisera l'article a être ajouté à plusieurs reprises dans une transaction
+352,Allow Multiple,Autoriser plusieurs
+353,Allow multiple Sales Orders against a Customer's Purchase Order,Autoriser plusieurs Commandes Clients pour un Bon de Commande d'un Client
+354,Allow Negative Balance,Autoriser un solde négatif
+355,Allow Negative Stock,Autoriser un stock négatif
+356,Allow on Submit,Permettre de Soumettre
+357,Allow only one session per user,Autoriser une seule session par utilisateur
+358,Allow over delivery or receipt upto this percent,Autoriser le dépassement des capacités livraison ou de réception jusqu'à ce pourcentage
+359,Allow Overtime,Autoriser heures supplémentaires
+360,Allow Print,Autoriser l'Impression
+361,Allow Print for Cancelled,Autoriser l'impression si Annulé
+362,Allow Print for Draft,Autoriser l'impression si Brouillon
+363,Allow Production on Holidays,Autoriser la production pendant les vacances
+364,Allow Rename,Permettre de Renommer
+365,Allow saving if mandatory fields are not filled,Autoriser l'enregistrement si les champs obligatoires ne sont pas remplis
+366,Allow the following users to approve Leave Applications for block days.,Autoriser les utilisateurs suivants à approuver les Demandes de Congés durant les jours bloqués.
+367,Allow User,Permettre à l'utilisateur
+368,Allow user to edit Price List Rate in transactions,Permettre à l'utilisateur d'éditer la liste des prix lors d'une transactions
+369,Allow user to login only after this hour (0-24),Permettre à l'utilisateur de se connecter seulement après cette heure (0-24)
+370,Allow user to login only before this hour (0-24),Permettre à l'utilisateur de se connecter seulement avant cette heure (0-24)
+371,Allow Users,Autoriser les utilisateurs
+372,Allowed,Authorisé
+373,"Allowing DocType, DocType. Be careful!","Autorisation de DocType, DocType. Soyez prudent !"
+374,Already completed,Déjà terminé
+375,Already in user's To Do list,Déjà dans la liste des tâches de l'utilisateur
+376,Already Registered,Déjà inscrit
+377,Alternate Number,Autre numéro
+378,"Always add ""Draft"" Heading for printing draft documents","Toujours ajouter ""Brouillon"" pour l'impression des documents brouillons"
+379,AMC Expiry Date,Date d'Expiration CMA
+380,Amend,Modifier
+381,Amended From,Modifié depuis
+382,Amending,Amendement
+383,Amount,Montant
+384,Amount (Company Currency),Montant (Devise de la Société)
+385,Amount {0} {1} {2} {3},Montant {0} {1} {2} {3}
+386,Amount {0} {1} against {2} {3},Montant {0} {1} contre {2} {3}
+387,Amount {0} {1} deducted against {2},Montant {0} {1} déduit de {2}
+388,Amount {0} {1} transferred from {2} to {3},Montant {0} {1} transféré de {2} à {3}
+389,Amount After Depreciation,Montant Après Amortissement
+390,Amount Based On Field,Montant Basé sur le Champ
+391,Amount based on formula,Montant basé sur la formule
+392,Amount Difference,Différence de Montant
+393,Amount Field,Champ du Montant
+394,Amount in customer's currency,Montant dans la devise du client
+395,Amount In Figure,Montant En Chiffre
+396,Amount must be greater than 0.,Le montant doit être supérieur à 0.
+397,Amount Paid,Le montant payé
+398,Amount to Bill,Montant à facturer
+399,Amount to Deliver,Nombre à livrer
+400,Amt,Amt
+401,An academic term with this 'Academic Year' {0} and 'Term Name' {1} already exists. Please modify these entries and try again.,Une période universitaire avec cette 'Année Universitaire' {0} et 'Nom de la Période' {1} existe déjà. Veuillez modifier ces entrées et essayer à nouveau.
+402,An Customer exists with same name,Il existe un client avec le même nom
+403,An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org],Un fichier d'icône avec l’extension .ico. Devrait être 16 x 16 px. Générez en utilisant un générateur de favicon. [favicon-generator.org]
+404,"An item exists with same name ({0}), please change the item group name or rename the item","Un article existe avec le même nom ({0}), changez le groupe de l'article ou renommez l'article SVP"
+405,"An Item Group exists with same name, please change the item name or rename the item group","Un groupe d'article existe avec le même nom, changez le nom de l'article ou renommez le groupe d'article SVP"
+406,Analyst,analyste
+407,Analytics,Analytique
+408,and,et
+409,Announcement,Annonce
+410,Annual,Annuel
+411,Annual Billing: {0},Facturation Annuelle : {0}
+412,Annual Expenses,Dépenses Annuelles
+413,Annual Income,Revenu annuel
+414,Annual Salary,Salaire Annuel
+415,"Another {0} with name {1} exists, select another name","Un autre {0} avec le nom {1} existe, choisir un autre nom"
+416,Another Budget record '{0}' already exists against {1} '{2}' for fiscal year {3},Un autre enregistrement de Budget '{0}' existe déjà pour {1} '{2}' pour l'exercice {3}
+417,Another Period Closing Entry {0} has been made after {1},Une autre entrée de clôture de la période {0} a été faite après {1}
+418,Another Sales Person {0} exists with the same Employee id,Un autre Sales Person {0} existe avec le même ID d'employé
+419,Another transaction is blocking this one. Please try again in a few seconds.,Une autre transaction bloque celui-ci. Essayez de nouveau dans quelques secondes.
+420,Any existing permission will be deleted / overwritten.,Toute autorisation existante sera supprimée / écrasée.
+421,"Any other remarks, noteworthy effort that should go in the records.","Toute autre remarque, effort remarquable qui devrait aller dans les dossiers."
+422,AP,AP
+423,"Apart from Role based Permission Rules, you can apply User Permissions based on DocTypes.","Outre les Règles d'Autorisation basées sur un Rôle, vous pouvez appliquer des Autorisations Utilisateurs basées sur des DocTypes."
+424,"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type.","En dehors du Responsable Système, les rôles avec le droit ""Définir les Autorisations des Utilisateurs"" peut définir des autorisations pour d'autres utilisateurs pour ce Type de Document."
+425,API Key,Clé API
+426,API Password,Mot de passe API
+427,API Secret,Secret API
+428,API Username,Nom d'Utilisateur API
+429,App,App
+430,App {0} is not installed,App {0} n'est pas installé
+431,App Access Key,Clé d'Accès de l'App
+432,App Client ID,ID Client de l'App
+433,App Client Secret,Secret Client de l'App
+434,App Installer,Installeur d'applications
+435,App Name,Nom de l'application
+436,App not found,Application introuvable
+437,App Secret Key,Clé Secrète de l'App
+438,Apparel & Accessories,Vêtements & Accessoires
+439,"Append as communication against this DocType (must have fields, ""Status"", ""Subject"")","Ajouter en tant que communication pour ce DocType (doit avoir des champs, ""État"", ""Objet"")"
+440,Append To,Ajouter à
+441,Append To can be one of {0},Ajouter À peut être l'un des {0}
+442,Append To is mandatory for incoming mails,Ajouter À est obligatoire pour les mails entrants
+443,Applicable Charges,Frais applicables
+444,Applicable For,Applicable pour
+445,Applicable for Countries,Applicable pour les pays
+446,Applicable for User,Applicable pour l'utilisateur
+447,Applicable Holiday List,Liste de vacances applicable
+448,Applicable To (Designation),Applicable À (Désignation)
+449,Applicable To (Employee),Applicable À (Employé)
+450,Applicable To (Role),Applicable À (Rôle)
+451,Applicable To (User),Applicable à (Utilisateur)
+452,Applicant for a Job,Candidat à un emploi
+453,Applicant for a Job.,Candidat à un emploi.
+454,Applicant Name,Nom du demandeur
+455,Application Date,Date de la demande
+456,Application Fee,Frais de Dossier
+457,Application Form Route,Chemin du Formulaire de Candidature
+458,Application Installer,Installer des applications
+459,Application of Funds (Assets),utilisation des fonds (Actifs)
+460,Application period cannot be across two alocation records,La période de la demande ne peut pas être sur deux dossiers d'allocation
+461,Application period cannot be outside leave allocation period,La période de la demande ne peut pas être hors de la période d'allocation de congé
+462,Application Status,État de la Demande
+463,Applications for leave.,Les demandes de congé.
+464,Applied,Appliqué
+465,Applies to Company,S'applique à la société
+466,Apply / Approve Leaves,Appliquer / Approuver les congés
+467,Apply Additional Discount On,Appliquer une remise supplémentaire sur
+468,Apply Discount,Appliquer Réduction
+469,Apply Discount On,Appliquer Réduction Sur
+470,Apply Now,Appliquer maintenant
+471,Apply On,Appliquer sur
+472,Apply Rule,Appliquer la règle
+473,Apply Style,Appliquer le style
+474,Apply Text Styles,Appliquer les styles de texte
+475,Apply this rule if the User is the Owner,Appliquer cette règle si l'utilisateur est le propriétaire
+476,Apply User Permissions,Appliquer les autorisations utilisateurs
+477,Appraisal,Évaluation
+478,Appraisal {0} created for Employee {1} in the given date range,Évaluation {0} créée pour l'Employé {1} dans l'intervalle de dates donné
+479,Appraisal Goal,Objectif d'évaluation
+480,Appraisal Template,Modèle d'évaluation
+481,Appraisal Template Goal,But du modèle d'évaluation
+482,Appraisal Template Title,Titre du modèle d'évaluation
+483,Appraisals,Évaluation
+484,Apprentice,Apprenti
+485,Approval Status,Statut d'approbation
+486,Approval Status must be 'Approved' or 'Rejected',Le statut d'approbation doit être 'Approuvé' ou 'Rejeté'
+487,Approve,Approuver
+488,Approved,Approuvé
+489,Approver,Approbateur
+490,Approving Role (above authorized value),Rôle Approbateur (valeurs autorisées ci-dessus)
+491,Approving Role cannot be same as role the rule is Applicable To,Le Rôle Approbateur ne peut pas être identique au rôle dont la règle est Applicable
+492,Approving User  (above authorized value),Utilisateur Approbateur (valeurs autorisées ci-dessus)
+493,Approving User cannot be same as user the rule is Applicable To,L'Utilisateur Approbateur ne peut pas être identique à l'utilisateur dont la règle est Applicable
+494,APRSL,EVAL
+495,Archived,Archivé
+496,Are you sure you want to delete the attachment?,Êtes-vous sûr de vouloir supprimer la pièce jointe?
+497,Arial,Arial
+498,arrow-down,flèche bas
+499,arrow-left,flèche gauche
+500,arrow-right,flèche-droite
+501,arrow-up,flèche-haut
+502,"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.",La meilleure pratique est de ne pas attribuer le même ensemble de règle d'autorisation pour différents Rôles. Définissez plutôt plusieurs Rôles à un même utilisateur.
+503,As on Date,Comme la date
+504,As per Stock UOM,Selon UDM du Stock
+505,ASC,ASC
+506,Ascending,Ascendant
+507,Assessment,Évaluation
+508,Assessment Code,Code de l'Évaluation
+509,Assessment Group,Groupe d'Évaluation
+510,Assessment Group Name,Nom du Groupe d'Évaluation
+511,Assessment Name,Nom de l'Évaluation
+512,Assessment Result,Résultat de l'Évaluation
+513,Asset,Actif
+514,"Asset {0} cannot be scrapped, as it is already {1}","L'actif {0} ne peut pas être mis au rebut, car il est déjà {1}"
+515,Asset {0} does not belong to company {1},L'actif {0} ne fait pas partie à la société {1}
+516,Asset {0} must be submitted,L'actif {0} doit être soumis
+517,"Asset cannot be cancelled, as it is already {0}","L'actif ne peut être annulé, car il est déjà {0}"
+518,Asset Category,Catégorie d'actif
+519,Asset Category Account,Compte de Catégorie d'Actif
+520,Asset Category is mandatory for Fixed Asset item,Catégorie d'Actif est obligatoire pour l'article Immobilisé
+521,Asset Category Name,Nom de Catégorie d'Actif
+522,Asset Depreciation Cost Center,Centre de Coûts de l'Amortissement d'Actifs
+523,Asset Depreciation Ledger,Livre d'Amortissements d'Actifs
+524,Asset Depreciations and Balances,Amortissements et Soldes d'Actif
+525,Asset Movement,Mouvement d'Actif
+526,Asset Movement record {0} created,Registre de Mouvement de l'Actif {0} créé
+527,Asset Name,Nom de l'Actif
+528,Asset scrapped via Journal Entry {0},Actif mis au rebut via Écriture de Journal {0}
+529,Assign,Assigner
+530,Assign a permission level to the field.,Attribuer un niveau d'autorisation sur le terrain.
+531,Assign To,Attribuer à
+532,Assign to me,Attribuer à moi
+533,Assigned,Attribué
+534,Assigned By,Attribué par
+535,Assigned By Full Name,Assigné Par Nom complet
+536,Assigned By Me,Assigné par moi
+537,Assigned To,assignée à
+538,Assigned to {0}: {1},Assigné à {0}: {1}
+539,Assigned To Me,Attribué à moi
+540,Assigned To/Owner,Assigné à / Propriétaire
+541,Assignment,Affectation
+542,Assignment closed by {0},Affectation fermé par {0}
+543,Assignment Complete,Terminer l'affectation
+544,Assignment Completed,Affectation terminée
+545,Associate,associé
+546,asterisk,astérisque
+547,Async Task,Tâche Async
+548,At least one mode of payment is required for POS invoice.,Au moins un mode de paiement est nécessaire pour une facture de PDV
+549,Atleast one item should be entered with negative quantity in return document,Au moins un article doit être saisi avec quantité négative dans le document de retour
+550,Atleast one of the Selling or Buying must be selected,Au moins une vente ou achat doit être sélectionné
+551,Atleast one warehouse is mandatory,Au moins un entrepôt est obligatoire
+552,ATT-,ATT-
+553,Attach,Joindre
+554,"Attach .csv file with two columns, one for the old name and one for the new name","Attacher un fichier .csv avec deux colonnes, une pour l'ancien nom et une pour le nouveau nom"
+555,Attach Document Print,Joindre l'Impression de Document
+556,Attach File,Joindre un fichier
+557,Attach Image,Joindre l'image
+558,Attach Letterhead,Joindre l'entête
+559,Attach Logo,Joindre le logo
+560,Attach Print,Joindre l'Impression
+561,Attach Your Picture,Joindre votre photo
+562,Attached To DocType,Joint au DocType
+563,Attached To Name,Joint au nom
+564,Attachment,Pièce jointe
+565,Attachment Limit (MB),Taille maximale de la pièce jointe (MB)
+566,Attachment Removed,Pièce jointe retirée
+567,Attachments,Pièces jointes
+568,Attendance,Présence
+569,Attendance can not be marked for future dates,La présence ne peut pas être marquée pour les dates à venir
+570,Attendance Date,Date de Présence
+571,Attendance for employee {0} is already marked,La présence de l'employé {0} est déjà marquée
+572,Attendance for employee {0} is already marked for this day,La présence de l'employé {0} est déjà marquée pour cette journée
+573,Attendance From Date,Présence Depuis
+574,Attendance From Date and Attendance To Date is mandatory,La Date de Présence Depuis et la Date de Présence Jusqu'à sont obligatoires
+575,Attendance has been marked successfully.,La présence a été marquée avec succès.
+576,Attendance Record {0} exists against Student {1},Registre des présences {0} existe pour l'Étudiant {1}
+577,Attendance record.,Listes de présence.
+578,Attendance To Date,Présence Jusqu'à
+579,Attendance Tool Student,Outil de Présence des Étudiants
+580,Attended,Présent
+581,Attendees,Participants
+582,Attribute,Attribut
+583,Attribute {0} selected multiple times in Attributes Table,Attribut {0} sélectionné à plusieurs reprises dans le tableau de attributs
+584,Attribute Name,Nom de l'attribut
+585,Attribute table is mandatory,Table attribut est obligatoire
+586,Attribute Value,Attribut Valeur
+587,Attributes,Attributs
+588,"Attributes for Item Variants. e.g Size, Color etc.","Attributs pour les variantes de l'article. Par ex. la taille, la couleur, etc."
+589,Auditor,Auditeur
+590,Authentication failed while receiving emails from Email Account {0}. Message from server: {1},L'authentification a échoué lors de la réception des emails depuis le Compte de Messagerie {0}. Message du serveur : {1}
+591,Author,Auteur
+592,Authorization Code,Code d'Autorisation
+593,Authorization Control,Contrôle d'autorisation
+594,Authorization Rule,Règle d'autorisation
+595,Authorized,Autorisé
+596,Authorized Signatory,Signataire autorisé
+597,Authorized Value,Valeur autorisée
+598,Auto,Auto
+599,Auto Email Report,Rapport par Email Automatique
+600,Auto insert Price List rate if missing,Insertion Automatique du taux de la Liste de Prix si manquante
+601,Auto Material Request,Demande de matérielle automatique
+602,Auto Material Requests Generated,Demandes de matériel généré automatiquement
+603,Auto Name,Nom Auto
+604,Auto re-order,Re-commande Auto
+605,Auto Reply Message,Message de réponse automatique
+606,Automatically compose message on submission of transactions.,Composer automatiquement un message sur la soumission de transactions .
+607,Automatically Set Serial Nos based on FIFO,Régler Automatiquement les Nos de Série basés sur FIFO
+608,Automotive,automobile
+609,Available {0},Disponible {0}
+610,Available Batch Qty at Warehouse,Qté de lot disponible à entrepôt
+611,Available Qty,Quantité disponible
+612,Available Qty at From Warehouse,Quantité disponible à partir de l'entrepôt
+613,Available Qty at Warehouse,Qté disponible à l'entrepôt
+614,"Available qty is {0}, you need {1}","Qté disponible est {0}, vous avez besoin de {1}"
+615,Available Stock for Packing Items,Disponible en stock pour l'emballage Articles
+616,Avatar,Avatar
+617,Average Age,âge moyen
+618,Average Commission Rate,Taux moyen de la commission
+619,Average Discount,Remise moyenne
+620,Average time taken by the supplier to deliver,Délai moyen de livraison par le fournisseur
+621,Avg Daily Outgoing,Moyenne quotidienne sortant
+622,Avg. Buying Rate,Moy. Taux d'achat
+623,Avg. Selling Rate,Moy. Taux de vente
+624,Avoid dates and years that are associated with you.,Évitez les dates et les années qui sont associées avec vous.
+625,Avoid recent years.,Éviter les années récentes.
+626,Avoid sequences like abc or 6543 as they are easy to guess,Évitez les séquences comme abc ou 6543 car elles sont faciles à deviner
+627,Avoid years that are associated with you.,Évitez les années qui vous sont associées.
+628,Awaiting Response,En attente de réponse
+629,A condition for a Shipping Rule,Une condition pour une règle de livraison
+630,A Product or Service,Un produit ou service
+631,A symbol for this currency. For e.g. $,Un symbole pour cette monnaie. Par exemple $
+632,A user can be permitted to multiple records of the same DocType.,Un utilisateur peut être autorisé à plusieurs enregistrements du même type de document .
+633,Access Token,Jeton d'accès
+634,Account,Compte
+635,Account {0} does not exist,Compte {0} n'existe pas
+636,Accounting,Comptabilité
+637,Accounts Settings,Paramètres des comptes
+638,Action,Action
+639,Actions,Actions
+640,Activity,Activité
+641,Add to Cart,Ajouter au panier
+642,Add to To Do,Ajouter à la liste des tâches
+643,Accepted,Accepté
+644,Available Batch Qty at From Warehouse,Qté de disponible à partir depuis l'entrepôt
