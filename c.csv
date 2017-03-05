@@ -1,0 +1,546 @@
+,English,Français
+0,Cost center is required to book an expense claim,Un centre de coût est requis pour comptabiliser une note de frais
+1,Create customer quotes,Créer les devis client
+2,Create Employee Records,Créer les Dossiers des Employés
+3,Create new Contact to Match Email Address,Créer un nouveau Contact pour Aller avec l'Adresse Email
+4,Create Users,Créer les Utilisateurs
+5,Create/Add new Contact,Créer/Ajouter un nouveau Contact
+6,Created Salary Slips,Fiches de Paie Créées
+7,C-FORM-,C-Form-
+8,Can't identify open {0}. Try something else.,Impossible d'identifier les {0} ouvertes. Essayez autre chose.
+9,cancelled this document,annulé ce document
+10,Cannot {0} {1} {2} without any negative outstanding invoice,Ne peut pas {0} {1} {2} sans aucune facture impayée négative
+11,Cannot automatically create Account as there is already stock balance in the Account. You must create a matching account before you can make an entry on this warehouse,Impossible de créer automatiquement le Compte car il y a déjà du stock dans ce Compte. Vous devez créer un compte à associer avant de pouvoir faire une écriture sur cet entrepôt
+12,Cannot change docstatus from 0 to 2,Impossible de changer le statut du document de 0 à 2
+13,Cannot change docstatus from 1 to 0,Impossible de changer le status du document de 1 à 0
+14,Cannot change status as student {0} is linked with student application {1},Impossible de changer le statut car l'étudiant {0} est lié à la candidature de l'étudiant {1}
+15,Cannot convert Cost Center to ledger as it has child nodes,Conversion impossible du Centre de Coûts en livre car il possède des nœuds enfants
+16,Cannot convert to Group because Account Type is selected.,Conversion impossible en Groupe car le Type de Compte est sélectionné.
+17,Cannot create a {0} against a child document: {1},Création impossible d'un {0} pour un document enfant: {1}
+18,Cannot deactivate or cancel BOM as it is linked with other BOMs,Désactivation ou annulation de la LDM impossible car elle est liée avec d'autres LDMs
+19,"Cannot declare as lost, because Quotation has been made.","Impossible de déclarer comme perdu, parce que le Devis a été fait."
+20,Cannot deduct when category is for 'Valuation' or 'Valuation and Total',Déduction impossible lorsque la catégorie est pour 'Valorisation' ou 'Valorisation et Total'
+21,Cannot deduct when category is for 'Valuation' or 'Vaulation and Total',Déduction impossible lorsque la catégorie est pour 'Évaluation' ou 'Vaulation et Total'
+22,Cannot delete standard field. You can hide it if you want,Suppression de champ standard impossible. Vous pouvez le cacher si vous voulez
+23,Cannot edit a standard report. Please duplicate and create a new report,Modification d'un rapport standard impossible. Veuillez le dupliquer et créer un nouveau rapport
+24,Cannot enroll more than {0} students for this student group.,Inscription de plus de {0} étudiants impossible pour ce groupe d'étudiants.
+25,Cannot map because following condition fails:,Impossible de mapper parce que la condition suivante échoue :
+26,"Cannot overbill for Item {0} in row {1} more than {2}. To allow overbilling, please set in Stock Settings","Impossible de surfacturer pour l'Article {0} à la ligne {1} plus {2}. Pour permettre la surfacturation, veuillez le définir dans les Réglages du Stock"
+27,Cannot Remove,Suppression Impossible
+28,Cannot set as Lost as Sales Order is made.,Impossible de définir comme perdu alors qu'un Bon de Commande a été créé.
+29,Cannot set authorization on basis of Discount for {0},Impossible de définir l'autorisation sur la base des Prix Réduits pour {0}
+30,Cannot set Email Alert on Document Type {0},Impossible de définir une Alerte Email sur Type de Document {0}
+31,Cannot set permission for DocType: {0} and Name: {1},Impossible de définir des autorisations pour le Type de Document : {0} et le Nom : {1}
+32,Capitalization doesn't help very much.,La capitalisation ne contribue pas beaucoup.
+33,Cash Flow,Flux de Trésorerie
+34,Cash Flow from Operations,Flux de Trésorerie provenant des Opérations
+35,Cash Flow Statement,États des Flux de Trésorerie
+36,Categorize blog posts.,Catégoriser les posts de blog.
+37,Category Description,Description de la Catégorie
+38,CC,CC
+39,Centralize access to Integrations,Centraliser l'accès aux Integrations
+40,Change Amount,Changer le Montant
+41,"Change field properties (hide, readonly, permission etc.)","Modification des propriétés de champ (masquer, en lecture seule, permission etc )"
+42,Change Label (via Custom Translation),Modifier le libellé (via Traduction Personnalisé)
+43,"Change type of field. (Currently, Type change is \
+						allowed among 'Currency and Float')","Modifier le type de champ. (Actuellement, le changement de type est \
+ permis entre «Monnaie et Décimale')"
+44,changed value of {0},changé valeur de {0}
+45,changed values for {0},valeurs modifiées pour {0}
+46,Channel Partner,Partenaire de Canal
+47,Charges are updated in Purchase Receipt against each item,Les frais sont mis à jour dans le Reçu d'Achat pour chaque article
+48,"Charges will be distributed proportionately based on item qty or amount, as per your selection","Les frais seront distribués proportionnellement à la qté ou au montant de l'article, selon votre sélection"
+49,Chart Of Accounts Template,Modèle de Plan Comptable
+50,Chart of Cost Centers,Tableau des Centres de Coûts
+51,Chassis No,N° de Châssis
+52,Chat messages and other notifications.,Discuter des messages et d'autres notifications.
+53,Chat Support,Support du Chat
+54,"Check columns to select, drag to set order.","Vérifiez les colonnes à sélectionner, glisser pour définir l'ordre."
+55,Check Communication,Vérifiez la Communication
+56,Check Frappe Server URL,Vérifiez l'URL du Serveur Frappe
+57,Check in (group),Enregistrement (groupe)
+58,Check Supplier Invoice Number Uniqueness,Vérifiez l'Unicité du Numéro de Facture du Fournisseur
+59,Check this if you are testing your payment using the Sandbox API,Cochez cette case si vous testez votre paiement en utilisant l'API Sandbox
+60,Check this to disallow fractions. (for Nos),Cochez cette case pour interdire les fractions. (Pour les numéros)
+61,Check this to make this the default letter head in all prints,"Cochez cette case pour faire de cet en-tête de lettre, celui par défaut dans toutes les imprimés"
+62,Check this to pull emails from your mailbox,Cochez cette case pour extraire des emails de votre boîte aux lettres
+63,Checking one moment,Vérification un moment
+64,Checkout,Règlement
+65,Checkout Settings,Réglages Règlement
+66,Cheque Date,Date du Chèque
+67,Cheque Height,Hauteur du Chèque
+68,Cheque Number,Numéro de Chèque
+69,Cheque Print Template,Modèles d'Impression de Chèques
+70,Cheque Size,Taille du Chèque
+71,Cheque Width,Largeur du Chèque
+72,Cheque/Reference Date,Chèque/Date de Référence
+73,Cheque/Reference No,Chèque/N° de Référence
+74,Cheques and Deposits incorrectly cleared,Chèques et Dépôts incorrectement compensés
+75,chevron-down,chevron-bas
+76,chevron-left,chevron-gauche
+77,chevron-right,chevron-droit
+78,chevron-up,chevron-haut
+79,Child account exists for this account. You can not delete this account.,Un compte enfant existe pour ce compte. Vous ne pouvez pas supprimer ce compte.
+80,Child nodes can be only created under 'Group' type nodes,Les noeuds enfants peuvent être créés uniquement dans les nœuds de type 'Groupe'
+81,Child Tables are shown as a Grid in other DocTypes.,Les Tableaux Enfants sont présentés comme une Grille dans les autres Type de Documents.
+82,Child warehouse exists for this warehouse. You can not delete this warehouse.,Un entrepôt enfant existe pour cet entrepôt. Vous ne pouvez pas supprimer cet entrepôt.
+83,CI-,CI-
+84,circle-arrow-down,flèche-cercle-bas
+85,circle-arrow-left,flèche-cercle-gauche
+86,circle-arrow-right,flèche-cercle-droite
+87,circle-arrow-up,flèche-cercle-haut
+88,Circular Reference Error,Erreur de Référence Circulaire
+89,Class / Percentage,Classe / Pourcentage
+90,Classrooms/ Laboratories etc where lectures can be scheduled.,Les Salles de Classe / Laboratoires etc où des conférences peuvent être programmées.
+91,Clear Attachment,Effacer la Pièce Jointe
+92,Clear Error Logs,Effacer les Journaux d'Erreur
+93,Clearance Date,Date de Compensation
+94,Clearance Date not mentioned,Date de Compensation non indiquée
+95,Clearance Date updated,Date de Compensation mise à jour
+96,click here,cliquez ici
+97,Click here to check your usage or upgrade to a higher plan,Cliquez ici pour vérifier votre usage ou passer à un plan supérieur
+98,Click on the link below to complete your registration and set a new password,Cliquez sur le lien ci-dessous pour compléter votre inscription et définir un nouveau mot de passe
+99,Click table to edit,Cliquez sur la table pour modifier
+100,Client Credentials,Identifiants du Client
+101,Close Balance Sheet and book Profit or Loss.,Clôturer Bilan et Compte de Résultats.
+102,Close Issue After Days,Fermer Problème Après Jours
+103,Close Opportunity After Days,Fermer Opportunité Après Days
+104,Closed order cannot be cancelled. Unclose to cancel.,Les commandes fermées ne peuvent être annulées. Réouvrir pour annuler.
+105,Closing (Opening + Totals),Clôture (Ouverture + Totaux)
+106,Closing Account {0} must be of type Liability / Equity,Le Compte Clôturé {0} doit être de type Passif / Capitaux Propres
+107,Closing Account Head,Responsable du Compte Clôturé
+108,Clutch Plate,Plaque d'Embrayage
+109,Collapse,Réduire
+110,Collapse All,Réduire Tout
+111,Collapsible,Réductible
+112,Collapsible Depends On,Réductible Dépends de
+113,Collect,Collecte
+114,Collect Fees,Collecter les Frais
+115,Column Labels:,Étiquettes de Colonne :
+116,Column Name cannot be empty,Nom de la Colonne ne peut pas être vide
+117,Columns,Colonnes
+118,Columns based on,Colonnes basées sur
+119,comm_name,nom_comm
+120,Comment Type,Type de Commentaire
+121,Common names and surnames are easy to guess.,Noms et prénoms communs sont faciles à deviner.
+122,Communicated via {0} on {1}: {2},Communiquée par {0} sur {1} : {2}
+123,Communication log.,Journal des Communications.
+124,Communication Type,Type de Communication
+125,Community Forum,Forum de la Communauté
+126,Compact Item Print,Impression de l'Article Compacté
+127,Company {0} does not exist,Société {0} n'existe pas
+128,Company Description for website homepage,Description de la Société pour la page d'accueil du site web
+129,"Company is mandatory, as it is your company address","Société est obligatoire, car il s'agit de l'adresse de société"
+130,Company is missing in warehouses {0},Société est manquante dans les entrepôts {0}
+131,Company Name cannot be Company,Nom de la Société ne peut être Company
+132,Company Tagline for website homepage,Slogan de la Société pour la page d'accueil du site web
+133,"Company, From Date and To Date are mandatory","Société, Date Début et Date Fin sont obligatoires"
+134,Completed Qty can not be greater than 'Qty to Manufacture',Qté Terminée ne peut pas être supérieure à «Qté à Fabriquer'
+135,Component,Composant
+136,Components,Composants
+137,Condition,Conditions
+138,Condition and Formula Help,Aide Condition et Formule
+139,Conference,Conférence
+140,Consultant,Consultant
+141,Consulting,Consultant
+142,Consumable Cost,Coût de Consommable
+143,Consumed Amount,Montant Consommé
+144,Consumed Qty,Qté Consommée
+145,Consumer Products,Produits de Consommation
+146,Contact Details,Coordonnées
+147,Contact Name,Nom du Contact
+148,Contact No.,N° du Contact
+149,Contact Number,Numéro de Contact
+150,"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","Les options de contact, comme ""Demande de Ventes, Demande d'Aide"" etc doivent être chacune sur une nouvelle ligne ou séparées par des virgules."
+151,Contact Person,Personne à Contacter
+152,Contact Us Settings,Réglages de Contactez Nous.
+153,Content Hash,Hash du Contenu
+154,Content Type,Type de Contenu
+155,Content web page.,Contenu de la page web.
+156,Continue,Continuer
+157,Contra Entry,Contre-passation
+158,Contribution (%),Contribution (%)
+159,Contribution %,Contribution %
+160,Contribution Amount,Montant de la Contribution
+161,Contribution to Net Total,Contribution au Total Net
+162,Conversion Factor,Facteur de Conversion
+163,Conversion Rate,Taux de Conversion
+164,Conversion rate cannot be 0 or 1,Le taux de conversion ne peut pas être égal à 0 ou 1
+165,Copy From Item Group,Copier Depuis un Groupe d'Articles
+166,Cost as on,Coût à partir de
+167,Cost Center,Centre de Coûts
+168,Cost Center is required in row {0} in Taxes table for type {1},Le Centre de Coûts est requis à la ligne {0} dans le tableau des Taxes pour le type {1}
+169,Cost Centers,Centres de Coûts
+170,Cost of Delivered Items,Coût des Articles Livrés
+171,Cost of Issued Items,Coût de Articles Publiés
+172,Cost of New Purchase,Coût du Nouvel Achat
+173,Cost of Purchased Items,Coût des Articles Achetés
+174,Cost of Scrapped Asset,Coût des Immobilisations Mises au Rebut
+175,Cost of Sold Asset,Coût des Immobilisations Vendus
+176,Costing,Coût
+177,Costing Amount,Montant des Coûts
+178,Costing Rate,Taux des Coûts
+179,Could not connect to outgoing email server,Impossible de se connecter au serveur de messagerie sortant
+180,"Could not update stock, invoice contains drop shipping item.","Impossible de mettre à jour le stock, la facture contient un article en livraison directe."
+181,Country wise default Address Templates,Modèles d'Adresse par défaut en fonction du pays
+182,Course,Cours
+183,Course Abbreviation,Abréviation du Cours
+184,Course Assessment Criteria,Critères d'Évaluation du Cours
+185,Course Code,Code de Cours
+186,Course End Date,Date de Fin du Cours
+187,Course Intro,Intro du Cours
+188,Course is mandatory in row {0},Cours est obligatoire à la ligne {0}
+189,Course Name,Nom du Cours
+190,Course Schedule,Horaire des Cours
+191,Course Schedules created:,Horaires des Cours créés:
+192,Course Schedules deleted:,Horaires des Cours supprimés:
+193,Course Scheduling Tool,Outil de Planification des Cours
+194,Course Start Date,Date de Début du Cours
+195,Courses,Cours
+196,Cover Letter,Lettre de Motivation
+197,Create a new {0},Créer un nouveau {0}
+198,Create a new Customer,Créer un nouveau Client
+199,Create a New Format,Créer un Nouveau Format
+200,Create Bank Entry for the total salary paid for the above selected criteria,Créer une Écriture Bancaire pour le salaire total payé avec les critères sélectionnés ci-dessus
+201,Create Chart Of Accounts Based On,Créer un Plan Comptable Basé Sur
+202,"Create Employee records to manage leaves, expense claims and payroll","Créer des dossiers Employés pour gérer les congés, les notes de frais et la paie"
+203,"Create for full quantity, ignoring quantity already on order","Créer pour la quantité totale, en ignorant la quantité déjà commandée"
+204,Create Leads,Créer des Prospects
+205,Create Material Requests,Créer des Demandes de Matériel
+206,Create New,Créer un Nouveau
+207,"Create new Contact for a Customer, Supplier, User or Organisation to Match ""","Créer un nouveau Contact à associer pour un Client, Fournisseur, Utilisateur ou Organisation """
+208,Create Print Format,Créer Format d'Impression
+209,Create Production Orders,Créer des Commandes de Production
+210,Create Purchase Orders,Créer des Commandes d'Achat
+211,Create Receiver List,Créer une Liste de Réception
+212,Create Salary Slip,Créer une Fiche de Paie
+213,Create Student Groups,Créer des Groupes d'Étudiants
+214,Create User,Créer un Utilisateur
+215,Created Custom Field {0} in {1},Crée un Champ Personnalisé {0} dans {1}
+216,Creates salary slip for above mentioned criteria.,Crée la fiche de paie pour les critères mentionnés ci-dessus.
+217,Creation Date,Date de Création
+218,Creation Document No,N° du Document de Création
+219,Creation Document Type,Type de Document de Création
+220,Credit,Crédit
+221,Credit Account,Compte Créditeur
+222,Credit Amount,Montant du Crédit
+223,Credit Amount in Account Currency,Montant du Crédit dans la Devise du Compte
+224,Credit Balance,Solde du Crédit
+225,Credit Controller,Controlleur du Crédit
+226,Credit Days,Jours de Crédit
+227,Credit Days Based On,Jours de Crédit Basés sur
+228,Credit in Company Currency,Crédit dans la Devise de la Société
+229,Credit Note Issued,Note de Crédit Émise
+230,Credit To,À Créditer
+231,Credit To account must be a Balance Sheet account,Le compte À Créditer doit être un compte de Bilan
+232,Credit To account must be a Payable account,Le compte À Créditer doit être un compte Créditeur
+233,CRM,CRM
+234,Cross Listing of Item in multiple groups,Listage Croisé d'Article dans plusieurs groupes
+235,CSS,CSS
+236,CSV,CSV
+237,Ctrl+Enter to post,Ctrl+Entrée pour poster
+238,Ctrl+Enter to add comment,Ctrl+Entrée pour ajouter un commentaire
+239,Currency can not be changed after making entries using some other currency,Devise ne peut être modifiée après avoir fait des entrées en utilisant une autre devise
+240,Currency Exchange,Change de Devises
+241,Currency for {0} must be {1},Devise pour {0} doit être {1}
+242,Currency Name,Nom de la Devise
+243,Currency of the Closing Account must be {0},La devise du Compte Cloturé doit être {0}
+244,Currency of the price list {0} is not similar with the selected currency {1},La devise de la liste de prix {0} ne ressemble pas à la devise sélectionnée {1}
+245,Current Address,Adresse Actuelle
+246,Current Address Is,Adresse Actuelle est
+247,Current Amount,Montant Actuel
+248,Current BOM,LDM Actuelle
+249,Current BOM and New BOM can not be same,La LDM actuelle et la nouvelle LDM ne peuvent être pareils
+250,Current Fiscal Year,Exercice en Cours
+251,Current Job Openings,Offres d'Emploi Actuelles
+252,Current Odometer reading entered should be greater than initial Vehicle Odometer {0},Le Compteur(kms) Actuel entré devrait être plus grand que le Compteur(kms) initial du Véhicule {0}
+253,Current Qty,Qté Actuelle
+254,Current Users,Utilisateurs Actuels
+255,Current Valuation Rate,Taux de Valorisation Actuel
+256,Currently Viewing,Affichage Actuel
+257,CUST-,CUST-
+258,Custom,Personnaliser
+259,Custom CSS,CSS Personnalisé
+260,Custom DocPerm,Permission de Document Personnalisé
+261,Custom Field,Champ Personnalisé
+262,Custom Format,Format Personnalisé
+263,Custom HTML,HTML Personnalisé
+264,Custom HTML Help,Aide HTML Personnalisée
+265,Custom Menu Items,Éléments du Menu Personnalisés
+266,Custom Message,Message Personnalisé
+267,Custom Sidebar Menu,Menu Latéral Personnalisé
+268,Custom Tags,Balises Personnalisées
+269,Custom Translations,Traductions Personnalisées
+270,Custom?,Custom?
+271,Customer {0} does not belong to project {1},Le Client {0} ne fait pas parti du projet {1}
+272,Customer > Customer Group > Territory,Client > Groupe Client > Territoire
+273,Customer Acquisition and Loyalty,Acquisition et Fidélisation des Clients
+274,Customer Contact,Contact Client
+275,Customer Credit Balance,Solde de Crédit des Clients
+276,Customer Groups,Groupes de Clients
+277,Customer Naming By,Client Nommé par
+278,Customer required for 'Customerwise Discount',Client requis pour appliquer une 'Remise en fonction du Client'
+279,Customer Warehouse (Optional),Entrepôt des Clients (Facultatif)
+280,Customer's Purchase Order,Bon de Commande du Client
+281,Customer's Purchase Order Date,Date du Bon de Commande du Client
+282,Customerwise Discount,Remise en fonction du Client
+283,Customize Form Field,Personnaliser un Champ de Formulaire
+284,"Customize Label, Print Hide, Default etc.","Personnaliser l'Étiquette, Cacher à l'Impression, Défaut etc"
+285,Customize the Notification,Personnaliser les Notifications
+286,Customized HTML Templates for printing transactions.,Modèles HTML Personnalisés pour les opérations d'impression.
+287,C-Form,Formulaire - C
+288,C-Form Applicable,Formulaire - C applicable
+289,C-Form Invoice Detail,Formulaire - C Détail de la facture
+290,C-form is not applicable for Invoice: {0},Formulaire - C n'est pas applicable pour la facture: {0}
+291,C-Form No,Formulaire - C No
+292,C-Form records,Formulaire - C Enregistrements
+293,Cache Cleared,Cache Effacé
+294,Calculate,Calculer
+295,Calculate Based On,Calculer en fonction de
+296,Calculate Total Score,Calculer résultat total
+297,Calculated Bank Statement balance,Solde calculé du relevé bancaire
+298,Calendar,Calendrier
+299,Calls,appels
+300,camera,Caméra
+301,Campaign,Campagne
+302,Campaign Name,Nom de la campagne
+303,Campaign Naming By,Campagne nommée par
+304,Campaign-.####,Campagne-.####
+305,Can be approved by {0},Peut être approuvé par {0}
+306,"Can not filter based on Account, if grouped by Account","Impossible de filtrer sur les compte , si regroupées par compte"
+307,"Can not filter based on Voucher No, if grouped by Voucher","Impossible de filtrer sur la base du No de coupon, si regroupé par coupon"
+308,Can only make payment against unbilled {0},Ventilation du paiement n'est possible qu'avec  les non facturés {0}
+309,Can Read,Peut Lire
+310,Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Peut se référer ligne seulement si le type de charge est 'Montant de la ligne précedente' ou 'Total des lignes précedente'
+311,Can Share,Peut partager
+312,Can Write,Peut Ecrire
+313,Cancel,Annuler
+314,Cancel Material Visit {0} before cancelling this Warranty Claim,Annuler la visite matérial {0} avant d'annuler cette réclamation de garantie
+315,Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuler les visites matériaux {0} avant d'annuler cette visite de maintenance
+316,Cancelled,Annulé
+317,Cancelling,Annulation
+318,cannot be greater than 100,ne peut pas être supérieure à 100
+319,Cannot cancel because submitted Stock Entry {0} exists,Impossible d'annuler car l'entrée du stock soumis {0} existe
+320,Cannot cancel before submitting. See Transition {0},Impossible d'annuler avant de soumettre . Voir transition {0}
+321,"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.","Vous ne pouvez pas changer la devise par défaut de l'entreprise, parce qu'il ya des opérations existantes. Les transactions doivent être annulées pour changer la devise par défaut."
+322,Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,Impossible de modifier les dates de début et de fin d'exercice une fois que l'exercice est enregistré.
+323,Cannot change state of Cancelled Document. Transition row {0},Vous ne pouvez pas changer l'état du document annulé .
+324,Cannot close task as its dependant task {0} is not closed.,Impossible de fermer une tâche tant qu'une tâche dépendante {0} est pas fermée.
+325,Cannot connect: {0},Impossible de se connecter: {0}
+326,Cannot delete {0} as it has child nodes,Vous ne pouvez pas supprimer {0} car il possède des sous-nœuds
+327,Cannot delete Home and Attachments folders,Vous ne pouvez pas supprimer dossier d’accueil et de pièces jointes
+328,"Cannot delete Serial No {0}, as it is used in stock transactions","Vous ne pouvez pas supprimer les No de série  {0}, tant qu'ils sont est dans les mouvements de stock"
+329,Cannot edit cancelled document,Vous ne pouvez pas modifier un document annulé
+330,Cannot edit standard fields,Vous ne pouvez pas modifier les champs standards
+331,Cannot find a matching Item. Please select some other value for {0}.,Impossible de trouver un article similaire. S'il vous plaît sélectionner une autre valeur pour {0}.
+332,Cannot link cancelled document: {0},Vous ne pouvez pas lier le document annulé: {0}
+333,Cannot open {0} when its instance is open,Ne peut ouvrir {0} quand son instance est ouverte
+334,Cannot open instance when its {0} is open,Ne peut ouvrir un instance quand son {0} est ouverte
+335,Cannot produce more Item {0} than Sales Order quantity {1},Ne peut pas produire plus d'article {0} que de la qté du bon de commande {1}
+336,Cannot refer row number greater than or equal to current row number for this Charge type,Vous ne pouvez vous referez au numéro de la ligne supérieure ou égale de la ligne courante pour ce type de charge
+337,Cannot remove permission for DocType: {0} and Name: {1},Vous ne pouvez pas retirer l'autorisation pour DocType : {0} et Nom : {1}
+338,Cannot send this email. You have crossed the sending limit of {0} emails for this month.,Vous ne pouvez pas envoyer cet E-mail. Vous avez franchi la limite d'envoi de {0} E-mails pour ce mois.
+339,Capacity Planning,Planification de capacité
+340,Capacity Planning Error,Erreur planification de capacité
+341,Capacity Planning For (Days),Planification de capacité pendant (jours)
+342,Capital Equipments,Capitaux immobilisés
+343,Capital Stock,Capital-actions
+344,Carry Forward,Reporter
+345,Cart is Empty,Le panier est vide
+346,Case No. cannot be 0,Cas No ne peut pas être 0
+347,Case No(s) already in use. Try from Case No {0},No de dossier en fonction. Essayez dès No de dossier {0}
+348,Cash,Espèces
+349,Cash Entry,Entrée caisse
+350,Cash Flow from Financing,Flux de trésorerie de la gestion du financement
+351,Cash Flow from Investing,Flux de trésorerie des investissements
+352,Cash In Hand,Liquidités
+353,Cash or Bank Account is mandatory for making payment entry,Espèces ou compte bancaire est obligatoire pour réaliser une écriture
+354,Cash/Bank Account,Compte caisse / banque
+355,Casual Leave,Congé occasionnel
+356,Category,Catégorie
+357,Category Name,Nom de la catégorie
+358,Cell Number,Numéro téléphone GSM
+359,Cent,Centime
+360,Center,Centre
+361,CEO,PDG
+362,"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","Certains documents , comme une facture , ne devraient pas être modifiés une fois finalisés . L'état final de ces documents est appelée soumis . Vous pouvez limiter les rôles pouvant soumettre."
+363,certificate,certificat
+364,Change,Changement
+365,Change Abbreviation,Changer Abréviation
+366,Change Password,Changer le mot de passe
+367,Change the starting / current sequence number of an existing series.,Changer le numéro initial/actuel d'une série existante.
+368,Charge of type 'Actual' in row {0} cannot be included in Item Rate,Charge de type ' réel ' à la ligne {0} ne peut pas être inclus dans le prix de l'article
+369,Chargeable,Facturable
+370,Chart of Accounts,Plan comptable
+371,Chat,Chat
+372,Check,Vérifier
+373,Check all,Cochez tous
+374,Check this if you want to force the user to select a series before saving. There will be no default if you check this.,Cochez cette case si vous voulez forcer l'utilisateur à sélectionner une série avant de l'enregistrer. Il n'y aura pas de série par défaut si vous cochez cette case.
+375,Check which Documents are readable by a User,Vérifier quels documents sont lisibles pour un utilisateur donné
+376,Checked items will be shown on desktop,Les éléments sélectionnés seront affichés sur le bureau
+377,Chemical,chimique
+378,Child Item should not be a Product Bundle. Please remove item `{0}` and save,Le sous-article ne doit pas être un ensemble de produit. S'il vous plaît retirer l'article `{0}` et sauver
+379,City,Ville
+380,City/Town,Ville
+381,Claim Amount,Montant réclamé
+382,Claims for company expense.,Notes de frais de la société
+383,Classic,Classique
+384,Classification of Customers by region,Classification des clients par région
+385,clear,Effacer
+386,Clear all roles,Effacer tous les rôles
+387,Clear Table,Effacer le tableau
+388,Click here to verify,Cliquez ici pour vérifier
+389,Clicked,Cliqué
+390,Client,Client
+391,Client side script extensions in Javascript,Extensions de script côté client en Javascript
+392,Close,Fermer
+393,Closed,Fermé
+394,Closing (Cr),Fermeture (Cr)
+395,Closing (Dr),Fermeture (Dr)
+396,Closing Date,Date de clôture
+397,Closing Fiscal Year,Clôture de l'exercice
+398,Code,Code
+399,cog,dent
+400,Color,Couleur
+401,Colour,Couleur
+402,Column,Colonne
+403,Column Break,Saut de colonne
+404,Column Name,Nom de la colonne
+405,Comment,Commenter
+406,Commented on {0}: {1},Commenté sur {0}: {1}
+407,Comments,Commentaires
+408,Comments and Communications will be associated with this linked document,Commentaires et Communications seront associés à ce document lié
+409,Commercial,Commercial
+410,Commission,commission
+411,Commission on Sales,Commission sur les ventes
+412,Commission Rate,Taux de commission
+413,Commission Rate (%),Taux de commission (%)
+414,Commission rate cannot be greater than 100,Taux de commission ne peut pas être supérieure à 100
+415,Communication,Communication
+416,Communication Medium,Moyen de communication
+417,Companies,Sociétés
+418,Company,Société
+419,Company (not Customer or Supplier) master.,Configuration de l'entreprise
+420,Company Abbreviation,Abréviation de la société
+421,Company and Accounts,Société et comptes
+422,Company Email,E-mail société
+423,Company History,Historique de la société
+424,Company Info,Informations sur l'entreprise
+425,Company Introduction,Présentation de l'entreprise
+426,Company Name,Nom de l'entreprise
+427,Company registration numbers for your reference. Tax numbers etc.,"Numéros d'immatriculation de l’entreprise pour votre référence. Numéros de taxes, etc"
+428,Compensatory Off,Congé compensatoire
+429,Complete,Achevée
+430,Complete By,Compléter par
+431,Complete Registration,Terminer l'inscription
+432,Complete Setup,installation terminée
+433,Completed,Terminé
+434,Completed Production Orders,Ordre de production terminés
+435,Completed Qty,Quantité complétée
+436,Completion Date,Date d'achèvement
+437,Completion Status,L'état d'achèvement
+438,Computer,ordinateur
+439,Confirm,Confirmer
+440,Confirm Your Email,Confirmez Votre Email
+441,Confirmation Date,Date de confirmation
+442,Confirmed,Confirmé
+443,Confirmed orders from Customers.,Commandes confirmées des clients.
+444,Consider Tax or Charge for,Tenir compte taxe et frais pour
+445,Consumable,consommable
+446,Consumed,Consommé
+447,Contact,Contact
+448,Contact Desc,Contact Desc.
+449,Contact Email,Contact Email
+450,Contact HTML,Contact HTML
+451,Contact Info,Information de contact
+452,Contact Mobile No,Contact No portable
+453,Content,Contenu
+454,Contract,Contrat
+455,Contract End Date,Date de Fin de contrat
+456,Contract End Date must be greater than Date of Joining,La date de fin de contrat doit être supérieure à la date d'embauche
+457,Conversion factor for default Unit of Measure must be 1 in row {0},Facteur de conversion de l'unité de mesure par défaut doit être 1 dans la ligne {0}
+458,Convert to Group,Convertir au groupe
+459,Convert to non-Group,Convertir en non-groupe
+460,Converted,Converti
+461,Copy,Copiez
+462,Copyright,Droit d'auteur
+463,Core,Noyau
+464,Cosmetics,Produits de beauté
+465,Cost Center For Item with Item Code ',Centre de coûts pour article ayant un code article '
+466,Cost Center Name,Nom du centre de coûts
+467,Cost Center with existing transactions can not be converted to group,Centre de coûts des transactions existantes ne peut pas être converti en groupe
+468,Cost Center with existing transactions can not be converted to ledger,Centre de coûts de transactions existants ne peut pas être converti pour le grand livre
+469,Cost of Goods Sold,Coût des marchandises vendues
+470,Cost of various activities,Coût des différents types d'activités.
+471,Cost Updated,Mise à jour coût
+472,Costing and Billing,Calcul coûts et facturation
+473,Could not find {0},Impossible de trouver {0}
+474,Could not find {0} in {1},Impossible de trouver {0} dans {1}
+475,Could not identify {0},Impossible d'identifier {0}
+476,Country,Pays
+477,Country Name,Nom Pays
+478,County,Canton
+479,Cr,Cr
+480,Create,Créer
+481,"Create and manage daily, weekly and monthly email digests.","Créer et gérer des résumés  d'E-mail quotidiens, hebdomadaires et mensuels ."
+482,Create and Send Newsletters,Créer et envoyer des info-lettres
+483,Create rules to restrict transactions based on values.,Créer des règles pour restreindre les transactions basées sur les valeurs .
+484,Created,Créé
+485,Created By,Etabli par
+486,Created On,Créé le
+487,Creation Time,Date de création
+488,Credit Card,Carte de crédit
+489,Credit Card Entry,Entrée de carte de crédit
+490,Credit Limit,Limite de crédit
+491,Credit limit has been crossed for customer {0} {1}/{2},Limite de crédit a été franchi pour le client {0} {1} / {2}
+492,Credit Note,Note de crédit
+493,Creditors,Créanciers
+494,Ctrl + Down,Ctrl + Bas
+495,Ctrl + Up,Ctrl + Haut
+496,Currency,Devise
+497,Currency and Price List,Devise et liste de prix
+498,Currency exchange rate master.,Taux de change de maître.
+499,Currency is required for Price List {0},Devise est nécessaire pour la liste de prix {0}
+500,Current Assets,Actif à court terme
+501,Current Liabilities,Dette courante
+502,Current status,Statut actuelle
+503,Current Stock,Stock actuel
+504,Current Value,Valeur actuelle
+505,Custom Reports,Rapports personnalisés
+506,Custom Script,Script personnalisé
+507,Customer,Client
+508,Customer / Item Name,Client / Nom d'article
+509,Customer / Lead Address,Adresse Client / Prospect
+510,Customer / Lead Name,Nom du Client / Prospect
+511,Customer Address,Adresse du client
+512,Customer Addresses And Contacts,Adresses et contacts clients
+513,Customer and Supplier,Clients et Fournisseurs
+514,Customer Code,Code client
+515,Customer Contact Email,Email contact client
+516,Customer database.,Base de données clients.
+517,Customer Details,Détails du client
+518,Customer Feedback,Réactions des clients
+519,Customer Group,Groupe de clients
+520,Customer Group / Customer,Groupe de client / client
+521,Customer Group Name,Nom du groupe client
+522,Customer Id,Client Id
+523,Customer is required,Client est requis
+524,Customer Item Codes,Codes article du client
+525,Customer Items,Articles du clients
+526,Customer Mobile No,Numéro GSM client
+527,Customer Name,Nom du client
+528,Customer or Item,Client ou article
+529,Customer or Supplier Details,Client ou détails fournisseur
+530,Customer Service,Service à la clientèle
+531,Customer's Item Code,Code article clients
+532,Customer's Purchase Order No,Numéro bon de commande du client
+533,Customers,Clients
+534,Customize,Personnaliser
+535,Customize Form,Personnaliser le formulaire
+536,Customize the introductory text that goes as a part of that email. Each transaction has a separate introductory text.,Personnaliser le texte d'introduction qui se déroule comme une partie de cet Email. Chaque transaction a un texte séparé d'introduction.
+537,"Customized Formats for Printing, Email","Formats personnalisés pour l'impression, Email"
+538,Customizing Forms,Personnalisation des formulaires
+539,Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Vous ne pouvez pas sélectionner le type de charge comme «Le précédent montant de la ligne» ou «Le précédent total de la ligne» pour la première ligne
+540,Cannot Update: Incorrect / Expired Link.,La mise à jour ne peut être effectuée : Lien incorrect ou périmé .
+541,Check this if you want to show in website,Cochez cette case si vous souhaitez afficher sur le site
+542,Cheque,Chèque
