@@ -1,5 +1,5 @@
 ,English,Français
-0,Cost center is required to book an expense claim,Un centre de coût est requis pour réserver une note de frais
+0,Cost center is required to book an expense claim,Un centre de coût est requis pour comptabiliser une note de frais
 1,Create customer quotes,Créer les devis client
 2,Create Employee Records,Créer les Dossiers des Employés
 3,Create new Contact to Match Email Address,Créer un nouveau Contact pour Aller avec l'Adresse Email
@@ -14,8 +14,8 @@
 12,Cannot change docstatus from 0 to 2,Impossible de changer le statut du document de 0 à 2
 13,Cannot change docstatus from 1 to 0,Impossible de changer le status du document de 1 à 0
 14,Cannot change status as student {0} is linked with student application {1},Impossible de changer le statut car l'étudiant {0} est lié à la candidature de l'étudiant {1}
-15,Cannot convert Cost Center to ledger as it has child nodes,Convertion impossible du Centre de Coûts en livre car il possède des nœuds enfants
-16,Cannot convert to Group because Account Type is selected.,Convertion impossible en Groupe car le Type de Compte est sélectionné.
+15,Cannot convert Cost Center to ledger as it has child nodes,Conversion impossible du Centre de Coûts en livre car il possède des nœuds enfants
+16,Cannot convert to Group because Account Type is selected.,Conversion impossible en Groupe car le Type de Compte est sélectionné.
 17,Cannot create a {0} against a child document: {1},Création impossible d'un {0} pour un document enfant: {1}
 18,Cannot deactivate or cancel BOM as it is linked with other BOMs,Désactivation ou annulation de la LDM impossible car elle est liée avec d'autres LDMs
 19,"Cannot declare as lost, because Quotation has been made.","Impossible de déclarer comme perdu, parce que le Devis a été fait."
@@ -62,7 +62,7 @@
 58,Check Supplier Invoice Number Uniqueness,Vérifiez l'Unicité du Numéro de Facture du Fournisseur
 59,Check this if you are testing your payment using the Sandbox API,Cochez cette case si vous testez votre paiement en utilisant l'API Sandbox
 60,Check this to disallow fractions. (for Nos),Cochez cette case pour interdire les fractions. (Pour les numéros)
-61,Check this to make this the default letter head in all prints,"Cochez cette case pour faire de cette en-tête de lettre, celle par défaut dans toutes les imprimés"
+61,Check this to make this the default letter head in all prints,"Cochez cette case pour faire de cet en-tête de lettre, celui par défaut dans toutes les imprimés"
 62,Check this to pull emails from your mailbox,Cochez cette case pour extraire des emails de votre boîte aux lettres
 63,Checking one moment,Vérification un moment
 64,Checkout,Règlement
@@ -131,7 +131,7 @@
 127,Company {0} does not exist,Société {0} n'existe pas
 128,Company Description for website homepage,Description de la Société pour la page d'accueil du site web
 129,"Company is mandatory, as it is your company address","Société est obligatoire, car il s'agit de l'adresse de société"
-130,Company is missing in warehouses {0},Société est manquant dans les entrepôts {0}
+130,Company is missing in warehouses {0},Société est manquante dans les entrepôts {0}
 131,Company Name cannot be Company,Nom de la Société ne peut être Company
 132,Company Tagline for website homepage,Slogan de la Société pour la page d'accueil du site web
 133,"Company, From Date and To Date are mandatory","Société, Date Début et Date Fin sont obligatoires"
@@ -192,7 +192,7 @@
 188,Course is mandatory in row {0},Cours est obligatoire à la ligne {0}
 189,Course Name,Nom du Cours
 190,Course Schedule,Horaire des Cours
-191,Course Schedules created:,Horaires des Cours crés:
+191,Course Schedules created:,Horaires des Cours créés:
 192,Course Schedules deleted:,Horaires des Cours supprimés:
 193,Course Scheduling Tool,Outil de Planification des Cours
 194,Course Start Date,Date de Début du Cours
@@ -203,7 +203,7 @@
 199,Create a New Format,Créer un Nouveau Format
 200,Create Bank Entry for the total salary paid for the above selected criteria,Créer une Écriture Bancaire pour le salaire total payé avec les critères sélectionnés ci-dessus
 201,Create Chart Of Accounts Based On,Créer un Plan Comptable Basé Sur
-202,"Create Employee records to manage leaves, expense claims and payroll","Créer des dossiers des Employés pour gérer les congés, les notes de frais et la paie"
+202,"Create Employee records to manage leaves, expense claims and payroll","Créer des dossiers Employés pour gérer les congés, les notes de frais et la paie"
 203,"Create for full quantity, ignoring quantity already on order","Créer pour la quantité totale, en ignorant la quantité déjà commandée"
 204,Create Leads,Créer des Prospects
 205,Create Material Requests,Créer des Demandes de Matériel
@@ -279,7 +279,7 @@
 275,Customer Credit Balance,Solde de Crédit des Clients
 276,Customer Groups,Groupes de Clients
 277,Customer Naming By,Client Nommé par
-278,Customer required for 'Customerwise Discount',Client requis pour applique une 'Remise en fonction du Client'
+278,Customer required for 'Customerwise Discount',Client requis pour appliquer une 'Remise en fonction du Client'
 279,Customer Warehouse (Optional),Entrepôt des Clients (Facultatif)
 280,Customer's Purchase Order,Bon de Commande du Client
 281,Customer's Purchase Order Date,Date du Bon de Commande du Client
