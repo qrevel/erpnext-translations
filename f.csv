@@ -1,0 +1,244 @@
+,English,Français
+0,Feedback Rating,
+1,Feedback Ratings,
+2,Feedback request mail has been already sent to the recipient,
+3,Feedback Trigger,
+4,Filter Meta,
+5,Filters saved,
+6,Forgot Password,
+7,From Date {0} for Employee {1} cannot be before employee's joining Date {2},
+8,Facebook Client ID,Identifiant Client Facebook
+9,Facebook Client Secret,Facebook Client Secret
+10,Fee Category,Catégorie d'Honoraires
+11,Fee Component,Composant d'Honoraires
+12,Fee Records Created - {0},Archive d'Honoraires Créée - {0}
+13,Fee Schedule,Barème d'Honoraires
+14,Fee Structure,Structure d'Honoraires
+15,FEE.,HONORAIRES.
+16,Feedback Trigger not found,Commentaires Trigger not found
+17,Fees Category,Catégorie d'Honoraires
+18,Fetch exploded BOM (including sub-assemblies),Récupérer la nomenclature éclatée ( y compris les sous -ensembles )
+19,"Field ""value"" is mandatory. Please specify value to be updated","Le champ ""Valeur"" est obligatoire. S'il vous plaît spécifiez la valeur devant être mise à jour"
+20,Fieldname is limited to 64 characters ({0}),Le nom du champ est limité à 64 caractères ({0})
+21,Fieldname which will be the DocType for this link field.,Fieldname qui sera le Doctype pour ce domaine de liaison.
+22,"Fields separated by comma (,) will be included in the ""Search By"" list of Search dialog box","Les champs séparés par une virgule (,) seront inclus dans la ""Recherche par"" liste boîte de dialogue de recherche de"
+23,Fieldtype {0} for {1} cannot be indexed,FieldType {0} pour {1} ne peut pas être indexé
+24,Fieldtype {0} for {1} cannot be unique,FieldType {0} pour {1} ne peut pas être unique
+25,Fieldtype cannot be changed from {0} to {1} in row {2},"FieldType peut pas être modifié à partir de {0} {1}, à la ligne {2}"
+26,Files Size,Taille des Fichiers
+27,Filter records based on User Permissions defined for a user,Filtrer les enregistrements en fonction des autorisations  définis pour un utilisateur
+28,Filters Display,Affichage des Filtres
+29,Finished Item {0} must be entered for Manufacture type entry,Point Fini {0} doit être saisi pour le type de Fabrication entrée
+30,First Responded On,Répondu en Premier Le
+31,Fiscal Year {0} not found,Exercice fiscal {0} introuvable
+32,Fiscal Year Start Date and Fiscal Year End Date are already set in Fiscal Year {0},La date de début et la date de fin de l'exercice fiscal sont déjà dans l'année fiscale {0}
+33,Fiscal Year Start Date should not be greater than Fiscal Year End Date,La date de début ne doit pas être supérieure à la date de fin de l'exercice fiscal
+34,Fixed Asset Account,Compte d'Actif Immobilisé
+35,Fixed Asset Depreciation Settings,Paramètres d'amortissement des immobilisations
+36,Fixed Asset Item must be a non-stock item.,Fixed Asset article doit être un élément non-stock.
+37,flag,drapeau
+38,Fleet Management,Gestion de flotte
+39,Fleet Manager,Fleet Manager
+40,Float,Flotter
+41,Fold,Nombre Réel
+42,Fold can not be at the end of the form,Fold ne peut pas être à la fin de la forme
+43,Fold must come before a Section Break,Pliez doit venir avant un saut de section
+44,folder-close,dossier de près
+45,folder-open,dossier-ouvrir
+46,Following fields have missing values:,Les champs suivants ont des valeurs manquantes:
+47,Following Material Requests have been raised automatically based on Item's re-order level,Suite à des demandes importantes ont été soulevées automatiquement en fonction du niveau de re-commande de l'article
+48,"For 'Product Bundle' items, Warehouse, Serial No and Batch No will be considered from the 'Packing List' table. If Warehouse and Batch No are same for all packing items for any 'Product Bundle' item, those values can be entered in the main Item table, values will be copied to 'Packing List' table.","Pour les articles, de stockage, de série et de lot »Aucun produit Bundle 'Aucune sera considérée comme de la table"" Packing List'. Si Entrepôt et Batch Non sont les mêmes pour tous les éléments d'emballage pour un objet quelconque 'Bundle produit', ces valeurs peuvent être saisies dans le tableau principal de l'article, les valeurs seront copiés sur ""Packing List 'table."
+49,"For {0}, only credit accounts can be linked against another debit entry","Pour {0}, seuls les comptes de crédit peuvent être liés avec une autre entrée de débit"
+50,"For {0}, only debit accounts can be linked against another credit entry","Pour {0}, seuls les comptes de débit peuvent être liés avec une autre entrée de crédit"
+51,For example if you cancel and amend INV004 it will become a new document INV004-1. This helps you to keep track of each amendment.,"Par exemple, si vous annulez et de modifier INV004 il deviendra un nouveau document INV004-1. Cela vous aide à garder une trace de chaque amendement."
+52,For individual supplier,Pour fournisseur individuel
+53,"For Links, enter the DocType as range.
+For Select, enter list of Options, each on a new line.","Pour Links, entrez le DocType que la gamme. Sélectionnez, entrez la liste des options, chacun sur une nouvelle ligne."
+54,For ranges,Pour les plages
+55,"For row {0} in {1}. To include {2} in Item rate, rows {3} must also be included","Pour la ligne {0} dans {1}. Pour inclure {2} dans le prix de l'article, les lignes {3} doivent également être inclus"
+56,"For updating, you can update only selective columns.","Pour la mise à jour, vous pouvez mettre à jour uniquement les colonnes sélectifs."
+57,Force,Obliger
+58,Force Show,Forcer l'affichage
+59,Fortnightly,Bimensuel
+60,Frappe,frappé
+61,Frappe Client ID,Frappe client ID
+62,Frappe Client Secret,Frappe client secret
+63,Frappe Server URL,Frappe URL du serveur
+64,Frappe User ID,Frappe ID utilisateur
+65,Freeze Stocks Older Than [Days],Geler les Articles plus vieux que [Jours]
+66,Frequency of Depreciation (Months),Fréquence des amortissements (mois)
+67,From Currency and To Currency cannot be same,De leur monnaie et à devises ne peut pas être la même
+68,From Date should be within the Fiscal Year. Assuming From Date = {0},De la date doit être dans l'exercice. En supposant Date d'= {0}
+69,From Full Name,De Nom complet
+70,From Range,De Gamme
+71,From Range has to be less than To Range,De Gamme doit être inférieure à la gamme
+72,From Time cannot be greater than To Time.,De temps ne peut pas être supérieure à To Time.
+73,FS.,FS.
+74,Fuel Price,Prix du carburant
+75,Fuel Qty,carburant Quantité
+76,Fuel Type,Type de carburant
+77,Fuel UOM,carburant UOM
+78,Fulfillment,Accomplissement
+79,Fully Depreciated,entièrement dépréciées
+80,Furnitures and Fixtures,Meubles et Luminaires
+81,Further cost centers can be made under Groups but entries can be made against non-Groups,"D'autres centres de coûts peuvent être réalisées dans les groupes, mais les entrées peuvent être faites contre les non-Groupes"
+82,Facebook,Facebook
+83,Facebook User ID,Facebook ID utilisateur
+84,Facebook Username,Facebook Nom d'utilisateur
+85,facetime-video,facetime-vidéo
+86,Family Background,Antécédents familiaux
+87,fast-forward,avance rapide
+88,Father,Père
+89,FavIcon,FavIcon
+90,Fax,Fax
+91,FCFS Rate,Tarif PAPS
+92,Featured,En vedette
+93,Featured Products,Produits Présentés
+94,Feedback,Commentaire
+95,Feedback Request,Demande de retour d'expérience
+96,Feedback Request for {0} is sent to {1},Demande de retour d'expérience {0} est envoyé à {1}
+97,Feedback Submitted,Retour d'expérience transmis
+98,Fees,Honoraires
+99,Female,Femme
+100,Field,Champ
+101,Field '{0}' cannot be set as Unique as it has non-unique values,"Le champ '{0}' ne peut pas être défini comme unique, car il a des valeurs non-uniques"
+102,Field {0} in row {1} cannot be hidden and mandatory without default,Champ {0} en ligne {1} ne peut pas être caché et obligatoire sans défaut
+103,Field {0} is not selectable.,Champ {0} n'est pas sélectionnable.
+104,Field {0} of type {1} cannot be mandatory,Champ {0} de type {1} ne peut pas être obligatoire
+105,Field Description,Description champ
+106,Field Name,Nom du champ
+107,"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)","Champ qui représente l'état du workflow de la transaction (si le champ n'est pas présent, un nouveau champ caché personnalisé sera créé)"
+108,Field Type,Type de champ
+109,Fieldname,Nom du champs
+110,Fieldname {0} appears multiple times in rows {1},Nom du champ {0} apparaît plusieurs fois dans les lignes {1}
+111,Fieldname {0} cannot have special characters like {1},Nom du champ {0} ne peut pas avoir des caractères spéciaux comme {1}
+112,Fieldname is required in row {0},Nom du champ est nécessaire dans la ligne {0}
+113,Fieldname not set for Custom Field,Nom du champ n'a pas été définie pour un champ personnalisé
+114,Fields,Champs
+115,Fieldtype,Type de champ
+116,FIFO,"FIFO (Premier entré, Premier sorti)"
+117,file,fichier
+118,File '{0}' not found,Fichier '{0}' introuvable
+119,File {0} does not exist,Fichier {0} n'existe pas
+120,File Manager,Gestion des fichiers
+121,File Name,Nom du fichier
+122,File not attached,Fichier pas joint
+123,File Size,Taille du fichier
+124,File size exceeded the maximum allowed size of {0} MB,La taille du fichier a dépassé la taille maximale autorisée de {0} Mo
+125,File to Rename,Fichier à Renommer
+126,File too big,Fichier trop grand
+127,File URL,URL du fichier
+128,Files,Fichiers
+129,Fill Screen,Remplir l'écran
+130,Fill the form and save it,Remplissez et enregistrez le formulaire
+131,film,film
+132,Filter,filtre
+133,Filter {0} missing,Filtre {0} manquant
+134,Filter...,Filtre ...
+135,"Filtered by ""{0}""","Filtré par ""{0}"""
+136,Filters,Filtres
+137,Financial / accounting year.,Exercice comptable / financier annuel
+138,Financial Services,Services financiers
+139,Financial Year End Date,Date de fin de l'exercice financier
+140,Financial Year Start Date,Date de Début de l'exercice financier
+141,Find {0} in {1},Trouver {0} dans {1}
+142,Finish,Terminer
+143,Finished Goods,Produits finis
+144,fire,feu
+145,First data column must be blank.,La première colonne de données doit être vide.
+146,First Level,Premier niveau
+147,First Name,Prénom
+148,Fiscal Year,Exercice
+149,Fiscal Year {0} does not exist,Exercice {0} n'existe pas
+150,Fiscal Year {0} is required,Exercice {0} est nécessaire
+151,Fiscal Year Company,Exercice Société
+152,Fiscal Year: {0} does not exists,Exercice: {0} n'existe pas
+153,Fixed Asset,Actifs immobilisés
+154,Fixed Assets,Actifs immobilisés
+155,Fixed Days,Jours fixes
+156,Float Precision,Nombre de décimales
+157,Folder,Dossier
+158,Folder {0} does not exist,Dossier {0} n''existe pas
+159,Folder {0} is not empty,Dossier {0} est pas vide
+160,Folder is mandatory,Dossier est obligatoire
+161,Follow via Email,Suivre par E-mail
+162,Following fields are missing:,Les champs suivants sont manquants:
+163,font,Police caractères
+164,Font Size,Taille des caractères
+165,Food,Repas
+166,"Food, Beverage & Tobacco","Alimentation , boissons et tabac"
+167,Footer,Pied de page
+168,Footer Color,Couleur de pied de page
+169,Footer Item,Item de Pied de page
+170,Footer Items,Éléments du pied de page
+171,Footer Text Color,Couleur du texte du pied de page
+172,For,Pour
+173,For {0} at level {1} in {2} in row {3},Pour {0} au niveau {1} dans {2} à la ligne {3}
+174,For Company,Pour l'entreprise
+175,"For comparative filters, start with","Pour les filtres de comparaison, commencez par"
+176,"For e.g. 2012, 2012-13","exemple, 2012, 2012-13"
+177,For Employee,Pour les employés
+178,For Employee Name,Pour nom de l'employé
+179,For Everyone,Pour tout le monde
+180,"For example: If you want to include the document ID, use {0}","Par exemple: Si vous voulez inclure l'ID du document, utilisez {0}"
+181,For Price List,Pour liste de prix
+182,For Production,Pour la production
+183,For Quantity,Pour Quantité
+184,For Quantity (Manufactured Qty) is mandatory,Pour Quantité (Qté Fabriqué) est obligatoire
+185,For reference,Pour référence
+186,For Reference Only.,Pour référence seulement.
+187,For Supplier,pour fournisseur
+188,"For the convenience of customers, these codes can be used in print formats like Invoices and Delivery Notes","Pour la commodité des clients, ces codes peuvent être utilisés dans des formats d'impression comme les factures et les bons de livraison"
+189,For top bar,Pour la barre supérieure
+190,For User,Pour l'utilisateur
+191,For Warehouse,Pour Entrepôt
+192,For Warehouse is required before Submit,Pour l’entrepôt est nécessaire avant Soumettre
+193,Forgot Password?,Mot de passe oublié?
+194,Form,Formulaire
+195,Format,Format
+196,Format Data,Format des données
+197,Formula,Formule
+198,forward,avant
+199,Forward To Email Address,Transférer à l'adresse Email
+200,Fraction,Fraction
+201,Fraction Units,Unités fraction
+202,Frames,Cadres
+203,Frappe Framework,Framework Frappe
+204,Freeze Stock Entries,Geler entrées en stocks
+205,Freight and Forwarding Charges,Frais de fret et d'expédition
+206,Frequency,Fréquence
+207,Friday,Vendredi
+208,Friendly Title,Titre convivial
+209,From,À partir de
+210,From {0} | {1} {2},Du {0} | {1} {2}
+211,From {0} to {1},Du {0} au {1}
+212,From and To dates required,La date Du Au est exigée
+213,From BOM,De BOM
+214,From Company,De la société
+215,From Currency,De la devise
+216,From Customer,Du client
+217,From Date,A partir du
+218,From Date cannot be greater than To Date,Date début ne peut pas être supérieur à celle de fin
+219,From Date must be before To Date,La date de début dois être antérieure à la date de fin
+220,From Datetime,De l'heure de la date
+221,From Delivery Note,Du bon de livraison
+222,From Employee,De l'employé
+223,From Invoice Date,De Date de la facture
+224,From Lead,Du prospect
+225,From Package No.,Du No de colis
+226,From Time,Horaire de début
+227,From Value,De la valeur
+228,From value must be less than to value in row {0},De la valeur doit être inférieure à la valeur de la ligne {0}
+229,From Warehouse,De l'entrepôt
+230,Frozen,Gelé
+231,Full Name,Nom et Prénom
+232,Full Page,Pleine page
+233,Full-time,À plein temps
+234,fullscreen,Plein écran
+235,Fully Billed,Entièrement facturé
+236,Fully Completed,Entièrement complété
+237,Fully Delivered,Entièrement Livré
+238,"Further accounts can be made under Groups, but entries can be made against non-Groups","D'autres comptes individuels peuvent être faits dans les groupes, mais les écritures ne peuvent être faites que dans les comptes individuels"
+239,Further nodes can be only created under 'Group' type nodes,D'autres nœuds peuvent être créés que sous les nœuds de type 'Groupe'
+240,Failed,Échoué
+241,fast-backward,Retour rapide
