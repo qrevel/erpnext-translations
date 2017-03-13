@@ -288,16 +288,16 @@
 284,"Customize Label, Print Hide, Default etc.","Personnaliser l'Étiquette, Cacher à l'Impression, Défaut etc"
 285,Customize the Notification,Personnaliser les Notifications
 286,Customized HTML Templates for printing transactions.,Modèles HTML Personnalisés pour les opérations d'impression.
-287,C-Form,Formulaire - C
-288,C-Form Applicable,Formulaire - C applicable
-289,C-Form Invoice Detail,Formulaire - C Détail de la facture
-290,C-form is not applicable for Invoice: {0},Formulaire - C n'est pas applicable pour la facture: {0}
-291,C-Form No,Formulaire - C N°
-292,C-Form records,Formulaire - C Enregistrements
+287,C-Form,Formulaire-C
+288,C-Form Applicable,Formulaire-C Applicable
+289,C-Form Invoice Detail,Formulaire-C Détail de la Facture
+290,C-form is not applicable for Invoice: {0},Formulaire-C n'est pas applicable pour la Facture : {0}
+291,C-Form No,Formulaire-C N°
+292,C-Form records,Enregistrements Formulaire-C
 293,Cache Cleared,Cache Effacé
 294,Calculate,Calculer
 295,Calculate Based On,Calculer en fonction de
-296,Calculate Total Score,Calculer Résultat Total
+296,Calculate Total Score,Calculer le Résultat Total
 297,Calculated Bank Statement balance,Solde Calculé du Relevé Bancaire
 298,Calendar,Calendrier
 299,Calls,Appels
@@ -307,41 +307,41 @@
 303,Campaign Naming By,Campagne Nommée Par
 304,Campaign-.####,Campagne-.####
 305,Can be approved by {0},Peut être approuvé par {0}
-306,"Can not filter based on Account, if grouped by Account","Impossible de filtrer sur les Compte , si regroupées par Compte"
-307,"Can not filter based on Voucher No, if grouped by Voucher","Impossible de filtrer sur la base du N° de Coupon, si regroupé par Coupon"
+306,"Can not filter based on Account, if grouped by Account","Impossible de filtrer sur les Compte , si les lignes sont regroupées par Compte"
+307,"Can not filter based on Voucher No, if grouped by Voucher","Impossible de filtrer sur la base du N° de Coupon, si les lignes sont regroupé par Coupon"
 308,Can only make payment against unbilled {0},Le paiement n'est possible qu'avec les {0} non facturés
 309,Can Read,Peut Lire
-310,Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Peut référer la ligne seulement si le type de charge est 'Montant de la Ligne Précedente' ou 'Total de la Ligne Précédente'
+310,Can refer row only if the charge type is 'On Previous Row Amount' or 'Previous Row Total',Peut se référer à la ligne seulement si le type de charge est 'Montant de la Ligne Précedente' ou 'Total de la Ligne Précédente'
 311,Can Share,Peut Partager
 312,Can Write,Peut Écrire
 313,Cancel,Annuler
-314,Cancel Material Visit {0} before cancelling this Warranty Claim,Annuler la Visite Matérial {0} avant d'annuler cette Réclamation de Garantie
-315,Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuler les Visites Matériaux {0} avant d'annuler cette Visite de Maintenance
+314,Cancel Material Visit {0} before cancelling this Warranty Claim,Annuler la Visite Matérielle {0} avant d'annuler cette Réclamation de Garantie
+315,Cancel Material Visits {0} before cancelling this Maintenance Visit,Annuler les Visites Matérielles {0} avant d'annuler cette Visite de Maintenance
 316,Cancelled,Annulé
 317,Cancelling,Annulation
 318,cannot be greater than 100,ne peut pas être supérieure à 100
 319,Cannot cancel because submitted Stock Entry {0} exists,Impossible d'annuler car l'Écriture de Stock soumise {0} existe
 320,Cannot cancel before submitting. See Transition {0},Impossible d'annuler avant de soumettre . Voir Transition {0}
-321,"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.","Impossible de changer la devise par défaut de l'entreprise, parce qu'il y a des opérations existantes. Les transactions doivent être annulées pour changer la devise par défaut."
+321,"Cannot change company's default currency, because there are existing transactions. Transactions must be cancelled to change the default currency.","Impossible de changer la devise par défaut de la société, parce qu'il y a des opérations existantes. Les transactions doivent être annulées pour changer la devise par défaut."
 322,Cannot change Fiscal Year Start Date and Fiscal Year End Date once the Fiscal Year is saved.,Impossible de modifier les dates de début et de fin d'exercice une fois que l'exercice est enregistré.
 323,Cannot change state of Cancelled Document. Transition row {0},Impossible de changer l'état d'un Document Annulé. Ligne de transition {0}
 324,Cannot close task as its dependant task {0} is not closed.,Impossible de fermer une tâche si tâche dépendante {0} n'est pas fermée.
 325,Cannot connect: {0},Impossible de se connecter : {0}
 326,Cannot delete {0} as it has child nodes,Impossible de supprimer {0} car il possède des sous-nœuds
-327,Cannot delete Home and Attachments folders,Impossible de supprimer dossier d’accueil et de pièces jointes
-328,"Cannot delete Serial No {0}, as it is used in stock transactions","Impossible de supprimer les N° de série {0}, s'ils sont est dans les mouvements de stock"
+327,Cannot delete Home and Attachments folders,Impossible de supprimer les dossiers d’accueil et de pièces jointes
+328,"Cannot delete Serial No {0}, as it is used in stock transactions","Impossible de supprimer les N° de série {0}, s'ils sont dans les mouvements de stock"
 329,Cannot edit cancelled document,Impossible de modifier un document annulé
 330,Cannot edit standard fields,Impossible de modifier les champs standards
 331,Cannot find a matching Item. Please select some other value for {0}.,Impossible de trouver un article similaire. Veuillez sélectionner une autre valeur pour {0}.
 332,Cannot link cancelled document: {0},Impossible de lier le document annulé : {0}
 333,Cannot open {0} when its instance is open,Impossible d'ouvrir {0} quand son instance est ouverte
 334,Cannot open instance when its {0} is open,Impossible d'ouvrir une instance quand son {0} est ouverte
-335,Cannot produce more Item {0} than Sales Order quantity {1},Impossible de produire plus d'Article {0} que de la qté {1} du Bon de Commande
+335,Cannot produce more Item {0} than Sales Order quantity {1},Impossible de produire plus d'Article {0} que de la quantité {1} du Bon de Commande
 336,Cannot refer row number greater than or equal to current row number for this Charge type,Impossible de se référer au numéro de la ligne supérieure ou égale au numéro de la ligne courante pour ce type de Charge
 337,Cannot remove permission for DocType: {0} and Name: {1},Impossible de retirer les permissions pour DocType : {0} et Nom : {1}
 338,Cannot send this email. You have crossed the sending limit of {0} emails for this month.,Impossible d'envoyer cet E-mail. Vous avez franchi la limite d'envoi de {0} E-mails pour ce mois.
 339,Capacity Planning,Planification de Capacité
-340,Capacity Planning Error,Erreur Planification de Capacité
+340,Capacity Planning Error,Erreur dePlanification de Capacité
 341,Capacity Planning For (Days),Planification de Capacité Pendant (Jours)
 342,Capital Equipments,Capitaux Immobilisés
 343,Capital Stock,Capital Social
@@ -374,11 +374,11 @@
 370,Chart of Accounts,Plan Comptable
 371,Chat,Chat
 372,Check,Vérifier
-373,Check all,Cochez tous
+373,Check all,Cocher tout
 374,Check this if you want to force the user to select a series before saving. There will be no default if you check this.,Cochez cette case si vous voulez forcer l'utilisateur à sélectionner une série avant de l'enregistrer. Il n'y aura pas de série par défaut si vous cochez cette case.
 375,Check which Documents are readable by a User,Vérifier quels Documents sont lisibles par un Utilisateur
 376,Checked items will be shown on desktop,Les éléments sélectionnés seront affichés sur le bureau
-377,Chemical,chimique
+377,Chemical,Chimique
 378,Child Item should not be a Product Bundle. Please remove item `{0}` and save,L'Article ne doit pas être un Produit Groupé. Veuillez retirer l'article `{0}` et sauvegarder
 379,City,Ville
 380,City/Town,Ville
@@ -397,7 +397,7 @@
 393,Closed,Fermé
 394,Closing (Cr),Fermeture (Cr)
 395,Closing (Dr),Fermeture (Dr)
-396,Closing Date,Date de clôture
+396,Closing Date,Date de Clôture
 397,Closing Fiscal Year,Clôture de l'Exercice
 398,Code,Code
 399,cog,dent
@@ -420,7 +420,7 @@
 416,Communication Medium,Moyen de Communication
 417,Companies,Sociétés
 418,Company,Société
-419,Company (not Customer or Supplier) master.,Any ideas?
+419,Company (not Customer or Supplier) master.,Données de base de la Société (ni les Clients ni les Fournisseurs)
 420,Company Abbreviation,Abréviation de la Société
 421,Company and Accounts,Société et Comptes
 422,Company Email,E-mail Société
@@ -445,7 +445,7 @@
 441,Confirmation Date,Date de Confirmation
 442,Confirmed,Confirmé
 443,Confirmed orders from Customers.,Commandes confirmées des clients.
-444,Consider Tax or Charge for,Tenir compte taxe et frais pour
+444,Consider Tax or Charge for,Tenir Compte des Taxe et Frais pour
 445,Consumable,Consommable
 446,Consumed,Consommé
 447,Contact,Contact
@@ -472,7 +472,7 @@
 468,Cost Center with existing transactions can not be converted to ledger,Un Centre de Coûts avec des transactions existantes ne peut pas être converti en grand livre
 469,Cost of Goods Sold,Coût des Marchandises Vendues
 470,Cost of various activities,Coût des différents types d'activités.
-471,Cost Updated,Mise à jour Coût
+471,Cost Updated,Coût Mise à Jour
 472,Costing and Billing,Coûts et Facturation
 473,Could not find {0},Impossible de trouver {0}
 474,Could not find {0} in {1},Impossible de trouver {0} dans {1}
@@ -483,7 +483,7 @@
 479,Cr,Cr
 480,Create,Créer
 481,"Create and manage daily, weekly and monthly email digests.","Créer et gérer des résumés d'E-mail quotidiens, hebdomadaires et mensuels."
-482,Create and Send Newsletters,Créer et envoyer des newsletter
+482,Create and Send Newsletters,Créer et Envoyer des Newsletters
 483,Create rules to restrict transactions based on values.,Créer des règles pour restreindre les transactions basées sur les valeurs.
 484,Created,Créé
 485,Created By,Créé Par
@@ -499,7 +499,7 @@
 495,Ctrl + Up,Ctrl + Haut
 496,Currency,Devise
 497,Currency and Price List,Devise et liste de prix
-498,Currency exchange rate master.,Taux de change de maître.
+498,Currency exchange rate master.,Données de base des Taux de Change
 499,Currency is required for Price List {0},Devise est nécessaire pour la liste de prix {0}
 500,Current Assets,Actifs Actuels
 501,Current Liabilities,Dettes Actuelles
@@ -537,10 +537,10 @@
 533,Customers,Clients
 534,Customize,Personnaliser
 535,Customize Form,Personnaliser le formulaire
-536,Customize the introductory text that goes as a part of that email. Each transaction has a separate introductory text.,Personnaliser le texte d'introduction qui se déroule comme une partie de cet Email. Chaque transaction a un introduction séparée.
+536,Customize the introductory text that goes as a part of that email. Each transaction has a separate introductory text.,Personnaliser le texte d'introduction qui fera partie de cet Email. Chaque transaction a un introduction séparée.
 537,"Customized Formats for Printing, Email","Formats Personnalisés pour l'Impression, l'Email"
 538,Customizing Forms,Personnalisation des Formulaires
-539,Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Impossible de sélectionner le type de charge comme «Le Montant de la Ligne Précente» ou «Montant Total de la Ligne Précédente» pour la première ligne
-540,Cannot Update: Incorrect / Expired Link.,Impossible d'effectuer la Mise à Jour : Lien Incorrect/Périmé.
+539,Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row,Impossible de sélectionner le type de charge comme étant «Le Montant de la Ligne Précédente» ou «Montant Total de la Ligne Précédente» pour la première ligne
+540,Cannot Update: Incorrect / Expired Link.,Impossible d'effectuer la Mise à Jour : Lien Incorrect/Expiré.
 541,Check this if you want to show in website,Cochez cette case si vous souhaitez afficher sur le site
 542,Cheque,Chèque
