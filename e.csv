@@ -1,314 +1,314 @@
 ,English,Français
-0,Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,
-1,Email Account setup please enter your password for:,
-2,"Email Address must be unique, already exists for {0}",
-3,Email Addresses,
-4,Email Field,
-5,Email Fieldname,
-6,Email Inbox,
-7,EMI in progress,
-8,Employee {0} on Leave on {1},
-9,Employee Loan Account,
-10,Employee Loan Application,
-11,Employees Email Address,
-12,"Enter Email Address separated by commas, invoice will be mailed automatically on particular date",
-13,Error in formula or condition: {0},
-14,Example Email Address,
-15,Expires On,
-16,Expiry (In Days),
-17,Export Report:,
-18,e.g. replies@yourcomany.com. All replies will come to this inbox.,par exemple replies@yourcomany.com. Toutes les réponses viendront à cette boîte de réception.
+0,Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,Compte Email non configuré. Veuillez créer un nouveau Compte Email depuis Configuration > Email > Compte Email
+1,Email Account setup please enter your password for:,Configuration du Compte Email veuillez entrer votre mot de passe pour :
+2,"Email Address must be unique, already exists for {0}","Adresse Email doit être unique, existe déjà pour {0}"
+3,Email Addresses,Adresse Email
+4,Email Field,Champ Email
+5,Email Fieldname,Nom du Champ Email
+6,Email Inbox,Boîte de Réception
+7,EMI in progress,EMI en cours
+8,Employee {0} on Leave on {1},Employé {0} sur le Congé sur {1}
+9,Employee Loan Account,Compte de Prêt d'un Employé
+10,Employee Loan Application,Demande de Prêt d'un Employé
+11,Employees Email Address,Adresse Email des Employés
+12,"Enter Email Address separated by commas, invoice will be mailed automatically on particular date","Entrer les Adresses Email séparées par des virgules, la facture sera envoyée automatiquement à une date précise"
+13,Error in formula or condition: {0},Erreur dans la formule ou dans la condition : {0}
+14,Example Email Address,Example d'Adresse Email
+15,Expires On,Expire Le
+16,Expiry (In Days),Expiration (En Jours)
+17,Export Report:,Rapport d'Exportation :
+18,e.g. replies@yourcomany.com. All replies will come to this inbox.,e.g. replies@yourcomany.com. Toutes les réponses viendront à cette boîte de réception.
 19,Earning,Revenus
-20,"Earnings, Deductions and other Salary components","Résultat, déductions et autres composantes salariales"
-21,Edit Custom HTML,Modifier HTML personnalisé
-22,Edit Heading,Modifier rubrique
-23,Edit Role Permissions,Modifier les autorisations de rôle
+20,"Earnings, Deductions and other Salary components","Revenus, Retenues, et autres composantes Salariales"
+21,Edit Custom HTML,Modifier HTML Personnalisé
+22,Edit Heading,Modifier Rubrique
+23,Edit Role Permissions,Modifier les Autorisations de Rôle
 24,Edit to add content,Modifier pour ajouter du contenu
-25,Edit via Upload,Modifier via chargement
-26,Educational Qualification,Qualification pour l'éducation
-27,Eg. smsgateway.com/api/send_sms.cgi,Par exemple. smsgateway.com / api / send_sms.cgi
-28,Email Alert Recipient,Email du destinataire alerte
-29,Email By Document Field,Email Par type de document Champ
-30,Email Domain,Email Domain
-31,"Email Domain not configured for this account, Create one?","Email Domaine non configuré pour ce compte, créer un?"
-32,Email Flag Queue,Email Flag Queue
-33,Email Queue Recipient,Queue Email Destinataire
-34,Email Sent To,Email envoyé à
-35,Emails salary slip to employee based on preferred email selected in Employee,Les e-mails fiche de salaire à l'employé en fonction de courrier électronique préféré sélectionné dans Employee
-36,"Emails will be sent to all Active Employees of the company at the given hour, if they do not have holiday. Summary of responses will be sent at midnight.","Les e-mails seront envoyés à tous les employés actifs de la société à l'heure donnée, si elles ne sont pas des vacances. Résumé des réponses sera envoyé à minuit."
-37,EMP/,EMP /
+25,Edit via Upload,Modifier via Chargement
+26,Educational Qualification,Qualification pour l'Éducation
+27,Eg. smsgateway.com/api/send_sms.cgi,Eg. smsgateway.com / api / send_sms.cgi
+28,Email Alert Recipient,Alerte Email du Destinataire
+29,Email By Document Field,Email Par Champ de Document
+30,Email Domain,Nom de Domaine Email
+31,"Email Domain not configured for this account, Create one?","Nom de Domain de l'Email non configuré pour ce compte, En créer un ?"
+32,Email Flag Queue,Liste d'Attente des d'Emails Marqués
+33,Email Queue Recipient,Liste d'Attente d'Emails Destinataire
+34,Email Sent To,Email Envoyé À
+35,Emails salary slip to employee based on preferred email selected in Employee,Les Emails de fiche de paie à l'employé en fonction de l'email sélectionné dans Employé
+36,"Emails will be sent to all Active Employees of the company at the given hour, if they do not have holiday. Summary of responses will be sent at midnight.","Les Emails seront envoyés à tous les Employés Actifs de la société à l'heure donnée, s'ils ne sont pas en vacances. Le résumé des réponses sera envoyé à minuit."
+37,EMP/,EMP/
 38,Employee {0} on Half day on {1},Employé {0} sur une demi-journée sur {1}
-39,Employee and Attendance,Employé et participation
-40,Employee Benefits,Avantages du personnel
-41,Employee Information,Renseignements sur l'employé
-42,Employee Loan,prêt employé
-43,Employee Loan Management,Gestion du prêt des employés
-44,Employee record is created using selected field.,dossier de l'employé est créé en utilisant champ sélectionné.
-45,Employee relieved on {0} must be set as 'Left',S'il vous plaît entrer unité de mesure par défaut
-46,Enable Checkout,Activer Checkout
-47,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Activation de 'utiliser pour panier', comme le Panier est activé et il devrait y avoir au moins une règle d'impôt pour Panier"
-48,Encashment Date,Date de l'encaissement
+39,Employee and Attendance,Employé et Participation
+40,Employee Benefits,Avantages de l'Employé
+41,Employee Information,Renseignements sur l'Employé
+42,Employee Loan,Prêt Employé
+43,Employee Loan Management,Gestion du Prêt des Employés
+44,Employee record is created using selected field.,Le dossier de l'employé est créé en utilisant le champ sélectionné.
+45,Employee relieved on {0} must be set as 'Left',Employé dégagé de {0} doit être défini comme 'Gauche'
+46,Enable Checkout,Activer Caisse
+47,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Activation de 'Utiliser pour Panier', comme le Panier est activé et qu'il devrait y avoir au moins une Règle d'Impôt pour le Panier"
+48,Encashment Date,Date de l'Encaissement
 49,End date of current invoice's period,Date de fin de la période de facturation en cours
-50,Enough Parts to Build,Pièces assez pour construire
-51,Enroll Students,Inscrivez étudiants
-52,Enrollment Date,Date de l'inscription
-53,"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Entrez les champs de valeur par défaut (touches) et les valeurs. Si vous ajoutez plusieurs valeurs d'un champ, le premier sera choisi. Ces valeurs par défaut sont également utilisés pour définir ""Match"" règles d'autorisation. Pour voir la liste des champs, cliquez sur ""Personnaliser le formulaire""."
-54,Enter items and planned qty for which you want to raise production orders or download raw materials for analysis.,Introduisez les articles et qté planifiée pour laquelle vous voulez soulever ordres de fabrication ou de télécharger des matières premières pour l'analyse.
-55,"Enter keys to enable login via Facebook, Google, GitHub.","La touche Entrée pour activer la connexion via Facebook , Google , GitHub ."
-56,Enter name of campaign if source of enquiry is campaign,Entrez le nom de la campagne si la source de l'enquête est la campagne
+50,Enough Parts to Build,Pièces Suffisantes pour Construire
+51,Enroll Students,Inscrivez des Étudiants
+52,Enrollment Date,Date de l'Inscription
+53,"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Entrez le nom et la valeur des champs de valeur par défaut. Si vous ajoutez plusieurs valeurs pour un champ, le première sera choisie. Ces valeurs par défaut sont également utilisées pour définir les règles d'autorisation ""correspondantes". Pour voir la liste des champs, cliquez sur ""Personnaliser le Formulaire""."
+54,Enter items and planned qty for which you want to raise production orders or download raw materials for analysis.,Entrez les articles et qté planifiée pour lesquels vous voulez augmenter les ordres de fabrication ou télécharger donées brutes pour les analyser.
+55,"Enter keys to enable login via Facebook, Google, GitHub.","Entrez les clés pour activer la connexion via Facebook, Google, GitHub."
+56,Enter name of campaign if source of enquiry is campaign,Entrez le nom de la campagne si la source de l'enquête est une campagne
 57,Enter retirement age in years,Entrez l'âge de la retraite en années
-58,"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","Entrez les paramètres url statiques (par exemple ici sender = ERPNext, username = ERPNext, mot de passe = 1234 etc)"
+58,"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","Entrez les paramètres d'url statiques (par exemple ici sender = ERPNext, username = ERPNext, mot de passe = 1234 etc)"
 59,Enter url parameter for message,Entrez le paramètre url pour le message
-60,Enter url parameter for receiver nos,Entrez le paramètre url pour nos récepteurs
-61,Enter value must be positive,Entrer la valeur doit être positive
-62,Error in uploading files.,Erreur dans le téléchargement de fichiers.
-63,Error while evaluating Email Alert {0}. Please fix your template.,Erreur lors de l'évaluation de l'Alerte Email {0}. S'il vous plaît fixez votre modèle.
-64,"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Même s'il existe plusieurs règles de tarification avec la plus haute priorité, les priorités internes alors suivantes sont appliquées:"
-65,Event Name,Nom de l'événement
-66,Event Status,Statut de l'événement
+60,Enter url parameter for receiver nos,Entrez le paramètre url pour le nombre de destinataires
+61,Enter value must be positive,La valeur entrée doit être positive
+62,Error in uploading files.,Erreur dans le téléversement des fichiers.
+63,Error while evaluating Email Alert {0}. Please fix your template.,Erreur lors de l'évaluation de l'Alerte Email {0}. Veuillez fixer votre modèle.
+64,"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Même s'il existe plusieurs Règles de Tarification avec une plus haute priorité, les priorités internes suivantes sont appliquées :"
+65,Event Name,Nom de l'Événement
+66,Event Status,Statut de l'Événement
 67,"Example: ABCD.#####
 If series is set and Serial No is not mentioned in transactions, then automatic serial number will be created based on this series. If you always want to explicitly mention Serial Nos for this item. leave this blank.","Exemple:. ABCD ##### 
- Si la série est réglé et n ° de série ne est pas mentionné dans les transactions, le numéro de série, puis automatique sera créé sur la base de cette série. Si vous voulez toujours de mentionner explicitement numéros de série pour ce produit. laissez ce champ vide."
-68,Example: Masters in Computer Science,Exemple: Maîtrise en sciences informatiques
-69,Exchange Gain / Loss Account,Gain de change / compte de résultat
-70,Exchange Gain/Loss,Gain de change / Perte
-71,Excise Entry,Entrée accise
-72,Excise Invoice,Accise facture
-73,Excise Page Number,Numéro de page d'accise
+ Si la série est définie et que le N° de série n'est pas mentionné dans les transactions, alors un numéro de série automatique sera créé basé sur cette série. Si vous voulez toujours mentionner explicitement les numéros de série pour ce produit. laissez ce champ vide."
+68,Example: Masters in Computer Science,Exemple: Master en Sciences Informatiques
+69,Exchange Gain / Loss Account,Compte de Profits / Pertes sur Change
+70,Exchange Gain/Loss,Profits / Pertes sur Change
+71,Excise Entry,Écriture d'Accise
+72,Excise Invoice,Facture d'Accise
+73,Excise Page Number,Numéro de Page d'Accise
 74,exclamation-sign,point-d'exclamation
-75,Existing Company,Société existant
+75,Existing Company,Société Existante
 76,EXP,EXP
-77,Expected Delivery Date cannot be before Sales Order Date,"Stock réconciliation peut être utilisé pour mettre à jour le stock à une date donnée , généralement selon l'inventaire physique ."
-78,Expected End Date can not be less than Expected Start Date,Date prévue de la fin ne peut être inférieure à Date de début prévue
-79,Expected Value After Useful Life,Valeur attendue Après la vie utile
-80,Expected value after useful life must be greater than or equal to {0},Valeur attendue après la vie utile doit être supérieure ou égale à {0}
-81,Expected Value After Useful Life must be less than Gross Purchase Amount,Valeur attendue Après la vie utile doit être inférieure à Achat Montant brut
-82,Expense / Difference account ({0}) must be a 'Profit or Loss' account,Dépenses / compte de la différence ({0}) doit être un compte «de résultat»
-83,Expense account is mandatory for item {0},Compte des frais est obligatoire pour item {0}
-84,Expense Claim {0} already exists for the Vehicle Log,Demande de remboursement {0} existe déjà pour le Journal du véhicule
-85,Expense Claim Account,Demande d'indemnité de compte
-86,Expense Claim for Vehicle Log {0},Demande de dépenses pour les véhicules Log {0}
-87,Expense Head,Chef des frais
-88,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,Frais ou différence compte est obligatoire pour objet {0} car il impacts valeur globale des actions
-89,Experimental Feature,Caractéristique expérimentale
-90,Expiration time,Date d'expiration
-91,Expire Notification On,Expirez notification Sur
-92,Expires In,Expire dans
+77,Expected Delivery Date cannot be before Sales Order Date,La Date de Livraison Attendue ne peut pas être avant la Date du Bon de Commande
+78,Expected End Date can not be less than Expected Start Date,Date de Fin Attendue ne peut pas être inférieure à Date de Début Attendue
+79,Expected Value After Useful Life,Valeur Attendue Après Utilisation Complète
+80,Expected value after useful life must be greater than or equal to {0},Valeur attendue après utilisation complète doit être supérieure ou égale à {0}
+81,Expected Value After Useful Life must be less than Gross Purchase Amount,Valeur Attendue Après Utilisation Complète doit être inférieure au Montant d'Achat Brut
+82,Expense / Difference account ({0}) must be a 'Profit or Loss' account,Compte de Charge / d'Écart ({0}) doit être un Compte «de Résultat»
+83,Expense account is mandatory for item {0},Compte de charge est obligatoire pour l'article {0}
+84,Expense Claim {0} already exists for the Vehicle Log,Note de Frais {0} existe déjà pour l'Indémnité Kilométrique
+85,Expense Claim Account,Compte de Note de Frais
+86,Expense Claim for Vehicle Log {0},Note de Frais pour Indémnité Kilométrique {0}
+87,Expense Head,Chef des Charges
+88,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,Compte de Charge et d'Écarts est obligatoire pour objet {0} car il impacts valeur globale des actions
+89,Experimental Feature,Fonctionalité Expérimentale
+90,Expiration time,Date d'Expiration
+91,Expire Notification On,Les Notifications Expirent le
+92,Expires In,Expire Dans
 93,Expires in {0} days,Expire dans {0} jours
 94,Exploded_items,Exploded_items
-95,Export Custom Permissions,Exporter les autorisations personnalisées
+95,Export Custom Permissions,Exporter les Autorisations Personnalisées
 96,Export Customizations,Exporter les Personnalisations
 97,Expose Recipients,Exposer Destinataires
-98,eye-close,oeil de près
-99,eye-open,ouvrir les yeux
-100,"e.g. ""Build tools for builders""","Ex. ""Construire des outils pour les constructeurs"""
-101,"e.g. ""Primary School"" or ""University""",par exemple «école primaire» ou «Université»
-102,"e.g. ""Support"", ""Sales"", ""Jerry Yang""","Ex. ""Support "","" vente "",""Jerry Yang"""
-103,e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,par ex. (55 + 434) / 4 ou = Math.sin (Math.PI/2) ...
-104,e.g. 5,par ex. 5
-105,"e.g. Bank, Cash, Credit Card","Ex. Cash, Banque, Carte de crédit"
-106,"e.g. Kg, Unit, Nos, m","Par exemple Kg, Unités, Nombres, Mètres"
-107,e.g. pop.gmail.com / imap.gmail.com,Ex. pop.gmail.com / imap.gmail.com
-108,e.g. smtp.gmail.com,par exemple smtp.gmail.com
-109,e.g. VAT,par exemple TVA
-110,e.g.:,par exemple:
+98,eye-close,oeil-fermé
+99,eye-open,oeil-ouver
+100,"e.g. ""Build tools for builders""","e.g. ""Construire des outils pour les constructeurs"""
+101,"e.g. ""Primary School"" or ""University""",e.g. ""École Primaire"" ou ""Université""
+102,"e.g. ""Support"", ""Sales"", ""Jerry Yang""","e.g. ""Support"",""Vente"",""Jerry Yang"""
+103,e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,e.g. (55 + 434) / 4 ou = Math.sin(Math.PI/2) ...
+104,e.g. 5,e.g. 5
+105,"e.g. Bank, Cash, Credit Card","e.g. Cash, Banque, Carte de crédit"
+106,"e.g. Kg, Unit, Nos, m","e.g. Kg, Unités, Nbr, m"
+107,e.g. pop.gmail.com / imap.gmail.com,e.g. pop.gmail.com / imap.gmail.com
+108,e.g. smtp.gmail.com,e.g. smtp.gmail.com
+109,e.g. VAT,e.g. TVA
+110,e.g.:,e.g. :
 111,Earnest Money,Arrhes
-112,Earning & Deduction,Revenus et déduction
+112,Earning & Deduction,Revenus et Déduction
 113,Earnings,Bénéfices
 114,Edit,Modifier
-115,Edit {0} properties,Modifier propriétés {0}
+115,Edit {0} properties,Modifier les propriétés {0}
 116,Edit Description,Modifier la description
-117,Edit DocType,Modifier DocType
-118,Edit Filter,Modifier le filtre
-119,Edit Folder,Modifier le dossier
-120,Edit Format,Modifier le format
+117,Edit DocType,Modifier le DocType
+118,Edit Filter,Modifier le Filtre
+119,Edit Folder,Modifier le Dossier
+120,Edit Format,Modifier le Format
 121,Edit HTML,Modifier le code HTML
 122,Edit in full page,Modifier en pleine page
-123,Edit Profile,Modifier le profil
-124,Edit Properties,Modifier les propriétés
-125,Edit Title,Modifier le titre
-126,Editable Grid,Grille éditable
-127,Editing Row,Modifier ligne
+123,Edit Profile,Modifier le Profil
+124,Edit Properties,Modifier les Propriétés
+125,Edit Title,Modifier le Titre
+126,Editable Grid,Grille Éditable
+127,Editing Row,Modifier Ligne
 128,Education,Education
-129,"eg. If Apply User Permissions is checked for Report DocType but no User Permissions are defined for Report for a User, then all Reports are shown to that User","Par exemple, si ""Appliquer les Permissions Utilisateurs"" est coché pour un Rapport DocType mais que les autorisations de Rapport ne sont pas attribuées pour un utilisateur défini, alors tous les Rapports seront visibles pour cet utilisateur."
-130,Either target qty or target amount is mandatory,Soit Qté ou le montant cible est obligatoire
-131,Either target qty or target amount is mandatory.,Soit Qté ou le montant cible est obligatoire
+129,"eg. If Apply User Permissions is checked for Report DocType but no User Permissions are defined for Report for a User, then all Reports are shown to that User","e.g. si Appliquer les Permissions Utilisateurs est coché pour un Rapport DocType mais qu'aucune Autorisation Utilisateur n'est définie pour un Rapport pour un utilisateur, alors tous les Rapports seront visibles pour cet Utilisateur."
+130,Either target qty or target amount is mandatory,Soit la qté cible soit le montant cible est obligatoire
+131,Either target qty or target amount is mandatory.,Soit la qté cible soit le montant cible est obligatoire.
 132,eject,éjecter
 133,Electric,Électrique
-134,Electrical,Electrique
-135,Electricity Cost,Coût de l'électricité
-136,Electronic Equipments,Equipements électroniques
-137,Electronics,électronique
+134,Electrical,Électrique
+135,Electricity Cost,Coût de l'Électricité
+136,Electronic Equipments,Equipements Électroniques
+137,Electronics,Électronique
 138,Eligibility,Admissibilité
 139,Email,E-mail
-140,Email Account,Compte E-mail
-141,Email Account Name,Nom du compte E-mail
-142,Email Address,Adresse E-mail
-143,Email Alert,Alerte E-mail
-144,Email By Role,E-mail Par rôle
-145,Email Digest,Compte rendu par Email
-146,Email Digest Settings,Paramètres pour le compte rendu par Email
-147,Email Digest:,Envoyer Digest:
+140,Email Account,Compte Email
+141,Email Account Name,Nom du Compte Email
+142,Email Address,Adresse Email
+143,Email Alert,Alerte Email
+144,Email By Role,Email Par rôle
+145,Email Digest,Envoyer par Mail le Compte Rendu
+146,Email Digest Settings,Paramètres pour le Compte Rendu par Email
+147,Email Digest:,Compte Rendu par Email :
 148,Email Footer Address,Pied de Page Email
-149,Email Group,Groupe E-mail
-150,Email Group List,Liste des groupes E-mail
-151,Email Group Member,Membre du groupe E-mail
-152,Email ID,ID E-mail
+149,Email Group,Groupe Email
+150,Email Group List,Liste des Groupes Email
+151,Email Group Member,Membre du Groupe Email
+152,Email ID,ID Email
 153,Email not sent to {0} (unsubscribed / disabled),Email pas envoyé à {0} (désabonné / désactivé)
-154,Email not verified with {1},Courriel non vérifié avec {1}
+154,Email not verified with {1},Email non vérifié avec {1}
 155,Email Notifications,Notifications par Email
-156,Email Queue,File d'attente E-mail
-157,Email Queue records.,Registres de file d'attente E-mail.
-158,Email Salary Slip to Employee,E-mail fiche de paye à l'employé
-159,Email Sent,L'Email a été envoyé
+156,Email Queue,File d'Attente Email
+157,Email Queue records.,Registres de file d'attente Email.
+158,Email Salary Slip to Employee,Envoyer par Mail la Fiche de Paie à l'Employé
+159,Email Sent,Email Envoyé
 160,Email sent to supplier {0},Email envoyé au fournisseur {0}
-161,Email Sent?,Courriel envoyés?
-162,Email Server,Serveur E-mail
-163,Email Settings,Paramètres de messagerie
-164,Email Signature,Signature E-Mail
-165,Email Support,Support E-mail
-166,Email To,E-mail à
-167,Email Unsubscribe,Se désabonner Email
-168,Emails are muted,Les E-mails sont mis en sourdine
-169,Emails Sent,E-mails envoyés
-170,Emails sent this month,E-mails envoyés ce mois-ci
+161,Email Sent?,Email Envoyé ?
+162,Email Server,Serveur Email
+163,Email Settings,Paramètres d'Email
+164,Email Signature,Signature Email
+165,Email Support,Support Email
+166,Email To,Email À
+167,Email Unsubscribe,Se Désabonner Email
+168,Emails are muted,Les Emails sont mis en sourdine
+169,Emails Sent,Emails envoyés
+170,Emails sent this month,Emails envoyés ce mois-ci
 171,Embed image slideshows in website pages.,Intégrer des diaporamas d'images dans les pages du site.
-172,Emergency Contact,Contact en cas d'urgence
-173,Emergency Phone,Téléphone d'urgence
-174,Employee,Employés
-175,Employee {0} has already applied for {1} between {2} and {3},Employé {0} a déjà demandé {1} entre {2} et {3}
+172,Emergency Contact,Contact en cas d'Urgence
+173,Emergency Phone,Téléphone d'Urgence
+174,Employee,Employé
+175,Employee {0} has already applied for {1} between {2} and {3},L'employé {0} a déjà demandé {1} entre {2} et {3}
 176,Employee {0} is not active or does not exist,"L'employé {0} n'est pas actif, ou n'existe pas"
-177,Employee Attendance Tool,Outils gestion de présence des employés
-178,Employee Birthday,Anniversaire de l'employé
-179,Employee cannot report to himself.,L'employé ne peut pas rendre compte à lui-même.
-180,"Employee designation (e.g. CEO, Director etc.).","Intitulé de Poste (par exemple Directeur Général, Directeur...)"
-181,Employee Detail,Détail employé
-182,Employee Education,Formation de l'employé
-183,Employee External Work History,Antécédents professionnels de l'employé
-184,Employee Internal Work History,Antécédents professionnels interne de l'employé
-185,Employee Leave Approver,Approbateur des Congés de l'employé
-186,Employee Leave Balance,Balance des jours de congés de l'employé
-187,Employee Name,Nom de l'employé
-188,Employee Number,Numéro d'employé
-189,Employee Records to be created by,Dossiers sur les employés ont été créées par
-190,Employee records.,Dossiers des Employés.
-191,Employee Settings,Paramètres du personnel
+177,Employee Attendance Tool,Outil de Gestion des Présences des Employés
+178,Employee Birthday,Anniversaire de l'Employé
+179,Employee cannot report to himself.,L'employé ne peut pas rendre de compte à lui-même.
+180,"Employee designation (e.g. CEO, Director etc.).","Intitulé de poste (e.g.  Directeur Général, Directeur...)"
+181,Employee Detail,Détail Employé
+182,Employee Education,Formation de l'Employé
+183,Employee External Work History,Antécédents Professionnels de l'Employé
+184,Employee Internal Work History,Antécédents Professionnels Interne de l'Employé
+185,Employee Leave Approver,Approbateur des Congés de l'Employé
+186,Employee Leave Balance,Solde des Congés de l'Employé
+187,Employee Name,Nom de l'Employé
+188,Employee Number,Numéro d'Employé
+189,Employee Records to be created by,Dossiers de l'Employés ont été créées par
+190,Employee records.,Dossiers de l'Employé.
+191,Employee Settings,Paramètres des Employés
 192,Employees,Employés
-193,Employees Email Id,Identifiants E-mail des employés
-194,Employees HTML,Les employés HTML
+193,Employees Email Id,Identifiants Email des employés
+194,Employees HTML,Employés HTML
 195,Employees working on a holiday,Employés qui travaillent un jour férié
-196,Employment Details,Détails de l'emploi
-197,Employment Type,Type d'emploi
-198,Enable / disable currencies.,Activer / Désactiver la devise
+196,Employment Details,Détails de l'Emploi
+197,Employment Type,Type d'Emploi
+198,Enable / disable currencies.,Activer / Désactiver les devises
 199,Enable Auto Reply,Activer la Réponse Automatique
 200,Enable Comments,Activer Commentaires
-201,Enable Incoming,Activer entrant
-202,Enable Outgoing,Activer sortant
+201,Enable Incoming,Activer Entrant
+202,Enable Outgoing,Activer Sortant
 203,Enable Report,Activer Rapport
-204,Enable Scheduled Jobs,Activer les tâches planifiées
+204,Enable Scheduled Jobs,Activer les Tâches Planifiées
 205,Enable Shopping Cart,Activer Panier
 206,Enabled,Activé
-207,End Date,Date de fin
-208,End Date can not be less than Start Date,La date de fin ne peut pas être inférieur à la Date de début
-209,End of Life,Fin de vie
-210,End Time,Heure de fin
-211,End Year,Fin de l'année
-212,End Year cannot be before Start Year,Fin de l'année ne peut pas être avant début de l'année
+207,End Date,Date de Fin
+208,End Date can not be less than Start Date,La date de Fin ne peut pas être inférieur à la Date de Début
+209,End of Life,Fin de Vie
+210,End Time,Heure de Fin
+211,End Year,Fin de l'Année
+212,End Year cannot be before Start Year,Fin de l'Année ne peut pas être avant Début de l'Année
 213,Ends on,Se termine le
-214,Energy,énergie
-215,Engine Oil,Huile moteur
-216,Engineer,ingénieur
+214,Energy,Énergie
+215,Engine Oil,Huile Moteur
+216,Engineer,Ingénieur
 217,Enroll,Inscrire
 218,Enter at least one permission row,Entrez au moins une ligne d'autorisation
-219,Enter Email Recipient(s),Entrez E-mail du destinataire (s)
+219,Enter Email Recipient(s),Entrez Email du(des) Destinataire(s)
 220,Enter folder name,Entrez le nom du dossier
-221,Enter Form Type,Entrez le type de formulaire
-222,Enter Paid Amount,Entrez Montant payé
+221,Enter Form Type,Entrez le Type de Formulaire
+222,Enter Paid Amount,Entrez Montant Payé
 223,Enter the name of the new {0},Entrez le nom du nouveau {0}
-224,Enter Value,Entrez une valeur
+224,Enter Value,Entrez une Valeur
 225,Enter your password,Entrez votre mot de passe
 226,Entertainment & Leisure,Divertissement et Loisir
-227,Entry Type,Type d'entrée
+227,Entry Type,Type d'Écriture
 228,envelope,enveloppe
 229,Equals,Égal à
-230,Equity,Capitaux propres
+230,Equity,Capitaux Propres
 231,ERPNext Demo,Demo ERPNext
-232,ERPNext Setup Complete!,ERPNext Installation terminée!
+232,ERPNext Setup Complete!,ERPNext Installation Terminée!
 233,Error,Erreur
-234,Error Code: {0},Code d'erreur: {0}
-235,Error Log,Journal des erreurs
-236,Error Report,Rapport d'erreur
-237,Error Snapshot,Instantané d'erreur
-238,Error: Document has been modified after you have opened it,Erreur: le document a été modifié après que vous l'avez ouvert
-239,Error: Not a valid id?,Erreur: Pas un identifiant valide?
-240,Errors in Background Events,Erreurs dans les événements en tâche de fond
+234,Error Code: {0},Code d'erreur : {0}
+235,Error Log,Journal des Erreurs
+236,Error Report,Rapport d'Erreurs
+237,Error Snapshot,Instantané d'Erreur
+238,Error: Document has been modified after you have opened it,Erreur : le document a été modifié après que vous l'ayez ouvert
+239,Error: Not a valid id?,Erreur : Pas un identifiant valide ?
+240,Errors in Background Events,Erreurs dans les Événements en Tâche de Fond
 241,ESC,ESC
-242,Estimated Cost,Coût estimé
-243,Estimated Time and Cost,Durée et Coût estimatif
+242,Estimated Cost,Coût Estimé
+243,Estimated Time and Cost,Durée et Coût Estimés
 244,Evaluation,Évaluation
 245,Event,Événement
 246,Event and other calendars.,Événement et autres calendriers.
 247,Event end must be after start,Fin de l'événement doit être après le début
-248,Event Role,Rôle d'événement
-249,Event Type,Type d'événement
-250,Events In Today's Calendar,Événements dans le calendrier d'aujourd'hui
-251,Every Day,Tous les jours
+248,Event Role,Rôle d'Événement
+249,Event Type,Type d'Événement
+250,Events In Today's Calendar,Événements dans le Calendrier d'Aujourd'hui
+251,Every Day,Tous les Jours
 252,Every day events should finish on the same day.,Les événements quotidiens devrait se terminer le même jour.
-253,Every Month,Chaque mois
-254,Every Week,Chaque semaine
-255,Every Year,Chaque année
+253,Every Month,Chaque Mois
+254,Every Week,Chaque Semaine
+255,Every Year,Chaque Année
 256,Everyone,Tout le monde
 257,Exam,Examen
-258,Examination Result,Résultat d'examen
+258,Examination Result,Résultat d'Examen
 259,Examiner,Examinateur
-260,Examiner Name,Nom de l'examinateur
+260,Examiner Name,Nom de l'Examinateur
 261,Example,Exemple
-262,Example:,Exemple:
-263,Example: Basic Mathematics,Exemple: Mathématiques de base
-264,example: Next Day Shipping,Exemple: Livraison le jour suivant
+262,Example:,Exemple :
+263,Example: Basic Mathematics,Exemple : Mathématiques de Base
+264,example: Next Day Shipping,Exemple : Livraison le Jour Suivant
 265,Exception,Exception
-266,Exception Type,Type d'exception
-267,Exchange Rate,Taux de change
-268,Exchange Rate must be same as {0} {1} ({2}),Taux de change doit être le même que {0} {1} ({2})
+266,Exception Type,Type d'Exception
+267,Exchange Rate,Taux de Change
+268,Exchange Rate must be same as {0} {1} ({2}),Taux de Change doit être le même que {0} {1} ({2})
 269,Execution,Exécution
-270,Executive Search,Recherche de cadre
+270,Executive Search,Recherche de Cadre
 271,Exit,Quitter
-272,Exit Interview Details,Entretient de démission
-273,Expand,Afficher le contenu
-274,Expand All,Développer tout
-275,Expected Date cannot be before Material Request Date,Date prévu ne peut pas être avant la demande de matériel
-276,Expected Delivery Date,Date de livraison prévue
-277,Expected Delivery Date cannot be before Purchase Order Date,Date de livraison prévue ne peut pas être avant la  date de commande
-278,Expected End Date,Date de fin prévue
-279,Expected Start Date,Date de début prévue
-280,Expected Time (in hours),Durée prévue (en heures)
+272,Exit Interview Details,Entretient de Démission
+273,Expand,Développer
+274,Expand All,Développer Tout
+275,Expected Date cannot be before Material Request Date,Date Prévue ne peut pas être avant la Date de Demande de Matériel
+276,Expected Delivery Date,Date de Livraison Prévue
+277,Expected Delivery Date cannot be before Purchase Order Date,Date de Livraison Prévue ne peut pas être avant la Date de Commande
+278,Expected End Date,Date de Fin Prévue
+279,Expected Start Date,Date de Début Prévue
+280,Expected Time (in hours),Durée Prévue (en heures)
 281,Expense,Frais
-282,Expense Account,Compte de dépenses
+282,Expense Account,Compte de Charge
 283,Expense Approver,Approbateur des Frais
-284,Expense Claim,Note de frais
+284,Expense Claim,Note de Frais
 285,Expense Claim Approved,Note de Frais Approuvée
-286,Expense Claim Approved Message,Note de Frais Approuvée message
+286,Expense Claim Approved Message,Message d'une Note de Frais Approuvée
 287,Expense Claim Detail,Détail Note de Frais
-288,Expense Claim is pending approval. Only the Expense Approver can update status.,La note de frais est en attente d'approbation. Seul l'approbateur des frais peut mettre à jour le statut.
+288,Expense Claim is pending approval. Only the Expense Approver can update status.,La Note de Frais est en attente d'approbation. Seul l'Approbateur des Frais peut mettre à jour le statut.
 289,Expense Claim Rejected,Note de Frais Rejetée
-290,Expense Claim Rejected Message,Note de Frais Rejetée Message
+290,Expense Claim Rejected Message,Message de Note de Frais Rejetée
 291,Expense Claim Type,Type de Frais
 292,Expense Claims,Notes de Frais
-293,Expense Date,Date de frais
-294,Expenses,Dépenses
-295,Expenses Included In Valuation,Frais inclus dans la valorisation
+293,Expense Date,Date de Frais
+294,Expenses,Charges
+295,Expenses Included In Valuation,Frais Inclus dans la Valorisation
 296,Expert,Expert
 297,Expired,Expiré
 298,Expiry Date,Date d'expiration
 299,Explore,Explorer
 300,Export,Exporter
 301,Export not allowed. You need {0} role to export.,Pas autorisé à exporter. Vous devez avoir le rôle {0} pour exporter.
-302,Export Template,Exporter le modèle
+302,Export Template,Exporter le Modèle
 303,Exported,Exporté
-304,"Expression, Optional","Expression, optionnel"
+304,"Expression, Optional","Expression, Optionnel"
 305,External,Externe
-306,External Work History,Histoire de travail externe
+306,External Work History,Histoire de Travail Externe
 307,Extra Large,Extra Large
 308,Extra Small,Très Petit
 309,Earliest,Au plus tôt
-310,Entertainment Expenses,Frais de représentation
+310,Entertainment Expenses,Frais de Représentation
