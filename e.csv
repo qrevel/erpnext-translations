@@ -1,13 +1,13 @@
 ,English,Français
 0,Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,Compte Email non configuré. Veuillez créer un nouveau Compte Email depuis Configuration > Email > Compte Email
-1,Email Account setup please enter your password for:,Configuration du Compte Email veuillez entrer votre mot de passe pour :
+1,Email Account setup please enter your password for:,Configuration du Compte Email, veuillez entrer votre mot de passe pour :
 2,"Email Address must be unique, already exists for {0}","Adresse Email doit être unique, existe déjà pour {0}"
 3,Email Addresses,Adresse Email
 4,Email Field,Champ Email
 5,Email Fieldname,Nom du Champ Email
 6,Email Inbox,Boîte de Réception
 7,EMI in progress,EMI en cours
-8,Employee {0} on Leave on {1},Employé {0} sur le Congé sur {1}
+8,Employee {0} on Leave on {1},Employé {0} en Congé le {1}
 9,Employee Loan Account,Compte de Prêt d'un Employé
 10,Employee Loan Application,Demande de Prêt d'un Employé
 11,Employees Email Address,Adresse Email des Employés
@@ -32,9 +32,9 @@
 30,Email Domain,Nom de Domaine Email
 31,"Email Domain not configured for this account, Create one?","Nom de Domain de l'Email non configuré pour ce compte, En créer un ?"
 32,Email Flag Queue,Liste d'Attente des d'Emails Marqués
-33,Email Queue Recipient,Liste d'Attente d'Emails Destinataire
+33,Email Queue Recipient, Destinataire de la Liste d'Attente d'Emails
 34,Email Sent To,Email Envoyé À
-35,Emails salary slip to employee based on preferred email selected in Employee,Les Emails de fiche de paie à l'employé en fonction de l'email sélectionné dans Employé
+35,Emails salary slip to employee based on preferred email selected in Employee,Envoi des fiches de paie à l'employé par Email en fonction de l'email sélectionné dans la fiche Employé
 36,"Emails will be sent to all Active Employees of the company at the given hour, if they do not have holiday. Summary of responses will be sent at midnight.","Les Emails seront envoyés à tous les Employés Actifs de la société à l'heure donnée, s'ils ne sont pas en vacances. Le résumé des réponses sera envoyé à minuit."
 37,EMP/,EMP/
 38,Employee {0} on Half day on {1},Employé {0} sur une demi-journée sur {1}
@@ -42,18 +42,18 @@
 40,Employee Benefits,Avantages de l'Employé
 41,Employee Information,Renseignements sur l'Employé
 42,Employee Loan,Prêt Employé
-43,Employee Loan Management,Gestion du Prêt des Employés
+43,Employee Loan Management,Gestion des Prêts des Employés
 44,Employee record is created using selected field.,Le dossier de l'employé est créé en utilisant le champ sélectionné.
 45,Employee relieved on {0} must be set as 'Left',Employé dégagé de {0} doit être défini comme 'Gauche'
 46,Enable Checkout,Activer Caisse
-47,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Activation de 'Utiliser pour Panier', comme le Panier est activé et qu'il devrait y avoir au moins une Règle d'Impôt pour le Panier"
+47,"Enabling 'Use for Shopping Cart', as Shopping Cart is enabled and there should be at least one Tax Rule for Shopping Cart","Activation de 'Utiliser pour Panier', comme le Panier est activé et qu'il devrait y avoir au moins une Règle de Taxes pour le Panier"
 48,Encashment Date,Date de l'Encaissement
 49,End date of current invoice's period,Date de fin de la période de facturation en cours
 50,Enough Parts to Build,Pièces Suffisantes pour Construire
-51,Enroll Students,Inscrivez des Étudiants
+51,Enroll Students,Inscrire des Étudiants
 52,Enrollment Date,Date de l'Inscription
 53,"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Entrez le nom et la valeur des champs de valeur par défaut. Si vous ajoutez plusieurs valeurs pour un champ, le première sera choisie. Ces valeurs par défaut sont également utilisées pour définir les règles d'autorisation ""correspondantes". Pour voir la liste des champs, cliquez sur ""Personnaliser le Formulaire""."
-54,Enter items and planned qty for which you want to raise production orders or download raw materials for analysis.,Entrez les articles et qté planifiée pour lesquels vous voulez augmenter les ordres de fabrication ou télécharger donées brutes pour les analyser.
+54,Enter items and planned qty for which you want to raise production orders or download raw materials for analysis.,Entrez les articles et qté planifiée pour lesquels vous voulez augmenter les ordres de fabrication ou télécharger des donées brutes pour les analyser.
 55,"Enter keys to enable login via Facebook, Google, GitHub.","Entrez les clés pour activer la connexion via Facebook, Google, GitHub."
 56,Enter name of campaign if source of enquiry is campaign,Entrez le nom de la campagne si la source de l'enquête est une campagne
 57,Enter retirement age in years,Entrez l'âge de la retraite en années
@@ -61,8 +61,8 @@
 59,Enter url parameter for message,Entrez le paramètre url pour le message
 60,Enter url parameter for receiver nos,Entrez le paramètre url pour le nombre de destinataires
 61,Enter value must be positive,La valeur entrée doit être positive
-62,Error in uploading files.,Erreur dans le téléversement des fichiers.
-63,Error while evaluating Email Alert {0}. Please fix your template.,Erreur lors de l'évaluation de l'Alerte Email {0}. Veuillez fixer votre modèle.
+62,Error in uploading files.,Erreur dans le chargement des fichiers.
+63,Error while evaluating Email Alert {0}. Please fix your template.,Erreur lors de l'évaluation de l'Alerte Email {0}. Veuillez corriger votre modèle.
 64,"Even if there are multiple Pricing Rules with highest priority, then following internal priorities are applied:","Même s'il existe plusieurs Règles de Tarification avec une plus haute priorité, les priorités internes suivantes sont appliquées :"
 65,Event Name,Nom de l'Événement
 66,Event Status,Statut de l'Événement
@@ -82,25 +82,25 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 78,Expected End Date can not be less than Expected Start Date,Date de Fin Attendue ne peut pas être inférieure à Date de Début Attendue
 79,Expected Value After Useful Life,Valeur Attendue Après Utilisation Complète
 80,Expected value after useful life must be greater than or equal to {0},Valeur attendue après utilisation complète doit être supérieure ou égale à {0}
-81,Expected Value After Useful Life must be less than Gross Purchase Amount,Valeur Attendue Après Utilisation Complète doit être inférieure au Montant d'Achat Brut
+81,Expected Value After Useful Life must be less than Gross Purchase Amount,Valeur Attendue Après Utilisation Complète doit être antérieure au Montant d'Achat Brut
 82,Expense / Difference account ({0}) must be a 'Profit or Loss' account,Compte de Charge / d'Écart ({0}) doit être un Compte «de Résultat»
 83,Expense account is mandatory for item {0},Compte de charge est obligatoire pour l'article {0}
 84,Expense Claim {0} already exists for the Vehicle Log,Note de Frais {0} existe déjà pour l'Indémnité Kilométrique
 85,Expense Claim Account,Compte de Note de Frais
 86,Expense Claim for Vehicle Log {0},Note de Frais pour Indémnité Kilométrique {0}
-87,Expense Head,Chef des Charges
-88,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,Compte de Charge et d'Écarts est obligatoire pour objet {0} car il impacts valeur globale des actions
+87,Expense Head,Responsable des Charges
+88,Expense or Difference account is mandatory for Item {0} as it impacts overall stock value,Compte de Charge et d'Écarts est obligatoire pour objet {0} car il impacte la valeur globale des actions
 89,Experimental Feature,Fonctionalité Expérimentale
 90,Expiration time,Date d'Expiration
 91,Expire Notification On,Les Notifications Expirent le
 92,Expires In,Expire Dans
 93,Expires in {0} days,Expire dans {0} jours
-94,Exploded_items,Exploded_items
+94,Exploded_items,Articles-éclatés
 95,Export Custom Permissions,Exporter les Autorisations Personnalisées
 96,Export Customizations,Exporter les Personnalisations
 97,Expose Recipients,Exposer Destinataires
 98,eye-close,oeil-fermé
-99,eye-open,oeil-ouver
+99,eye-open,oeil-ouvert
 100,"e.g. ""Build tools for builders""","e.g. ""Construire des outils pour les constructeurs"""
 101,"e.g. ""Primary School"" or ""University""",e.g. ""École Primaire"" ou ""Université""
 102,"e.g. ""Support"", ""Sales"", ""Jerry Yang""","e.g. ""Support"",""Vente"",""Jerry Yang"""
@@ -159,7 +159,7 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 155,Email Notifications,Notifications par Email
 156,Email Queue,File d'Attente Email
 157,Email Queue records.,Registres de file d'attente Email.
-158,Email Salary Slip to Employee,Envoyer par Mail la Fiche de Paie à l'Employé
+158,Email Salary Slip to Employee,Envoyer la Fiche de Paie à l'Employé par Mail
 159,Email Sent,Email Envoyé
 160,Email sent to supplier {0},Email envoyé au fournisseur {0}
 161,Email Sent?,Email Envoyé ?
@@ -209,7 +209,7 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 205,Enable Shopping Cart,Activer Panier
 206,Enabled,Activé
 207,End Date,Date de Fin
-208,End Date can not be less than Start Date,La date de Fin ne peut pas être inférieur à la Date de Début
+208,End Date can not be less than Start Date,La date de Fin ne peut pas être antérieure à la Date de Début
 209,End of Life,Fin de Vie
 210,End Time,Heure de Fin
 211,End Year,Fin de l'Année
@@ -233,7 +233,7 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 229,Equals,Égal à
 230,Equity,Capitaux Propres
 231,ERPNext Demo,Demo ERPNext
-232,ERPNext Setup Complete!,ERPNext Installation Terminée!
+232,ERPNext Setup Complete!,Installation d'ERPNext Terminée!
 233,Error,Erreur
 234,Error Code: {0},Code d'erreur : {0}
 235,Error Log,Journal des Erreurs
@@ -271,9 +271,9 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 267,Exchange Rate,Taux de Change
 268,Exchange Rate must be same as {0} {1} ({2}),Taux de Change doit être le même que {0} {1} ({2})
 269,Execution,Exécution
-270,Executive Search,Recherche de Cadre
+270,Executive Search,Recrutement de Cadres
 271,Exit,Quitter
-272,Exit Interview Details,Entretient de Démission
+272,Exit Interview Details,Entretient de Départ
 273,Expand,Développer
 274,Expand All,Développer Tout
 275,Expected Date cannot be before Material Request Date,Date Prévue ne peut pas être avant la Date de Demande de Matériel
@@ -307,7 +307,7 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 303,Exported,Exporté
 304,"Expression, Optional","Expression, Optionnel"
 305,External,Externe
-306,External Work History,Histoire de Travail Externe
+306,External Work History,Historique de Travail Externe
 307,Extra Large,Extra Large
 308,Extra Small,Très Petit
 309,Earliest,Au plus tôt
