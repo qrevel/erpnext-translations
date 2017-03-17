@@ -1,6 +1,6 @@
 ,English,Français
 0,Email Account not setup. Please create a new Email Account from Setup > Email > Email Account,Compte Email non configuré. Veuillez créer un nouveau Compte Email depuis Configuration > Email > Compte Email
-1,Email Account setup please enter your password for:,Configuration du Compte Email, veuillez entrer votre mot de passe pour :
+1,Email Account setup please enter your password for:,Configuration du Compte Email veuillez entrer votre mot de passe pour :
 2,"Email Address must be unique, already exists for {0}","Adresse Email doit être unique, existe déjà pour {0}"
 3,Email Addresses,Adresse Email
 4,Email Field,Champ Email
@@ -52,7 +52,7 @@
 50,Enough Parts to Build,Pièces Suffisantes pour Construire
 51,Enroll Students,Inscrire des Étudiants
 52,Enrollment Date,Date de l'Inscription
-53,"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Entrez le nom et la valeur des champs de valeur par défaut. Si vous ajoutez plusieurs valeurs pour un champ, le première sera choisie. Ces valeurs par défaut sont également utilisées pour définir les règles d'autorisation ""correspondantes". Pour voir la liste des champs, cliquez sur ""Personnaliser le Formulaire""."
+53,"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","Entrez le nom et la valeur des champs de valeur par défaut. Si vous ajoutez plusieurs valeurs pour un champ, le première sera choisie. Ces valeurs par défaut sont également utilisées pour définir les règles d'autorisation ""correspondantes"". Pour voir la liste des champs, cliquez sur ""Personnaliser le Formulaire""."
 54,Enter items and planned qty for which you want to raise production orders or download raw materials for analysis.,Entrez les articles et qté planifiée pour lesquels vous voulez augmenter les ordres de fabrication ou télécharger des donées brutes pour les analyser.
 55,"Enter keys to enable login via Facebook, Google, GitHub.","Entrez les clés pour activer la connexion via Facebook, Google, GitHub."
 56,Enter name of campaign if source of enquiry is campaign,Entrez le nom de la campagne si la source de l'enquête est une campagne
@@ -102,7 +102,7 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 98,eye-close,oeil-fermé
 99,eye-open,oeil-ouvert
 100,"e.g. ""Build tools for builders""","e.g. ""Construire des outils pour les constructeurs"""
-101,"e.g. ""Primary School"" or ""University""",e.g. ""École Primaire"" ou ""Université""
+101,"e.g. ""Primary School"" or ""University""","e.g. ""École Primaire"" ou ""Université"""
 102,"e.g. ""Support"", ""Sales"", ""Jerry Yang""","e.g. ""Support"",""Vente"",""Jerry Yang"""
 103,e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,e.g. (55 + 434) / 4 ou = Math.sin(Math.PI/2) ...
 104,e.g. 5,e.g. 5
