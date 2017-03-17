@@ -1,56 +1,56 @@
 ,English,Français
-0,Goals cannot be empty,
-1,Grading Scale Interval,
-2,Grading Scale Intervals,
-3,Gross Pay - Total Deduction - Loan Repayment,
-4,Group your students in batches,
-5,Guardian Interests,
-6,Guardian Of,
-7,Guardian Student,
-8,Gain/Loss Account on Asset Disposal,Compte de cessions des immobilisations
-9,Gain/Loss on Asset Disposal,Gain / Perte sur cessions des immobilisations
+0,Goals cannot be empty,Les objectifs ne peuvent pas être vides
+1,Grading Scale Interval,Intervalle de l'Échelle de Notation
+2,Grading Scale Intervals,Intervalles de l'Échelle de Notation
+3,Gross Pay - Total Deduction - Loan Repayment,Salaire Brute - Déductions Totales - Remboursement de Prêt
+4,Group your students in batches,Regrouper vos étudiants en lots
+5,Guardian Interests,Parts du Tuteur
+6,Guardian Of,Tuteur De
+7,Guardian Student,Tuteur de l'Étudiant
+8,Gain/Loss Account on Asset Disposal,Compte de Cessions des Immobilisations
+9,Gain/Loss on Asset Disposal,Gain/Perte sur Cessions des Immobilisations
 10,Geo,Geo
-11,Get Advances Paid,Obtenez Avances et acomptes versés
-12,Get Advances Received,Obtenez Avances et acomptes reçus
-13,Get Alerts for Today,Recevoir des alertes pour Aujourd'hui
-14,Get Courses,Obtenez Cours
-15,Get Current Stock,Obtenez Stock actuel
-16,Get From,Obtenez De
-17,Get Items From Purchase Receipts,Obtenir des Articles de reçus d'achat
-18,Get Specification Details,Obtenez les détails Spécification
-19,Get Students,Obtenez étudiants
-20,Get Students From,Obtenez des étudiants de
-21,Get Unreconciled Entries,Obtenez non rapprochés entrées
-22,Get Weekly Off Dates,Obtenez hebdomadaires Dates Off
-23,Get your globally recognized avatar from Gravatar.com,Obtenez votre avatar mondialement reconnu de Gravatar.com
-24,GitHub Client Secret,GitHub client secret
-25,Global POS Profile {0} already created for company {1},POS profil global {0} déjà créé pour la société {1}
-26,Global Settings: Users will only be able to choose checked icons,Paramètres globaux: Les utilisateurs ne seront en mesure de choisir les icônes vérifiés
+11,Get Advances Paid,Obtenir Acomptes Payés
+12,Get Advances Received,Obtenir Acomptes Reçus
+13,Get Alerts for Today,Obtenir les Alertes d'Aujourd'hui
+14,Get Courses,Obtenir Cours
+15,Get Current Stock,Obtenir le Stock Actuel
+16,Get From,Obtenir De
+17,Get Items From Purchase Receipts,Obtenir des Articles depuis les Reçus d'Achat
+18,Get Specification Details,Obtenir les Détails de la Spécification
+19,Get Students,Obtenir les Étudiants
+20,Get Students From,Obtenir les Étudiants De
+21,Get Unreconciled Entries,Obtenir les Écritures non Rapprochés
+22,Get Weekly Off Dates,Obtenir les Dates de Congés
+23,Get your globally recognized avatar from Gravatar.com,Obtenir votre avatar mondialement reconnu depuis Gravatar.com
+24,GitHub Client Secret,Secret Client GitHub
+25,Global POS Profile {0} already created for company {1},Profil PDV Global {0} déjà créé pour la société {1}
+26,Global Settings: Users will only be able to choose checked icons,Paramètres Globaux : Les utilisateurs ne pourront que choisir les icônes vérifiés
 27,globe,globe
-28,Google Client Secret,Google client secret
-29,Google Font (Heading),Google police (titre)
-30,Google Font (Text),Google police (texte)
-31,Google User ID,Google ID utilisateur
-32,Grade,Qualité
+28,Google Client Secret,Secret Client Google
+29,Google Font (Heading),Police Google (titre)
+30,Google Font (Text),Police Google (texte)
+31,Google User ID,ID Utilisateur Google
+32,Grade,Note
 33,Grade Code,code de grade
-34,Grade Description,Classe description
-35,Grade Interval,Niveau Intervalle
-36,Grade Intervals,intervalles Etat
-37,Grading Intervals,intervalles classement
-38,Grading Scale,Échelle d'évaluation
-39,Grading Scale Name,Échelle de notation Nom
-40,Grading Structure,Structure du classement
-41,Grading System Name,Nom Système de classement
-42,Grand Total (Company Currency),Grand Total (Devise de la Société)
-43,Grant Type,Type de subvention
-44,Gross Profit / Loss,Bénéfice / Perte Brut
+34,Grade Description,Description Note
+35,Grade Interval,Intervalle de Notes
+36,Grade Intervals,Intervalles de Notes
+37,Grading Intervals,Intervalles de Notation
+38,Grading Scale,Échelle de Notation
+39,Grading Scale Name,Nom de l'Échelle de Notation
+40,Grading Structure,Structure de la Notation
+41,Grading System Name,Nom Système de Notation
+42,Grand Total (Company Currency),Total TTC (Devise de la Société)
+43,Grant Type,Type de Subvention
+44,Gross Profit / Loss,Bénéfice/Perte Brut
 45,Gross Purchase Amount,Montant d'Achat Brut
 46,Gross Purchase Amount is mandatory,Montant d'Achat Brut est obligatoire
 47,Gross Weight UOM,UDM du Poids Brut
-48,Group By,Grouper par
-49,Group node warehouse is not allowed to select for transactions,entrepôt de noeud de groupe ne peut pas sélectionner pour les transactions
+48,Group By,Grouper Par
+49,Group node warehouse is not allowed to select for transactions,Un noeud de groupe d'entrepôt ne peut pas être sélectionné pour les transactions
 50,Group same items,Groupe mêmes éléments
-51,Group to Non-Group,Groupe non-groupe
+51,Group to Non-Group,Groupe vers Non-Groupe
 52,Groups of DocTypes,Groupes de DocTypes
 53,Guardian,Tuteur
 54,Gantt,Gantt
@@ -59,66 +59,66 @@
 57,Gateway,Passerelle
 58,Gender,Sexe
 59,General,Général
-60,General Ledger,Grand livre général
-61,General Settings,Paramètres généraux
-62,Generate Material Requests (MRP) and Production Orders.,Générer des demandes de matériel (MRP) et les ordres de fabrication.
-63,"Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight.","Générer bordereaux des colis à livrer. Utilisé pour indiquer le numéro de colis, le contenu et son poids."
-64,Generate Salary Slips,Générer les bulletins de salaire
-65,Generate Schedule,Créer un programme
+60,General Ledger,Grand Livre Général
+61,General Settings,Paramètres Généraux
+62,Generate Material Requests (MRP) and Production Orders.,Générer des Demandes de Matériel (MRP) et des Ordres de Fabrication.
+63,"Generate packing slips for packages to be delivered. Used to notify package number, package contents and its weight.","Générer les bordereaux des colis à livrer. Utilisé pour indiquer le numéro de colis, le contenu et son poids."
+64,Generate Salary Slips,Générer les Fiches de Paie
+65,Generate Schedule,Créer un Échéancier
 66,Get Items,Obtenir les Articles
-67,Get items from,Obtenir des éléments de
-68,Get Items from BOM,Obtenir des éléments de nomenclature
+67,Get items from,Obtenir les articles de
+68,Get Items from BOM,Obtenir les Articles depuis LDM
 69,Get Items from Open Material Requests,Obtenir des Articles de Demandes Matérielles Ouvertes
-70,Get Items from Product Bundle,Obtenir les articles du produit groupé
-71,Get Last Purchase Rate,Obtenir dernier tarif d'achat
-72,Get Material Request,Obtenez Demande de Matériel
-73,Get Outstanding Invoices,Obtenez les factures impayées
-74,Get Payment Entries,Obtenez les entrées de paiement
-75,Get Sales Orders,Obtenez des commandes clients
-76,Get Template,Obtenez modèle
+70,Get Items from Product Bundle,Obtenir les Articles du Produit Groupé
+71,Get Last Purchase Rate,Obtenir le Dernier Tarif d'Achat
+72,Get Material Request,Obtenir Demande de Matériel
+73,Get Outstanding Invoices,Obtenir les Factures Impayées
+74,Get Payment Entries,Obtenir les Écritures de Paiement
+75,Get Sales Orders,Obtenir des Commandes Clients
+76,Get Template,Obtenir Modèle
 77,Get Updates,Obtenir les Mises à jour
 78,gift,cadeau
 79,GitHub,GitHub
-80,GitHub Client ID,GitHub identification client
-81,Github User ID,Github ID utilisateur
-82,Github Username,github Nom d'utilisateur
-83,GL Entry,Entrée GL
+80,GitHub Client ID,ID Client GitHub
+81,Github User ID,ID Utilisateur GitHub
+82,Github Username,Nom d'Utilisateur GitHub
+83,GL Entry,Écriture GL
 84,glass,verre
-85,Global Defaults,Valeurs par défaut globales
-86,Global Settings,Paramètres globaux
+85,Global Defaults,Valeurs par Défaut Globales
+86,Global Settings,Paramètres Globaux
 87,Global settings for all manufacturing processes.,Paramètres globaux pour tous les processus de fabrication.
-88,Global Unsubscribe,Se désabonner globalement
+88,Global Unsubscribe,Se Désabonner Globalement
 89,GMail,GMail
 90,Go,Aller
 91,Go to the Desktop and start using ERPNext,Accédez au bureau et commencez à utiliser ERPNext
-92,Go to this url after completing the form.,Aller à cette url après avoir remplir le formulaire.
+92,Go to this url after completing the form.,Aller à cette url après avoir rempli le formulaire.
 93,Goal,Objectif
 94,Goals,Objectifs
-95,Goods received from Suppliers.,Marchandises reçues des fournisseurs.
+95,Goods received from Suppliers.,Marchandises reçues des Fournisseurs.
 96,Google,Google
-97,Google Analytics ID,Google Analytics ID
-98,Google Client ID,Google identification client
+97,Google Analytics ID,ID Google Analytics
+98,Google Client ID,ID Client Google
 99,Government,Gouvernement
 100,Graduate,Diplômé
 101,Gram,Gramme
-102,Grand Total,Total Général
+102,Grand Total,Total TTC
 103,Green,Vert
-104,Grocery,épicerie
-105,Gross Margin,Marge brute
-106,Gross Margin %,Marge brute %
-107,Gross Pay,Salaire brut
-108,Gross Profit,Bénéfice brut
+104,Grocery,Épicerie
+105,Gross Margin,Marge Brute
+106,Gross Margin %,Marge Brute %
+107,Gross Pay,Salaire Brut
+108,Gross Profit,Bénéfice Brut
 109,Gross Profit %,Bénéfice Brut %
-110,Gross Weight,Poids brut
+110,Gross Weight,Poids Brut
 111,Group,Groupe
-112,Group by Account,Grouper par compte
-113,Group by Voucher,Groupe par bon
+112,Group by Account,Grouper par Compte
+113,Group by Voucher,Groupe par Bon
 114,Group Label,Étiquette du Groupe
-115,Group Node,Noeud de groupe
+115,Group Node,Noeud de Groupe
 116,Groups,Groupes
-117,Guardian Details,Détails gardien
-118,Guardian Interest,Intérêt gardien
-119,Guardian Name,Nom du gardien
-120,Guardians,Gardiens
+117,Guardian Details,Détails Tuteur
+118,Guardian Interest,Part du Tuteur
+119,Guardian Name,Nom du Tuteur
+120,Guardians,Tuteurs
 121,Guest,Invité
 122,Guidelines to install ldap dependancies and python,Lignes directrices pour installer les dépendances ldap et python
