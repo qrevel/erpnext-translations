@@ -1,24 +1,24 @@
 ,English,Français
-0,Journal Entry {0} does not have account {1} or already matched against other voucher,Journal entrée {0} n'a pas compte {1} ou déjà en correspondance avec une autre pièce justificative
-1,Journal Entry for Scrap,Journal Entrée pour Scrap
-2,"JSON list of DocTypes used to apply User Permissions. If empty, all linked DocTypes will be used to apply User Permissions.","JSON liste des DocTypes utilisés pour appliquer les autorisations des utilisateurs. Se il est vide, tous liés DocTypes seront utilisés pour appliquer les autorisations des utilisateurs."
-3,JavaScript Format: frappe.query_reports['REPORTNAME'] = {},"JavaScript Format :
-frappe.query_reports [' REPORTNAME '] = {}"
-4,Javascript to append to the head section of the page.,Javascript à ajouter à la section head de la page.
-5,Job Description,Description de l'emplois
+0,Journal Entry {0} does not have account {1} or already matched against other voucher,L’Écriture de Journal {0} n'a pas le compte {1} ou est déjà réconciliée avec une autre pièce justificative
+1,Journal Entry for Scrap,Écriture de Journal pour la Mise au Rebut
+2,"JSON list of DocTypes used to apply User Permissions. If empty, all linked DocTypes will be used to apply User Permissions.","JSON liste des DocTypes utilisés pour appliquer les autorisations des utilisateurs. S’il est vide, tous les DocTypes liés seront utilisés pour appliquer les autorisations des utilisateurs."
+3,JavaScript Format: frappe.query_reports['REPORTNAME'] = {},"Format JavaScript :
+frappe.query_reports [' NOMDURAPPORT '] = {}"
+4,Javascript to append to the head section of the page.,Javascript à ajouter à la section d’en-tête de la page.
+5,Job Description,Description de l'Emploi
 6,Job Profile,Profil de l'emplois
-7,"Job profile, qualifications required etc.",Profile de l’emploi. qualifications requises ect...
+7,"Job profile, qualifications required etc.",Profil de l’Emploi. qualifications requises ect...
 8,Jobs,Emplois
 9,Join,Joindre
-10,Joining Date,Date d'inscription
-11,Journal Entries {0} are un-linked,Entrées du journal {0} ne sont pas liées
-12,Journal Entry,Journal d'écriture
-13,Journal Entry Account,Compte pièce comptable
+10,Joining Date,Date d'Inscription
+11,Journal Entries {0} are un-linked,Les Écritures de Journal {0} ne sont pas liées
+12,Journal Entry,Écriture de Journal
+13,Journal Entry Account,Compte d’Écriture de Journal
 14,Js,Js
 15,JSON,JSON
 16,just now,juste maintenant
 17,JV-,JV-
 18,Javascript,Javascript
-19,Job Applicant,Demandeur d'emploi
-20,Job Opening,Offre d'emploi
-21,Job Title,Titre de l'emploi
+19,Job Applicant,Demandeur d'Emploi
+20,Job Opening,Offre d’Emploi
+21,Job Title,Titre de l'Emploi
