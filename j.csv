@@ -1,12 +1,12 @@
 ,English,Français
 0,Journal Entry {0} does not have account {1} or already matched against other voucher,L’Écriture de Journal {0} n'a pas le compte {1} ou est déjà réconciliée avec une autre pièce justificative
 1,Journal Entry for Scrap,Écriture de Journal pour la Mise au Rebut
-2,"JSON list of DocTypes used to apply User Permissions. If empty, all linked DocTypes will be used to apply User Permissions.","JSON liste des DocTypes utilisés pour appliquer les autorisations des utilisateurs. S’il est vide, tous les DocTypes liés seront utilisés pour appliquer les autorisations des utilisateurs."
+2,"JSON list of DocTypes used to apply User Permissions. If empty, all linked DocTypes will be used to apply User Permissions.","Liste JSON des DocTypes utilisés pour appliquer les autorisations des utilisateurs. S’il est vide, tous les DocTypes liés seront utilisés pour appliquer les autorisations des utilisateurs."
 3,JavaScript Format: frappe.query_reports['REPORTNAME'] = {},"Format JavaScript :
 frappe.query_reports [' NOMDURAPPORT '] = {}"
 4,Javascript to append to the head section of the page.,Javascript à ajouter à la section d’en-tête de la page.
 5,Job Description,Description de l'Emploi
-6,Job Profile,Profil de l'emplois
+6,Job Profile,Profil de l'Emploi
 7,"Job profile, qualifications required etc.",Profil de l’Emploi. qualifications requises ect...
 8,Jobs,Emplois
 9,Join,Joindre
