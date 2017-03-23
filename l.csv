@@ -1,159 +1,159 @@
 ,English,Français
-0,LDAP Email Field,
-1,LDAP First Name Field,
-2,"Leads help you get business, add all your contacts and more as your leads",
-3,Leave Encashment,
-4,Login with LDAP,
-5,Looks like something is wrong with this site's Razorpay configuration. No payment has been made.,
+0,LDAP Email Field,Champ Email LDAP
+1,LDAP First Name Field,Champ Prénom LDAP
+2,"Leads help you get business, add all your contacts and more as your leads","Les prospects vous aident à obtenir des contrats, ajoutez tous vos contacts et plus dans votre liste de prospects"
+3,Leave Encashment,Congés Accumulés
+4,Login with LDAP,Se connecter avec LDAP
+5,Looks like something is wrong with this site's Razorpay configuration. No payment has been made.,Il semblerait qu’il y ait un problème avec la configuration Razorpay de ce site. Aucun paiement n’a été fait.
 6,LAL/,LAL /
 7,Landed Cost Item,Coût de l'Article au Débarquement
 8,Landed Cost Purchase Receipt,Reçu d'Achat du Coût au Débarquement
 9,Landed Cost Taxes and Charges,Taxes et Frais du Coût au Débarquement
-10,Landed Cost Voucher,Bon de Coût au Débarquement
-11,Landed Cost Voucher Amount,Montant du Bon de Coût au Débarquement
-12,LAP/,TOUR/
-13,Last Carbon Check,Dernière Carbon Check
-14,Last purchase rate not found,Dernier Taux d'achat introuvable
+10,Landed Cost Voucher,Référence de Coût au Débarquement
+11,Landed Cost Voucher Amount,Montant de la Référence de Coût au Débarquement
+12,LAP/,LAP/
+13,Last Carbon Check,Dernière Vérification Carbone
+14,Last purchase rate not found,Dernier prix d'achat introuvable
 15,LCV,LCV
-16,LDAP Search String,LDAP Chaîne de recherche
-17,LDAP Server Url,Serveur LDAP Url
-18,LDAP Username Field,LDAP Nom d'utilisateur Champ
-19,Lead must be set if Opportunity is made from Lead,Le prospect doit être réglée si l'occasion est créé à partir de ce prospect
-20,Lead Owner cannot be same as the Lead,Lead propriétaire ne peut pas être le même que le plomb
+16,LDAP Search String,Chaîne de Recherche LDAP
+17,LDAP Server Url,Url du Serveur LDAP
+18,LDAP Username Field,Champ Nom d'utilisateur LDAP
+19,Lead must be set if Opportunity is made from Lead,Un prospect doit être sélectionné si l'Opportunité est créée à partir d’un Prospect
+20,Lead Owner cannot be same as the Lead,Le Responsable du Prospect ne peut pas être identique au Prospect
 21,Lead Source,Source du Prospect
-22,Lead Time Date,Délai Date Heure
-23,Lead Time Days,Délai jours Temps
-24,LEAD-,CONDUIRE-
-25,Leave Allocation Tool,Absence outil de répartition
+22,Lead Time Date,Date du Délai
+23,Lead Time Days,Jours de Délai
+24,LEAD-,LEAD-
+25,Leave Allocation Tool,Outil de Répartition des Absences
 26,Leave approver must be one of {0},Approbateur d'absence doit être un de {0}
-27,Leave Balance Before Application,Laisser Solde Avant d'application
-28,Leave blank if considered for all branches,Laisser vide si cela est considéré pour toutes les branches
-29,Leave blank if considered for all departments,Laisser vide si cela est considéré pour tous les départements
-30,Leave blank if considered for all designations,Laisser vide si cela est considéré pour toutes les désignations
-31,Leave blank if considered for all employee types,Laisser vide si cela est jugé pour tous les types d'employés
-32,Leave blank if you wish to fetch all courses for selected academic term,Laissez vide si vous souhaitez récupérer tous les cours pour semestre universitaire sélectionné
-33,Leave blank to repeat always,Laissez vide pour répéter toujours
-34,Leave Block List,Laisser Block List
-35,Leave Block List Allow,Laisser Block List Autoriser
-36,Leave Block List Allowed,Laisser Block List admis
-37,Leave Block List Date,Laisser Date de Block List
-38,Leave Block List Dates,Laisser Dates de listes rouges d'
-39,Leave Block List Name,Laisser Nom de la liste de blocage
-40,"Leave cannot be applied/cancelled before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Congé ne peut être appliquée / annulée avant {0}, que l'équilibre de congé a déjà été transmis report dans le futur enregistrement d'allocation de congé {1}"
-41,Leave Encashed?,Laisser encaissés?
-42,Leave of type {0} cannot be longer than {1},Les entrées en stocks existent contre entrepôt {0} ne peut pas réaffecter ou modifier Maître Nom '
-43,Leave Type {0} cannot be allocated since it is leave without pay,"Laisser type {0} ne peut pas être attribué, car il est un congé non payé"
-44,Leave Type {0} cannot be carry-forwarded,Laissez type {0} ne peut pas être transmis carry-
-45,Leave Without Pay does not match with approved Leave Application records,Congé non payé ne correspond pas avec les dossiers de demande de congé approuvé
-46,Leaving Certificate Number,Laissant Numéro de certificat
-47,Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Entité juridique / Filiale avec un tableau distinct des comptes appartenant à l'Organisation.
+27,Leave Balance Before Application,Solde de Congés Avant Demande
+28,Leave blank if considered for all branches,Laisser vide pour toutes les branches
+29,Leave blank if considered for all departments,Laisser vide pour tous les départements
+30,Leave blank if considered for all designations,Laisser vide pour toutes les désignations
+31,Leave blank if considered for all employee types,Laisser vide pour tous les types d'employés
+32,Leave blank if you wish to fetch all courses for selected academic term,Laissez vide si vous souhaitez récupérer tous les cours du semestre universitaire sélectionné
+33,Leave blank to repeat always,Laissez vide pour répéter sans fin
+34,Leave Block List,Liste de Blocage des Congés
+35,Leave Block List Allow,Autoriser la Liste de Blocage des Congés
+36,Leave Block List Allowed,Liste de Blocage des Congés Autorisée
+37,Leave Block List Date,Date de la Liste de Blocage des Congés
+38,Leave Block List Dates,Dates de la Liste de Blocage des Congés
+39,Leave Block List Name,Nom de la Liste de Blocage des Congés
+40,"Leave cannot be applied/cancelled before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Congé ne peut être demandé / annulé avant le {0}, car le solde de congés a déjà été reporté dans la feuille d'allocation de congés futurs {1}"
+41,Leave Encashed?,Laisser Encaissé ?
+42,Leave of type {0} cannot be longer than {1},Les Congés de type {0} ne peuvent pas être plus long que {1}
+43,Leave Type {0} cannot be allocated since it is leave without pay,"Le Type de Congé {0} ne peut pas être alloué, car c’est un congé sans solde"
+44,Leave Type {0} cannot be carry-forwarded,Le Type de Congé {0} ne peut pas être reporté
+45,Leave Without Pay does not match with approved Leave Application records,Congé sans solde ne correspond pas aux Feuilles de Demande de Congé Approuvés
+46,Leaving Certificate Number,Numéro de Certificat
+47,Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Entité Juridique / Filiale avec un Plan de Comptes différent appartenant à l'Organisation.
 48,Let's avoid repeated words and characters,Evitons les mots et les caractères répétés
-49,"Level 0 is for document level permissions, higher levels for field level permissions.","Le niveau 0 est pour les autorisations de niveau document, des niveaux plus élevés pour les autorisations au niveau du terrain."
-50,Lft,LFT
-51,Limit Crossed,Limite croisée
-52,Limit Percent,Limite pourcentage
-53,Line spacing for amount in words,L'espacement des lignes pour montant en lettres
-54,"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Lien qui est la page d'accueil du site . Liens standard ( indice , login, produits , blog, sur , contact)"
-55,Link to the page you want to open. Leave blank if you want to make it a group parent.,Lien vers la page que vous souhaitez ouvrir. Laissez ce champ vide si vous voulez faire un parent du groupe.
+49,"Level 0 is for document level permissions, higher levels for field level permissions.","Le niveau 0 correspond aux autorisations de niveau document, les niveaux plus élevés aux autorisations au niveau des champs."
+50,Lft,Lft
+51,Limit Crossed,Limite Dépassée
+52,Limit Percent,Pourcentage Limite
+53,Line spacing for amount in words,Espacement des lignes pour le montant en lettres
+54,"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Lien vers la page d'accueil du site . Liens standard (index, connexion, produits, blog, à propos, contact)"
+55,Link to the page you want to open. Leave blank if you want to make it a group parent.,Lien vers la page que vous souhaitez ouvrir. Laissez ce champ vide si vous voulez faire un parent de groupe.
 56,"List as [{""label"": _(""Jobs""), ""route"":""jobs""}]","Liste comme [{ ""label"": _ ( ""Jobs""), ""route"": ""emplois""}]"
-57,"List your tax heads (e.g. VAT, Customs etc; they should have unique names) and their standard rates. This will create a standard template, which you can edit and add more later.","Inscrivez vos têtes d'impôt (par exemple, la TVA, douanes, etc., ils doivent avoir des noms uniques) et leurs taux standard. Cela va créer un modèle standard, que vous pouvez modifier et ajouter plus tard."
+57,"List your tax heads (e.g. VAT, Customs etc; they should have unique names) and their standard rates. This will create a standard template, which you can edit and add more later.","Inscrivez vos titres d'impôt (par exemple, TVA, douanes, etc., ils doivent avoir des noms uniques) et leurs taux standard. Cela va créer un modèle standard, que vous pouvez modifier et compléter plus tard."
 58,list-alt,liste-alt
 59,Loan Amount,Montant du prêt
-60,Loan Amount cannot exceed Maximum Loan Amount of {0},Le montant du prêt ne peut pas dépasser le montant maximal du prêt de {0}
-61,Loan Details,Détails du prêt
-62,Loan Info,Infos prêt
-63,Loan Name,Nom du prêt
-64,Loan Paid,Prêt payé
-65,Loan Repaid,Prêt remboursé
-66,Loan repayment,Remboursement de prêt
-67,Loan Type,Type de prêt
-68,Loan Unpaid,Prêt non payé
-69,Loans (Liabilities),Prêts ( passif)
-70,Loans and Advances (Assets),Prêts et avances ( actif)
-71,"LocalStorage is full , did not save","LocalStorage est plein, ne pas enregistrer"
-72,Log of error during requests.,Journal d'erreur lors de demandes.
-73,Log of error on automated events (scheduler).,Registre d'erreur sur les événements automatiques ( scheduler ) .
-74,Log of Scheduler Errors,Journal des erreurs du planificateur
-75,Logged in as Guest or Administrator,Connecté en tant qu'invité ou administrateur
+60,Loan Amount cannot exceed Maximum Loan Amount of {0},Le Montant du prêt ne peut pas dépasser le Montant Maximal du Prêt de {0}
+61,Loan Details,Détails du Prêt
+62,Loan Info,Infos sur le Prêt
+63,Loan Name,Nom du Prêt
+64,Loan Paid,Prêt Payé
+65,Loan Repaid,Prêt Remboursé
+66,Loan repayment,Remboursement de Prêt
+67,Loan Type,Type de Prêt
+68,Loan Unpaid,Prêt Non Payé
+69,Loans (Liabilities),Prêts (Passif)
+70,Loans and Advances (Assets),Prêts et Avances (Actif)
+71,"LocalStorage is full , did not save","Le Stockage Local est plein, l’enregistrement n’a pas fonctionné"
+72,Log of error during requests.,Journal d'erreur lors des requêtes.
+73,Log of error on automated events (scheduler).,Registre d'erreur sur les événements automatiques (scheduler ) .
+74,Log of Scheduler Errors,Journal des Erreurs du Planificateur
+75,Logged in as Guest or Administrator,Connecté en tant qu'Invité ou Administrateur
 76,Logged Out,Déconnecté
-77,Logs for maintaining sms delivery status,Logs pour le maintien du statut de livraison de sms
-78,Looks like someone sent you to an incomplete URL. Please ask them to look into it.,On dirait que quelqu'un vous a envoyé à une URL incomplète. S'il vous plaît leur demander de se pencher sur elle.
+77,Logs for maintaining sms delivery status,Logs pour maintenir le statut de livraison des sms
+78,Looks like someone sent you to an incomplete URL. Please ask them to look into it.,On dirait que quelqu'un vous a envoyé vers URL incomplète. S'il vous plaît demandez leur d’analyser l’erreur.
 79,Looks like something is wrong with this site's Paypal configuration. Don't worry! No payment has been made from your Paypal account.,On dirait que quelque chose ne va pas avec la configuration Paypal de ce site. Ne vous inquiétez pas! Aucun paiement n'a été effectué à partir de votre compte Paypal.
-80,"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","On dirait que quelque chose allait mal lors de la transaction. Depuis que nous avons pas confirmé le paiement, PayPal vous remboursera automatiquement ce montant. Si elle ne le fait pas, s'il vous plaît envoyez-nous un courriel et mentionner l'ID de corrélation: {0}."
+80,"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","On dirait que quelque chose s’est mal déroulé lors de la transaction. Puisque nous avons pas confirmé le paiement, PayPal vous remboursera automatiquement ce montant. Si ce n’est pas le cas, envoyez-nous un courriel et mentionnez l'ID de Corrélation: {0}."
 81,Label,Étiquette
-82,Label and Type,Étiquette et le type
-83,Label Help,Aide étiquette
-84,Label is mandatory,Étiquette est obligatoire
-85,Landed Cost Help,Aide coûts logistiques
-86,Landing Page,Page d'accueil
+82,Label and Type,Étiquette et Type
+83,Label Help,Aide d’Étiquette
+84,Label is mandatory,L’Étiquette est obligatoire
+85,Landed Cost Help,Aide Coûts Logistiques
+86,Landing Page,Page d'Accueil
 87,Language,Langue
-88,Language Code,Code de langue
-89,Language Name,Nom de la langue
-90,"Language, Date and Time settings","Paramètres Langue, Date et Heure"
+88,Language Code,Code de la Langue
+89,Language Name,Nom de la Langue
+90,"Language, Date and Time settings","Paramètres de Langue, Date et Heure"
 91,Large,Grand
-92,Last Active,Dernière activité
-93,Last Day of the Next Month,Dernier jour du mois prochain
-94,Last IP,Dernière adresse IP
-95,Last Known Versions,Derniers versions connues
-96,Last Login,Dernière connexion
-97,Last Modified By,Dernière modification par
-98,Last Modified On,Dernière modification le
-99,Last Name,Nom de famille
-100,Last Order Amount,Dernière Montant de la commande
-101,Last Order Date,Dernière date de commande
-102,Last Purchase Rate,Dernier prix d'achat
-103,Last Updated By,Dernière mise à jour par
-104,Last Updated On,Dernière mise à jour
-105,Latest,dernier
+92,Last Active,Dernière Activité
+93,Last Day of the Next Month,Dernier Jour du Mois Suivant
+94,Last IP,Dernière Adresse IP
+95,Last Known Versions,Derniers Versions Connues
+96,Last Login,Dernière Connexion
+97,Last Modified By,Dernière Modification Par
+98,Last Modified On,Dernière Modification Le
+99,Last Name,Nom de Famille
+100,Last Order Amount,Montant de la Dernière Commande
+101,Last Order Date,Date de la Dernière Commande
+102,Last Purchase Rate,Dernier Prix d'Achat
+103,Last Updated By,Dernière Mise à Jour Par
+104,Last Updated On,Dernière Mise à Jour
+105,Latest,Dernier
 106,LDAP Settings,Paramètres LDAP
 107,Lead,Prospect
-108,Lead Details,Détails du prospect
-109,Lead Id,Id prospect
-110,Lead Name,Nom du prospect
-111,Lead Owner,Responsable du prospect
-112,Lead Time in days,Délai en jours
-113,Lead to Quotation,Délai pour l'offre
-114,Lead Type,Type de prospect
+108,Lead Details,Détails du Prospect
+109,Lead Id,Id du Prospect
+110,Lead Name,Nom du Prospect
+111,Lead Owner,Responsable du Prospect
+112,Lead Time in days,Délai en Jours
+113,Lead to Quotation,Du Prospect à la Proposition
+114,Lead Type,Type de Prospect
 115,leaf,feuille
 116,Learn,Apprendre
-117,Leave a Comment,Laissez un commentaire
-118,Leave Allocation,Attribution de Congés
-119,Leave and Attendance,Congés et présences
+117,Leave a Comment,Laissez un Commentaire
+118,Leave Allocation,Allocation de Congés
+119,Leave and Attendance,Congés et Présences
 120,Leave Application,Demande de Congés
-121,Leave Approver,Approbateur d'absence
-122,Leave Approver Name,Nom de l'approbateur d'absence
-123,Leave Approvers,Approbateurs d'absence
+121,Leave Approver,Approbateur d'Absence
+122,Leave Approver Name,Nom de l'Approbateur d'Absence
+123,Leave Approvers,Approbateurs d'Absence
 124,Leave blank for new records,Laissez ce champ vide pour les nouveaux enregistrements
-125,Leave Blocked,Laisser verouillé
-126,"Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Congé ne peut être accordé avant {0}, car le congé a déjà été porté en avant. Ne pas toucher le registre des congés {1}"
-127,Leave Control Panel,Quitter le panneau de configuration
-128,Leave Management,Gestion des congés
+125,Leave Blocked,Laisser Verrouillé
+126,"Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Congé ne peut être alloué avant le {0}, car le solde de congés a déjà été reporté dans la feuille d'allocation de congés futurs {1}"
+127,Leave Control Panel,Quitter le Panneau de Configuration
+128,Leave Management,Gestion des Congés
 129,Leave this conversation,Quitter cette conversation
 130,Leave Type,Type de Congé
 131,Leave Type Name,Nom du Type de Congé
-132,Leave Without Pay,Congé sans solde
-133,Leaves Allocated Successfully for {0},Congés attribués avec succès pour {0}
-134,Leaves and Holiday,Congés et vacances
-135,Leaves must be allocated in multiples of 0.5,"Les congés doivent être alloués par multiples de 0,5"
+132,Leave Without Pay,Congé Sans Solde
+133,Leaves Allocated Successfully for {0},Congés Attribués avec Succès pour {0}
+134,Leaves and Holiday,Congés et Vacances
+135,Leaves must be allocated in multiples of 0.5,"Les Congés doivent être alloués par multiples de 0,5"
 136,Leaves per Year,Congés par Année
-137,Ledger,Grand livre
-138,Left,inactif
+137,Ledger,Grand Livre
+138,Left,A quitté
 139,Left this conversation,A quitté cette conversation
-140,Legal,juridique
-141,Legal Expenses,Frais juridiques
+140,Legal,Juridique
+141,Legal Expenses,Frais Juridiques
 142,Length,Longueur
 143,Length of {0} should be between 1 and 1000,Longueur de {0} doit être comprise entre 1 et 1000
 144,Let's prepare the system for first use.,Préparons le système pour la première utilisation.
 145,Letter,Lettre
-146,Letter Head,A en-tête
-147,Letter Head in HTML,Entête en HTML
-148,Letter Head Name,Nom de l'en-tête
-149,Letter Heads for print templates.,En-têtes pour les modèles d'impression..
+146,Letter Head,En-Tête
+147,Letter Head in HTML,En-Tête en HTML
+148,Letter Head Name,Nom de l'En-Tête
+149,Letter Heads for print templates.,En-Têtes pour les modèles d'impression..
 150,Level,Niveau
 151,License,Licence
-152,License Plate,Plaque d'immatriculation
+152,License Plate,Plaque d'Immatriculation
 153,lightblue,bleu clair
-154,Like,comme
+154,Like,Comme
 155,Liked,Aimé
 156,Liked By,Aimé par
 157,Liked by {0},Aimé par {0}
@@ -161,28 +161,28 @@
 159,Limit,Limite
 160,Limited to 12 characters,Limité à 12 caractères
 161,Link,Lien
-162,Link Color,Couleur des liens
-163,Link DocType,Lien DocType
-164,Link Name,Nom du lien
+162,Link Color,Couleur du Lien
+163,Link DocType,DocType du Lien
+164,Link Name,Nom du Lien
 165,Link to Bootstrap CSS,Lien vers Bootstrap CSS
 166,Link to your Bootstrap theme,Lien vers votre thème Bootstrap
 167,Linked,Lié
 168,Linked With,Lié avec
 169,Links,Liens
-170,List,liste
+170,List,Liste
 171,List a document type,Listez un type de document
-172,List a few of your customers. They could be organizations or individuals.,Inscrivez quelques-uns de vos clients . Ils pourraient être des entreprise ou des individus .
-173,List a few of your suppliers. They could be organizations or individuals.,Inscrivez quelques-uns de vos fournisseurs . Ils pourraient être des entreprises ou des individus .
+172,List a few of your customers. They could be organizations or individuals.,Listez quelques-uns de vos clients. Ils peuvent être des entreprise ou des individus.
+173,List a few of your suppliers. They could be organizations or individuals.,Listez quelques-uns de vos fournisseurs. Ils peuvent être des entreprises ou des individus.
 174,List items that form the package.,Liste des articles qui composent le paquet.
 175,List of backups available for download,Liste des sauvegardes disponibles pour le téléchargement
 176,List of patches executed,Liste des correctifs exécuté
 177,List of themes for Website.,Liste des thèmes pour le site Web.
 178,List this Item in multiple groups on the website.,Liste cet article dans plusieurs groupes sur le site.
-179,"List your products or services that you buy or sell. Make sure to check the Item Group, Unit of Measure and other properties when you start.","La liste de vos produits ou services que vous achetez ou vendez. Assurez-vous de vérifier le groupe d'articles, l'unité de mesure et d'autres propriétés lorsque vous démarrez."
+179,"List your products or services that you buy or sell. Make sure to check the Item Group, Unit of Measure and other properties when you start.","Liste des produits ou services que vous achetez ou vendez. Assurez-vous de vérifier le groupe d'articles, l'unité de mesure et les autres propriétés lorsque vous démarrez."
 180,Litre,Litre
 181,Loading,Chargement
-182,Loading Report,Chargement rapport
-183,Loading...,Chargement en cours ...
+182,Loading Report,Chargement du Rapport
+183,Loading...,Chargement en Cours ...
 184,Local,Locale
 185,Locals,Locaux
 186,Location,Lieu
@@ -190,21 +190,21 @@
 188,Log,Journal
 189,Logged in,Connecté
 190,Login,Connexion
-191,Login After,Connexion à partir de
-192,Login Before,Connexion jusqu'à
-193,Login Id,ID Connexion
-194,Login Id is Different,ID Connexion est différent
-195,Login Id is required,ID Connexion est nécessaire
+191,Login After,Connexion à Partir de
+192,Login Before,Connexion Jusqu'à
+193,Login Id,ID de Connexion
+194,Login Id is Different,ID de Connexion est différent
+195,Login Id is required,ID de Connexion est nécessaire
 196,Login not allowed at this time,Connexion non autorisée pour le moment
-197,Login Required,Connexion requise
+197,Login Required,Connexion Requise
 198,Login to comment,Connectez-vous pour commenter
 199,Logo,Logo
 200,Logout,Déconnexion
 201,Logs,Logs
-202,Long Text,Texte long
-203,Lost,perdu
-204,Lost Quotation,Soumission perdue
-205,Lost Reason,Raison perdu
+202,Long Text,Texte Long
+203,Lost,Perdu
+204,Lost Quotation,Proposition Perdue
+205,Lost Reason,Raison de la Perte
 206,Low,Bas
 207,Lower Income,Revenu bas
 208,lowercase,minuscules
