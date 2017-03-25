@@ -1,180 +1,177 @@
 ,English,Français
-0,I found these:,
-1,Illegal Access Token. Please try again,
-2,In Grid View,
-3,Invalid Login. Try again.,
-4,Invalid Password,
-5,Is Sample Item,
-6,Item Code > Item Group > Brand,
+0,I found these:,J'ai trouvé ceci :
+1,Illegal Access Token. Please try again,Jeton d'Accès Invalide
+2,In Grid View,Vue en Grille
+3,Invalid Login. Try again.,Login Invalide. Réessayer.
+4,Invalid Password,Mot de Passe Invalide
+5,Is Sample Item,Est Article de l'Échantillon
+6,Item Code > Item Group > Brand,Code de l'Article > Groupe de l'Article > Marque
 7,ID (name) of the entity whose property is to be set,ID (nom) de l'entité dont la propriété doit être définie
-8,ID field is required to edit values using Report. Please select the ID field using the Column Picker,champ ID est nécessaire pour modifier les valeurs à l'aide de rapport. S'il vous plaît sélectionnez le champ ID à l'aide du sélecteur de colonne
-9,"If a Role does not have access at Level 0, then higher levels are meaningless.","Si un rôle n'a pas accès au niveau 0, des niveaux plus élevés n'ont pas de sens ."
-10,If Checked workflow status will not override status in list view,Si l'état de flux de travail Vérifié ne remplacera pas le statut de liste
-11,"If checked, all the children of each production item will be included in the Material Requests.","Si elle est cochée, tous les enfants de chaque élément de production seront inclus dans les demandes de matériel."
-12,"If checked, only Purchase material requests for final raw materials will be included in the Material Requests. Otherwise, Material Requests for parent items will be created","Si elle est cochée, seulement des demandes d'achat de matériel pour les matières premières finales seront incluses dans les demandes de matériel. Dans le cas contraire, les demandes de matériel pour les articles parents seront créés"
-13,"If checked, raw materials for items that are sub-contracted will be included in the Material Requests","Si elle est cochée, les matières premières pour les éléments qui sont sous-traités seront inclus dans les demandes de matériel"
-14,"If checked, the Home page will be the default Item Group for the website","Si elle est cochée, la page d'accueil sera le groupe par défaut d'article pour le site"
-15,"If checked, the tax amount will be considered as already included in the Print Rate / Print Amount","Si elle est cochée, le montant de la taxe sera considéré comme déjà inclus dans le tarif Imprimer / Print Montant"
-16,"If checked, Total no. of Working Days will include holidays, and this will reduce the value of Salary Per Day","Si elle est cochée, aucune totale. des jours de travail comprennent vacances, ce qui réduira la valeur de salaire par jour"
-17,"If checked, users will not see the Confirm Access dialog.","Si elle est cochée, les utilisateurs ne verront pas la boîte de dialogue d'accès Confirmer."
-18,"If checked, Will include non-stock items in the Material Requests.","Si elle est cochée, comprendra des articles hors stock dans les demandes de matériel."
-19,"If disabled, this role will be removed from all users.","Si elle est désactivée, ce rôle sera retiré de tous les utilisateurs."
-20,"If enabled, the system will post accounting entries for inventory automatically.","S'il est activé, le système affichera les écritures comptables pour l'inventaire automatiquement."
-21,"If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified","Si l'article est une variante d'un autre élément, puis la description, image, prix, taxes etc sera fixé à partir du modèle à moins explicitement spécifiée"
+8,ID field is required to edit values using Report. Please select the ID field using the Column Picker,Champ ID est nécessaire pour modifier les valeurs à l'aide de Rapport. Veuillez sélectionner le champ ID à l'aide du Sélecteur de Colonne
+9,"If a Role does not have access at Level 0, then higher levels are meaningless.","Si un Rôle n'a pas accès au niveau 0, les niveaux plus élevés n'ont pas de sens."
+10,If Checked workflow status will not override status in list view,Si Cochée, le statut du flux de travail ne remplacera pas le statut de la vue en liste
+11,"If checked, all the children of each production item will be included in the Material Requests.","Si cochée, tous les enfants de chaque article de production seront inclus dans les Demandes de Matériel."
+12,"If checked, only Purchase material requests for final raw materials will be included in the Material Requests. Otherwise, Material Requests for parent items will be created","Si cochée, seulement des Demandes d'Achat de Matériel pour les matières premières finales seront incluses dans les Demandes de Matériel. Dans le cas contraire, les Demandes de Matériel pour les articles parents seront créées"
+13,"If checked, raw materials for items that are sub-contracted will be included in the Material Requests","Si cochée, les matières premières pour les articles qui sont sous-traités seront inclus dans les Demandes de Matériel"
+14,"If checked, the Home page will be the default Item Group for the website","Si cochée, la page d'Accueil pour le site sera le Groupe d'Article par défaut"
+15,"If checked, the tax amount will be considered as already included in the Print Rate / Print Amount","Si cochée, le montant de la taxe sera considéré comme déjà inclus dans le Taux d'Impression / Prix d'Impression"
+16,"If checked, Total no. of Working Days will include holidays, and this will reduce the value of Salary Per Day","Si cochée, Le nombre total de Jours Ouvrés comprend les vacances, ce qui réduira la valeur du Salaire Par Jour"
+17,"If checked, users will not see the Confirm Access dialog.","Si cochée, les utilisateurs ne verront pas la boîte de dialogue de Confirmation d'Accès."
+18,"If checked, Will include non-stock items in the Material Requests.","Si cochée, comprendra des articles hors stock dans les Demandes de Matériel."
+19,"If disabled, this role will be removed from all users.","Si désactivé, ce rôle sera retiré de tous les utilisateurs."
+20,"If enabled, the system will post accounting entries for inventory automatically.","Si activé, le système publiera automatiquement les écritures comptables pour l'inventaire."
+21,"If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified","Si l'article est une variante d'un autre article, alors la description, l'image, le prix, les taxes etc seront fixés à partir du modèle sauf si spécifiés explicitement"
 22,If more than one package of the same type (for print),Si plus d'un paquet du même type (pour l'impression)
-23,"If multiple Pricing Rules continue to prevail, users are asked to set Priority manually to resolve conflict.","Si plusieurs règles de tarification continuent de prévaloir, les utilisateurs sont invités à définir manuellement la priorité à résoudre les conflits."
-24,"If not checked, the list will have to be added to each Department where it has to be applied.","Si ce n'est pas cochée, la liste devra être ajouté à chaque département où il doit être appliqué."
-25,"If selected Pricing Rule is made for 'Price', it will overwrite Price List. Pricing Rule price is the final price, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Se il est sélectionné Prix règle est faite pour «Prix», il écrasera Prix. Prix ​​Prix de la règle est le prix définitif, donc pas de réduction supplémentaire devrait être appliqué. Ainsi, dans les transactions comme des commandes clients, bon de commande, etc., il sera récupéré dans le champ 'Prix', plutôt que champ 'Prix List Noter »."
-26,"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","Si l'utilisateur a un rôle quelconque vérifié, il devient un «utilisateur système». ""L'utilisateur système"" a accès au bureau"
-27,"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","Si ces instructions n'étaient pas utiles, ajoutez s'il vous plaît vos suggestions dans les questions GitHub ."
-28,"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.","Si deux ou plusieurs règles de tarification sont trouvés sur la base des conditions ci-dessus, la priorité est appliqué. Priorité est un nombre compris entre 0 à 20 tandis que la valeur par défaut est zéro (blanc). Nombre plus élevé signifie qu'il sera prioritaire se il ya plusieurs règles de tarification avec mêmes conditions."
-29,"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","Si vous mettez à jour, s'il vous plaît sélectionnez ""Écraser"" sinon les lignes déjà existantes ne seront pas supprimées."
-30,"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.","Si vous téléchargez de nouveaux records, ""Nommer Series"" devient obligatoire, se il est présent."
-31,"If you have any questions, please get back to us.","Si vous avez des questions, s'il vous plaît revenir à nous."
-32,"If you have created a standard template in Sales Taxes and Charges Template, select one and click on the button below.","Si vous avez créé un modèle standard en taxes de vente et frais Template, sélectionnez l'une et cliquez sur le bouton ci-dessous."
-33,"If you set this, this Item will come in a drop-down under the selected parent.","Si vous définissez cette , cet article va venir dans un menu déroulant dans le cadre du parent sélectionné ."
-34,"If your data is in HTML, please copy paste the exact HTML code with the tags.","Si vos données sont en HTML, s'il vous plaît copier coller le code HTML exact avec les tags."
-35,Image field must be a valid fieldname,champ d'image doit être un fieldname valide
-36,Image field must be of type Attach Image,champ de l'image doit être de type Fixer l'image
+23,"If multiple Pricing Rules continue to prevail, users are asked to set Priority manually to resolve conflict.","Si plusieurs Règles de Prix continuent de prévaloir, les utilisateurs sont invités à définir manuellement la priorité pour résoudre les conflits."
+24,"If not checked, the list will have to be added to each Department where it has to be applied.","Si décochée, la liste devra être ajoutée à chaque département où elle doit être appliquée."
+25,"If selected Pricing Rule is made for 'Price', it will overwrite Price List. Pricing Rule price is the final price, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Si la Règle de Prix sélectionnée est faite pour 'Prix', elle écrasera la Liste de Prix. La prix de la Règle de Prix est le prix définitif, donc aucune réduction supplémentaire ne devrait être appliquée. Ainsi, dans les transactions comme des Commandes Clients, Bon de Commande, etc., elle sera récupérée dans le champ 'Taux', plutôt que champ 'Taux de la Liste de Prix'."
+26,"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","Si l'utilisateur a un rôle quelconque vérifié, il devient un ""Utilisateur Système"". L'""Utilisateur Système"" a accès au bureau"
+27,"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","Si ces instructions n'étaient pas utiles, veuillez ajouter vos suggestions dans les Questions GitHub."
+28,"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.","Si deux ou plusieurs Règles de Prix sont trouvées sur la base des conditions ci-dessus, une Priorité est appliquée. La Priorité est un nombre compris entre 0 à 20 avec une valeur par défaut de zéro (vide). Les nombres les plus élévés sont prioritaires s'il y a plusieurs Règles de Prix avec mêmes conditions."
+29,"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","Si vous mettez à jour, veuillez sélectionner ""Écraser"" sinon les lignes déjà existantes ne seront pas supprimées."
+30,"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.","Si vous téléchargez de nouveaux rapports, ""Nommer Séries"" devient obligatoire, si présent."
+31,"If you have any questions, please get back to us.","Si vous avez des questions, veuillez revenir à nous."
+32,"If you have created a standard template in Sales Taxes and Charges Template, select one and click on the button below.","Si vous avez créé un modèle standard dans Modèle de Taxes et Frais de Vente, sélectionnez-en un et cliquez sur le bouton ci-dessous."
+33,"If you set this, this Item will come in a drop-down under the selected parent.","Si vous définissez ceci, cet Article sera dans un menu déroulant sous le parent sélectionné."
+34,"If your data is in HTML, please copy paste the exact HTML code with the tags.","Si vos données sont en HTML, veuillez copier coller le code HTML exact avec les balises."
+35,Image field must be a valid fieldname,Champ de l'image doit être un champ valide
+36,Image field must be of type Attach Image,Champ de l'image doit être du type Image Jointe
 37,Implicit,Implicite
 38,Import .zip,Importer .zip
 39,Import Attendance,Importer Participation
-40,"Import Request Queued. This may take a few moments, please be patient.","Importer appel en attente. Cela peut prendre quelques instants, s'il vous plaît soyez patient."
-41,In Global Search,À la recherche globale
-42,"in Minutes
-Updated via 'Time Log'","Mise à jour en quelques minutes 
- via 'Log Time'"
-43,In points. Default is 9.,En points. Par défaut est 9.
-44,In Standard Filter,Dans Filtre standard
+40,"Import Request Queued. This may take a few moments, please be patient.","Demande d'Import en Attente. Cela peut prendre quelques instants, veuillez patienter."
+41,In Global Search,Dans la Recherche Globale
+42,"in Minutes Updated via 'Time Log'","en Minutes Mises à Jour via le 'Journal des Temps'"
+43,In points. Default is 9.,En points. 9 par défaut.
+44,In Standard Filter,Dans Filtre Standard
 45,Incentives,Incitations
-46,Include holidays in Total no. of Working Days,Inclure les vacances en aucun totale. de jours de travail
-47,Include holidays within leaves as leaves,Inclure les jours fériés dans les feuilles que les feuilles
+46,Include holidays in Total no. of Working Days,Inclure les vacances dans le nombre total de Jours Ouvrés
+47,Include holidays within leaves as leaves,Inclure les vacances dans les congés en tant que congés
 48,Include non-stock items,Inclure des articles hors stock
-49,Include Reconciled Entries,Inclure les entrées rapprochées
-50,Include sub-contracted raw materials,Inclure les matières premières sous-traitance
-51,Including items for sub assemblies,Incluant les éléments pour des sous-ensembles
-52,Incoming quality inspection.,Contrôle de la qualité entrant.
-53,Incoming Rate,Taux d'entrée
-54,Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,Nombre incorrect de General Ledger Entrées trouvées. Vous avez peut-être choisi le bon compte dans la transaction.
-55,Incorrect UserId or Password,UserId ou mot de passe incorrect
+49,Include Reconciled Entries,Inclure les Écritures Réconciliées
+50,Include sub-contracted raw materials,Inclure les matières premières sous-traitées
+51,Including items for sub assemblies,Incluant les articles pour des sous-ensembles
+52,Incoming quality inspection.,Contrôle de qualité entrant.
+53,Incoming Rate,Taux d'Entrée
+54,Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,Nombre incorrect de Écritures Grand Livre trouvées. Vous avez peut-être choisi le mauvais Compte dans la transaction.
+55,Incorrect UserId or Password,UserId ou Mot de Passe incorrect
 56,Incorrect value in row {0}: {1} must be {2} {3},Valeur incorrecte à la ligne {0} : {1} doit être {2} {3}
-57,Incorrect value: {0} must be {1} {2},Valeur incorrecte: {0} doit être {1} {2}
-58,Increment for Attribute {0} cannot be 0,Incrément pour attribut {0} ne peut pas être 0
-59,indent-left,tiret à gauche
-60,indent-right,tiret à droite
-61,Indicates that the package is a part of this delivery (Only Draft),Indique que le package est une partie de cette livraison (Seuls les projets)
+57,Incorrect value: {0} must be {1} {2},Valeur incorrecte : {0} doit être {1} {2}
+58,Increment for Attribute {0} cannot be 0,Incrément pour l'Attribut {0} ne peut pas être 0
+59,indent-left,décaler-gauche
+60,indent-right,décaler-droite
+61,Indicates that the package is a part of this delivery (Only Draft),Indique que le paquet est une partie de cette livraison (Brouillons Seulement)
 62,info-sign,info-signe
 63,InnoDB,InnoDB
 64,INS/,INS /
-65,Insert After cannot be set as {0},Insérer après ne peut être réglé que {0}
-66,"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","Insérer après le champ '{0}' mentionné dans un champ personnalisé '{1}', avec l'étiquette '{2}', n'existe pas"
+65,Insert After cannot be set as {0},Insérer Après ne peut être défini en tant que {0}
+66,"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","Insérer Après le champ '{0}' mentionné dans un Champ Personnalisé '{1}', avec l'étiquette '{2}', n'existe pas"
 67,Inspection,Inspection
-68,Inspection Required before Delivery,Inspection obligatoire avant livraison
-69,Inspection Required before Purchase,Inspection requise avant achat
-70,Installation Note Item,Article Remarque Installation
-71,Institute Abbreviation,Institut Abréviation
+68,Inspection Required before Delivery,Inspection Requise avant Livraison
+69,Inspection Required before Purchase,Inspection Requise avant Achat
+70,Installation Note Item,Article Remarque d'Installation
+71,Institute Abbreviation,Abréviation de l'Institut
 72,Institute Name,Nom de l'Institut
 73,Institution,Institution
-74,Insurance Company,Compagnie d'assurance
-75,Insurance Details,Détails assurance
-76,Insurance Start date should be less than Insurance End date,Date de début d'assurance devrait être inférieure à la date d'assurance Fin
+74,Insurance Company,Compagnie d'Assurance
+75,Insurance Details,Détails Assurance
+76,Insurance Start date should be less than Insurance End date,Date de Début d'Assurance devrait être antérieure à la Date de Fin d'Assurance
 77,Int,Int
-78,Integration Broker,Courtier d'intégration
-79,Integration Request,intégration Demande
-80,Integration Request Service,Intégration Service
-81,Integration Service,Service d'intégration
-82,Integration Service Parameter,Intégration des services Paramètre
-83,Integration Type,Type d'intégration
-84,Integrations can use this field to set email delivery status,Intégrations peuvent utiliser ce champ pour définir le statut de la livraison d'email
+78,Integration Broker,Courtier d'Intégration
+79,Integration Request,Demande d'Intégration
+80,Integration Request Service,Service de Demande d'Intégration
+81,Integration Service,Service d'Intégration
+82,Integration Service Parameter,Paramètre du Service d'Intégration
+83,Integration Type,Type d'Intégration
+84,Integrations can use this field to set email delivery status,Les intégrations peuvent utiliser ce champ pour définir l'email du statut de la livraison
 85,Interest Amount,Montant d'Intérêts
-86,Interest Income Account,Compte de revenu d'intérêt
+86,Interest Income Account,Compte d'Intérêts Créditeurs
 87,Intermediate,Intermédiaire
-88,Internal record of document shares,Registre interne des parts de documents
+88,Internal record of document shares,Registre interne des documents partagés
 89,Invalid,Invalide
-90,Invalid Attribute,Attribut invalide
-91,Invalid attribute {0} {1},attribut non valide {0} {1}
-92,Invalid CSV Format,Format CSV invalide
-93,Invalid fieldname '{0}' in autoname,fieldname non valide '{0}' dans Nom automatique
-94,Invalid naming series (. missing),Série de nommage non valide (. Manquante)
-95,Invalid Outgoing Mail Server or Port,Invalid Serveur de courrier sortant ou Port
-96,Invalid Output Format,Format de sortie invalide
-97,Invalid payment gateway credentials,Invalid informations d'identification de passerelle de paiement
-98,Invalid quantity specified for item {0}. Quantity should be greater than 0.,Quantité spécifiée non valide pour l'élément {0} . Quantité doit être supérieur à 0 .
-99,Invalid Request,Requête invalide
-100,Invalid Token,Jeton invalide
+90,Invalid Attribute,Attribut Invalide
+91,Invalid attribute {0} {1},Attribut invalide {0} {1}
+92,Invalid CSV Format,Format CSV Invalide
+93,Invalid fieldname '{0}' in autoname,Champ invalide '{0}' dans nom automatique
+94,Invalid naming series (. missing),Série de nommage non valide (. manquant)
+95,Invalid Outgoing Mail Server or Port,Serveur d'Envoi de Mail ou Port Invalide
+96,Invalid Output Format,Format de Sortie Invalide
+97,Invalid payment gateway credentials,Identifiant de la Passerelle de Paiement Invalides
+98,Invalid quantity specified for item {0}. Quantity should be greater than 0.,Quantité spécifiée invalide pour l'élément {0}. Quantité doit être supérieur à 0.
+99,Invalid Request,Requête Invalide
+100,Invalid Token,Jeton Invalide
 101,Inverse,Inverse
-102,Investment Banking,Banques d'investissement
-103,Invite as User,Inviter en tant qu'utilisateur
-104,Invoiced Amount (Exculsive Tax),Montant facturé ( impôt Exculsive )
-105,Is Account Payable,Est compte à payer
-106,Is Advance,Est-Advance
-107,Is Attachments Folder,Est-jointes dossier
-108,Is Carry Forward,Est-Report
-109,Is Child Table,Est-table enfant
-110,Is Encash,Est encaisser
-111,Is Existing Asset,Est Actif existant
-112,Is Fixed Asset,Est Actif fixe
-113,Is Mandatory Field,Est-Champ obligatoire
-114,is not allowed.,N'est pas autorisé.
-115,Is Opening,Est l'ouverture
-116,Is Opening Entry,Est l'ouverture d'entrée
+102,Investment Banking,Banques d'Investissement
+103,Invite as User,Inviter en tant qu'Utilisateur
+104,Invoiced Amount (Exculsive Tax),Montant Facturé (Hors Taxes)
+105,Is Account Payable,Est Compte Créditeur
+106,Is Advance,Est Accompte
+107,Is Attachments Folder,Est Dossier de Pièces Jointes
+108,Is Carry Forward,Est Reporté
+109,Is Child Table,Est Table Enfant
+110,Is Encash,Est Encaissé
+111,Is Existing Asset,Est Actif Existant
+112,Is Fixed Asset,Est Immobilisation
+113,Is Mandatory Field,Est Champ obligatoire
+114,is not allowed.,n'est pas autorisé.
+115,Is Opening,Est Ouvert
+116,Is Opening Entry,Est Écriture Ouverte
 117,Is POS,Est PDV
-118,Is Primary Address,Est Adresse principale
-119,Is Private,Est privé
-120,Is Purchase Item,Est-Item
-121,Is Return,Est de retour
-122,Is Sent,Est envoyé
-123,Is Standard,Est-standard
-124,Is Submittable,Est-Submittable
-125,Is Table,Est-Table
-126,Is this Tax included in Basic Rate?,Est-ce Taxes incluses dans le taux de base?
+118,Is Primary Address,Est Adresse Principale
+119,Is Private,Est Privé
+120,Is Purchase Item,Est Article d'Achat
+121,Is Return,Est de Retour
+122,Is Sent,Est Envoyé
+123,Is Standard,Est Standard
+124,Is Submittable,Est Soumissible
+125,Is Table,Est Table
+126,Is this Tax included in Basic Rate?,Cette Taxe est-elle incluse dans le Taux de Base ?
 127,Issue,Question
-128,Item {0} ignored since it is not a stock item,L'article {0} ignoré puisque il n'est pas en stock
-129,Item {0} is not setup for Serial Nos. Check Item master,L'article {0} n'est pas configuré pour numéros de série.  Vérifiez la fiche de l'Article
-130,Item {0} is not setup for Serial Nos. Column must be blank,L'article {0} n'est pas configuré pour un numéro de série.  La colonne doit être vide
-131,Item {0} must be a Fixed Asset Item,L'article {0} doit être un Actif Fixe
-132,Item {0} must be a non-stock item,L'article {0} doit être un article qui n'est pas en stock
+128,Item {0} ignored since it is not a stock item,L'article {0} est ignoré puisqu'il n'est pas en stock
+129,Item {0} is not setup for Serial Nos. Check Item master,L'article {0} n'est pas configuré pour les Numéros de Série. Vérifiez la fiche de l'Article 
+130,Item {0} is not setup for Serial Nos. Column must be blank,L'article {0} n'est pas configuré pour un Numéros de Série. La colonne doit être vide
+131,Item {0} must be a Fixed Asset Item,L'article {0} doit être une Immobilisation
+132,Item {0} must be a non-stock item,L'article {0} doit être un article hors stock
 133,Item {0} must be a stock Item,L'article {0} doit être un article en stock
-134,Item {0} must be a Sub-contracted Item,L'article {0} doit être un article sous-contracté
-135,Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in Item).,L'article {0}: Quantité commandée {1} ne peut pas être inférieure à la qté de commande minimum {2} (défini dans la fiche de l'article).
-136,Item Attribute Values,Valeurs de l'attribut de l'Article
+134,Item {0} must be a Sub-contracted Item,L'article {0} doit être un Article Sous-traité
+135,Item {0}: Ordered qty {1} cannot be less than minimum order qty {2} (defined in Item).,L'article {0} : Qté commandée {1} ne peut pas être inférieure à la qté de commande minimum {2} (défini dans l'Article).
+136,Item Attribute Values,Valeurs de l'Attribut de l'Article
 137,Item Balance,Solde de l'Article
 138,Item cannot be added to its own descendents,L'article ne peut être ajouté à ses propres descendants
 139,Item Classification,Classification de l'Article
-140,Item Code cannot be changed for Serial No.,Code de l'article ne peut pas être modifié pour le Numéro de Série
-141,Item Code is mandatory because Item is not automatically numbered,Le code de l'article est obligatoire car l'article n'est pas numéroté automatiquement
-142,Item Group not mentioned in item master for item {0},Le groupe d'articles n'est pas mentionnés dans la fiche de l'article pour l'article {0}
+140,Item Code cannot be changed for Serial No.,Code de l'Article ne peut pas être modifié pour le Numéro de Série
+141,Item Code is mandatory because Item is not automatically numbered,Le code de l'Article est obligatoire car l'Article n'est pas numéroté automatiquement
+142,Item Group not mentioned in item master for item {0},Le Groupe d'Articles n'est pas mentionné dans la fiche de l'article pour l'article {0}
 143,Item Groups,Groupes d'articles
 144,Item Image (if not slideshow),Image de l'Article (si ce n'est diaporama)
-145,Item must be added using 'Get Items from Purchase Receipts' button,L'article doit être ajouté à l'aide du bouton 'Obtenir des éléments de reçus d'achat'
-146,Item Naming By,Nomenclature d'Article par
-147,Item or Warehouse for row {0} does not match Material Request,L'Article ou l'Entrepôt pour la rangée {0} ne correspond pas avec la Requête de Matériel
-148,Item Price updated for {0} in Price List {1},Prix de l'Article mis à jour pour {0} dans la liste des prix {1}
-149,Item Quality Inspection Parameter,Paramètre d'inspection de qualité de l'Article
-150,Item Row {idx}: {doctype} {docname} does not exist in above '{doctype}' table,Item Row {idx}: {doctype} {} docname n'existe pas dans ci-dessus '{doctype}' table
-151,Item Shortage Report,Rapport de rupture de stock d'Article
-152,Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable,"La ligne ""Taxe sur l'Article"" {0} doit indiquer un compte de type Revenu ou Dépense ou Facturable"
-153,Item to be manufactured or repacked,Article à être manufacturés ou réemballé
-154,Item valuation rate is recalculated considering landed cost voucher amount,Le Taux d'Évaluation de l'Article est recalculé compte tenu du Montant du Bon de Prix au Débarquement
+145,Item must be added using 'Get Items from Purchase Receipts' button,L'article doit être ajouté à l'aide du bouton 'Obtenir des éléments de Reçus d'Achat'
+146,Item Naming By,Nomenclature d'Article Par
+147,Item or Warehouse for row {0} does not match Material Request,L'Article ou l'Entrepôt pour la ligne {0} ne correspond pas avec la Requête de Matériel
+148,Item Price updated for {0} in Price List {1},Prix de l'Article mis à jour pour {0} dans la Liste des Prix {1}
+149,Item Quality Inspection Parameter,Paramètre d'Inspection de Qualité de l'Article
+150,Item Row {idx}: {doctype} {docname} does not exist in above '{doctype}' table,Ligne d'Article {idx}: {doctype} {docname} n'existe pas dans la table '{doctype}' ci-dessus
+151,Item Shortage Report,Rapport de Rupture de Stock d'Article
+152,Item Tax Row {0} must have account of type Tax or Income or Expense or Chargeable,"La Ligne de Taxe d'Article {0} doit indiquer un compte de type Taxes ou Produit ou Charge ou Facturable"
+153,Item to be manufactured or repacked,Article à manufacturer ou à réemballer
+154,Item valuation rate is recalculated considering landed cost voucher amount,Le taux d'évaluation de l'article est recalculé compte tenu du montant du bon de prix au débarquement
 155,Item Variant {0} already exists with same attributes,La Variante de l'Article {0} existe déjà avec les mêmes caractéristiques
-156,Item variant {0} exists with same attributes,La Variante de l'Article {0} existe avec les mêmes caractéristiques
+156,Item variant {0} exists with same attributes,La variante de l'article {0} existe avec les mêmes caractéristiques
 157,Item Variant Attribute,Attribut de Variante de l'Article
-158,Item Variants,Variantes de l'article
-159,Item Variants {0} updated,Variante de l'Article {0} mise à jour
+158,Item Variants,Variantes de l'Article
+159,Item Variants {0} updated,Variantes de l'Article {0} mises à jour
 160,Item Website Specification,Spécification de l'Article sur le Site Web
-161,Item Wise Tax Detail,Liste des Prix doit être applicable pour l'achat ou la vente d'
-162,Item-wise Price List Rate,Article sage Prix Tarif
-163,Item-wise Purchase History,Historique des achats (par Article)
-164,Item-wise Purchase Register,Registre des achats par items
-165,Item-wise Sales History,Historique des ventes par Article
-166,Item-wise Sales Register,Registre des ventes par Article
-167,Item: {0} does not exist in the system,Item: {0} ne existe pas dans le système
-168,"Item: {0} managed batch-wise, can not be reconciled using \
-					Stock Reconciliation, instead use Stock Entry","Item: {0} discontinu, ne peut être conciliée utilisant \
- Stock réconciliation, utiliser à la place l'entrée en stock géré"
-169,Items To Be Requested,Articles à demander
-170,Items with higher weightage will be shown higher,Articles avec weightage supérieur seront affichés supérieur
-171,Itemwise Recommended Reorder Level,Seuil de renouvellement des commandes (par Article)
+161,Item Wise Tax Detail,Détail des Taxes par Article
+162,Item-wise Price List Rate,Taux de la Liste des Prix par Article
+163,Item-wise Purchase History,Historique d'Achats par Article
+164,Item-wise Purchase Register,Registre des Achats par Article
+165,Item-wise Sales History,Historique des Ventes par Article
+166,Item-wise Sales Register,Registre des Ventes par Article
+167,Item: {0} does not exist in the system,Article : {0} n'existe pas dans le système
+168,"Item: {0} managed batch-wise, can not be reconciled using Stock Reconciliation, instead use Stock Entry",
+"Article : {0} géré par lot, ne peut être réconcilié en utilisant la Réconciliation de Stock, utiliser à la place une Écriture de Stock"
+169,Items To Be Requested,Articles À Demander
+170,Items with higher weightage will be shown higher,Articles avec poids supérieur seront affichés en haut
+171,Itemwise Recommended Reorder Level,Renouvellement Recommandé par Article
 172,I,I
 173,Icon will appear on the button,L'icône apparaîtra sur le bouton
 174,ID,ID
@@ -182,233 +179,233 @@ Updated via 'Time Log'","Mise à jour en quelques minutes
 176,Idx,Idx
 177,If {0} is permitted,Si {0} est autorisé
 178,"If checked, all other workflows become inactive.","Si coché, tous les autres flux de production deviennent inactifs."
-179,"If disable, 'In Words' field will not be visible in any transaction","Si coché, le champ 'En Lettre' ne sera plus visible dans toute les transactions"
-180,"If disable, 'Rounded Total' field will not be visible in any transaction","Si coché, le champ ""Total arrondi"" ne sera pas visible et les montants ne seront pas arrondis."
-181,If Document Type,Si Type de document
-182,"If image is selected, color will be ignored.","Si l'image est sélectionnée, la couleur sera ignoré."
-183,If Income or Expense,Si les produits ou charges
-184,If non standard port (e.g. 587),Si port non standard (par exemple 587)
-185,If Owner,Si le propriétaire
-186,If subcontracted to a vendor,Si en sous-traitance à un fournisseur
-187,"If the account is frozen, entries are allowed to restricted users.","Si le compte est gelé , les entrées ne sont autorisés que pour les utilisateurs ayant droit ."
-188,"If this item has variants, then it cannot be selected in sales orders etc.","Si cet article a des variantes, alors il ne peut pas être sélectionné dans les commandes, etc."
+179,"If disable, 'In Words' field will not be visible in any transaction","Si coché, le champ 'En Lettre' ne sera plus visible dans toutes les transactions"
+180,"If disable, 'Rounded Total' field will not be visible in any transaction","Si coché, le champ 'Total Arrondi' ne sera pas visible dans toutes les transactions."
+181,If Document Type,Si Type de Document
+182,"If image is selected, color will be ignored.","Si l'image est sélectionnée, la couleur sera ignorée."
+183,If Income or Expense,Si Produits ou Charges
+184,If non standard port (e.g. 587),Si port non standard (e.g. 587)
+185,If Owner,Si Propriétaire
+186,If subcontracted to a vendor,Si sous-traité à un fournisseur
+187,"If the account is frozen, entries are allowed to restricted users.","Si le compte est gelé, les écritures ne sont autorisés que pour un nombre restreint d'utilisateurs."
+188,"If this item has variants, then it cannot be selected in sales orders etc.","Si cet article a des variantes, alors il ne peut pas être sélectionné dans les commandes clients, etc."
 189,If user is the owner,Si l'utilisateur est le propriétaire
-190,"If you are uploading new records, leave the ""name"" (ID) column blank.","Si vous chargez de nouveaux enregistrements, laissez vide la colonne ""nom"" (ID)."
-191,"If you think this is unauthorized, please change the Administrator password.","Si vous pensez que cela n'est pas autorisé, s'il vous plaît changer le mot de passe administrateur."
-192,Ignore attachments over this size,Ignorer les pièces jointes plus de cette taille
+190,"If you are uploading new records, leave the ""name"" (ID) column blank.","Si vous chargez de nouveaux enregistrements, laissez la colonne ""nom"" (ID) vide."
+191,"If you think this is unauthorized, please change the Administrator password.","Si vous pensez que cela n'est pas autorisé, veuillez changer le mot de passe Administrateur."
+192,Ignore attachments over this size,Ignorer les pièces jointes supérireure à cette taille
 193,Ignore encoding errors.,Ignorer les erreurs d'encodage.
-194,Ignore Pricing Rule,Ignorez règle de prix
-195,Ignore User Permissions,Ignorer les autorisations des utilisateurs
-196,Ignore User Permissions If Missing,Ignorer les autorisations des utilisateurs si manquant
-197,Ignore XSS Filter,Ignorer filtre XSS
-198,Ignored: {0} to {1},Ignoré: {0} à {1}
-199,"Ignoring Item {0}, because a group exists with the same name!","Elements  ignoré {0}, un groupe avec le même nom exist !"
+194,Ignore Pricing Rule,Ignorez Règle de Prix
+195,Ignore User Permissions,Ignorer les Autorisations des Utilisateurs
+196,Ignore User Permissions If Missing,Ignorer les Autorisations des Utilisateurs si Manquant
+197,Ignore XSS Filter,Ignorer le Filtre XSS
+198,Ignored: {0} to {1},Ignoré : {0} à {1}
+199,"Ignoring Item {0}, because a group exists with the same name!","Articles {0} ignorés, car un groupe existe avec le même nom !"
 200,II,II
 201,III,III
 202,Image,Image
-203,Image Field,Champ d'image
-204,Image Link,Lien vers l'image
-205,Image View,Voir l'image
+203,Image Field,Champ d'Image
+204,Image Link,Lien vers l'Image
+205,Image View,Voir l'Image
 206,Images,Images
-207,Implementation Partner,Partenaire de mise en œuvre
+207,Implementation Partner,Partenaire d'Implémentation
 208,Import,Importer
-209,Import / Export Data,Import / Export de données
-210,Import / Export Data from .csv files.,Import / Export de données de fichiers CSV .
-211,Import Email From,Importer Email De
-212,Import Failed,Échec de l'importation
-213,Import Failed!,Importation a échoué!
-214,Import in Bulk,Importer en masse
-215,Import Log,Journal d'importation
-216,Import Subscribers,Importer les abonnés
-217,Import Successful!,Importation réussie !
+209,Import / Export Data,Import / Export de Données
+210,Import / Export Data from .csv files.,Import / Export de Données à partir de fichiers CSV.
+211,Import Email From,Importer Email Depuis
+212,Import Failed,Échec de l'Importation
+213,Import Failed!,Échec de l'Importation !
+214,Import in Bulk,Importer en Masse
+215,Import Log,Journal d'Importation
+216,Import Subscribers,Importer les Abonnés
+217,Import Successful!,Importation Réussie !
 218,Importing,Importation
 219,Importing...,Importation ...
-220,In,dans
-221,In Dialog,Dans la boîte de dialogue
-222,In Filter,Dans filtre
-223,In Hours,Dans Heures
-224,In List View,Vue en liste
-225,In minutes,En minutes
-226,In Process,En cours
+220,In,Dans
+221,In Dialog,Dans la Boîte de Dialogue
+222,In Filter,Dans le Filtre
+223,In Hours,En Heures
+224,In List View,En Vue en Liste
+225,In minutes,En Minutes
+226,In Process,En Cours
 227,In Qty,En Qté
-228,In Reply To,En réponse à
+228,In Reply To,En Réponse À
 229,In Stock,En Stock
-230,In Stock Qty,Qté en stock
-231,In Stock:,En stock:
-232,In Value,En valeur
+230,In Stock Qty,Qté En Stock
+231,In Stock:,En Stock :
+232,In Value,En Valeur
 233,In Words,En Toutes Lettres
-234,In Words (Company Currency),En Toutes Lettres (Devise société)
-235,In Words (Export) will be visible once you save the Delivery Note.,En Toutes Lettres (Exportation) Sera visible une fois que vous enregistrerez le bon de livraison.
-236,In Words will be visible once you save the Delivery Note.,En Toutes Lettres. Sera visible une fois que vous enregistrez le bon de livraison.
-237,In Words will be visible once you save the Purchase Order.,En Toutes Lettres. Sera visible une fois que vous enregistrerez le bon de commande.
-238,In Words will be visible once you save the Quotation.,En Toutes Lettres. Sera visible une fois que vous enregistrerez le devis.
-239,In Words will be visible once you save the Sales Invoice.,En Toutes Lettres. Sera visible une fois que vous enregistrerez la facture.
-240,In Words will be visible once you save the Sales Order.,En Toutes Lettres. Sera visible une fois que vous enregistrerez le bon de commande.
+234,In Words (Company Currency),En Toutes Lettres (Devise Société)
+235,In Words (Export) will be visible once you save the Delivery Note.,En Toutes Lettres (Exportation) Sera visible une fois que vous enregistrerez le Bon de Livraison.
+236,In Words will be visible once you save the Delivery Note.,En Toutes Lettres. Sera visible une fois que vous enregistrez le Bon de Livraison.
+237,In Words will be visible once you save the Purchase Order.,En Toutes Lettres. Sera visible une fois que vous enregistrerez le Bon de Commande.
+238,In Words will be visible once you save the Quotation.,En Toutes Lettres. Sera visible une fois que vous enregistrerez le Devis.
+239,In Words will be visible once you save the Sales Invoice.,En Toutes Lettres. Sera visible une fois que vous enregistrerez la Facture.
+240,In Words will be visible once you save the Sales Order.,En Toutes Lettres. Sera visible une fois que vous enregistrerez la Commande Client
 241,IN-,DANS-
-242,Inactive Customers,Clients inactifs
-243,Inbox,Boîte de réception
+242,Inactive Customers,Clients Inactifs
+243,Inbox,Boîte de Réception
 244,Income,Revenu
-245,Income Account,Compte de résultat
+245,Income Account,Compte de Produits
 246,Income Tax,Impôt sur le revenu
-247,Incoming,Rentrant
+247,Incoming,Entrant
 248,Increment,Incrément
 249,Increment cannot be 0,Incrément ne peut pas être 0
 250,Index,Index
 251,Indicator,Indicateur
-252,Indirect Expenses,Dépenses indirectes
-253,Indirect Income,Revenu indirect
+252,Indirect Expenses,Dépenses Indirectes
+253,Indirect Income,Revenu Indirect
 254,Individual,Individuel
 255,Industry,Industrie
-256,Industry Type,Secteur d'activité
+256,Industry Type,Secteur d'Activité
 257,Info,Info
-258,Info:,Info:
+258,Info:,Info :
 259,Initiated,Initié
-260,Insert Above,Insérer au-dessus
-261,Insert After,Insérer après
-262,Insert Below,Insérer en dessous
-263,Insert Code,Insérez le code
-264,Insert Style,Insérez style
-265,Inspected By,Inspecté par
-266,Inspection Criteria,Critères d'inspection
-267,Inspection Type,Type d'inspection
+260,Insert Above,Insérer Au-Dessus
+261,Insert After,Insérer Après
+262,Insert Below,Insérer En Dessous
+263,Insert Code,Insérez le Code
+264,Insert Style,Insérez le Style
+265,Inspected By,Inspecté Par
+266,Inspection Criteria,Critères d'Inspection
+267,Inspection Type,Type d'Inspection
 268,Install,Installer
-269,Install {0}?,Installer {0}?
-270,Install Applications.,Installer des applications.
+269,Install {0}?,Installer {0} ?
+270,Install Applications.,Installer des Applications.
 271,Install Apps,Installer Apps
-272,Installation Date,Date d'installation
-273,Installation date cannot be before delivery date for Item {0},Date d'installation ne peut pas être avant la date de livraison pour l'article {0}
-274,Installation Note,Note d'installation
-275,Installation Note {0} has already been submitted,Note d'installation {0} à déjà été sousmise
-276,Installation record for a Serial No.,N° de série pour un dossier d'installation
-277,Installation Status,Etat de l'installation
-278,Installation Time,Temps d'installation
+272,Installation Date,Date d'Installation
+273,Installation date cannot be before delivery date for Item {0},Date d'installation ne peut pas être avant la date de livraison pour l'Article {0}
+274,Installation Note,Note d'Installation
+275,Installation Note {0} has already been submitted,Note d'Installation {0} à déjà été sousmise
+276,Installation record for a Serial No.,N° de Série pour un dossier d'installation
+277,Installation Status,Etat de l'Installation
+278,Installation Time,Temps d'Installation
 279,Installed,Installé
-280,Installed Apps,Applications installées
-281,Installed Qty,Qté installée
-282,Installing App {0},Installation App {0}
+280,Installed Apps,Applications Installées
+281,Installed Qty,Qté Installée
+282,Installing App {0},Installation de l'App {0}
 283,Instructions,Instructions
 284,Instructor,Instructeur
-285,Instructor Name,Nom de l'instructeur
-286,Instructors,instructeurs
-287,Insufficient Stock,Stock insuffisant
+285,Instructor Name,Nom de l'Instructeur
+286,Instructors,Instructeurs
+287,Insufficient Stock,Stock Insuffisant
 288,Integrations,Intégrations
 289,Interest,Intérêt
 290,Interested,Intéressé
 291,Interests,Intérêts
-292,Intern,interne
+292,Intern,Interne
 293,Internal,Interne
-294,Internal Transfer,Transfert interne
-295,Internal Work History,Historique de travail interne
+294,Internal Transfer,Transfert Interne
+295,Internal Work History,Historique de Travail Interne
 296,Internet,Internet
 297,Internet Publishing,Publication Internet
-298,Intervals,intervalles
+298,Intervals,Intervalles
 299,Introduce your company to the website visitor.,Présentez votre entreprise pour le visiteur du site.
 300,Introduction,Introduction
-301,Introductory information for the Contact Us Page,Information d'introduction pour la page Contactez-nous
+301,Introductory information for the Contact Us Page,Information d'Introduction pour la Page Contactez-nous
 302,Invalid {0},Invalide {0}
-303,Invalid {0}: {1},invalide {0}: {1}
+303,Invalid {0}: {1},Invalide {0} : {1}
 304,Invalid Email: {0},Email Invalide : {0}
-305,Invalid file path: {0},Chemin de fichier non valide: {0}
-306,Invalid Filter: {0},Filtre invalide : {0}
-307,Invalid Home Page,Page d'accueil invalide
-308,Invalid Link,Lien invalide
-309,Invalid login or password,Connexion ou mot de passe invalide
-310,Invalid Login Token,Jeton de connexion invalide
-311,Invalid Mail Server. Please rectify and try again.,Serveur Mail invalide . Corrigez et essayez à nouveau
+305,Invalid file path: {0},Chemin de fichier invalide : {0}
+306,Invalid Filter: {0},Filtre Invalide : {0}
+307,Invalid Home Page,Page d'Accueil Invalide
+308,Invalid Link,Lien Invalide
+309,Invalid login or password,Identifiant ou mot de passe invalide
+310,Invalid Login Token,Jeton de Connexion invalide
+311,Invalid Mail Server. Please rectify and try again.,Serveur Mail Invalide. Veuillez corriger et réesayer
 312,Invalid recipient address,Adresse de destinataire invalide
-313,Invalid reference {0} {1},Référence non valide {0} {1}
-314,Invalid User Name or Support Password. Please rectify and try again.,Nom d'utilisateur ou mot de passe incorrect. Veuillez corriger et réessayer
+313,Invalid reference {0} {1},Référence invalide {0} {1}
+314,Invalid User Name or Support Password. Please rectify and try again.,Nom d'Utilisateur ou Mot de Passe Invalide. Veuillez corriger et réessayer
 315,Inventory,Inventaire
 316,Investments,Investissements
 317,Invited,Invité
 318,Invoice,Facture
-319,Invoice Date,Date de la facture
-320,Invoice No,No de facture
-321,Invoice Number,Numéro de facture
-322,Invoice Posting Date,Date d’envois de la facture
+319,Invoice Date,Date de la Facture
+320,Invoice No,No de Facture
+321,Invoice Number,Numéro de Facture
+322,Invoice Posting Date,Date d’Envois de la Facture
 323,Invoice Ref,Facture Ref
-324,Invoice Type,Type de facture
-325,Invoice/Journal Entry Details,Facture / Détails pièce comptable
-326,Invoiced Amount,Montant facturé
+324,Invoice Type,Type de Facture
+325,Invoice/Journal Entry Details,Détails de Facture / Journal d'Écriture
+326,Invoiced Amount,Montant Facturé
 327,Invoices,Factures
 328,Is,Est
-329,Is Active,Est active
-330,Is Cancelled,Est annulée
-331,Is Custom Field,Est un champ personnalisé
-332,Is Default,Est défaut
-333,Is Folder,Est un dossier
-334,Is Frozen,Est gelé
+329,Is Active,Est Active
+330,Is Cancelled,Est Annulée
+331,Is Custom Field,Est un Champ Personnalisé
+332,Is Default,Est Défaut
+333,Is Folder,Est un Dossier
+334,Is Frozen,Est Gelé
 335,Is Group,Est un groupe
-336,Is Home Folder,Est le dossier d'accueil
-337,Is Leave Without Pay,Est un congé non payé
-338,Is Paid,Est payé
-339,Is Primary Contact,Personne de contact
-340,Is Recurring,Est récurrent
-341,Is Sales Item,Est un article à vendre
-342,Is Single,Est seul
-343,Is Subcontracted,Est en sous-traitance
-344,Is Your Company Address,Est l'adresse de votre entreprise
+336,Is Home Folder,Est le Dossier d'Accueil
+337,Is Leave Without Pay,Est un Congé Sans Solde
+338,Is Paid,Est Payé
+339,Is Primary Contact,Personne de Contact
+340,Is Recurring,Est Récurrent
+341,Is Sales Item,Est un Article à Vendre
+342,Is Single,Est Seul
+343,Is Subcontracted,Est sous-traité
+344,Is Your Company Address,Est l'Adresse de votre Entreprise
 345,ISS-,ISS-
-346,Issue Date,Date d'émission
-347,Issue Material,Problème matériel
+346,Issue Date,Date d'Émission
+347,Issue Material,Problème Matériel
 348,Issued,Publié
-349,Issued Items Against Production Order,Articles produit par rapport un ordre de fabrication
+349,Issued Items Against Production Order,Articles Produits pour un Ordre de Fabrication
 350,Issues,Questions
-351,It is needed to fetch Item Details.,Nécessaire pour aller chercher les détails de l'article.
-352,It is risky to delete this file: {0}. Please contact your System Manager.,Il est risqué de supprimer ce fichier: {0}. S'il vous plaît contactez votre administrateur système.
+351,It is needed to fetch Item Details.,Nécessaire pour aller chercher les Détails de l'Article.
+352,It is risky to delete this file: {0}. Please contact your System Manager.,Il est risqué de supprimer ce fichier : {0}. Veuillez contactez votre Administrateur Système.
 353,italic,italique
 354,Item,Article
-355,Item {0} appears multiple times in Price List {1},L'article {0} apparaît plusieurs fois dans la liste de prix {1}
+355,Item {0} appears multiple times in Price List {1},L'article {0} apparaît plusieurs fois dans la Liste de Prix {1}
 356,Item {0} does not exist,Article {0} n'existe pas
 357,Item {0} does not exist in the system or has expired,L'article {0} n'existe pas dans le système ou a expiré
 358,Item {0} has already been returned,L'article {0} a déjà été retourné
 359,Item {0} has been disabled,L'article {0} a été désactivé
-360,Item {0} has reached its end of life on {1},L'article {0} sera périmé le {1}
-361,"Item {0} is a template, please select one of its variants","L'article {0} est un modèle, s'il vous plaît sélectionnez l'une de ses variantes"
+360,Item {0} has reached its end of life on {1},L'article {0} a atteint sa fin de vie le {1}
+361,"Item {0} is a template, please select one of its variants","L'article {0} est un modèle, veuillez sélectionner l'une de ses variantes"
 362,Item {0} is cancelled,Article {0} est annulé
 363,Item {0} is disabled,Article {0} est désactivé
-364,Item {0} is not a serialized Item,L'article {0} n'est pas un article avec un numéro de serie
-365,Item {0} is not a stock Item,Article {0} n'est pas un article du stock
-366,Item {0} is not active or end of life has been reached,L'article {0} n’est pas actif ou la fin de vie a été atteint
+364,Item {0} is not a serialized Item,L'article {0} n'est pas un Article avec un numéro de serie
+365,Item {0} is not a stock Item,Article {0} n'est pas un article stocké
+366,Item {0} is not active or end of life has been reached,L'article {0} n’est pas actif ou sa fin de vie a été atteinte
 367,Item {0} not found,Article {0} introuvable
-368,Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},Article {0} introuvable dans 'matières premières Fournies' table dans la commande d'achat {1}
+368,Item {0} not found in 'Raw Materials Supplied' table in Purchase Order {1},Article {0} introuvable dans la table 'Matières Premières Fournies' dans la Commande d'Achat {1}
 369,Item 1,Article 1
 370,Item 2,Article 2
 371,Item 3,Article 3
 372,Item 4,Article 4
 373,Item 5,Article 5
 374,Item and Warranty Details,Détails de l'Article et de la Garantie
-375,Item Attribute,Attribut de l'article
-376,Item Attribute Value,Valeur de l'attribut de l'article
-377,Item Code,Code de l'article
-378,Item Code for Suppliers,Code de l'article pour les fournisseurs
-379,Item Code required at Row No {0},Code de l'article est requis à la ligne No {0}
-380,Item Customer Detail,Détail de l'article client
-381,Item Description,Description de l'article
-382,Item Group,Groupe d'article
-383,Item Group Name,Nom du groupe d'article
-384,Item Group Tree,Arborescence de groupe d'article
+375,Item Attribute,Attribut de l'Article
+376,Item Attribute Value,Valeur de l'Attribut de l'Article
+377,Item Code,Code de l'Article
+378,Item Code for Suppliers,Code de l'Article pour les Fournisseurs
+379,Item Code required at Row No {0},Code de l'Article est requis à la Ligne No {0}
+380,Item Customer Detail,Détail de l'Article Client
+381,Item Description,Description de l'Article
+382,Item Group,Groupe d'Article
+383,Item Group Name,Nom du Groupe d'Article
+384,Item Group Tree,Arborescence de Groupe d'Article
 385,Item has variants.,L'article a des variantes.
-386,Item Manager,Gestionnaire d'article
-387,Item Name,Nom d'article
-388,Item Price,Prix ​​de l'article
-389,Item Price added for {0} in Price List {1},Prix de l'article ajouté pour {0} dans la liste de prix {1}
-390,Item Prices,Prix des articles
-391,Item Reorder,Réorganiser les articles
-392,Item Serial No,No de série article
-393,Item Supplier,Fournisseur de l'article
+386,Item Manager,Gestionnaire d'Article
+387,Item Name,Nom d'Article
+388,Item Price,Prix de l'Article
+389,Item Price added for {0} in Price List {1},Prix de l'Article ajouté pour {0} dans la Liste de Prix {1}
+390,Item Prices,Prix des Articles
+391,Item Reorder,Réorganiser les Articles
+392,Item Serial No,No de Série de l'Article
+393,Item Supplier,Fournisseur de l'Article
 394,Item Tax,Taxe sur l'Article
 395,Item Tax Amount,Montant de la Taxe sur l'Article
 396,Item Tax Rate,Taux de la Taxe sur l'Article
-397,Item To Manufacture,Article à fabriquer
+397,Item To Manufacture,Article à Fabriquer
 398,Item UOM,UDM de l'Article
-399,Item Variant,Variante d'article
+399,Item Variant,Variante de l'Article
 400,ITEM-,ARTICLE-
 401,Items,Articles
 402,Items already synced,Articles déjà synchronisés
 403,Items and Pricing,Articles et Prix
-404,Itemwise Discount,Remise (par Article)
+404,Itemwise Discount,Remise par Article
 405,IV,IV
-406,Icon,icône
+406,Icon,Icône
 407,If different than customer address,Si différente de l'adresse du client
 408,Ignore,Ignorer
