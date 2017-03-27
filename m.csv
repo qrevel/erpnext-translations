@@ -1,276 +1,277 @@
 ,English,Français
-0,Maintain Billing Hours and Working Hours Same on Timesheet,
-1,"Make ""name"" searchable in Global Search",
-2,Make Student,
-3,Make User,
-4,Mark as Present,
-5,Maximum Score,
-6,merged {0} into {1},
-7,Message-id,
-8,Mode of payment is required to make a payment,
-9,Monthly Repayment Amount cannot be greater than Loan Amount,
-10,Maintenance Schedule Item,Article calendrier d'entretien
-11,Maintenance start date can not be before delivery date for Serial No {0},Entretien date de début ne peut pas être avant la date de livraison pour série n ° {0}
-12,Maintenance Status,Statut d'entretien
-13,Maintenance User,Maintenance utilisateur
-14,Major/Optional Subjects,Sujets principaux / en option
-15,Make Bank Entry,Assurez accès des banques
-16,Make Depreciation Entry,Faire Amortissements Entrée
-17,Make Difference Entry,Calculer l'entrée par différence
-18,Make Employee,Assurez-employé
-19,Make Expense Claim,Faire état de frais
-20,Make file(s) private or public?,Créer un fichier (s) privé ou public?
-21,Make Payment via Journal Entry,Effectuer un paiement via Journal Entry
-22,Make Salary Slip,Faire Fiche de Paye
-23,Make Sales Order,Faire une Commande Client
-24,Make Sales Orders to help you plan your work and deliver on-time,Faire des commandes clients pour vous aider à planifier votre travail et de livrer à temps
-25,Make Student Batch,Faire Batch Student
-26,Make Supplier Quotation,Faire une Soumission de Fournisseur
-27,Make Timesheet,Faire Timesheet
+0,Maintain Billing Hours and Working Hours Same on Timesheet,Maintenir les Heures Facturables et les Heures de Travail sur la même Feuille de Temps
+1,"Make ""name"" searchable in Global Search","Rendre ""nom"" cherchable dans la Recherche Globale"
+2,Make Student,Créer un Étudiant
+3,Make User,Créer un Utilisateur
+4,Mark as Present,Marqué comme Présent
+5,Maximum Score,Score Maximum
+6,merged {0} into {1},fusionné {0} avec {1}
+7,Message-id,Id-message
+8,Mode of payment is required to make a payment,Mode de paiement est requis pour effectuer un paiement
+9,Monthly Repayment Amount cannot be greater than Loan Amount,Montant du Remboursement Mensuel ne peut pas être supérieur au Montant du Prêt
+10,Maintenance Schedule Item,Article de Calendrier d'Entretien
+11,Maintenance start date can not be before delivery date for Serial No {0},
+La date de début d'entretien ne peut pas être antérieure à la date de livraison pour le N° de Série {0}
+12,Maintenance Status,Statut d'Entretien
+13,Maintenance User,Maintenance Utilisateur
+14,Major/Optional Subjects,Sujets Principaux / En Option
+15,Make Bank Entry,Créer une Écriture Bancaire
+16,Make Depreciation Entry,Créer une Écriture d'Amortissement
+17,Make Difference Entry,Créer l'Écriture par Différence
+18,Make Employee,Créer un Employé
+19,Make Expense Claim,Créer une Note de Frais
+20,Make file(s) private or public?,Rendre le(s) fichier(s) privé(s) ou public(s) ?
+21,Make Payment via Journal Entry,Effectuer un Paiement par une Écriture de Journal
+22,Make Salary Slip,Créer une Fiche de Paie
+23,Make Sales Order,Créer une Commande Client
+24,Make Sales Orders to help you plan your work and deliver on-time,Créer des Commandes Clients pour vous aider à planifier votre travail et de livrer à temps
+25,Make Student Batch,Créer un Lot d'Étudiant
+26,Make Supplier Quotation,Créer un Devis Fournisseur
+27,Make Timesheet,Créer une Feuille de Temps
 28,Make use of longer keyboard patterns,Faire usage de plus des modèles de clavier
-29,Manage Customer Group Tree.,Gérer l'arborescence de groupe de clients .
+29,Manage Customer Group Tree.,Gérer l'Arborescence des Groupes de Clients.
 30,Mandatory feild - Academic Year,Champ Obligatoire - Année Académique
-31,Mandatory feild - Get Students From,feild obligatoire - Obtenir des étudiants de
-32,Mandatory feild - Program,feild obligatoire - Programme
-33,Mandatory Information missing:,Renseignements obligatoires manquants:
-34,Manufacture against Material Request,Fabrication contre Demande de Matériel
-35,Manufacturing Quantity is mandatory,Quantité de Fabrication Obligatoire
+31,Mandatory feild - Get Students From,Champ Obligatoire - Obtenir des Étudiants De
+32,Mandatory feild - Program,Champ Obligatoire - Programme
+33,Mandatory Information missing:,Renseignements Obligatoires manquants :
+34,Manufacture against Material Request,Fabrication pour une Demande de Matériel
+35,Manufacturing Quantity is mandatory,Quantité de Fabrication est obligatoire
 36,Manufacturing Settings,Paramètres de Fabrication
 37,map-marker,carte-repère
-38,Mark Attendance for multiple employees,Mark présence pour plusieurs employés
-39,Mark Attendence,Mark attendence
-40,Marked Attendance HTML,Présence marquée HTML
-41,Match Emails to a Company,Les e-mails de match pour une compagnie
-42,Match non-linked Invoices and Payments.,Correspondre non liées factures et paiements.
+38,Mark Attendance for multiple employees,Valider la Présence de plusieurs employés
+39,Mark Attendence,Valider la Présence
+40,Marked Attendance HTML,HTML des Présences Validées
+41,Match Emails to a Company,Emails correspondant à une Société
+42,Match non-linked Invoices and Payments.,Rapprocher les Factures non liées avec les Paiements.
 43,Match Payments with Invoices,Rapprocher les Paiements avec les Factures
-44,Material Issue,Material Issue
-45,Material Request Item,Article demande de matériel
-46,Material Request used to make this Stock Entry,Demande de Matériel utilisé pour réaliser cette Stock Entrée
-47,Material Requests for which Supplier Quotations are not created,Les demandes significatives dont les cotes des fournisseurs ne sont pas créés
-48,material_request_item,material_request_item
+44,Material Issue,Problème Matériel
+45,Material Request Item,Article de Demande de Matériel
+46,Material Request used to make this Stock Entry,Demande de Matériel utilisée pour réaliser cette Écriture de Stock
+47,Material Requests for which Supplier Quotations are not created,Demandes de Matériel dont les Devis Fournisseur ne sont pas créés
+48,material_request_item,article_demande_de_materiel
 49,Max 500 records at a time,Max 500 enregistrements à la fois
-50,Max Attachment Size (in MB),Taille de la pièce jointe Max (en Mo)
-51,Max attachment size is {0}MB,Taille maximum de pièce jointe est {0} MB
-52,Max file size allowed is {0}MB,Taille maximale de fichier autorisée est {0} MB
-53,Max working hours against Timesheet,heures Max travailler contre Timesheet
+50,Max Attachment Size (in MB),Taille Max de la Pièce Jointe (en Mo)
+51,Max attachment size is {0}MB,Taille max de pièce jointe est {0} Mo
+52,Max file size allowed is {0}MB,Taille max de fichier autorisée est {0} Mo
+53,Max working hours against Timesheet,Heures de Travail Max pour une Feuille de Temps
 54,Maximum Assessment Score,Score d'évaluation maximale
-55,Maximum Loan Amount,Montant maximum du prêt
-56,Mention if non-standard receivable account,Mentionner si créance non standard
-57,Mention if non-standard receivable account applicable,Mentionner si créance non standard applicable
-58,Mention transaction completion page URL,Mentionnez transaction page de fin URL
-59,Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,Fusion n'est possible entre le groupe -à- groupe ou Feuille nœud à nœud feuille
-60,"Merging is only possible if following properties are same in both records. Is Group, Root Type, Company","La fusion est seulement possible si les propriétés suivantes sont les mêmes dans les deux dossiers. Est Groupe, type de racine, Société"
-61,Message ID,ID de message
-62,Message to be displayed on successful completion,Message qui sera affiché sur la réussite
+55,Maximum Loan Amount,Montant Max du Prêt
+56,Mention if non-standard receivable account,Mentionner si le compte débiteur n'est pas standard
+57,Mention if non-standard receivable account applicable,Mentionner si le compte débiteur applicable n'est pas standard
+58,Mention transaction completion page URL,Mentionnez la page URL de fin de transaction
+59,Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,La combinaison n'est possible que de Groupe à Groupe ou Nœud-Feuille à Nœud-Feuille
+60,"Merging is only possible if following properties are same in both records. Is Group, Root Type, Company","La combinaison est possible seulement si les propriétés suivantes sont les mêmes dans les deux dossiers. Est Groupe, Type de Racine, Société"
+61,Message ID,ID de Message
+62,Message to be displayed on successful completion,Message qui sera affiché en cas de réussite
 63,Mileage,Kilométrage
-64,Min Score,Min Score
+64,Min Score,Score Minimal
 65,Mins to First Response,Minutes avant la Première Réponse
 66,Minutes to First Response for Issues,Minutes avant la Première Réponse aux Questions
 67,Minutes to First Response for Opportunity,Minutes avant la Première Réponse à une Opportunité
-68,Mode of Payment Account,Compte Mode de Paiement
-69,Models (building blocks) of the Application,Modèles (blocs de construction) de l'application
+68,Mode of Payment Account,Compte du Mode de Paiement
+69,Models (building blocks) of the Application,Modèles (blocs de construction) de l'Application
 70,Module Def,Module Def
-71,Module to Export,Module à exporter
-72,Monthly Distribution,Répartition mensuelle
-73,Monthly Repayment Amount,Remboursement mensuel Montant
+71,Module to Export,Module à Exporter
+72,Monthly Distribution,Répartition Mensuelle
+73,Monthly Repayment Amount,Montant du Remboursement Mensuel
 74,More articles on {0},Plus d'articles sur {0}
-75,move,Mouvement
+75,move,mouvement
 76,Move Item,Déplacer l'Article
-77,Moving Average,Moyenne mobile
-78,Moving Average Rate,Moving Prix moyen
+77,Moving Average,Moyenne Mobile
+78,Moving Average Rate,Taux Mobile Moyen
 79,MREQ-,MREQ-
-80,Multiple active Salary Structures found for employee {0} for the given dates,Structures salariales actifs multiples trouvés pour employé {0} pour les dates
-81,Multiple fiscal years exist for the date {0}. Please set company in Fiscal Year,exercices multiples existent pour la date {0}. S'il vous plaît définir entreprise dans l'exercice
-82,"Multiple Price Rules exists with same criteria, please resolve conflict by assigning priority. Price Rules: {0}","Règles multiples de prix qui est avec les mêmes critères, s'il vous plaît résoudre les conflits en attribuant des priorités. Règles de prix: {0}"
+80,Multiple active Salary Structures found for employee {0} for the given dates,Plusieurs Structures Salariales Actives trouvées pour l'employé {0} pour les dates données
+81,Multiple fiscal years exist for the date {0}. Please set company in Fiscal Year,Plusieurs Exercices existent pour la date {0}. Veuillez définir la société dans l'Exercice
+82,"Multiple Price Rules exists with same criteria, please resolve conflict by assigning priority. Price Rules: {0}","Plusieurs Règles de Prix existent avec les mêmes critères, veuillez résoudre les conflits en attribuant des priorités. Règles de Prix : {0}"
 83,MV,MV
 84,MyISAM,MyISAM
 85,magnet,aimant
 86,Main,Principal
-87,Main Section,Section principale
-88,Maintain same rate throughout purchase cycle,Maintenir le même taux tout au long du cycle d'achat
-89,Maintain Same Rate Throughout Sales Cycle,Maintenir le même taux tout au long du cycle de vente
+87,Main Section,Section Principale
+88,Maintain same rate throughout purchase cycle,Maintenir le même taux durant le cycle d'achat
+89,Maintain Same Rate Throughout Sales Cycle,Maintenir le Même Taux Durant le Cycle de Vente
 90,Maintain Stock,Maintenir Stock
 91,Maintenance,Entretien
-92,Maintenance Date,Date de l'entretien
-93,Maintenance Manager,Responsable Maintenance
-94,Maintenance Schedule,Calendrier d'entretien
-95,Maintenance Schedule {0} exists against {0},Programme d'entretien {0} existe contre {0}
-96,Maintenance Schedule {0} must be cancelled before cancelling this Sales Order,Programme d'entretien {0} doit être annulée avant d'annuler cette commande
-97,Maintenance Schedule Detail,Détail du programme d'entretien
-98,Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',Programme d'entretien n'est pas créer pour tous les articles. S'il vous plait clickez sur 'Créer un programme'
-99,Maintenance Schedules,Programmes d'entretien
-100,Maintenance Time,Temps de maintenance
-101,Maintenance Type,Type d'entretien
-102,Maintenance Visit,Visite de maintenance
-103,Maintenance Visit {0} must be cancelled before cancelling this Sales Order,La visite de maintenance {0} doit être annulée avant d'annuler cette commande
-104,Maintenance Visit Purpose,But de la visite d'entretien
+92,Maintenance Date,Date de l'Entretien
+93,Maintenance Manager,Responsable de Maintenance
+94,Maintenance Schedule,Échéancier d'Entretien
+95,Maintenance Schedule {0} exists against {0},L'Échéancier d'Entretien {0} existe pour {0}
+96,Maintenance Schedule {0} must be cancelled before cancelling this Sales Order,L'Échéancier d'Entretien {0} doit être annulé avant d'annuler cette Commande Client
+97,Maintenance Schedule Detail,Détails de l'Échéancier d'Entretien
+98,Maintenance Schedule is not generated for all the items. Please click on 'Generate Schedule',L'Échéancier d'Entretien n'est pas créé pour tous les articles. Veuillez clicker sur 'Créer un Échéancier'
+99,Maintenance Schedules,Échéanciers d'Entretien
+100,Maintenance Time,Temps d'Entretien
+101,Maintenance Type,Type d'Entretien
+102,Maintenance Visit,Visite d'Entretien
+103,Maintenance Visit {0} must be cancelled before cancelling this Sales Order,La Visite d'Entretien {0} doit être annulée avant d'annuler cette Commande Client
+104,Maintenance Visit Purpose,Objectif de la Visite d'Entretien
 105,Make,Faire
 106,Make a new {0},Faire un(e) nouveau(elle) {0}
-107,Make a new record,Faire un nouveau enregistrement
-108,Make Accounting Entry For Every Stock Movement,Faites une entrée comptabilité pour chaque mouvement du stock
-109,Make Default,Faire défaut
-110,Make Maintenance Visit,Effectuer une visite d'entretien
-111,Make Material Request,Effectuer une demande de matériel
-112,Make Payment,Effectuer un payement
-113,Make Payment Entry,Effectuer une entrée de paiement
-114,Make Purchase Order,Faire un bon de commande
-115,Make Quotation,Faire soumission
-116,Make Sales Invoice,Faire des factures de vente
-117,Make Variant,Faire Variant
-118,Making Stock Entries,Faire des entrées stock
+107,Make a new record,Faire un nouvel enregistrement
+108,Make Accounting Entry For Every Stock Movement,Faites une Écriture Comptable Pour Chaque Mouvement du Stock
+109,Make Default,Rendre Défaut
+110,Make Maintenance Visit,Effectuer une Visite d'Entretien
+111,Make Material Request,Faire une Demande de Matériel
+112,Make Payment,Faire un Paiement
+113,Make Payment Entry,Faire une Écriture de Paiement
+114,Make Purchase Order,Faire un Bon de Commande
+115,Make Quotation,Faire un Devis
+116,Make Sales Invoice,Faire des Factures de Vente
+117,Make Variant,Faire une Variante
+118,Making Stock Entries,Faire des Écritures de Stock
 119,Male,Masculin
-120,Manage Addresses,Gérer les adresses
+120,Manage Addresses,Gérer les Adresses
 121,Manage cost of operations,Gérer les coûts d'exploitation
-122,Manage Sales Partners.,Gérer les partenaires commerciaux.
-123,Manage Sales Person Tree.,Gérer l'arborescence des vendeurs
-124,Manage Territory Tree.,Gérer l’arborescence des régions.
+122,Manage Sales Partners.,Gérer les Partenaires Commerciaux.
+123,Manage Sales Person Tree.,Gérer l'Arborescence des Vendeurs.
+124,Manage Territory Tree.,Gérer l’Arborescence des Régions.
 125,Manage your orders,Gérer vos commandes
 126,Management,Gestion
 127,Manager,Directeur
-128,Managing Projects,Gestion de projets
-129,Managing Subcontracting,Gestion de la sous-traitance
+128,Managing Projects,Gestion de Projets
+129,Managing Subcontracting,Gestion de la Sous-traitance
 130,Mandatory,Obligatoire
-131,Mandatory fields required in {0},Les champs obligatoires requis : {0}
-132,Mandatory:,Obligatoire:
+131,Mandatory fields required in {0},Champs Obligatoires Requis : {0}
+132,Mandatory:,Obligatoire :
 133,Manual,Manuel
 134,Manufacture,Fabrication
-135,Manufactured Qty,Qté fabriquée
+135,Manufactured Qty,Qté Fabriquée
 136,Manufacturer,Fabricant
-137,Manufacturer Part Number,Numéro de pièce du fabricant
-138,Manufacturers used in Items,Fabricants utilisés dans les articles
+137,Manufacturer Part Number,Numéro de Pièce du Fabricant
+138,Manufacturers used in Items,Fabricants utilisés dans les Articles
 139,Manufacturing,Fabrication
 140,Manufacturing Manager,Responsable Fabrication
-141,Manufacturing User,Intervenant/Chargé de Fabrication
+141,Manufacturing User,Chargé de Fabrication
 142,Margin,Marge
-143,Margin Rate or Amount,Taux de marge ou montant
-144,Margin Type,Type de marge
-145,Marital Status,État civil
-146,Mark Absent,Marquer absent
-147,Mark Half Day,Marquer demi-journée
-148,Mark Present,Marquer présent
-149,Mark the field as Mandatory,Marquez le champ comme obligatoire
-150,Marked As Spam,Marquer comme spam
-151,Marked Attendance,Présence marquée
-152,Market Segment,Segment de marché
+143,Margin Rate or Amount,Taux de Marge ou Montant
+144,Margin Type,Type de Marge
+145,Marital Status,État Civil
+146,Mark Absent,Marquer Absent
+147,Mark Half Day,Marquer Demi-Journée
+148,Mark Present,Marquer Présent
+149,Mark the field as Mandatory,Marquez le champ comme Obligatoire
+150,Marked As Spam,Marquer comme Spam
+151,Marked Attendance,Présence Validée
+152,Market Segment,Part de Marché
 153,Marketing,Marketing
-154,Marketing Expenses,Dépenses de marketing
+154,Marketing Expenses,Dépenses de Marketing
 155,Married,Marié
-156,"Master data syncing, it might take some time","Données de base synchronisation, il peut prendre un certain temps"
+156,"Master data syncing, it might take some time","Données de base en cours de synchronisation, cela peut prendre un certain temps"
 157,Masters,Données de Base
 158,Material,Matériel
-159,Material Receipt,Réception matériel
-160,Material Request,Demande de matériel
+159,Material Receipt,Réception Matériel
+160,Material Request,Demande de Matériel
 161,Material Request {0} is cancelled or stopped,Demande de Matériel {0} est annulé ou arrêté
-162,Material Request Date,Date de demande de Matériel
-163,Material Request For Warehouse,Demande de matériel pour l'entrepôt
-164,Material Request of maximum {0} can be made for Item {1} against Sales Order {2},Demande de Matériel d'un maximum de {0} peut être faite pour l'article {1} par rapport au bon de commande {2}
-165,Material Request to Purchase Order,Demande de matériel au bon d'achat
-166,Material Request Type,Type de demande de matériel
-167,Material Requests,Les demandes de matériel
-168,Material Requests {0} created,Les demandes matérielles {0} créés
+162,Material Request Date,Date de la Demande de Matériel
+163,Material Request For Warehouse,Demande de Matériel Pour l'Entrepôt
+164,Material Request of maximum {0} can be made for Item {1} against Sales Order {2},Demande de Matériel d'un maximum de {0} peut être faite pour l'article {1} pour la Commande Client {2}
+165,Material Request to Purchase Order,Demande de Matériel au Bon de Commande
+166,Material Request Type,Type de Demande de Matériel
+167,Material Requests,Les Demandes de Matériel
+168,Material Requests {0} created,Les Demandes de Matérielles {0} créés
 169,Material Requirement,Exigence Matériel
-170,Material to Supplier,Matériel au fournisseur
-171,Material Transfer,Transfert de matériel
-172,Material Transfer for Manufacture,Transfert de matériel pour Fabrication
-173,Material Transferred for Manufacture,Matériel transféré pour Fabrication
-174,Material Transferred for Manufacturing,Matériel transféré pour la fabrication
+170,Material to Supplier,Matériel au Fournisseur
+171,Material Transfer,Transfert de Matériel
+172,Material Transfer for Manufacture,Transfert de Matériel pour la Fabrication
+173,Material Transferred for Manufacture,Matériel Transféré pour la Fabrication
+174,Material Transferred for Manufacturing,Matériel Transféré pour la Fabrication
 175,Materials,Matériels
-176,Materials Required (Exploded),Matériel nécessaire (éclatée)
-177,Max Attachments,Maximum pièces jointes
-178,Max Days Leave Allowed,Jours de congé Max. admis
-179,Max Discount (%),Réduction max (%)
-180,Max discount allowed for item: {0} is {1}%,Réduction maximum autorisée pour l'article: {0} est de {1} %
-181,Max Emails,E-mails Max
-182,Max Length,Longueur maximale
+176,Materials Required (Exploded),Matériel Requis (Éclaté)
+177,Max Attachments,Nombre Max de Pièces Jointes
+178,Max Days Leave Allowed,Nombre Max de Jours de Congé Autorisé
+179,Max Discount (%),Réduction Max (%)
+180,Max discount allowed for item: {0} is {1}%,Réduction max autorisée pour l'article : {0} est de {1} %
+181,Max Emails,Nombre Max d'E-mails
+182,Max Length,Longueur Max
 183,Max Qty,Qté Max
-184,Max Strength,Force maximale
-185,Max Users,Utilisateurs max.
-186,Max Value,Valeur max.
-187,Max width for type Currency is 100px in row {0},Largeur maximale pour le type devise est 100px dans la ligne {0}
-188,Max: {0},Max: {0}
+184,Max Strength,Force Max
+185,Max Users,Nombre Max d'Utilisateurs
+186,Max Value,Valeur Max
+187,Max width for type Currency is 100px in row {0},Largeur max pour le type Devise est 100px dans la ligne {0}
+188,Max: {0},Max : {0}
 189,Maximum {0} rows allowed,Maximum {0} lignes autorisés
-190,Maximum Attachment Limit for this record reached.,Taille maximale des pièces jointes pour cet enregistrement est atteint.
-191,Maximum Invoice Amount,Montant maximal de la facture
-192,Maxiumm discount for Item {0} is {1}%,Remise maximum pour l'article {0} est de {1}%
-193,"Meaning of Submit, Cancel, Amend","Signification de soumettre, annuler, de modifier"
+190,Maximum Attachment Limit for this record reached.,Taille maximale des Pièces Jointes pour cet enregistrement est atteint.
+191,Maximum Invoice Amount,Montant Maximal de la Facture
+192,Maxiumm discount for Item {0} is {1}%,Remise maximum pour l'article {0} est de {1} %
+193,"Meaning of Submit, Cancel, Amend","Signification de Soumettre, Annuler, Modifier"
 194,Medical,Médical
 195,Medium,Moyen
 196,Menu,Menu
 197,Merge with existing,Fusionner avec existant
 198,Message,Message
-199,Message Examples,Exemples de messages
-200,Message for Supplier,Message pour le fournisseur
+199,Message Examples,Exemples de Messages
+200,Message for Supplier,Message pour le Fournisseur
 201,Message from {0},Message de {0}
-202,Message Parameter,Paramètre message
-203,Message Sent,Message envoyé
+202,Message Parameter,Paramètre Message
+203,Message Sent,Message Envoyé
 204,Message to show,Message à afficher
 205,Messages,Messages
 206,Messages greater than 160 characters will be split into multiple messages,Message de plus de 160 caractères sera découpé en plusieurs
 207,Meter,Mètre
 208,Method,Méthode
-209,Middle Income,Revenu intermédiaire
-210,Middle Name,Deuxième nom
-211,Middle Name (Optional),Deuxième Prénom (optionnel)
-212,Min Order Qty,Qté min. de commande
-213,Min Qty,Qté min
-214,Min Qty can not be greater than Max Qty,Qté min. ne peut être supérieure à Qté max
-215,Minimum Invoice Amount,Montant minimum de facturation
-216,Minimum Order Qty,Qté minimum de commande
+209,Middle Income,Revenu Intermédiaire
+210,Middle Name,Deuxième Nom
+211,Middle Name (Optional),Deuxième Prénom (Optionnel)
+212,Min Order Qty,Qté de Commande Min
+213,Min Qty,Qté Min
+214,Min Qty can not be greater than Max Qty,Qté Min ne peut pas être supérieure à Qté Max
+215,Minimum Invoice Amount,Montant Minimum de Facturation
+216,Minimum Order Qty,Qté de Commande Minimum
 217,minus,moins
 218,minus-sign,signe moins
 219,Minute,Minute
-220,Miscellaneous Expenses,Dépenses diverses
-221,Missing Currency Exchange Rates for {0},Taux de change Manquant pour {0}
+220,Miscellaneous Expenses,Dépenses Diverses
+221,Missing Currency Exchange Rates for {0},Taux de Change Manquant pour {0}
 222,Missing parameters for login,Paramètres manquants pour la connexion
-223,Missing Values Required,Valeurs manquantes obligatoires
+223,Missing Values Required,Valeurs Manquantes Requises
 224,mm-dd-yyyy,mm-jj-aaaa
-225,mm/dd/yyyy,jj/mm/aaaa
-226,Mobile No,N° mobile
-227,Mobile No.,N° mobile.
-228,Mobile Number,Numéro de portable
-229,Mode of Payment,Mode de paiement
+225,mm/dd/yyyy,mm/jj/aaaa
+226,Mobile No,N° Mobile
+227,Mobile No.,N° Mobile.
+228,Mobile Number,Numéro de Mobile
+229,Mode of Payment,Mode de Paiement
 230,Model,Modèle
 231,Modern,Moderne
-232,Modified By,Modifié par
+232,Modified By,Modifié Par
 233,Module,Module
-234,Module {service} not found,Module {Service} introuvable
-235,Module Name,Nom du module
+234,Module {service} not found,Module {service} introuvable
+235,Module Name,Nom du Module
 236,module name...,Nom du module ...
-237,Module Not Found,Module introuvable
+237,Module Not Found,Module Introuvable
 238,Modules,Modules
 239,Modules Access,Accès aux Modules
 240,Modules HTML,Modules HTML
-241,Modules Setup,Modules d'installation
+241,Modules Setup,Modules d'Installation
 242,Monday,Lundi
 243,Monochrome,Monochrome
 244,Monospace,Monospace
 245,Month,Mois
 246,Monthly,Mensuel
-247,Monthly Attendance Sheet,Feuille de présence mensuel
-248,Monthly Distribution Percentage,Pourcentage répartition mensuelle
-249,Monthly Distribution Percentages,Pourcentages répartition mensuelle
-250,Monthly salary statement.,Fiche de salaire mensuel.
+247,Monthly Attendance Sheet,Feuille de Présence Mensuel
+248,Monthly Distribution Percentage,Pourcentage de Répartition Mensuelle
+249,Monthly Distribution Percentages,Pourcentages de Répartition Mensuelle
+250,Monthly salary statement.,Fiche de paie mensuel.
 251,More,Plus
 252,More content for the bottom of the page.,Plus de contenu pour le bas de la page.
-253,More Details,Plus de détails
-254,More Information,Informations complémentaires
+253,More Details,Plus de Détails
+254,More Information,Informations Complémentaires
 255,More...,Plus...
-256,Most Used,Plus utilisé
+256,Most Used,Plus Utilisé
 257,Mother,Mère
 258,Motion Picture & Video,Cinéma & Vidéo
 259,Mr,M.
 260,Ms,Mme
-261,Multi Currency,Multi-devise
-262,Multiple Item prices.,Prix articles multiples.
-263,Multiple root nodes not allowed.,Plusieurs nœuds racines pas autorisé .
+261,Multi Currency,Multi-Devise
+262,Multiple Item prices.,Plusieurs Prix d'Articles.
+263,Multiple root nodes not allowed.,Plusieurs nœuds racines non autorisé.
 264,music,musique
-265,"Must be of type ""Attach Image""","Doit être de type ""Joindre l'image"""
-266,Must be Whole Number,Doit être un nombre entier
+265,"Must be of type ""Attach Image""","Doit être de type ""Joindre l'Image"""
+266,Must be Whole Number,Doit être un Nombre Entier
 267,Must have report permission to access this report.,Doit avoir l'autorisation d'accéder aux rapport dont celui-ci.
-268,Must specify a Query to run,Vous devez spécifier une requête à exécuter
-269,Mute Email,Email silencieux
-270,Mute Sounds,Désactiver les sons
+268,Must specify a Query to run,Vous devez spécifier une Requête à exécuter
+269,Mute Email,Email Silencieux
+270,Mute Sounds,Désactiver les Sons
 271,My Account,Mon Compte
-272,My Cart,Mon panier
-273,My Settings,Mes paramètres
-274,Monthly Salary Register,Registre mensuel des salaires
+272,My Cart,Mon Panier
+273,My Settings,Mes Paramètres
+274,Monthly Salary Register,Registre Mensuel des Salaires
