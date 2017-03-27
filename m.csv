@@ -10,8 +10,7 @@
 8,Mode of payment is required to make a payment,Mode de paiement est requis pour effectuer un paiement
 9,Monthly Repayment Amount cannot be greater than Loan Amount,Montant du Remboursement Mensuel ne peut pas être supérieur au Montant du Prêt
 10,Maintenance Schedule Item,Article de Calendrier d'Entretien
-11,Maintenance start date can not be before delivery date for Serial No {0},
-La date de début d'entretien ne peut pas être antérieure à la date de livraison pour le N° de Série {0}
+11,Maintenance start date can not be before delivery date for Serial No {0},La date de début d'entretien ne peut pas être antérieure à la date de livraison pour le N° de Série {0}
 12,Maintenance Status,Statut d'Entretien
 13,Maintenance User,Maintenance Utilisateur
 14,Major/Optional Subjects,Sujets Principaux / En Option
