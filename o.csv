@@ -18,8 +18,7 @@
 16,On Leave,En Congé
 17,On Previous Row Amount,Le Montant de la Rangée Précédente
 18,On Previous Row Total,Le Total de la Rangée Précédente
-19,"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).",
-"Une fois que vous avez défini ceci, les utilisateurs ne pourront accèder qu'aux documents (e.g. Article de Blog) où le lien existe (e.g. Blogger) ."
+19,"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Une fois que vous avez défini ceci, les utilisateurs ne pourront accèder qu'aux documents (e.g. Article de Blog) où le lien existe (e.g. Blogger) ."
 20,Only 200 inserts allowed in one request,Seuls 200 inserts autorisés dans une requête
 21,Only Administrator can delete Email Queue,Seul l'Administrateur peut supprimer la File d'Attente d' Emails
 22,Only allowed {0} rows in one import,Seules {0} lignes sont autorisées lors d'un import
