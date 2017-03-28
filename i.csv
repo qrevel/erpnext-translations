@@ -9,7 +9,7 @@
 7,ID (name) of the entity whose property is to be set,ID (nom) de l'entité dont la propriété doit être définie
 8,ID field is required to edit values using Report. Please select the ID field using the Column Picker,Champ ID est nécessaire pour modifier les valeurs à l'aide de Rapport. Veuillez sélectionner le champ ID à l'aide du Sélecteur de Colonne
 9,"If a Role does not have access at Level 0, then higher levels are meaningless.","Si un Rôle n'a pas accès au niveau 0, les niveaux plus élevés n'ont pas de sens."
-10,If Checked workflow status will not override status in list view,Si Cochée, le statut du flux de travail ne remplacera pas le statut de la vue en liste
+10,If Checked workflow status will not override status in list view,Si Cochée le statut du flux de travail ne remplacera pas le statut de la vue en liste
 11,"If checked, all the children of each production item will be included in the Material Requests.","Si cochée, tous les enfants de chaque article de production seront inclus dans les Demandes de Matériel."
 12,"If checked, only Purchase material requests for final raw materials will be included in the Material Requests. Otherwise, Material Requests for parent items will be created","Si cochée, seulement des Demandes d'Achat de Matériel pour les matières premières finales seront incluses dans les Demandes de Matériel. Dans le cas contraire, les Demandes de Matériel pour les articles parents seront créées"
 13,"If checked, raw materials for items that are sub-contracted will be included in the Material Requests","Si cochée, les matières premières pour les articles qui sont sous-traités seront inclus dans les Demandes de Matériel"
@@ -167,8 +167,7 @@
 165,Item-wise Sales History,Historique des Ventes par Article
 166,Item-wise Sales Register,Registre des Ventes par Article
 167,Item: {0} does not exist in the system,Article : {0} n'existe pas dans le système
-168,"Item: {0} managed batch-wise, can not be reconciled using Stock Reconciliation, instead use Stock Entry",
-"Article : {0} géré par lot, ne peut être réconcilié en utilisant la Réconciliation de Stock, utiliser à la place une Écriture de Stock"
+168,"Item: {0} managed batch-wise, can not be reconciled using Stock Reconciliation, instead use Stock Entry","Article : {0} géré par lot, ne peut être réconcilié en utilisant la Réconciliation de Stock, utiliser à la place une Écriture de Stock"
 169,Items To Be Requested,Articles À Demander
 170,Items with higher weightage will be shown higher,Articles avec poids supérieur seront affichés en haut
 171,Itemwise Recommended Reorder Level,Renouvellement Recommandé par Article
