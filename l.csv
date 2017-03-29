@@ -2,7 +2,7 @@
 0,LDAP Email Field,Champ Email LDAP
 1,LDAP First Name Field,Champ Prénom LDAP
 2,"Leads help you get business, add all your contacts and more as your leads","Les prospects vous aident à obtenir des contrats, ajoutez tous vos contacts et plus dans votre liste de prospects"
-3,Leave Encashment,Congés Accumulés
+3,Leave Encashment,Congés Accumulés à Encaisser
 4,Login with LDAP,Se connecter avec LDAP
 5,Looks like something is wrong with this site's Razorpay configuration. No payment has been made.,Il semblerait qu’il y ait un problème avec la configuration Razorpay de ce site. Aucun paiement n’a été fait.
 6,LAL/,LAL /
@@ -24,8 +24,8 @@
 22,Lead Time Date,Date du Délai
 23,Lead Time Days,Jours de Délai
 24,LEAD-,LEAD-
-25,Leave Allocation Tool,Outil de Répartition des Absences
-26,Leave approver must be one of {0},Approbateur d'absence doit être un de {0}
+25,Leave Allocation Tool,Outil de Répartition des Congés
+26,Leave approver must be one of {0},Approbateur de congés doit être un de {0}
 27,Leave Balance Before Application,Solde de Congés Avant Demande
 28,Leave blank if considered for all branches,Laisser vide pour toutes les branches
 29,Leave blank if considered for all departments,Laisser vide pour tous les départements
@@ -44,21 +44,21 @@
 42,Leave of type {0} cannot be longer than {1},Les Congés de type {0} ne peuvent pas être plus long que {1}
 43,Leave Type {0} cannot be allocated since it is leave without pay,"Le Type de Congé {0} ne peut pas être alloué, car c’est un congé sans solde"
 44,Leave Type {0} cannot be carry-forwarded,Le Type de Congé {0} ne peut pas être reporté
-45,Leave Without Pay does not match with approved Leave Application records,Congé sans solde ne correspond pas aux Feuilles de Demande de Congé Approuvés
+45,Leave Without Pay does not match with approved Leave Application records,Congé sans solde ne correspond pas aux Feuilles de Demandes de Congé Approuvées
 46,Leaving Certificate Number,Numéro de Certificat
 47,Legal Entity / Subsidiary with a separate Chart of Accounts belonging to the Organization.,Entité Juridique / Filiale avec un Plan de Comptes différent appartenant à l'Organisation.
-48,Let's avoid repeated words and characters,Evitons les mots et les caractères répétés
-49,"Level 0 is for document level permissions, higher levels for field level permissions.","Le niveau 0 correspond aux autorisations de niveau document, les niveaux plus élevés aux autorisations au niveau des champs."
+48,Let's avoid repeated words and characters,Évitons les mots et les caractères répétés
+49,"Level 0 is for document level permissions, higher levels for field level permissions.","Le niveau 0 correspond aux autorisations au niveau des document, les niveaux plus élevés aux autorisations au niveau des champs."
 50,Lft,Lft
 51,Limit Crossed,Limite Dépassée
 52,Limit Percent,Pourcentage Limite
 53,Line spacing for amount in words,Espacement des lignes pour le montant en lettres
-54,"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Lien vers la page d'accueil du site . Liens standard (index, connexion, produits, blog, à propos, contact)"
+54,"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","Lien vers la page d'accueil du site. Liens standard (index, connexion, produits, blog, à propos, contact)"
 55,Link to the page you want to open. Leave blank if you want to make it a group parent.,Lien vers la page que vous souhaitez ouvrir. Laissez ce champ vide si vous voulez faire un parent de groupe.
 56,"List as [{""label"": _(""Jobs""), ""route"":""jobs""}]","Liste comme [{ ""label"": _ ( ""Jobs""), ""route"": ""emplois""}]"
-57,"List your tax heads (e.g. VAT, Customs etc; they should have unique names) and their standard rates. This will create a standard template, which you can edit and add more later.","Inscrivez vos titres d'impôt (par exemple, TVA, douanes, etc., ils doivent avoir des noms uniques) et leurs taux standard. Cela va créer un modèle standard, que vous pouvez modifier et compléter plus tard."
+57,"List your tax heads (e.g. VAT, Customs etc; they should have unique names) and their standard rates. This will create a standard template, which you can edit and add more later.","Inscrivez vos titres d'impôts (par exemple, TVA, douanes, etc., ils doivent avoir des noms uniques) et leurs taux standards. Cela va créer un modèle standard, que vous pouvez modifier et compléter plus tard."
 58,list-alt,liste-alt
-59,Loan Amount,Montant du prêt
+59,Loan Amount,Montant du Prêt
 60,Loan Amount cannot exceed Maximum Loan Amount of {0},Le Montant du prêt ne peut pas dépasser le Montant Maximal du Prêt de {0}
 61,Loan Details,Détails du Prêt
 62,Loan Info,Infos sur le Prêt
@@ -72,14 +72,14 @@
 70,Loans and Advances (Assets),Prêts et Avances (Actif)
 71,"LocalStorage is full , did not save","Le Stockage Local est plein, l’enregistrement n’a pas fonctionné"
 72,Log of error during requests.,Journal d'erreur lors des requêtes.
-73,Log of error on automated events (scheduler).,Registre d'erreur sur les événements automatiques (scheduler ) .
+73,Log of error on automated events (scheduler).,Registre d'erreur sur les événements automatiques (planificateur) .
 74,Log of Scheduler Errors,Journal des Erreurs du Planificateur
 75,Logged in as Guest or Administrator,Connecté en tant qu'Invité ou Administrateur
 76,Logged Out,Déconnecté
-77,Logs for maintaining sms delivery status,Logs pour maintenir le statut de livraison des sms
-78,Looks like someone sent you to an incomplete URL. Please ask them to look into it.,On dirait que quelqu'un vous a envoyé vers URL incomplète. S'il vous plaît demandez leur d’analyser l’erreur.
-79,Looks like something is wrong with this site's Paypal configuration. Don't worry! No payment has been made from your Paypal account.,On dirait que quelque chose ne va pas avec la configuration Paypal de ce site. Ne vous inquiétez pas! Aucun paiement n'a été effectué à partir de votre compte Paypal.
-80,"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","On dirait que quelque chose s’est mal déroulé lors de la transaction. Puisque nous avons pas confirmé le paiement, PayPal vous remboursera automatiquement ce montant. Si ce n’est pas le cas, envoyez-nous un courriel et mentionnez l'ID de Corrélation: {0}."
+77,Logs for maintaining sms delivery status,Journaux pour maintenir le statut de livraison des sms
+78,Looks like someone sent you to an incomplete URL. Please ask them to look into it.,On dirait que quelqu'un vous a envoyé vers URL incomplète. Veuillez leur demander d’analyser l’erreur.
+79,Looks like something is wrong with this site's Paypal configuration. Don't worry! No payment has been made from your Paypal account.,On dirait que quelque chose ne va pas avec la configuration Paypal de ce site. Ne vous inquiétez pas ! Aucun paiement n'a été effectué à partir de votre compte Paypal.
+80,"Looks like something went wrong during the transaction. Since we haven't confirmed the payment, Paypal will automatically refund you this amount. If it doesn't, please send us an email and mention the Correlation ID: {0}.","On dirait que quelque chose s’est mal déroulé lors de la transaction. Puisque nous avons pas confirmé le paiement, PayPal vous remboursera automatiquement ce montant. Si ce n’est pas le cas, envoyez-nous un email et mentionnez l'ID de Corrélation: {0}."
 81,Label,Étiquette
 82,Label and Type,Étiquette et Type
 83,Label Help,Aide d’Étiquette
@@ -112,7 +112,7 @@
 110,Lead Name,Nom du Prospect
 111,Lead Owner,Responsable du Prospect
 112,Lead Time in days,Délai en Jours
-113,Lead to Quotation,Du Prospect à la Proposition
+113,Lead to Quotation,Du Prospect au Devis
 114,Lead Type,Type de Prospect
 115,leaf,feuille
 116,Learn,Apprendre
@@ -120,9 +120,9 @@
 118,Leave Allocation,Allocation de Congés
 119,Leave and Attendance,Congés et Présences
 120,Leave Application,Demande de Congés
-121,Leave Approver,Approbateur d'Absence
-122,Leave Approver Name,Nom de l'Approbateur d'Absence
-123,Leave Approvers,Approbateurs d'Absence
+121,Leave Approver,Approbateur de Congés
+122,Leave Approver Name,Nom de l'Approbateur de Congés
+123,Leave Approvers,Approbateurs de Congés
 124,Leave blank for new records,Laissez ce champ vide pour les nouveaux enregistrements
 125,Leave Blocked,Laisser Verrouillé
 126,"Leave cannot be allocated before {0}, as leave balance has already been carry-forwarded in the future leave allocation record {1}","Congé ne peut être alloué avant le {0}, car le solde de congés a déjà été reporté dans la feuille d'allocation de congés futurs {1}"
@@ -155,7 +155,7 @@
 153,lightblue,bleu clair
 154,Like,Comme
 155,Liked,Aimé
-156,Liked By,Aimé par
+156,Liked By,Aimé Par
 157,Liked by {0},Aimé par {0}
 158,Likes,Aime
 159,Limit,Limite
@@ -174,7 +174,7 @@
 172,List a few of your customers. They could be organizations or individuals.,Listez quelques-uns de vos clients. Ils peuvent être des entreprise ou des individus.
 173,List a few of your suppliers. They could be organizations or individuals.,Listez quelques-uns de vos fournisseurs. Ils peuvent être des entreprises ou des individus.
 174,List items that form the package.,Liste des articles qui composent le paquet.
-175,List of backups available for download,Liste des sauvegardes disponibles pour le téléchargement
+175,List of backups available for download,Liste des sauvegardes disponibles au téléchargement
 176,List of patches executed,Liste des correctifs exécuté
 177,List of themes for Website.,Liste des thèmes pour le site Web.
 178,List this Item in multiple groups on the website.,Liste cet article dans plusieurs groupes sur le site.
@@ -200,10 +200,10 @@
 198,Login to comment,Connectez-vous pour commenter
 199,Logo,Logo
 200,Logout,Déconnexion
-201,Logs,Logs
+201,Logs,Journaux
 202,Long Text,Texte Long
 203,Lost,Perdu
-204,Lost Quotation,Proposition Perdue
+204,Lost Quotation,Devis Perdue
 205,Lost Reason,Raison de la Perte
 206,Low,Bas
 207,Lower Income,Revenu bas
