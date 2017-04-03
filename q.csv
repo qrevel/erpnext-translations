@@ -1,0 +1,64 @@
+,English,Français
+0,Queued for backup and removing {0},Mis en File d'Attente pour la sauvegarde et la suppression {0}
+1,"Quotations are proposals, bids you have sent to your customers","Les devis sont des propositions, offres que vous avez envoyées à vos clients"
+2,QI-,QI-
+3,QTN-,QTN-
+4,Quantity of item obtained after manufacturing / repacking from given quantities of raw materials,Quantité de produit obtenue après fabrication / reconditionnement des quantités données de matières premières
+5,Quarter Day,Quart de Journée
+6,query-report,rapport-requête
+7,Queued for backup. It may take a few minutes to an hour.,Mis en File d'Attente pour la sauvegarde. Cela peut prendre de quelques minutes jusqu'à une heure.
+8,Queued for install,Mis en File d'Attente pour l'installation
+9,Quotation {0} not of type {1},Le devis {0} n'est pas du type {1}
+10,Quotation Lost Reason,Raison de la Perte du Devis
+11,Quotation Trends,Tendances des Devis
+12,Quotations:,Devis :
+13,Quoted Item Comparison,Comparaison d'Article Soumis
+14,qrcode,qrcode
+15,Qty,Qté
+16,Qty as per Stock UOM,Qté par UDM du Stock
+17,Qty Consumed Per Unit,Qté Consommée Par Unité
+18,Qty for {0},Qté pour {0}
+19,Qty to Deliver,Quantité à Livrer
+20,Qty To Manufacture,Quantité À Fabriquer
+21,Qty to Order,Quantité à Commander
+22,Qty to Receive,Quantité à Recevoir
+23,Qty to Transfer,Qté à Transférer
+24,Qualification,Qualification
+25,Quality Inspection,Inspection de la Qualité
+26,Quality Inspection Reading,Libellé du Contrôle de Qualité
+27,Quality Inspection required for Item {0},Inspection de la Qualité requise pour l'Article {0}
+28,Quality Management,Gestion de la Qualité
+29,Quality Manager,Responsable Qualité
+30,Quality Parameters,Paramètres de Qualité
+31,Quantity,Quantité
+32,Quantity and Rate,Quantité et Taux
+33,Quantity and Warehouse,Quantité et Entrepôt
+34,Quantity cannot be a fraction in row {0},La quantité ne peut pas être une fraction à la ligne {0}
+35,Quantity Difference,Différence de Quantité
+36,Quantity for Item {0} must be less than {1},Quantité de l'article {0} doit être inférieure à {1}
+37,Quantity in row {0} ({1}) must be same as manufactured quantity {2},Quantité à la ligne {0} ({1}) doit être égale a la quantité fabriquée {2}
+38,Quantity must be less than or equal to {0},La quantité doit être inférieure ou égale à {0}
+39,Quantity must not be more than {0},Quantité ne doit pas être plus de {0}
+40,Quantity required for Item {0} in row {1},Quantité requise pour l'Article {0} à la ligne {1}
+41,Quantity should be greater than 0,Quantité doit être supérieure à 0
+42,Quantity to Manufacture must be greater than 0.,Quantité à Fabriquer doit être supérieur à 0.
+43,Quarter,Trimestre
+44,Quarterly,Trimestriel
+45,Query,Requête
+46,Query must be a SELECT,Requête doit être un SELECT
+47,Query Options,Options de Requête
+48,Query Report,Rapport de Requête
+49,question-sign,point-interrogation
+50,Queued,File d'Attente
+51,Quick Entry,Écriture Rapide
+52,Quick Help for Setting Permissions,Aide Rapide pour Définir les Autorisations
+53,Quick Journal Entry,Écriture Rapide dans le Journal
+54,Quotation,Devis
+55,Quotation {0} is cancelled,Devis {0} est annulée
+56,Quotation Item,Article du Devis
+57,Quotation Message,Message du Devis
+58,Quotation Series,Séries de Devis
+59,Quotation To,Devis Pour
+60,Quotations,Devis
+61,Quotations received from Suppliers.,Devis reçus des Fournisseurs.
+62,Quotes to Leads or Customers.,Devis de Prospects ou Clients.
