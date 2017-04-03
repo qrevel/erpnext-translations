@@ -4,7 +4,7 @@
 2,QI-,QI-
 3,QTN-,QTN-
 4,Quantity of item obtained after manufacturing / repacking from given quantities of raw materials,Quantité de produit obtenue après fabrication / reconditionnement des quantités données de matières premières
-5,Quarter Day,Quart du Jour
+5,Quarter Day,Quart de Journée
 6,query-report,rapport-requête
 7,Queued for backup. It may take a few minutes to an hour.,Mis en File d'Attente pour la sauvegarde. Cela peut prendre de quelques minutes jusqu'à une heure.
 8,Queued for install,Mis en File d'Attente pour l'installation
@@ -51,7 +51,7 @@
 49,question-sign,point-interrogation
 50,Queued,File d'Attente
 51,Quick Entry,Écriture Rapide
-52,Quick Help for Setting Permissions,Aide Rapide pour Définition les Autorisations
+52,Quick Help for Setting Permissions,Aide Rapide pour Définir les Autorisations
 53,Quick Journal Entry,Écriture Rapide dans le Journal
 54,Quotation,Devis
 55,Quotation {0} is cancelled,Devis {0} est annulée
