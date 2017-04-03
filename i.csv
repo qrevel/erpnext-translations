@@ -1,6 +1,6 @@
 ,English,Français
 0,I found these:,J'ai trouvé ceci :
-1,Illegal Access Token. Please try again,Jeton d'Accès Invalide
+1,Illegal Access Token. Please try again,Jeton d'Accès Invalide. Veuillez réessayer
 2,In Grid View,Vue en Grille
 3,Invalid Login. Try again.,Login Invalide. Réessayer.
 4,Invalid Password,Mot de Passe Invalide
@@ -15,7 +15,7 @@
 13,"If checked, raw materials for items that are sub-contracted will be included in the Material Requests","Si cochée, les matières premières pour les articles qui sont sous-traités seront inclus dans les Demandes de Matériel"
 14,"If checked, the Home page will be the default Item Group for the website","Si cochée, la page d'Accueil pour le site sera le Groupe d'Article par défaut"
 15,"If checked, the tax amount will be considered as already included in the Print Rate / Print Amount","Si cochée, le montant de la taxe sera considéré comme déjà inclus dans le Taux d'Impression / Prix d'Impression"
-16,"If checked, Total no. of Working Days will include holidays, and this will reduce the value of Salary Per Day","Si cochée, Le nombre total de Jours Ouvrés comprend les vacances, ce qui réduira la valeur du Salaire Par Jour"
+16,"If checked, Total no. of Working Days will include holidays, and this will reduce the value of Salary Per Day","Si cochée, Le nombre total de Jours Ouvrés comprenda les vacances, ce qui réduira la valeur du Salaire Par Jour"
 17,"If checked, users will not see the Confirm Access dialog.","Si cochée, les utilisateurs ne verront pas la boîte de dialogue de Confirmation d'Accès."
 18,"If checked, Will include non-stock items in the Material Requests.","Si cochée, comprendra des articles hors stock dans les Demandes de Matériel."
 19,"If disabled, this role will be removed from all users.","Si désactivé, ce rôle sera retiré de tous les utilisateurs."
@@ -27,13 +27,13 @@
 25,"If selected Pricing Rule is made for 'Price', it will overwrite Price List. Pricing Rule price is the final price, so no further discount should be applied. Hence, in transactions like Sales Order, Purchase Order etc, it will be fetched in 'Rate' field, rather than 'Price List Rate' field.","Si la Règle de Prix sélectionnée est faite pour 'Prix', elle écrasera la Liste de Prix. La prix de la Règle de Prix est le prix définitif, donc aucune réduction supplémentaire ne devrait être appliquée. Ainsi, dans les transactions comme des Commandes Clients, Bon de Commande, etc., elle sera récupérée dans le champ 'Taux', plutôt que champ 'Taux de la Liste de Prix'."
 26,"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","Si l'utilisateur a un rôle quelconque vérifié, il devient un ""Utilisateur Système"". L'""Utilisateur Système"" a accès au bureau"
 27,"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","Si ces instructions n'étaient pas utiles, veuillez ajouter vos suggestions dans les Questions GitHub."
-28,"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.","Si deux ou plusieurs Règles de Prix sont trouvées sur la base des conditions ci-dessus, une Priorité est appliquée. La Priorité est un nombre compris entre 0 à 20 avec une valeur par défaut de zéro (vide). Les nombres les plus élévés sont prioritaires s'il y a plusieurs Règles de Prix avec mêmes conditions."
+28,"If two or more Pricing Rules are found based on the above conditions, Priority is applied. Priority is a number between 0 to 20 while default value is zero (blank). Higher number means it will take precedence if there are multiple Pricing Rules with same conditions.","Si deux Règles de Prix ou plus sont trouvées sur la base des conditions ci-dessus, une Priorité est appliquée. La Priorité est un nombre compris entre 0 à 20 avec une valeur par défaut de zéro (vide). Les nombres les plus élévés sont prioritaires s'il y a plusieurs Règles de Prix avec mêmes conditions."
 29,"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","Si vous mettez à jour, veuillez sélectionner ""Écraser"" sinon les lignes déjà existantes ne seront pas supprimées."
 30,"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.","Si vous téléchargez de nouveaux rapports, ""Nommer Séries"" devient obligatoire, si présent."
-31,"If you have any questions, please get back to us.","Si vous avez des questions, veuillez revenir à nous."
+31,"If you have any questions, please get back to us.","Si vous avez des questions, veuillez revenir vers nous."
 32,"If you have created a standard template in Sales Taxes and Charges Template, select one and click on the button below.","Si vous avez créé un modèle standard dans Modèle de Taxes et Frais de Vente, sélectionnez-en un et cliquez sur le bouton ci-dessous."
 33,"If you set this, this Item will come in a drop-down under the selected parent.","Si vous définissez ceci, cet Article sera dans un menu déroulant sous le parent sélectionné."
-34,"If your data is in HTML, please copy paste the exact HTML code with the tags.","Si vos données sont en HTML, veuillez copier coller le code HTML exact avec les balises."
+34,"If your data is in HTML, please copy paste the exact HTML code with the tags.","Si vos données sont en HTML, veuillez copier-coller le code HTML exact avec les balises."
 35,Image field must be a valid fieldname,Champ de l'image doit être un champ valide
 36,Image field must be of type Attach Image,Champ de l'image doit être du type Image Jointe
 37,Implicit,Implicite
@@ -53,7 +53,7 @@
 51,Including items for sub assemblies,Incluant les articles pour des sous-ensembles
 52,Incoming quality inspection.,Contrôle de qualité entrant.
 53,Incoming Rate,Taux d'Entrée
-54,Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,Nombre incorrect de Écritures Grand Livre trouvées. Vous avez peut-être choisi le mauvais Compte dans la transaction.
+54,Incorrect number of General Ledger Entries found. You might have selected a wrong Account in the transaction.,Nombre incorrect d'Écritures Grand Livre trouvées. Vous avez peut-être choisi le mauvais Compte dans la transaction.
 55,Incorrect UserId or Password,UserId ou Mot de Passe incorrect
 56,Incorrect value in row {0}: {1} must be {2} {3},Valeur incorrecte à la ligne {0} : {1} doit être {2} {3}
 57,Incorrect value: {0} must be {1} {2},Valeur incorrecte : {0} doit être {1} {2}
@@ -63,7 +63,7 @@
 61,Indicates that the package is a part of this delivery (Only Draft),Indique que le paquet est une partie de cette livraison (Brouillons Seulement)
 62,info-sign,info-signe
 63,InnoDB,InnoDB
-64,INS/,INS /
+64,INS/,INS/
 65,Insert After cannot be set as {0},Insérer Après ne peut être défini en tant que {0}
 66,"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","Insérer Après le champ '{0}' mentionné dans un Champ Personnalisé '{1}', avec l'étiquette '{2}', n'existe pas"
 67,Inspection,Inspection
@@ -101,7 +101,7 @@
 99,Invalid Request,Requête Invalide
 100,Invalid Token,Jeton Invalide
 101,Inverse,Inverse
-102,Investment Banking,Banques d'Investissement
+102,Investment Banking,Banque d'Investissement
 103,Invite as User,Inviter en tant qu'Utilisateur
 104,Invoiced Amount (Exculsive Tax),Montant Facturé (Hors Taxes)
 105,Is Account Payable,Est Compte Créditeur
@@ -120,7 +120,7 @@
 118,Is Primary Address,Est Adresse Principale
 119,Is Private,Est Privé
 120,Is Purchase Item,Est Article d'Achat
-121,Is Return,Est de Retour
+121,Is Return,Est un Retour
 122,Is Sent,Est Envoyé
 123,Is Standard,Est Standard
 124,Is Submittable,Est Soumissible
@@ -178,8 +178,8 @@
 176,Idx,Idx
 177,If {0} is permitted,Si {0} est autorisé
 178,"If checked, all other workflows become inactive.","Si coché, tous les autres flux de production deviennent inactifs."
-179,"If disable, 'In Words' field will not be visible in any transaction","Si coché, le champ 'En Lettre' ne sera plus visible dans toutes les transactions"
-180,"If disable, 'Rounded Total' field will not be visible in any transaction","Si coché, le champ 'Total Arrondi' ne sera pas visible dans toutes les transactions."
+179,"If disable, 'In Words' field will not be visible in any transaction","Si coché, le champ 'En Lettre' ne sera visible dans aucune transaction"
+180,"If disable, 'Rounded Total' field will not be visible in any transaction","Si coché, le champ 'Total Arrondi' ne sera visible dans aucune transaction."
 181,If Document Type,Si Type de Document
 182,"If image is selected, color will be ignored.","Si l'image est sélectionnée, la couleur sera ignorée."
 183,If Income or Expense,Si Produits ou Charges
@@ -191,7 +191,7 @@
 189,If user is the owner,Si l'utilisateur est le propriétaire
 190,"If you are uploading new records, leave the ""name"" (ID) column blank.","Si vous chargez de nouveaux enregistrements, laissez la colonne ""nom"" (ID) vide."
 191,"If you think this is unauthorized, please change the Administrator password.","Si vous pensez que cela n'est pas autorisé, veuillez changer le mot de passe Administrateur."
-192,Ignore attachments over this size,Ignorer les pièces jointes supérireure à cette taille
+192,Ignore attachments over this size,Ignorer les pièces jointes supérireures à cette taille
 193,Ignore encoding errors.,Ignorer les erreurs d'encodage.
 194,Ignore Pricing Rule,Ignorez Règle de Prix
 195,Ignore User Permissions,Ignorer les Autorisations des Utilisateurs
@@ -408,3 +408,16 @@
 406,Icon,Icône
 407,If different than customer address,Si différente de l'adresse du client
 408,Ignore,Ignorer
+409,"Image Field (Must of type ""Attach Image"")","Champ Image (Doit être du type ""Joindre Image"")"
+410,Include Payment (POS),Inclure Paiement (PDV)
+411,Include Search in Top Bar, Inclure la Recherche dans la Bar du Haut
+412,Initial Sync Count,Nombre de Synchronisation Initiale
+413,Is Completed,Est Complété
+414,Is Feedback request triggered manually ?,La demande de Retour d'Expérience est-elle déclenchée manuellement ?
+415,Is Manual,Est Manuel
+416,Is Published Field,Est un Champ Publié
+417,Is Published Field must be a valid fielname,Le Champ Publié doit-il être un nom de champ valide
+418,Is Spam,Est Spam
+419,Item Cart,Article du Panier
+420,Item Manufacturer,Fabricant d'Article
+421,Item Manufacturers,Fabricants d'Article
