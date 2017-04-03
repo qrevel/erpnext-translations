@@ -3,7 +3,7 @@
 1,"Make ""name"" searchable in Global Search","Rendre ""nom"" cherchable dans la Recherche Globale"
 2,Make Student,Créer un Étudiant
 3,Make User,Créer un Utilisateur
-4,Mark as Present,Marqué comme Présent
+4,Mark as Present,Marquer comme Présent
 5,Maximum Score,Score Maximum
 6,merged {0} into {1},fusionné {0} avec {1}
 7,Message-id,Id-message
@@ -23,7 +23,7 @@
 21,Make Payment via Journal Entry,Effectuer un Paiement par une Écriture de Journal
 22,Make Salary Slip,Créer une Fiche de Paie
 23,Make Sales Order,Créer une Commande Client
-24,Make Sales Orders to help you plan your work and deliver on-time,Créer des Commandes Clients pour vous aider à planifier votre travail et de livrer à temps
+24,Make Sales Orders to help you plan your work and deliver on-time,Créer des Commandes Clients pour vous aider à planifier votre travail et livrer à temps
 25,Make Student Batch,Créer un Lot d'Étudiant
 26,Make Supplier Quotation,Créer un Devis Fournisseur
 27,Make Timesheet,Créer une Feuille de Temps
@@ -167,9 +167,9 @@
 165,Material Request to Purchase Order,Demande de Matériel au Bon de Commande
 166,Material Request Type,Type de Demande de Matériel
 167,Material Requests,Les Demandes de Matériel
-168,Material Requests {0} created,Les Demandes de Matérielles {0} créés
+168,Material Requests {0} created,Les Demandes de Matérielles {0} créées
 169,Material Requirement,Exigence Matériel
-170,Material to Supplier,Matériel au Fournisseur
+170,Material to Supplier,Du Matériel au Fournisseur
 171,Material Transfer,Transfert de Matériel
 172,Material Transfer for Manufacture,Transfert de Matériel pour la Fabrication
 173,Material Transferred for Manufacture,Matériel Transféré pour la Fabrication
@@ -205,7 +205,7 @@
 203,Message Sent,Message Envoyé
 204,Message to show,Message à afficher
 205,Messages,Messages
-206,Messages greater than 160 characters will be split into multiple messages,Message de plus de 160 caractères sera découpé en plusieurs
+206,Messages greater than 160 characters will be split into multiple messages,Message de plus de 160 caractères sera découpé en plusieurs messages
 207,Meter,Mètre
 208,Method,Méthode
 209,Middle Income,Revenu Intermédiaire
@@ -246,10 +246,10 @@
 244,Monospace,Monospace
 245,Month,Mois
 246,Monthly,Mensuel
-247,Monthly Attendance Sheet,Feuille de Présence Mensuel
+247,Monthly Attendance Sheet,Feuille de Présence Mensuelle
 248,Monthly Distribution Percentage,Pourcentage de Répartition Mensuelle
 249,Monthly Distribution Percentages,Pourcentages de Répartition Mensuelle
-250,Monthly salary statement.,Fiche de paie mensuel.
+250,Monthly salary statement.,Fiche de paie mensuelle.
 251,More,Plus
 252,More content for the bottom of the page.,Plus de contenu pour le bas de la page.
 253,More Details,Plus de Détails
@@ -262,7 +262,7 @@
 260,Ms,Mme
 261,Multi Currency,Multi-Devise
 262,Multiple Item prices.,Plusieurs Prix d'Articles.
-263,Multiple root nodes not allowed.,Plusieurs nœuds racines non autorisé.
+263,Multiple root nodes not allowed.,Plusieurs nœuds racines non autorisés.
 264,music,musique
 265,"Must be of type ""Attach Image""","Doit être de type ""Joindre l'Image"""
 266,Must be Whole Number,Doit être un Nombre Entier
@@ -274,3 +274,13 @@
 272,My Cart,Mon Panier
 273,My Settings,Mes Paramètres
 274,Monthly Salary Register,Registre Mensuel des Salaires
+275,Make Disbursement Entry,Faire une Écriture de Décaissement
+276,Make Lead,Faire un Prospect
+277,Mandatory field: {0},Champ obligatoire : {0}
+278,Mandatory field: set role for,Champ obligatoire : rôle défini pour
+279,Mark as {0},Marquer comme {0}
+280,Mark as Read,Marquer comme Lu
+281,Mark as Spam,Marquer comme Spam
+282,Mark as Unread,Marquer comme non Lu
+283,Missing Fields,Champs Manquants
+284,Move To Trash,Mettre À la Corbeille
