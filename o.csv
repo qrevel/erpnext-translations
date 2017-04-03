@@ -41,14 +41,14 @@
 39,Opportunity Date,Date d'Opportunité
 40,Opportunity From,Opportunité De
 41,Opportunity From field is mandatory,Le champ Opportunité De est obligatoire
-42,Opportunity Item,Article Opportunity
+42,Opportunity Item,Article de l'Opportunité
 43,Opportunity Type,Type d'Opportunité
 44,Optional: Always send to these ids. Each Email Address on a new row,Optionel : Toujours envoyer à ces ids. Chaque Adresse Email sera sur une nouvelle ligne
 45,Optional: The alert will be sent if this expression is true,Optionel : L'alerte sera envoyée si cette expression est vraie
 46,Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',Les champs de type Options 'Lien Dynamique' doivent pointer vers un autre Champ Lié avec 'Doctype' pour options
 47,Options must be a valid DocType for field {0} in row {1},Les options doivent être un DocType valide pour le champ {0} à la ligne {1}
 48,Options not set for link field {0},Options non définis pour le champ lié {0}
-49,Options requried for Link or Table type field {0} in row {1},Options requises pour les champs de type Tableau ou Lié {0} à la ligne {1}
+49,Options requried for Link or Table type field {0} in row {1},Options requises pour les champs de type Tableau ou Lien {0} à la ligne {1}
 50,OPTY-,OPTY-
 51,Order Type must be one of {0},Type de Commande doit être l'un des {0}
 52,Org History,Histoire Org
@@ -60,26 +60,26 @@
 58,Out Qty,Qté Sortante
 59,Out Value,Valeur Sortante
 60,Outgoing Rate,Taux Sortant
-61,Outstanding Amt,Imr en suspens
+61,Outstanding Amt,Montant en suspens
 62,Outstanding Cheques and Deposits to clear,Chèques et Dépôts en suspens à compenser
 63,Over Production Allowance Percentage,Pourcentage d'Allocation en cas de Surproduction
 64,O-,O-
 65,O+,O+
 66,off,de
-67,Offer Date,Date de l'Offre
+67,Offer Date,Date de la Proposition
 68,Offer Letter,Lettre de Proposition
 69,Offer Letter Term,Terme de la Lettre de Proposition
 70,Offer Term,Terme de la Proposition
 71,Office,Bureau
 72,Office Equipments,Équipements de Bureau
-73,Office Maintenance Expenses,Dépenses d'Entretient du Bureau
+73,Office Maintenance Expenses,Dépenses d'Entretien du Bureau
 74,Office Rent,Loyer du Bureau
 75,Offline,Hors Ligne
 76,Oil Change,Vidange
 77,Old Password,Ancien Mot De Passe
 78,"On {0}, {1} wrote:","Sur {0}, {1} a écrit :"
 79,On Net Total,Sur le Total Net
-80,One Last Step,Un Dernier Pas
+80,One Last Step,Une Dernière Étape
 81,one of,l'un des
 82,Online,En Ligne
 83,Online Auctions,Enchères en Ligne
@@ -95,7 +95,7 @@
 93,Only the selected Leave Approver can submit this Leave Application,Seul l'Approbateur de Congé sélectionné peut soumettre cette Demande de Congé
 94,only.,seulement.
 95,Oops! Something went wrong,Oups ! Quelque chose a mal tourné
-96,Oops. Your payment has failed.,Oops. Votre paiement a échoué.
+96,Oops. Your payment has failed.,Oups. Votre paiement a échoué.
 97,Open {0},Ouvrir {0}
 98,Open a module or tool,Ouvrir un module ou un outil
 99,Open Issues,Ouvrir les Questions
@@ -110,7 +110,7 @@
 108,Opening Accounting Balance,Solde d'Ouverture de Comptabilité
 109,Opening Date,Date d'Ouverture
 110,Opening Date and Closing Date should be within same Fiscal Year,Date d'Ouverture et Date de Clôture devraient être dans le même Exercice
-111,Opening Date should be before Closing Date,Date d'Ouverture devrait être antérieur à la Date de Clôture
+111,Opening Date should be before Closing Date,Date d'Ouverture devrait être antérieure à la Date de Clôture
 112,Opening Stock,Stock d'Ouverture
 113,Opening Time,Horaire d'Ouverture
 114,Opening Value,Valeur d'Ouverture
@@ -120,7 +120,7 @@
 118,Operation Cost,Coût de l'Opération
 119,Operation Description,Description de l'Opération
 120,Operation ID,ID de l'Opération
-121,Operation Time,Temps de l'Opération
+121,Operation Time,Heure de l'Opération
 122,Operation Time must be greater than 0 for Operation {0},Temps de l'Opération doit être supérieur à 0 pour l'Opération {0}
 123,Operations,Opérations
 124,Opportunities,Opportunités
