@@ -1,0 +1,171 @@
+,English,Français
+0,Only Leave Applications with status 'Approved' and 'Rejected' can be submitted,Seules les Demandes de Congés avec le statut 'Appouvée' ou 'Rejetée' peuvent être soumises
+1,OAuth Authorization Code,Code d'Autorisation OAuth
+2,OAuth Bearer Token,Jeton de Détention OAuth
+3,OAuth Client,OAuth Client
+4,OAuth Provider Settings,Paramètres du Fournisseur OAuth
+5,Odometer,Odomètre
+6,Odometer Reading,Relevé du Compteur Kilométrique
+7,Odometer Value (Last),Valeur Compteur Kilométrique (Dernier)
+8,Offer candidate a Job.,Proposer un Emploi au candidat
+9,Offer Letter Terms,Termes de la Lettre de Proposition
+10,Offline POS Name,Nom du PDV Hors-ligne`
+11,ok-circle,ok-cercle
+12,ok-sign,ok-signe
+13,Old Parent,Grand Parent
+14,old_parent,grand_parent
+15,Older backups will be automatically deleted,Les anciennes sauvegardes seront automatiquement supprimées
+16,On Leave,En Congé
+17,On Previous Row Amount,Le Montant de la Rangée Précédente
+18,On Previous Row Total,Le Total de la Rangée Précédente
+19,"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","Une fois que vous avez défini ceci, les utilisateurs ne pourront accèder qu'aux documents (e.g. Article de Blog) où le lien existe (e.g. Blogger) ."
+20,Only 200 inserts allowed in one request,Seuls 200 inserts autorisés dans une requête
+21,Only Administrator can delete Email Queue,Seul l'Administrateur peut supprimer la File d'Attente d' Emails
+22,Only allowed {0} rows in one import,Seules {0} lignes sont autorisées lors d'un import
+23,"Oops, you are not allowed to know that","Oups, vous n'êtes pas autorisé à savoir ça"
+24,Open BOM {0},Ouvrir LDM {0}
+25,Open To Do,Ouvrir To Do
+26,Opening (Cr),Ouverture (Cr)
+27,Opening Accumulated Depreciation,Amortissement Cumulé d'Ouverture
+28,Opening Accumulated Depreciation must be less than equal to {0},Amortissement Cumulé d'Ouverture doit être inférieur ou égal à {0}
+29,Opening Balance Equity,Ouverture de la Balance des Capitaux Propres
+30,Opening Entry,Écriture d'Ouverture
+31,Opening for a Job.,Ouverture d'un Emploi.
+32,Opening Qty,Quantité d'Ouverture
+33,Opening Stock Balance,Solde d'Ouverture des Stocks
+34,Operating Cost (Company Currency),Coût d'Exploitation (Devise Société)
+35,Operating Cost(Company Currency),Coût d'Exploitation (Devise Société)
+36,"Operation {0} longer than any available working hours in workstation {1}, break down the operation into multiple operations","Opération {0} plus longue que toute heure de travail disponible dans le poste {1}, séparer l'opération en plusieurs opérations"
+37,Operation completed for how many finished goods?,Opération terminée pour combien de produits finis ?
+38,Operations cannot be left blank,Les opérations ne peuvent pas être laissées vides
+39,Opportunity Date,Date d'Opportunité
+40,Opportunity From,Opportunité De
+41,Opportunity From field is mandatory,Le champ Opportunité De est obligatoire
+42,Opportunity Item,Article de l'Opportunité
+43,Opportunity Type,Type d'Opportunité
+44,Optional: Always send to these ids. Each Email Address on a new row,Optionel : Toujours envoyer à ces ids. Chaque Adresse Email sera sur une nouvelle ligne
+45,Optional: The alert will be sent if this expression is true,Optionel : L'alerte sera envoyée si cette expression est vraie
+46,Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',Les champs de type Options 'Lien Dynamique' doivent pointer vers un autre Champ Lié avec 'Doctype' pour options
+47,Options must be a valid DocType for field {0} in row {1},Les options doivent être un DocType valide pour le champ {0} à la ligne {1}
+48,Options not set for link field {0},Options non définis pour le champ lié {0}
+49,Options requried for Link or Table type field {0} in row {1},Options requises pour les champs de type Tableau ou Lien {0} à la ligne {1}
+50,OPTY-,OPTY-
+51,Order Type must be one of {0},Type de Commande doit être l'un des {0}
+52,Org History,Histoire Org
+53,Org History Heading,Rubriques Histoire Org
+54,Organization unit (department) master.,Base d'unité d'organisation (département).
+55,Organizational Unit,Unité Organisationnelle
+56,Orientation,Orientation
+57,Out of AMC,Sur AMC
+58,Out Qty,Qté Sortante
+59,Out Value,Valeur Sortante
+60,Outgoing Rate,Taux Sortant
+61,Outstanding Amt,Montant en suspens
+62,Outstanding Cheques and Deposits to clear,Chèques et Dépôts en suspens à compenser
+63,Over Production Allowance Percentage,Pourcentage d'Allocation en cas de Surproduction
+64,O-,O-
+65,O+,O+
+66,off,de
+67,Offer Date,Date de la Proposition
+68,Offer Letter,Lettre de Proposition
+69,Offer Letter Term,Terme de la Lettre de Proposition
+70,Offer Term,Terme de la Proposition
+71,Office,Bureau
+72,Office Equipments,Équipements de Bureau
+73,Office Maintenance Expenses,Dépenses d'Entretien du Bureau
+74,Office Rent,Loyer du Bureau
+75,Offline,Hors Ligne
+76,Oil Change,Vidange
+77,Old Password,Ancien Mot De Passe
+78,"On {0}, {1} wrote:","Sur {0}, {1} a écrit :"
+79,On Net Total,Sur le Total Net
+80,One Last Step,Une Dernière Étape
+81,one of,l'un des
+82,Online,En Ligne
+83,Online Auctions,Enchères en Ligne
+84,Only {0} emailed reports are allowed per user,Seulement {0} rapports envoyés par Email sont autorisés par utilisateur
+85,Only Administrator allowed to create Query / Script Reports,Seul l'Administrateur est autorisé à créer des Rapports de Requêtes / Script
+86,Only Administrator can edit,Seul l'Administrateur peut modifier
+87,Only Administrator can save a standard report. Please rename and save.,Seul l'Administrateur peut enregistrer un rapport standard. Merci de renommer et sauvegarder.
+88,Only Allow Edit For,Autoriser la Modification Uniquement Pour
+89,"Only image extensions (.gif, .jpg, .jpeg, .tiff, .png, .svg) allowed","Seules les extensions d'image (.gif, .jpg, .jpeg, .tiff, .png, .svg) sont autorisées"
+90,Only leaf nodes are allowed in transaction,Seuls les noeuds feuilles sont autorisés dans une transaction
+91,Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,Seuls les champs obligatoires sont nécessaires pour les nouveaux enregistrements. Vous pouvez supprimer des colonnes non obligatoires si vous le souhaitez.
+92,Only Obtain Raw Materials,Obtenir seulement des Matières Premières
+93,Only the selected Leave Approver can submit this Leave Application,Seul l'Approbateur de Congé sélectionné peut soumettre cette Demande de Congé
+94,only.,seulement.
+95,Oops! Something went wrong,Oups ! Quelque chose a mal tourné
+96,Oops. Your payment has failed.,Oups. Votre paiement a échoué.
+97,Open {0},Ouvrir {0}
+98,Open a module or tool,Ouvrir un module ou un outil
+99,Open Issues,Ouvrir les Questions
+100,Open Item {0},Ouvrir l'Article {0}
+101,Open Notifications,Ouvrir les Notifications
+102,Open Production Orders,Ouvrir les Ordres de Fabrication
+103,Open Projects,Ouvrir les Projets
+104,Open Source Applications for the Web,Applications Open Source pour le Web
+105,Opened,Ouvert
+106,Opening,Ouverture
+107,Opening (Dr),Ouverture (Dr)
+108,Opening Accounting Balance,Solde d'Ouverture de Comptabilité
+109,Opening Date,Date d'Ouverture
+110,Opening Date and Closing Date should be within same Fiscal Year,Date d'Ouverture et Date de Clôture devraient être dans le même Exercice
+111,Opening Date should be before Closing Date,Date d'Ouverture devrait être antérieure à la Date de Clôture
+112,Opening Stock,Stock d'Ouverture
+113,Opening Time,Horaire d'Ouverture
+114,Opening Value,Valeur d'Ouverture
+115,Operating Cost,Coût d'Exploitation
+116,Operating Costs,Coûts d'Exploitation
+117,Operation,Opération
+118,Operation Cost,Coût de l'Opération
+119,Operation Description,Description de l'Opération
+120,Operation ID,ID de l'Opération
+121,Operation Time,Heure de l'Opération
+122,Operation Time must be greater than 0 for Operation {0},Temps de l'Opération doit être supérieur à 0 pour l'Opération {0}
+123,Operations,Opérations
+124,Opportunities,Opportunités
+125,Opportunity,Opportunité
+126,Option 1,Option 1
+127,Option 2,Option 2
+128,Option 3,Option 3
+129,"Optional. Sets company's default currency, if not specified.","Optionnel. Défini la devise par défaut de l'entreprise, si non spécifié."
+130,Optional. This setting will be used to filter in various transactions.,Facultatif. Ce paramètre sera utilisé pour filtrer différentes transactions.
+131,Options,Options
+132,Options Help,Aide Options
+133,or,ou
+134,Or login with,Ou connectez-vous avec
+135,orange,orange
+136,Order,Commande
+137,Order Type,Type de Commande
+138,Ordered,Commandé
+139,Ordered Items To Be Billed,Articles Commandés À Facturer
+140,Ordered Items To Be Delivered,Articles Commandés à Livrer
+141,Ordered Qty,Qté Commandée
+142,Ordered Quantity,Quantité Commandée
+143,Orders,Commandes
+144,Orders released for production.,Commandes validées pour la production.
+145,Organization branch master.,Organisation principale des branches.
+146,Organization Name,Nom de l'Organisation
+147,Organization Profile,Profil de l'Organisation
+148,Original Value,Valeur Originale
+149,Other,Autre
+150,Other Details,Autres Détails
+151,Other Reports,Autres Rapports
+152,Other Settings,Autres Réglages
+153,Others,Autres
+154,Out of Warranty,Hors Garantie
+155,Outgoing,Sortant
+156,Outlook.com,Outlook.com
+157,Output,Sortie
+158,Outstanding,Solde
+159,Outstanding Amount,Montant dû
+160,Outstanding for {0} cannot be less than zero ({1}),Solde pour {0} ne peut pas être inférieur à zéro ({1})
+161,Overdue,En Retard
+162,Overlapping conditions found between:,Conditions qui coincident touvées entre :
+163,Owned,Détenu
+164,Owner,Propriétaire
+165,Occupation,Occupation
+166,ok,ok
+167,Open,Ouvert
+168,Open Link,Ouvrir Lien
+169,Options for select. Each option on a new line.,Options pour sélectionner. Chaque option sur une nouvelle ligne.
