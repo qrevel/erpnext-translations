@@ -1,0 +1,102 @@
+,English,Français
+0,Year start date or end date is overlapping with {0}. To avoid please set company,Date de début ou de fin d'année chevauche avec {0}. Pour éviter s'il vous plaît définir la société
+1,You are not allowed to create columns,Vous n'êtes pas autorisé à créer des colonnes
+2,"You are selecting Sync Option as ALL, It will resync all \
+				read as well as unread message from server. This may also cause the duplication\
+				of Communication (emails).","Vous sélectionnez Sync option que tous, il resynchroniser tout \ lu ainsi que message non lu à partir du serveur. Cela peut également provoquer la duplication \ de communication (e-mails)."
+3,You can find things by asking 'find orange in customers',Vous pouvez trouver des choses en demandant à 'trouver clients orange'
+4,You can not change rate if BOM mentioned agianst any item,Vous ne pouvez pas modifier le taux si BOM mentionné agianst un article
+5,You can not enter current voucher in 'Against Journal Entry' column,Vous ne pouvez pas entrer coupon courant dans «Contre Journal Entry 'colonne
+6,You can use Customize Form to set levels on fields.,Vous pouvez utiliser le formulaire pour définir les niveaux de champs .
+7,You cannot delete Fiscal Year {0}. Fiscal Year {0} is set as default in Global Settings,Vous ne pouvez pas supprimer l'exercice {0}. Exercice {0} est définie par défaut dans les paramètres globaux
+8,You cannot like something that you created,Vous ne pouvez pas aimer quelque chose que vous avez créé
+9,You did not apporve Dropbox Access.,Vous ne l'avez pas accès apporve Dropbox.
+10,You do not have enough permissions to access this resource. Please contact your manager to get access.,Vous ne disposez pas de suffisamment d'autorisations pour accéder à cette ressource. S'il vous plaît contacter votre gestionnaire pour obtenir l'accès.
+11,You do not have enough permissions to complete the action,Vous ne disposez pas de suffisamment d'autorisations pour mener à bien l'action
+12,You have already selected items from {0} {1},Vous avez déjà choisi articles de {0} {1}
+13,You have exceeded the max space of {0} for your plan. {1}.,Vous avez dépassé l'espace maximum de {0} pour votre plan. {1}.
+14,You have made {0} of {1},Vous avez {0} de {1}
+15,You need to be logged in to access this page,Vous devez être connecté pour pouvoir accéder à cette page
+16,Your Feedback for document {0} is saved successfully,Vos commentaires pour le document {0} est sauvegarder avec succès
+17,Your information has been submitted,Vos informations ont été soumis
+18,Your payment was successfully accepted,Votre paiement a été accepté avec succès
+19,Your rating:,Votre note:
+20,Your subscription expired on {0},Votre abonnement a expiré le {0}
+21,"Your subscription expired on {0}. To renew, {1}.","Votre abonnement a expiré le {0}. Pour renouveler, {1}."
+22,"Your subscription expired on {0}. To renew, please send an email to {1}.","Votre abonnement a expiré le {0}. Pour renouveler, s'il vous plaît envoyez un courriel à {1}."
+23,Your system is being updated. Please refresh again after a few moments,Votre système est mis à jour. S'il vous plaît rafraîchir à nouveau après quelques instants
+24,Yahoo Mail,Yahoo Mail
+25,Yandex.Mail,Yandex.Mail
+26,Year End Date,Date de Fin de l'exercice
+27,Year Name,Nom Année
+28,Year of Passing,Année de passage
+29,Year Start Date,Date de début Année
+30,Yearly,Annuel
+31,yellow,jaune
+32,Yes,Oui
+33,Yesterday,Hier
+34,You,Vous
+35,You are in offline mode. You will not be able to reload until you have network.,Vous êtes en mode hors connexion. Vous ne serez pas en mesure de recharger jusqu'à ce que vous avez réseau.
+36,You are not allowed to create / edit reports,Vous n'avez pas droit de crééer / modifier des rapports
+37,You are not allowed to delete a standard Website Theme,Vous n'êtes pas autorisé à supprimer un thème standard pour le site Web
+38,You are not allowed to export this report,Vous n'êtes pas autorisé à exporter ce rapport.
+39,You are not allowed to make PDF for this report,Vous n'êtes pas autorisé à faire un PDF pour ce rapport
+40,You are not allowed to print this document,vous n'êtes pas autorisé d'imprimer ce document
+41,You are not allowed to print this report,Vous n'êtes pas autorisé à imprimer ce rapport
+42,You are not allowed to send emails related to this document,Vous n'êtes pas autorisé d'envoyer un email en relation avec ce document
+43,You are not allowed to update this Web Form Document,Vous n'êtes pas autorisé à mettre à jour ce formulaire Web
+44,You are not authorized to add or update entries before {0},Vous n'êtes pas autorisé à ajouter ou faire une mise à jour des entrées avant {0}
+45,You are not authorized to approve leaves on Block Dates,Vous n'êtes pas autorisé à approuver les congés sur les dates bloquées
+46,You are not authorized to set Frozen value,Vous n'êtes pas autorisé à geler des valeurs
+47,You are not permitted to access this page.,Vous n'êtes pas autorisé à accéder à cette page.
+48,You are the Expense Approver for this record. Please Update the 'Status' and Save,Vous êtes l'approbateur de dépenses pour cet enregistrement . S'il vous plaît mettez à jour le «Status» et Enregistrez
+49,You can add dynamic properties from the document by using Jinja templating.,Vous pouvez ajouter des propriétés dynamiques du document à l'aide de gabarits Jinja.
+50,You can also copy-paste this link in your browser,Vous pouvez également copier-coller ce lien dans votre navigateur
+51,"You can change Submitted documents by cancelling them and then, amending them.","Vous pouvez modifier les documents soumis en les annulant et ensuite, les modifiant."
+52,You can enter any date manually,Vous pouvez entrer une date manuellement
+53,You can only upload upto 5000 records in one go. (may be less in some cases),Vous pouvez selement charger jusqu'à 5000 dossiers en une seule fois. (Peut-être moins dans certains cas)
+54,You can use wildcard %,Vous pouvez utiliser Joker %
+55,You cannot credit and debit same account at the same time,Vous ne pouvez pas créditer et débiter le même compte simultanément
+56,You cannot install this app,Vous ne pouvez pas installer cette application
+57,You cannot unset 'Read Only' for field {0},"Vous ne pouvez pas désactiver ""Lecture seule"" pour le champ {0}"
+58,You don't have access to Report: {0},Vous n'avez pas accès au rapport: {0}
+59,You don't have permission to access this file,Vous n'êtes pas autorisé à accéder à ce fichier
+60,You don't have permission to get a report on: {0},Vous n'avez pas la permission d'obtenir un rapport sur: {0}
+61,You don't have the permissions to access this document,Vous ne disposez pas des autorisations pour accéder à ce document
+62,You have been invited to collaborate on the project: {0},Vous avez été invité à collaborer sur le projet : {0}
+63,You have been logged out,Vous avez été déconnecté
+64,You have been successfully logged out,Vous avez été déconnecté avec succès
+65,You have cancelled the payment,Vous avez annulé le paiement
+66,You have entered duplicate items. Please rectify and try again.,Vous avez entré un doublon . Merci de rectifier et essayer à nouveau.
+67,You have unsaved changes in this form. Please save before you continue.,Vous avez des modifications non enregistrées dans ce formulaire. S'il vous plaît enregistrer avant de continuer.
+68,You must login to submit this form,Vous devez vous connecter pour soumettre ce formulaire
+69,You must Save the form before proceeding,Vous devez sauvegarder le formulaire avant de continuer
+70,You need to be in developer mode to edit a Standard Web Form,Vous devez être en mode développeur pour modifier un formulaire Web standard
+71,You need to be logged in and have System Manager Role to be able to access backups.,Vous devez être connecté en tant que Responsable Système pour pouvoir accéder aux sauvegardes .
+72,You need to be logged in to access this {0}.,Vous devez être connecté pour accéder à cette {0}.
+73,You need to enable Shopping Cart,Vous devez activer le panier
+74,"You need to have ""Share"" permission","Vous devez avoir l'autorisation de ""Partager"""
+75,You need write permission to rename,Vous devez avoir le droit d'écriture pour renommer
+76,"You seem to have written your name instead of your email. \
+					Please enter a valid email address so that we can get back.","Vous semblez avoir écrit votre nom à la place de votre courriel. S'il vous plaît \
+ entrer une adresse courriel valide afin que nous puissions récupérer."
+77,Your Customers,Vos clients
+78,"Your download is being built, this may take a few moments...","Votre téléchargement est en cours de construction, patientez quelques instants ..."
+79,Your email address,Votre adresse Email
+80,Your financial year begins on,Date de début de la période comptable
+81,Your financial year ends on,Date de fin de la période comptable
+82,Your login id is,Votre ID de connexion est
+83,Your Name,Votre nom
+84,Your organization name and address for the email footer.,Le nom de votre société et l'adresse pour le pied de page de l'email.
+85,Your password has been updated. Here is your new password,Votre mot de passe a été mis à jour. Voici votre nouveau mot de passe
+86,Your Products or Services,Vos produits ou services
+87,"Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail.","Votre requête a été reçue. Nous vous répondrons au plus vite. Si vous avez des informations supplémentaires, s'il vous plaît répondez à ce courriel."
+88,Your sales person who will contact the customer in future,Votre commercial prendra contact avec le client ultérieurement
+89,Your sales person will get a reminder on this date to contact the customer,Votre commercial recevra un rappel à cette date pour contacter le client
+90,Your subscription has expired.,Votre abonnement a expiré.
+91,Your subscription will expire on {0}.,Votre abonnement expirera le {0}.
+92,Your subscription will expire today.,Votre abonnement expire aujourd'hui.
+93,Your subscription will expire tomorrow.,Votre abonnement expirera demain.
+94,Your Suppliers,Vos fournisseurs
+95,yyyy-mm-dd,aaaa-mm-jj
+96,Year,Année
