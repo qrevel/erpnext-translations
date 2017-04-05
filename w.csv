@@ -1,123 +1,123 @@
 ,English,Français
-0,"Warehouse {0} is not linked to any account, please create/link the corresponding (Asset) account for the warehouse.","Entrepôt {0} est pas liée à un compte, s'il vous plaît créer / lier le (Asset) compte correspondant de l'entrepôt."
-1,Warehouse cannot be changed for Serial No.,Entrepôt ne peut être modifié pour le numéro de série
-2,Warehouse company must be same as Account company,société d'entrepôt doit être le même que la compagnie compte
-3,Warehouse is mandatory for non group Accounts of type Stock,Entrepôt est obligatoire pour les comptes non-groupe de type Stock
-4,Warehouses with child nodes cannot be converted to ledger,Entrepôts avec nœuds enfants ne peuvent pas être convertis en ledger
-5,Warehouses with existing transaction can not be converted to group.,Entrepôts avec transaction existants ne peuvent pas être convertis en groupe.
-6,Warehouses with existing transaction can not be converted to ledger.,Entrepôts avec transaction existants ne peuvent pas être convertis en livre.
-7,Warning: Another {0} # {1} exists against stock entry {2},Attention: Un autre {0} {1} # existe contre l'entrée en stock {2}
-8,Warning: Sales Order {0} already exists against Customer's Purchase Order {1},Attention: Sales Order {0} existe déjà contre la commande d'achat du client {1}
-9,Warning: System will not check overbilling since amount for Item {0} in {1} is zero,Attention : Le système ne vérifie pas la surfacturation depuis montant pour objet {0} dans {1} est nulle
-10,Warning: Unable to find {0} in any table related to {1},Attention: Impossible de trouver {0} dans tout tableau relatif au {1}
-11,Web Page Link Text,Page Web Link Text
-12,Web View,Voir Web
-13,Website Image {0} attached to Item {1} cannot be found,Site Web image {0} attaché à Point {1} ne peut pas être trouvé
+0,"Warehouse {0} is not linked to any account, please create/link the corresponding (Asset) account for the warehouse.","L'entrepôt {0} n'est liée à auncu compte, veuillez créer/lier le compte (Actif) correspondant pour l'entrepôt."
+1,Warehouse cannot be changed for Serial No.,L'entrepôt ne peut être modifié pour le N° de Série
+2,Warehouse company must be same as Account company,La société d'entrepôt doit être la même que la société du compte
+3,Warehouse is mandatory for non group Accounts of type Stock,L'entrepôt est obligatoire pour les Comptes non-groupe de type Stock
+4,Warehouses with child nodes cannot be converted to ledger,Les entrepôts avec nœuds enfants ne peuvent pas être convertis en livre
+5,Warehouses with existing transaction can not be converted to group.,Les entrepôts avec des transactions existantes ne peuvent pas être convertis en groupe.
+6,Warehouses with existing transaction can not be converted to ledger.,Les entrepôts avec des transactions existantes ne peuvent pas être convertis en livre.
+7,Warning: Another {0} # {1} exists against stock entry {2},Attention : Un autre {0} {1} # existe pour l'écriture de stock {2}
+8,Warning: Sales Order {0} already exists against Customer's Purchase Order {1},Attention : La Commande Client {0} existe déjà pour le Bon de Commande du Client {1}
+9,Warning: System will not check overbilling since amount for Item {0} in {1} is zero,Attention : Le système ne vérifie pas la surfacturation car le montant pour l'Article {0} dans {1} est nul
+10,Warning: Unable to find {0} in any table related to {1},Attention : Impossible de trouver {0} dans tout tableau relatif au {1}
+11,Web Page Link Text,Texte du Lien de la Page Web
+12,Web View,Vue Web
+13,Website Image {0} attached to Item {1} cannot be found,Image pour le Site Web {0} attachée à l'Article {1} ne peut pas être trouvée
 14,Website Item Group,Groupe d'Articles du Site Web
-15,Website Item Groups,Groupes d'articles du Site web
+15,Website Item Groups,Groupes d'articles du Site Web
 16,Website Manager,Responsable du Site Web
-17,Website Sidebar,site Web Barre latérale
-18,Website Sidebar Item,Site Sidebar Point
-19,Website Slideshow Item,Point Diaporama site web
-20,Website Specifications,Site Web Spécifications
-21,Website Theme Image Link,Site Thème image Lien
-22,Weekly Off,Hebdomadaire Off
-23,"Weight is mentioned,\nPlease mention ""Weight UOM"" too","Poids est mentionné, \n S'il vous plaît mentionner ""Poids UOM« trop"
-24,Weight UOM,Unité de Mesure de Poids
-25,Weightage,Weightage
-26,Weightage (%),Weightage (%)
+17,Website Sidebar,Barre Latérale du Site Web
+18,Website Sidebar Item,Objet de la Barre Latérale du Site Web
+19,Website Slideshow Item,Objet du Diaporama du Site Web
+20,Website Specifications,Spécifications du Site Web
+21,Website Theme Image Link,Lien de l'Image du Thème du Site Web
+22,Weekly Off,Jours de Congé Hebdomadaire
+23,"Weight is mentioned,\nPlease mention ""Weight UOM"" too","Poids est mentionné,\nVeuillez aussi mentionner ""UDM de Poids"""
+24,Weight UOM,UDM de Poids
+25,Weightage,Poids
+26,Weightage (%),Poids (%)
 27,Welcome to {0},Bienvenue sur {0}
-28,What do you need help with?,Avec quoi as tu besoin d'aide?
+28,What do you need help with?,Avec quoi avez vous besoin d'aide ?
 29,Wheels,Roues
-30,"When any of the checked transactions are ""Submitted"", an email pop-up automatically opened to send an email to the associated ""Contact"" in that transaction, with the transaction as an attachment. The user may or may not send the email.","Lorsque l'une des opérations contrôlées sont «soumis», un courriel pop-up s'ouvre automatiquement pour envoyer un courrier électronique à l'associé ""Contact"" dans cette transaction, la transaction en pièce jointe. L'utilisateur peut ou ne peut pas envoyer courriel."
-31,"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.","Lorsque vous modifiez un document après Annuler et enregistrez-le , il va obtenir un nouveau numéro qui est une version de l'ancien numéro ."
-32,Where items are stored.,Lorsque des éléments sont stockés.
-33,Where manufacturing operations are carried.,Lorsque les opérations de fabrication sont réalisées.
-34,Width of amount in word,Largeur du montant en parole
+30,"When any of the checked transactions are ""Submitted"", an email pop-up automatically opened to send an email to the associated ""Contact"" in that transaction, with the transaction as an attachment. The user may or may not send the email.","Lorsque certaines des transactions contrôlées sont ""Soumises"", une pop-up email s'ouvre automatiquement pour envoyer un email au ""Contact"" associé dans cette transaction, avec la transaction en pièce jointe. L'utilisateur peut ou peut ne pas envoyer l'email."
+31,"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.","Lorsque vous Modifiez un document après l'avoir Annulé et que vous l'enregistrez, il va obtenir un nouveau numéro qui est une version de l'ancien numéro."
+32,Where items are stored.,Là que les articles sont stockés.
+33,Where manufacturing operations are carried.,Là que les opérations de fabrication sont réalisées.
+34,Width of amount in word,Largeur du montant en toutes lettres
 35,Width of the input box,Largeur de la boîte d'entrée
-36,Will also apply for variants,Se appliquera également pour les variantes
-37,Will also apply for variants unless overrridden,Se appliquera également pour des variantes moins overrridden
-38,Will also apply to variants,Se appliquera également aux variantes
-39,Will be used in url (usually first name).,Sera utilisé dans url (généralement prénom).
-40,Will only be shown if section headings are enabled,ne seront montrées que si les titres de section sont activés
-41,Will send an email about the event to employees with status 'Open',Prêt à envoyer un e-mail au sujet de l'événement pour les employés ayant le statut 'Open'
-42,Will show the student as Present in Student Monthly Attendance Report,Affichera l'étudiant Présent dans Student Rapport mensuel des présences
-43,WIP Warehouse,WIP Entrepôt
+36,Will also apply for variants,S'appliquera également pour les variantes
+37,Will also apply for variants unless overrridden,S'appliquera également pour des variantes sauf si remplacé
+38,Will also apply to variants,S'appliquera également aux variantes
+39,Will be used in url (usually first name).,Sera utilisé dans l'url (généralement le prénom).
+40,Will only be shown if section headings are enabled,Ne seront montrés que si les titres de section sont activés
+41,Will send an email about the event to employees with status 'Open',Enverra un email au sujet de l'événement pour les employés ayant le statut 'Ouvert'
+42,Will show the student as Present in Student Monthly Attendance Report,Affichera l'étudiant comme Présent dans Rapport Mensuel de Présence des Étudiants
+43,WIP Warehouse,Entrepôt (Travaux en Cours)
 44,With Groups,Avec Groupes
 45,With Items,Avec Articles
-46,With Ledgers,Avec Grand Livre
-47,With Letter head,Avec la tête Lettre
-48,With Letterhead,Avec en-tête
-49,With Operations,Avec des opérations
+46,With Ledgers,Avec Livres
+47,With Letter head,Avec en-tête de Lettre
+48,With Letterhead,Avec en-tête de Lettre
+49,With Operations,Avec des Opérations
 50,Withdrawn,Retiré
-51,Work Address,Adresse de travail
-52,Workflow,Flux de travail
-53,Workflow Action Master,Workflow action Maître
-54,Workflow Action Name,Nom de l'action de workflow
-55,Workflow Document State,Etat du document de workflow
-56,Workflow Name,Nom du workflow
-57,Workflow State,État de workflow
-58,Workflow State Field,Field State flux de travail
-59,Workflow state represents the current state of a document.,État Workflow représente l'état actuel d'un document.
-60,Workflow Transition,Transition de workflow
-61,Working,De travail
+51,Work Address,Adresse du Bureau
+52,Workflow,Flux de Travail
+53,Workflow Action Master,Actions de Base du Flux de Travail
+54,Workflow Action Name,Nom de l'Action du Flux de Travail
+55,Workflow Document State,État du Document du Flux de Travail
+56,Workflow Name,Nom du Flux de Travail
+57,Workflow State,État du Flux de Travail
+58,Workflow State Field,Champ de l'État du Flux de Travail
+59,Workflow state represents the current state of a document.,L'état du flux de travail représente l'état actuel d'un document.
+60,Workflow Transition,Transition du Flux de Travail
+61,Working,Travail en cours
 62,Workshop,Atelier
-63,Workstation Working Hour,Workstation heures de travail
+63,Workstation Working Hour,Heures de Travail au Bureau
 64,wrench,clé
-65,Write a Python file in the same folder where this is saved and return column and result.,Écrire un fichier Python dans le même dossier où cela est sauvegardé et la colonne de retour et le résultat.
-66,Write a SELECT query. Note result is not paged (all data is sent in one go).,Écrire une requête SELECT. résultat de note n'est pas paginé (toutes les données sont transmises en une seule fois).
-67,Write Off,Effacer
-68,Write Off Account,Ecrire Off compte
-69,Write Off Amount,Ecrire Off Montant
-70,Write Off Amount (Company Currency),Write Off Montant (Société devise)
-71,Write Off Based On,Ecrire Off Basé sur
-72,Write Off Cost Center,Ecrire Off Centre de coûts
-73,Write Off Difference Amount,Write Off Différence Montant
-74,Write Off Entry,Write Off Entrée
-75,Write Off Outstanding Amount,Ecrire Off Encours
+65,Write a Python file in the same folder where this is saved and return column and result.,Écrire un fichier Python dans le même dossier où cela est sauvegardé et retourner la colonne et le résultat.
+66,Write a SELECT query. Note result is not paged (all data is sent in one go).,Écrire une requête SELECT. Remarque : le résultat n'est pas paginé (toutes les données sont transmises en une seule fois).
+67,Write Off,Reprise
+68,Write Off Account,Compte de Reprise
+69,Write Off Amount,Montant de la Reprise
+70,Write Off Amount (Company Currency),Montant de la Reprise (Devise Société)
+71,Write Off Based On,Reprise Basée Sur
+72,Write Off Cost Center,Centre de Coûts des Reprises
+73,Write Off Difference Amount,Montant de la Différence de la Reprise
+74,Write Off Entry,Écriture de Reprise
+75,Write Off Outstanding Amount,Encours de Reprise
 76,Write titles and introductions to your blog.,Écrire des titres et des introductions sur votre blog.
 77,Writeoff,Écrire
-78,Writers Introduction,Writers Présentation
+78,Writers Introduction,Présentation des Rédacteurs
 79,Wrong Password,Mauvais Mot De Passe
 80,Wages,Salaires
 81,Wages per hour,Salaires par heure
-82,Warehouse,entrepôt
-83,Warehouse {0} can not be deleted as quantity exists for Item {1},Entrepôt {0} ne peut pas être supprimé car il existe une quantité pour l'article {1}
-84,Warehouse {0} does not belong to company {1},Entrepôt {0} n'appartient pas à la société {1}
-85,Warehouse {0} does not exist,L'Entrepôt {0} n'existe pas
-86,Warehouse {0}: Company is mandatory,Entrepôt {0}: Société est obligatoire
-87,Warehouse {0}: Parent account {1} does not bolong to the company {2},Entrepôt {0}: le Compte Parent {1} n'appartient pas à la société {2}
+82,Warehouse,Entrepôt
+83,Warehouse {0} can not be deleted as quantity exists for Item {1},L'entrepôt {0} ne peut pas être supprimé car il existe une quantité pour l'Article {1}
+84,Warehouse {0} does not belong to company {1},L'entrepôt {0} n'appartient pas à la société {1}
+85,Warehouse {0} does not exist,L'entrepôt {0} n'existe pas
+86,Warehouse {0}: Company is mandatory,Entrepôt {0} : Société est obligatoire
+87,Warehouse {0}: Parent account {1} does not bolong to the company {2},Entrepôt {0} : le compte Parent {1} n'appartient pas à la société {2}
 88,Warehouse and Reference,Entrepôt et Référence
-89,Warehouse can not be deleted as stock ledger entry exists for this warehouse.,L'Entrepôt ne peut pas être supprimé car une entrée existe dans le Grand Livre de Stocks pour cet Entrepôt.
-90,Warehouse can only be changed via Stock Entry / Delivery Note / Purchase Receipt,Entrepôt ne peut être modifié que via Stock Entrée / Bon de Livraison / Reçu d'Achat
-91,Warehouse Contact Info,Entrepôt Info Contact
-92,Warehouse Detail,Détail de l'entrepôt
-93,Warehouse is mandatory,Entrepôt est obligatoire
-94,Warehouse is mandatory for stock Item {0} in row {1},L’entrepôt est obligatoire pour l'article du stock {0} dans la ligne {1}
-95,Warehouse Name,Nom de l'entrepôt
-96,Warehouse not found in the system,Entrepôt pas trouvé dans le système
-97,Warehouse required at Row No {0},Entrepôt nécessaire au rang {0}
+89,Warehouse can not be deleted as stock ledger entry exists for this warehouse.,L'entrepôt ne peut pas être supprimé car une écriture existe dans le Livre d'Inventaire pour cet entrepôt.
+90,Warehouse can only be changed via Stock Entry / Delivery Note / Purchase Receipt,L'entrepôt ne peut être modifié que via Écriture de Stock / Bon de Livraison / Reçu d'Achat
+91,Warehouse Contact Info,Info de Contact de l'Entrepôt
+92,Warehouse Detail,Détail de l'Entrepôt
+93,Warehouse is mandatory,L'entrepôt est obligatoire
+94,Warehouse is mandatory for stock Item {0} in row {1},L’entrepôt est obligatoire pour l'Article du stock {0} dans la ligne {1}
+95,Warehouse Name,Nom de l'Entrepôt
+96,Warehouse not found in the system,L'entrepôt n'a pas été trouvé dans le système
+97,Warehouse required at Row No {0},Entrepôt requis à la Ligne N° {0}
 98,Warehouse required for stock Item {0},L’entrepôt est obligatoire pour l'article du stock {0}
-99,Warehouse where you are maintaining stock of rejected items,Entrepôt où vous conservez le stock d'objets refusés
+99,Warehouse where you are maintaining stock of rejected items,L'entrepôt où vous conservez le stock d'objets refusés
 100,Warehouses,Entrepôts
 101,Warn,Avertir
 102,Warning,Avertissement
-103,warning-sign,Signe d'avertissement
-104,Warning: Invalid Attachment {0},Attention: Pièce jointe non valide {0}
-105,Warning: Invalid SSL certificate on attachment {0},Attention: certificat SSL non valide sur la pièce jointe {0}
-106,Warning: Leave application contains following block dates,Attention : la demande d'absence contient les dates bloquées suivantes
-107,Warning: Material Requested Qty is less than Minimum Order Qty,Attention : La Quantité de Matériel Requis est inférieure à la Quantité Minimum de Commande
+103,warning-sign,signe-avertissement
+104,Warning: Invalid Attachment {0},Attention : Pièce jointe non valide {0}
+105,Warning: Invalid SSL certificate on attachment {0},Attention : certificat SSL non valide sur la pièce jointe {0}
+106,Warning: Leave application contains following block dates,Attention : la demande de congé contient les dates bloquées suivantes
+107,Warning: Material Requested Qty is less than Minimum Order Qty,Attention : La Quantité de Matériel Requis est inférieure à la Qté Minimum de Commande
 108,Warning: This Print Format is in old style and cannot be generated via the API.,Attention : Ce Format d'Impression est dans un style ancien et ne peut pas être généré via l'API.
-109,Warranty,garantie
+109,Warranty,Garantie
 110,Warranty / AMC Details,Garantie / Détails AMC
 111,Warranty / AMC Status,Garantie / Statut AMC
-112,Warranty Claim,Déclaration de garantie
-113,Warranty Claim against Serial No.,Réclamation de garantie en rapport avec le No de série.
-114,Warranty Expiry Date,Date d'expiration de la garantie
-115,Warranty Period (Days),Période de garantie (jours)
-116,Warranty Period (in days),Période de garantie (en jours)
-117,We buy this Item,Nous achetons cet article
-118,We sell this Item,Nous vendons cet article
+112,Warranty Claim,Réclamation de Garantie
+113,Warranty Claim against Serial No.,Réclamation de Garantie pour le N° de Série.
+114,Warranty Expiry Date,Date d'Expiration de la Garantie
+115,Warranty Period (Days),Période de Garantie (Jours)
+116,Warranty Period (in days),Période de Garantie (en jours)
+117,We buy this Item,Nous achetons cet Article
+118,We sell this Item,Nous vendons cet Article
 119,Web Form,Formulaire Web
 120,Web Form Field,Champ de Formulaire Web
 121,Web Form Fields,Champs de Formulaire Web
@@ -125,38 +125,38 @@
 123,Web Page,Page Web
 124,Web Site,Site Internet
 125,Website,Site Web
-126,Website Description,Description du site Web
-127,Website Image should be a public file or website URL,L'image de site Web doit être un fichier public ou l'URL d'un site web
-128,Website Script,Script site web
-129,Website Settings,Réglages Site web
-130,Website Slideshow,Diaporama site web
+126,Website Description,Description du Site Web
+127,Website Image should be a public file or website URL,L'Image du Site Web doit être un fichier public ou l'URL d'un site web
+128,Website Script,Script du Site web
+129,Website Settings,Réglages du Site web
+130,Website Slideshow,Diaporama du Site web
 131,Website Theme,Thème du Site Web
 132,Website Theme Image,Image du Thème du Site Web
-133,Website User,Utilisateur Site Web
-134,Website Warehouse,Entrepôt site web
+133,Website User,Utilisateur du Site Web
+134,Website Warehouse,Entrepôt du Site Seb
 135,Wednesday,Mercredi
 136,Week,Semaine
 137,Weekly,Hebdomadaire
 138,Weight,Poids
 139,Welcome,Bienvenue
 140,Welcome email sent,Email de bienvenue envoyé
-141,Welcome to ERPNext,Bienvenue à ERPNext
-142,What does it do?,Que fait-elle ?
+141,Welcome to ERPNext,Bienvenue sur ERPNext
+142,What does it do?,Qu'est-ce que ça fait ?
 143,White,Blanc
 144,Widowed,Veuf
 145,Width,Largeur
 146,Widths can be set in px or %.,Les largeurs peuvent être réglés en px ou %.
 147,Wire Transfer,Virement
-148,Work Done,Travaux effectués
-149,Work In Progress,Travaux en cours
-150,Work-in-Progress Warehouse,Travaux en cours Entrepôt
-151,Work-in-Progress Warehouse is required before Submit,L'entrepôt des travaux en cours est nécessaire avant de soumettre
-152,Workflow Action,Action du flux de travail
-153,Workflow will start after saving.,Le flux de travail démarre après la sauvegarde.
-154,Working Days,Jours ouvrables
-155,Working Hours,Heures de travail
-156,Workstation,station de travail
-157,Workstation is closed on the following dates as per Holiday List: {0},Poste de travail est fermé aux dates suivantes selon la liste de vacances: {0}
-158,Workstation Name,Nom de la station de travail
-159,Worldwide Shipping,Livraison internationale
+148,Work Done,Travaux Effectués
+149,Work In Progress,Travaux En Cours
+150,Work-in-Progress Warehouse,Entrepôt des Travaux en Cours
+151,Work-in-Progress Warehouse is required before Submit,L'entrepôt des Travaux en Cours est nécessaire avant de Soumettre
+152,Workflow Action,Action du Flux de Travail
+153,Workflow will start after saving.,Le Flux de Travail démarre après l'enregistrement.
+154,Working Days,Jours Ouvrables
+155,Working Hours,Heures de Travail
+156,Workstation,Bureau
+157,Workstation is closed on the following dates as per Holiday List: {0},Le bureau est fermé aux dates suivantes selon la Liste de Vacances : {0}
+158,Workstation Name,Nom du Bureau
+159,Worldwide Shipping,Livraison Internationale
 160,Write,Écrire
