@@ -1,484 +1,483 @@
 ,English,Français
-0,Table Field,Tableau Champ
-1,Table HTML,Tableau HTML
-2,Table updated,Tableau mis à jour
-3,Tag Category,Tag Catégorie
-4,Tag Doc Category,Tag Doc Catégorie
-5,Tag Line,Tag ligne
-6,Take Backup Now,Prenez la sauvegarde maintenant
-7,Target Detail,Détail cible
-8,Target Distribution,Distribution cible
-9,Target On,cible sur
-10,Tariff Number,tarif Nombre
-11,Task Completion,Tâche d'achèvement
-12,Task Progress,progression de la tâche
-13,Task Weight,Groupe Poids
-14,Tax Amount After Discount Amount (Company Currency),Montant de la taxe Après Montant de la remise (Société devise)
-15,Tax Category can not be 'Valuation' or 'Valuation and Total' as all items are non-stock items,"Catégorie impôt ne peut pas être « évaluation » ou « évaluation et totale », comme tous les articles sont des articles hors stock"
+0,Table Field,Champ de Table
+1,Table HTML,HTML de Table
+2,Table updated,Table Mise à Jour
+3,Tag Category,Catégorie de Tag
+4,Tag Doc Category,Catégorie Doc de Tag
+5,Tag Line,Ligne de Tag
+6,Take Backup Now,Faites une Sauvegarde Maintenant
+7,Target Detail,Détail Cible
+8,Target Distribution,Distribution Cible
+9,Target On,Cible Sur
+10,Tariff Number,Tarif
+11,Task Completion,Achèvement de la Tâche
+12,Task Progress,Progression de la Tâche
+13,Task Weight,Poids de la Tâche
+14,Tax Amount After Discount Amount (Company Currency),Montant de la Taxe Après Remise (Devise Société)
+15,Tax Category can not be 'Valuation' or 'Valuation and Total' as all items are non-stock items,"La Catégorie de Taxe ne peut pas être ‘Valorisation’ ou  ‘Valorisation et Total’,  car tous les articles sont des articles hors stock"
 16,"Tax detail table fetched from item master as a string and stored in this field.
-Used for Taxes and Charges","Impôt table récupérées par le maître de l'article comme une chaîne et stockée dans ce domaine en détail.
- Utilisé pour les impôts et frais"
-17,Tax Rule,Règle d'impôt
-18,Tax Rule Conflicts with {0},Règle fiscale Conflits avec {0}
-19,Tax Rule for transactions.,Règle d'impôt pour les transactions.
-20,Tax template for buying transactions.,Modèle d'impôt pour l'achat d' opérations .
-21,Tax template for selling transactions.,Modèle de la taxe pour la vente de transactions .
-22,Tax Template is mandatory.,Modèle d'impôt est obligatoire.
-23,Tax Type,Type d'impôt
-24,Taxes and Charges Added,Taxes et redevances Ajouté
-25,Taxes and Charges Added (Company Currency),Les impôts et les frais supplémentaires (Société Monnaie)
-26,Taxes and Charges Calculation,Taxes et frais de calcul
-27,Taxes and Charges Deducted,Taxes et frais déduits
-28,Taxes and Charges Deducted (Company Currency),Impôts et Charges déduites (Société Monnaie)
-29,Team Members Heading,Membres de l'équipe Cap
-30,Team Updates,Mises à jour de l'équipe
-31,Temperorily Disabled,Temperorily handicapés
-32,Term End Date,Date de fin du contrat
-33,Term Name,Nom du terme
-34,Term Start Date,Durée Date de début
-35,Terms and Conditions Help,Termes et Conditions Aide
-36,Terretory,Terretory
-37,Test Runner,Test Runner
-38,Test_Folder,Test_Folder
-39,Text Content,Text Content
-40,text in document type,texte dans le type de document
-41,Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,Texte à afficher pour lien vers la page Web si cette forme dispose d'une page web. Lien itinéraire sera automatiquement généré sur la base `et` page_name` parent_website_route`
-42,th,e
-43,th-large,e-grande
-44,th-list,e-list
-45,Thank you for your business!,Nous vous remercions de votre entreprise!
-46,"The account head under Liability or Equity, in which Profit/Loss will be booked","Le compte tête sous la responsabilité ou l'équité, dans lequel Profit / perte sera comptabilisée"
-47,The BOM which will be replaced,La nomenclature qui sera remplacé
-48,The Condition '{0}' is invalid,La condition '{0}' est invalide
-49,The date on which next invoice will be generated. It is generated on submit.,La date à laquelle prochaine facture sera générée. Il est généré sur soumettre.
-50,The date on which recurring invoice will be stop,La date à laquelle la facture récurrente sera arrêter
-51,"The day of the month on which auto invoice will be generated e.g. 05, 28 etc","Le jour du mois où la facture automatique sera généré par exemple 05, 28 etc"
-52,The day(s) on which you are applying for leave are holidays. You need not apply for leave.,Le jour (s) sur lequel vous postulez pour un congé sont des jours fériés. Vous ne devez pas demander l'autorisation.
+Used for Taxes and Charges",La table de détails de taxe est récupérée depuis les données de base de l'article comme une chaîne de caractères et stockée dans ce champ. Elle est utilisée pour les Taxes et Frais.
+17,Tax Rule,Règle de Taxation
+18,Tax Rule Conflicts with {0},Règle de Taxation est en Conflit avec {0}
+19,Tax Rule for transactions.,Règle de Taxation pour les transactions.
+20,Tax template for buying transactions.,Modèle de taxe pour les opérations d’achat.
+21,Tax template for selling transactions.,Modèle de taxe pour les opérations de vente.
+22,Tax Template is mandatory.,Un Modèle de Taxe est obligatoire.
+23,Tax Type,Type de Taxe
+24,Taxes and Charges Added,Taxes et Frais Additionnels
+25,Taxes and Charges Added (Company Currency),Taxes et Frais Additionnels (Devise Société)
+26,Taxes and Charges Calculation,Calcul des Frais et Taxes
+27,Taxes and Charges Deducted,Taxes et Frais Déductibles
+28,Taxes and Charges Deducted (Company Currency),Taxes et Frais Déductibles (Devise Société)
+29,Team Members Heading,Titres des Membres de l’Équipe
+30,Team Updates,Mises à Jour de l’Équipe
+31,Temperorily Disabled,Temporairement Désactivé
+32,Term End Date,Date de Fin du Terme
+33,Term Name,Nom du Terme
+34,Term Start Date,Date de Début du Terme
+35,Terms and Conditions Help,Aides des Termes et Conditions
+36,Terretory,Territoire
+37,Test Runner,Exécuteur de Test
+38,Test_Folder,Dossier_Test
+39,Text Content,Contenu du Texte
+40,text in document type,Texte dans le type de document
+41,Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,Texte à afficher pour le lien vers la page Web si ce formulaire dispose d'une page web. Le chemin du lien sera automatiquement généré sur la base des éléments `page_name` et `parent_website_route`
+42,th,th
+43,th-large,th-large
+44,th-list,th-list
+45,Thank you for your business!,Merci pour votre entreprise !
+46,"The account head under Liability or Equity, in which Profit/Loss will be booked","Le titre du compte de Passif ou de Capitaux Propres, dans lequel les Bénéfices/Pertes seront comptabilisé"
+47,The BOM which will be replaced,La LDM qui sera remplacée
+48,The Condition '{0}' is invalid,La Condition '{0}' est invalide
+49,The date on which next invoice will be generated. It is generated on submit.,La date à laquelle la prochaine facture sera générée. Elle est générée à la soumission.
+50,The date on which recurring invoice will be stop,La date à laquelle la facture récurrente sera arrêtée
+51,"The day of the month on which auto invoice will be generated e.g. 05, 28 etc.","Le jour du mois où la facture automatique sera générée. e.g. 05, 28, etc."
+52,The day(s) on which you are applying for leave are holidays. You need not apply for leave.,Le(s) jour(s) pour le(s)quel(s) vous demandez un congé sont des jours fériés. Vous n’avez pas besoin d’effectuer de demande.
 53,The first user will become the System Manager (you can change this later).,Le premier utilisateur deviendra le System Manager (vous pouvez changer cela plus tard).
-54,The following Production Orders were created:,Les ordres de fabrication suivants ont été créés:
+54,The following Production Orders were created:,Les Ordres de Production suivants ont été créés:
 55,The gross weight of the package. Usually net weight + packaging material weight. (for print),Le poids brut du colis. Habituellement poids net + poids du matériau d'emballage. (Pour l'impression)
-56,The holiday on {0} is not between From Date and To Date,La fête sur {0} est pas entre De date et à ce jour
+56,The holiday on {0} is not between From Date and To Date,Le jour de vacances {0} n’est pas compris entre la Date Initiale et la Date Finale
 57,"The intervals for Grade Code {0} overlaps with the grade intervals for other grades. 
-                    Please check intervals {0} and {1} and try again",Les intervalles de code grade {0} chevauchements avec les intervalles de qualité pour les autres grades. S'il vous plaît vérifier les intervalles {0} et {1} et essayez à nouveau
+                    Please check intervals {0} and {1} and try again",Les intervalles pour les Codes de Notation {0} chevauchent les intervalles de notation pour les autres notations. Veuillez vérifier les intervalles {0} et {1} et essayer à nouveau
 58,The name of the institute for which you are setting up this system.,Le nom de l'institut pour lequel vous configurez ce système.
-59,The new BOM after replacement,La nouvelle nomenclature après le remplacement
-60,The page you are looking for is missing. This could be because it is moved or there is a typo in the link.,La page que vous recherchez est manquante. Cela pourrait être dû au fait qu'il est déplacé ou il y a une faute de frappe dans le lien.
-61,The request for quotation can be accessed by clicking on the following link,La demande de devis peut être consulté en cliquant sur le lien suivant
+59,The new BOM after replacement,La nouvelle LDM après remplacement
+60,The page you are looking for is missing. This could be because it is moved or there is a typo in the link.,La page que vous recherchez est manquante. Cela pourrait être dû au fait qu’elle a été déplacée ou il y a une faute de frappe dans le lien.
+61,The request for quotation can be accessed by clicking on the following link,La demande de devis peut être consultée en cliquant sur le lien suivant
 62,The resource you are looking for is not available,La ressource que vous recherchez n'est pas disponible
-63,The selected BOMs are not for the same item,Les nomenclatures sélectionnées ne sont pas pour le même article
-64,The selected item cannot have Batch,L'élément sélectionné ne peut pas avoir lot
-65,The system provides many pre-defined roles. You can add new roles to set finer permissions.,Le système offre de nombreux rôles prédéfinis . Vous pouvez ajouter de nouveaux rôles pour définir des autorisations plus fines .
-66,The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,La date de fin de terme ne peut pas être antérieure à la date de début de durée. S'il vous plaît corriger les dates et essayez à nouveau.
-67,The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,La date de fin de terme ne peut pas être postérieure à la fin de l'exercice Date de l'année académique à laquelle le terme est lié (année académique {}). S'il vous plaît corriger les dates et essayez à nouveau.
-68,The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,La date de début de terme ne peut pas être antérieure à l'année Date de début de l'année académique à laquelle le terme est lié (année académique {}). S'il vous plaît corriger les dates et essayez à nouveau.
+63,The selected BOMs are not for the same item,Les LDMs sélectionnées ne sont pas pour le même article
+64,The selected item cannot have Batch,L'élément sélectionné ne peut pas avoir de Lot
+65,The system provides many pre-defined roles. You can add new roles to set finer permissions.,Le système offre de nombreux rôles prédéfinis. Vous pouvez ajouter de nouveaux rôles pour définir des autorisations plus fines .
+66,The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,La Date de Fin de Terme ne peut pas être antérieure à la Date de Début de Terme. Veuillez corriger les dates et essayer à nouveau.
+67,The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,La Date de Fin de Terme ne peut pas être postérieure à la Date de Fin de l'Année Académique à laquelle le terme est lié (Année Académique {}). Veuillez corriger les dates et essayer à nouveau.
+68,The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,La Date de Début de Terme ne peut pas être antérieure à la Date de Début de l'Année Académique à laquelle le terme est lié (Année Académique {}). Veuillez corriger les dates et essayer à nouveau.
 69,"The total Issue / Transfer quantity {0} in Material Request {1}  \
-							cannot be greater than requested quantity {2} for Item {3}",La quantité Problème / transfert total {0} dans Material Request {1} \ ne peut pas être supérieure à la quantité demandée {2} pour le poste {3}
+							cannot be greater than requested quantity {2} for Item {3}",La quantité totale d’Émission / Transfert {0} dans la Demande de Matériel {1} \ ne peut pas être supérieure à la quantité demandée {2} pour l’article {3}
 70,The unique id for tracking all recurring invoices. It is generated on submit.,L'identifiant unique pour le suivi de toutes les factures récurrentes. Il est généré lors de la soumission.
-71,The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,La date de fin d'année ne peut pas être antérieure à la date Année de début. S'il vous plaît corriger les dates et essayez à nouveau.
-72,There can be only one Fold in a form,Il ne peut y avoir qu'un seul pli sous une forme
-73,There can only be 1 Account per Company in {0} {1},Il ne peut y avoir 1 compte par la société dans {0} {1}
-74,"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""","Il ne peut y avoir une règle de livraison Etat avec 0 ou valeur vide pour "" To Value """
-75,There is an error in your Address Template {0},Il y a une erreur dans votre Modèle d'adresse {0}
-76,There is not enough leave balance for Leave Type {0},Il n'y a pas assez de solde de congés d'autorisation de type {0}
-77,There must be a default incoming Email Account enabled for this to work. Please setup a default incoming Email Account (POP/IMAP) and try again.,Il doit y avoir un compte de messagerie par défaut entrant activé pour que cela fonctionne. S'il vous plaît configurer un entrant du compte de messagerie par défaut (POP / IMAP) et essayez à nouveau.
-78,There must be atleast one permission rule.,Il doit y avoir atleast une règle d'autorisation.
-79,There was an error. One probable reason could be that you haven't saved the form. Please contact support@erpnext.com if the problem persists.,Il y avait une erreur . Une raison probable pourrait être que vous n'avez pas enregistré le formulaire. S'il vous plaît contacter support@erpnext.com si le problème persiste .
-80,There were errors while deleting following schedules:,Il y avait des erreurs lors de la suppression des horaires suivants:
-81,There were errors while scheduling course on :,Il y avait des erreurs lors de la planification cours sur:
-82,There were errors while sending email. Please try again.,Il y avait des erreurs lors de l'envoi de courriels. S'il vous plaît essayer à nouveau
-83,There were errors. Please report this.,Il y avait des erreurs. S'il vous plaît signaler.
-84,"There were some errors setting the name, please contact the administrator","Il y avait des erreurs de réglage le nom, s'il vous plaît contactez l'administrateur"
-85,"These permissions will apply for all transactions where the permitted record is linked. For example, if Company C is added to User Permissions of user X, user X will only be able to see transactions that has company C as a linked value.",Ces autorisations s'appliquent pour toutes les transactions où le dossier permis est lié .
-86,These restrictions will apply for Document Types where 'Apply User Permissions' is checked for the permission rule and a field with this value is present.,Ces restrictions seront appliquées pour les types de documents où «Appliquer les autorisations des utilisateurs» est cochée pour la règle de l'autorisation et un champ avec cette valeur est présente.
+71,The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,La Date de Fin d'Année ne peut pas être antérieure à la Date de Début d’Année. Veuillez corriger les dates et essayer à nouveau.
+72,There can be only one Fold in a form,Il ne peut y avoir qu'un seul Pli dans un formulaire
+73,There can only be 1 Account per Company in {0} {1},Il ne peut y avoir qu’un Compte par Société dans {0} {1}
+74,"There can only be one Shipping Rule Condition with 0 or blank value for ""To Value""","Il ne peut y avoir qu’une Condition de Règle de Livraison avec 0 ou une valeur vide pour « A la Valeur"""
+75,There is an error in your Address Template {0},Il y a une erreur dans votre Modèle d'Adresse {0}
+76,There is not enough leave balance for Leave Type {0},Il n'y a pas assez de solde de congés pour les Congés de Type {0}
+77,There must be a default incoming Email Account enabled for this to work. Please setup a default incoming Email Account (POP/IMAP) and try again.,Il doit y avoir un compte Email entrant par défaut activé pour que cela fonctionne. Veuillez configurer un compte Email entrant par défaut (POP / IMAP) et essayer à nouveau.
+78,There must be atleast one permission rule.,Il doit y avoir au moins une règle d'autorisation.
+79,There was an error. One probable reason could be that you haven't saved the form. Please contact support@erpnext.com if the problem persists.,Il y a eu une erreur. Une raison probable pourrait être que vous n'avez pas enregistré le formulaire. Veuillez contacter support@erpnext.com si le problème persiste .
+80,There were errors while deleting following schedules:,Il y a eu des erreurs lors de la suppression des horaires suivants:
+81,There were errors while scheduling course on :,Il y a eu des erreurs lors de la planification de cours sur:
+82,There were errors while sending email. Please try again.,Il y a eu des erreurs lors de l'envoi d’emails. Veuillez essayer à nouveau.
+83,There were errors. Please report this.,Il y a eu des erreurs. Veuillez nous le signaler.
+84,"There were some errors setting the name, please contact the administrator","Il y a eu des erreurs lors de la configuration du nom, veuillez contacter l'administrateur"
+85,"These permissions will apply for all transactions where the permitted record is linked. For example, if Company C is added to User Permissions of user X, user X will only be able to see transactions that has company C as a linked value.","Ces autorisations s'appliquent pour toutes les transactions où l’enregistrement permis est liée. Par exemple, si la Société C est ajoutée aux Autorisations Utilisateur de l’utilisateur X, l’utilisateur X ne pourra voir que les transactions liées à la Société C."
+86,These restrictions will apply for Document Types where 'Apply User Permissions' is checked for the permission rule and a field with this value is present.,Ces restrictions seront appliquées pour les Types de Documents où «Appliquer les Autorisations des Utilisateurs» est cochée pour la règle de l'autorisation et un champ avec cette valeur est présente.
 87,These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values.,Ces valeurs seront automatiquement mis à jour dans les transactions et sera également utile pour restreindre les autorisations pour cet utilisateur sur les transactions contenant ces valeurs.
-88,"These will also be set as default values for those links, if only one such permission record is defined.","Elles seront également définies comme valeurs par défaut pour ces liens , si un seul tel dossier d'autorisation est définie ."
-89,This {0} conflicts with {1} for {2} {3},Ce {0} conflits avec {1} pour {2} {3}
+88,"These will also be set as default values for those links, if only one such permission record is defined.","Elles seront également définies comme valeurs par défaut pour ces liens, si une telle valeur d'autorisation est définie au moins une fois."
+89,This {0} conflicts with {1} for {2} {3},Ce {0} est en conflit avec {1} pour {2} {3}
 90,This document is currently queued for execution. Please try again,Ce document est actuellement en attente d'exécution. Veuillez réessayer
-91,This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?,Ce document est supérieure à la limite par {0} {1} pour le poste {4}. Faites-vous une autre {3} contre le même {2}?
-92,This feature is brand new and still experimental,Cette fonctionnalité est tout neuf et encore expérimental
+91,This document is over limit by {0} {1} for item {4}. Are you making another {3} against the same {2}?,Ce document excède la limite de {0} {1} pour l’article {4}. Faites-vous un autre {3} contre le même {2} ?
+92,This feature is brand new and still experimental,Cette fonctionnalité est toute nouvelle et encore expérimentale
 93,"This field will appear only if the fieldname defined here has value OR the rules are true (examples): 
 myfield
 eval:doc.myfield=='My Value'
-eval:doc.age>18",Ce champ apparaît uniquement si le fieldname défini ici a une valeur OU les règles sont vrais (exemples): myfield eval: doc.myfield == 'My Value' eval: doc.age> 18
-94,This goes above the slideshow.,Cela va au-dessus du diaporama.
-95,This is a root customer group and cannot be edited.,Il s'agit d'un groupe de clients de la racine et ne peut être modifié .
-96,This is a root sales person and cannot be edited.,Il s'agit d'une personne de ventes de racines et ne peut être modifié .
-97,This is a top-10 common password.,Ceci est un mot de passe commun top-10.
-98,This is a top-100 common password.,Ceci est un mot de passe commun top-100.
-99,This is a very common password.,Ceci est un mot de passe très commun.
-100,This is based on logs against this Vehicle. See timeline below for details,Ceci est basé sur les journaux contre ce véhicule. Voir calendrier ci-dessous pour plus de détails
-101,This is based on stock movement. See {0} for details,Ceci est basé sur les mouvements de stock. Voir {0} pour plus de détails
-102,This is based on the attendance of this Employee,Ceci est basé sur la présence de cet employé
-103,This is based on the attendance of this Student,Ceci est basé sur la présence de cet étudiant
-104,This is based on the Time Sheets created against this project,Ceci est basé sur les feuilles de temps créées contre ce projet
-105,This is based on transactions against this Customer. See timeline below for details,Ceci est basé sur les transactions contre ce client. Voir calendrier ci-dessous pour plus de détails
-106,This is based on transactions against this Supplier. See timeline below for details,Ceci est basé sur les transactions contre ce fournisseur. Voir calendrier ci-dessous pour plus de détails
-107,This is similar to a commonly used password.,Ceci est similaire à un mot de passe couramment utilisé.
-108,This Item is a Template and cannot be used in transactions. Item attributes will be copied over into the variants unless 'No Copy' is set,Cet article est un modèle et ne peut être utilisé dans les transactions. Attributs d'élément seront copiés dans les variantes moins 'No Copy »est réglé
-109,This Item is a Variant of {0} (Template). Attributes will be copied over from the template unless 'No Copy' is set,Cet article est une variante de {0} (Template). Attributs seront copiés à partir du modèle à moins 'No Copy »est réglé
-110,This Kanban Board will be private,Ce conseil Kanban sera privé
-111,This link is invalid or expired. Please make sure you have pasted correctly.,Ce lien est invalide ou expiré. S'il vous plaît faire sûr que vous avez collé correctement.
+eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a une valeur OU les règles sont vérifiées (exemples): monchamp  eval: doc.monchamp == 'Ma Valeur'  eval: doc.age> 18
+94,This goes above the slideshow.,Ceci va au-dessus du diaporama.
+95,This is a root customer group and cannot be edited.,C’est un groupe de clients racine qui ne peut être modifié .
+96,This is a root sales person and cannot be edited.,C’est un commercial racine qui ne peut être modifié .
+97,This is a top-10 common password.,C’est un mot de passe commun dans le top-10.
+98,This is a top-100 common password.,C’est un mot de passe commun dans le top-100.
+99,This is a very common password.,C’est un mot de passe très commun.
+100,This is based on logs against this Vehicle. See timeline below for details,Basé sur les journaux de ce Véhicule. Voir la chronologie ci-dessous pour plus de détails
+101,This is based on stock movement. See {0} for details,Basé sur les mouvements de stock. Voir {0} pour plus de détails
+102,This is based on the attendance of this Employee,Basé sur la présence de cet Employé
+103,This is based on the attendance of this Student,Basé sur la présence de cet Étudiant
+104,This is based on the Time Sheets created against this project,Basé sur les Feuilles de Temps créées sur ce projet
+105,This is based on transactions against this Customer. See timeline below for details,Basé sur les transactions avec ce client. Voir la chronologie ci-dessous pour plus de détails
+106,This is based on transactions against this Supplier. See timeline below for details,Basé sur les transactions avec ce fournisseur. Voir la chronologie ci-dessous pour plus de détails
+107,This is similar to a commonly used password.,C’est similaire à un mot de passe couramment utilisé.
+108,This Item is a Template and cannot be used in transactions. Item attributes will be copied over into the variants unless 'No Copy' is set,Cet Article est un Modèle et ne peut être utilisé dans les transactions. Les Attributs d’Articles seront copiés dans les variantes sauf si ‘Pas de Copie’ est coché
+109,This Item is a Variant of {0} (Template). Attributes will be copied over from the template unless 'No Copy' is set,Cet Article est une Variante de {0} (Modèle). Les Attributs seront copiés à partir du modèle sauf si ‘Pas de Copie’ est coché
+110,This Kanban Board will be private,Ce Tableau Kanban sera privé
+111,This link is invalid or expired. Please make sure you have pasted correctly.,Ce lien est invalide ou expiré. Veuillez vous assurer que vous l’avez collé correctement.
 112,This password will take {0} to crack,Ce mot de passe prendra {0} à craquer
-113,This role update User Permissions for a user,Ce rôle Permission mise à jour de l'utilisateur pour un utilisateur
-114,"This will be appended to the Item Code of the variant. For example, if your abbreviation is ""SM"", and the item code is ""T-SHIRT"", the item code of the variant will be ""T-SHIRT-SM""","Ce sera ajoutée au Code de la variante de l'article. Par exemple, si votre abréviation est «SM», et le code de l'article est ""T-SHIRT"", le code de l'article de la variante sera ""T-SHIRT-SM"""
+113,This role update User Permissions for a user,Ce rôle met à jour les Autorisations Utilisateur pour un utilisateur
+114,"This will be appended to the Item Code of the variant. For example, if your abbreviation is ""SM"", and the item code is ""T-SHIRT"", the item code of the variant will be ""T-SHIRT-SM""","Ce sera ajoutée au Code de la Variante de l'Article. Par exemple, si votre abréviation est «SM», et le code de l'article est ""T-SHIRT"", le code de l'article de la variante sera ""T-SHIRT-SM"""
 115,Threshold,Seuil
-116,thumbs-up,thumbs-up
-117,Time Sheet,Emploi du temps
-118,Time Sheet for manufacturing.,Feuille de temps pour la fabrication.
-119,Time Sheet List,Time Sheet Liste
-120,Time Sheets,Feuilles de temps
-121,Time(in mins),Temps (en minutes)
-122,Timeline DocType,DocType timeline
-123,Timeline field must be a Link or Dynamic Link,champ calendrier doit être un lien ou Dynamic Link
-124,Timeline field must be a valid fieldname,champ calendrier doit être un nom de champ valide
-125,Timeline field Name,champ Nom Timeline
-126,Timeline Name,Nom timeline
-127,Timesheet,Emploi du temps
-128,Timesheet {0} is already completed or cancelled,Timesheet {0} est déjà terminée ou annulée
-129,Timesheet created:,Timesheet créé:
-130,Timesheet Detail,Détail Timesheet
-131,Timesheet for tasks.,Timesheet pour les tâches.
-132,Timesheets,Timesheets
-133,"Timesheets help keep track of time, cost and billing for activites done by your team","Timesheets aider à suivre le temps, le coût et la facturation des activités effectuées par votre équipe"
-134,Timestamp,Timestamp
-135,Tip:  Double click cell to edit,Astuce: Double cellule cliquez pour modifier
-136,Title Case,Case Titre
+116,thumbs-up,pouces-vers-le-haut
+117,Time Sheet,Feuille de Temps
+118,Time Sheet for manufacturing.,Feuille de Temps pour la Fabrication.
+119,Time Sheet List,Liste de Feuille de Temps
+120,Time Sheets,Feuilles de Temps
+121,Time(in mins),Temps (en min)
+122,Timeline DocType,DocType Chronologie
+123,Timeline field must be a Link or Dynamic Link,Le champ Chronologie doit être une Lien ou un Champ Dynamique
+124,Timeline field must be a valid fieldname,Le champ Chronologie doit être un champ valide
+125,Timeline field Name,Nom du champ Chronologie
+126,Timeline Name,Nom de la Chronologie
+127,Timesheet,Feuille de Temps
+128,Timesheet {0} is already completed or cancelled,La Feuille de Temps {0} est déjà terminée ou annulée
+129,Timesheet created:,Feuille de Temps créée:
+130,Timesheet Detail,Détails de la Feuille de Temps
+131,Timesheet for tasks.,Feuille de Temps pour les tâches.
+132,Timesheets,Feuilles de Temps
+133,"Timesheets help keep track of time, cost and billing for activites done by your team","Les Feuilles de Temps aident au suivi du temps, coût et facturation des activités effectuées par votre équipe"
+134,Timestamp,Horodatage
+135,Tip:  Double click cell to edit,Astuce: Double cliquez dans une cellule pour l’éditer
+136,Title Case,Casse du Titre
 137,Title field must be a valid fieldname,Champ Titre doit être un nom de champ valide
-138,"To allow over-billing or over-ordering, update ""Allowance"" in Stock Settings or the Item.","Pour permettre la surfacturation ou sur-commande, mettre à jour ""allocation"" dans Paramètres stock ou l'article."
+138,"To allow over-billing or over-ordering, update ""Allowance"" in Stock Settings or the Item.","Pour permettre la sur-facturation ou la sur-commande, mettez à jour ""Indulgence"" dans les Paramètres de Stock ou d’Article."
 139,To and CC,Pour et CC
-140,To Currency,Pour Devise
-141,To Date should be within the Fiscal Year. Assuming To Date = {0},Pour la date doit être dans l'exercice. En supposant à ce jour = {0}
-142,"To filter based on Party, select Party Type first","Pour filtrer sur la base du Parti, sélectionnez Parti premier type"
+140,To Currency,Devise Finale
+141,To Date should be within the Fiscal Year. Assuming To Date = {0},La Date Finale doit être dans l'exercice. En supposant Date Finale = {0}
+142,"To filter based on Party, select Party Type first","Pour filtrer en fonction du Parti, sélectionnez d’abord le Type de Parti"
 143,to filter values between 5 & 10,pour filtrer des valeurs comprises entre 5 et 10
-144,"To format columns, give column labels in the query.","Pour formater colonnes, donner des étiquettes de colonne dans la requête."
-145,"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.","Pour tirer le meilleur parti de ERPNext, nous vous recommandons de prendre un peu de temps et de regarder ces vidéos d'aide."
-146,"To give acess to a role for only specific records, check the Apply User Permissions. User Permissions are used to limit users with such role to specific records.","Pour donner acess à un rôle pour que les enregistrements spécifiques, vérifiez les permissions d'utilisation se appliquent. les autorisations des utilisateurs sont utilisés pour limiter les utilisateurs avec ce rôle à des enregistrements spécifiques."
+144,"To format columns, give column labels in the query.","Pour formater des colonnes, donnez des étiquettes de colonne dans la requête."
+145,"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.","Pour tirer le meilleur parti d’ERPNext, nous vous recommandons de prendre un peu de temps et de regarder ces vidéos d'aide."
+146,"To give acess to a role for only specific records,  check the Apply User Permissions. User Permissions are used to limit users with such role to specific records.","Pour donner accès à des enregistrements spécifiques à un rôle,  vérifiez l’option Appliquer les Autorisations des Utilisateurs. Les autorisations des utilisateurs sont utilisées pour limiter les utilisateurs avec ce rôle à des enregistrements spécifiques."
 147,"To import or update records, you must first download the template for importing.","Pour importer ou mettre à jour des entrées, vous devez d'abord télécharger le modèle d'import."
-148,"To include tax in row {0} in Item rate, taxes in rows {1} must also be included","D'inclure la taxe dans la ligne {0} dans le prix de l'article , les impôts dans les lignes {1} doivent également être inclus"
-149,To Invoice Date,Pour Date de la facture
-150,"To merge, following properties must be same for both items","Pour fusionner , les propriétés suivantes doivent être les mêmes pour les deux articles"
-151,"To not apply Pricing Rule in a particular transaction, all applicable Pricing Rules should be disabled.","De ne pas appliquer la règle Prix dans une transaction particulière, toutes les règles de tarification applicables doivent être désactivés."
-152,To Package No.,Pour Emballer n °
-153,To Range,Se situer
+148,"To include tax in row {0} in Item rate, taxes in rows {1} must also be included","Pour inclure la taxe de la ligne {0} dans le prix de l'Article , les taxes des lignes {1} doivent également être incluses"
+149,To Invoice Date,Date de Facture Finale
+150,"To merge, following properties must be same for both items","Pour fusionner, les propriétés suivantes doivent être les mêmes pour les deux articles"
+151,"To not apply Pricing Rule in a particular transaction, all applicable Pricing Rules should be disabled.","Pour ne pas appliquer la Règle de Tarification dans une transaction particulière, toutes les Règles de Tarification applicables doivent être désactivés."
+152,To Package No.,Au N° de Paquet
+153,To Range,Au Rang
 154,"To renew, {0}.","Pour renouveler, {0}."
-155,"To run a test add the module name in the route after '{0}'. For example, {1}","Pour exécuter un essai, ajoutez le nom du module dans le parcours après '{0}'. Par exemple, {1}"
-156,"To set this Fiscal Year as Default, click on 'Set as Default'","Pour définir cette Année financière que par défaut , cliquez sur "" Définir par défaut """
-157,To Value,To Value
+155,"To run a test add the module name in the route after '{0}'. For example, {1}","Pour exécuter un test, ajoutez le nom du module dans le chemin après '{0}'. Par exemple, {1}"
+156,"To set this Fiscal Year as Default, click on 'Set as Default'","Pour définir cet Exercice Fiscal par défaut , cliquez sur ""Définir par défaut"""
+157,To Value,Valeur Finale
 158,Token,Jeton
-159,Token is missing,Token est manquant
-160,"Too many users signed up recently, so the registration is disabled. Please try back in an hour","Trop d'utilisateurs ont signé récemment, alors l'enregistrement est désactivé. S'il vous plaît essayer de revenir dans une heure"
-161,Too many writes in one request. Please send smaller requests,Trop écrit en une seule requête . S'il vous plaît envoyer des demandes plus petites
-162,Top Bar,Top Bar
-163,Top Bar Color,Top Bar Couleur
-164,Top Bar Color and Text Color are the same. They should be have good contrast to be readable.,Top Bar couleur et la couleur du texte sont les mêmes. Ils devraient être présentent un bon contraste pour être lisible.
-165,Top Bar Item,Point Bar Top
-166,Top Bar Items,Articles Top Bar
-167,Top Bar Text Color,Top Bar couleur du texte
+159,Token is missing,Le Jeton est manquant
+160,"Too many users signed up recently, so the registration is disabled. Please try back in an hour","Trop d'utilisateurs se sont inscrits récemment, du coup l’inscription est désactivée. Veuillez essayer à nouveau dans une heure"
+161,Too many writes in one request. Please send smaller requests,Trop d’écritures en une seule requête. Veuillez envoyer des requêtes plus petites
+162,Top Bar,Barre Supérieure
+163,Top Bar Color,Couleur de la Barre Supérieure
+164,Top Bar Color and Text Color are the same. They should be have good contrast to be readable.,La Couleur de la Barre Supérieure et la Couleur du Texte sont identiques. Elles devraient présenter un bon contraste pour être lisible.
+165,Top Bar Item,Article de la Barre Supérieure
+166,Top Bar Items,Articles de la Barre Supérieure
+167,Top Bar Text Color,Couleur de Texte de la Barre Supérieure
 168,Topic,Sujet
-169,Topic Name,Nom de la rubrique
-170,Total (Company Currency),Total (Société devise)
-171,Total (Credit),Total (crédit)
+169,Topic Name,Nom du Sujet
+170,Total (Company Currency),Total (Devise Société)
+171,Total (Credit),Total (Crédit)
 172,Total {0} ({1}),Total {0} ({1})
-173,"Total {0} for all items is zero, may be you should change 'Distribute Charges Based On'","Total des {0} pour tous les articles est nul, peut-être vous devriez changer « Distribuez frais sur la base »"
-174,Total Absent,Absent total
-175,Total Achieved,Total obtenu
-176,Total Additional Costs,Total des coûts supplémentaires
-177,Total advance ({0}) against Order {1} cannot be greater than the Grand Total ({2}),Avance totale ({0}) contre l'ordonnance {1} ne peut pas être supérieure à la Grand total ({2})
-178,Total Allocated Amount,Montant total alloué
-179,Total Allocated Amount (Company Currency),Montant total alloué (Société Monnaie)
-180,Total allocated leaves {0} cannot be less than already approved leaves {1} for the period,Nombre de feuilles alloués {0} ne peut pas être inférieure à feuilles déjà approuvés {1} pour la période
-181,Total allocated leaves are more than days in the period,Nombre de feuilles alloués sont plus de jours de la période
-182,Total allocated percentage for sales team should be 100,Pourcentage total alloué à l'équipe de vente devrait être de 100
-183,Total Amount Currency,Montant total devise
+173,"Total {0} for all items is zero, may be you should change 'Distribute Charges Based On'","Le Total {0} pour tous les articles est nul, peut-être devriez-vous modifier ‘Distribuez les Frais sur la Base de’"
+174,Total Absent,Total des Absences
+175,Total Achieved,Total Obtenu
+176,Total Additional Costs,Total des Coûts Additionnels
+177,Total advance ({0}) against Order {1} cannot be greater than the Grand Total ({2}),Avance totale ({0}) pour la Commande {1} ne peut pas être supérieure au Total Général ({2})
+178,Total Allocated Amount,Montant Total Alloué
+179,Total Allocated Amount (Company Currency),Montant Total Alloué (Devise Société)
+180,Total allocated leaves {0} cannot be less than already approved leaves {1} for the period,Le Total des feuilles attribuées {0} ne peut pas être inférieur aux feuilles déjà approuvées {1} pour la période
+181,Total allocated leaves are more than days in the period,Le Total des feuilles attribuées est supérieur au nombre de jours dans la période
+182,Total allocated percentage for sales team should be 100,Pourcentage total attribué à l'équipe commerciale devrait être de 100
+183,Total Amount Currency,Montant Total en Devise
 184,Total Amount in Words,Montant Total En Toutes Lettres
-185,Total Applicable Charges in Purchase Receipt Items table must be same as Total Taxes and Charges,Total des frais applicables en Achat Table des reçus Les articles doivent être le même que Total des taxes et frais
-186,Total Billable Amount,Montant total facturable
-187,Total Billable Hours,Nombre total d'heures facturables
-188,Total Billed Amount,Montant total Facturé
-189,Total Billed Hours,Total des heures facturées
-190,Total Billing Amount,Montant total de la facturation
-191,Total Billing Amount (via Time Logs),Montant total de la facturation (via Time Logs)
-192,Total Billing Amount (via Time Sheet),Montant total de la facturation (via la feuille de temps)
+185,Total Applicable Charges in Purchase Receipt Items table must be same as Total Taxes and Charges,Total des Frais Applicables dans la Table des Articles de Reçus d’Achat doit être égal au Total des Taxes et Frais
+186,Total Billable Amount,Montant Total Facturable
+187,Total Billable Hours,Total des Heures Facturables
+188,Total Billed Amount,Montant Total Facturé
+189,Total Billed Hours,Total des Heures Facturées
+190,Total Billing Amount,Montant Total de Facturation
+191,Total Billing Amount (via Time Logs),Montant Total de Facturation (via Journaux de Temps)
+192,Total Billing Amount (via Time Sheet),Montant Total de Facturation (via Feuille de Temps)
 193,Total cannot be zero,Total ne peut pas être zéro
-194,Total Characters,Nombre de caractères
+194,Total Characters,Nombre de Caractères
 195,Total Commission,Total de la Commission
-196,Total Cost(Company Currency),Coût total (Société Monnaie)
-197,Total Costing Amount,Montant total Costing
-198,Total Costing Amount (via Time Logs),Montant total Costing (via Time Logs)
-199,Total Costing Amount (via Time Sheet),Total Costing Montant (via la feuille de temps)
-200,Total Credit,Crédit total
-201,Total Debit,Débit total
-202,Total Debit must be equal to Total Credit. The difference is {0},Débit total doit être égal au total du crédit .
-203,Total Deduction,Déduction totale
-204,Total Experience,Total Experience
+196,Total Cost(Company Currency),Coût Total (Devise Société)
+197,Total Costing Amount,Montant Total des Coûts
+198,Total Costing Amount (via Time Logs),Montant Total des Coûts (via Journaux de Temps)
+199,Total Costing Amount (via Time Sheet),Montant Total des Coûts (via Feuille de Temps)
+200,Total Credit,Total Crédit
+201,Total Debit,Total Débit
+202,Total Debit must be equal to Total Credit. The difference is {0},Le Total du Débit doit être égal au Total du Crédit. La différence est de {0}
+203,Total Deduction,Déduction Totale
+204,Total Experience,Expérience Totale
 205,Total hours: {0},Nombre total d'heures: {0}
-206,Total Interest Payable,Total des intérêts à payer
-207,Total Invoiced Amount,Montant total facturé
-208,Total Invoiced Amt,Total facturé Amt
-209,Total Leave Days,Total des jours de congé
-210,Total Leaves,Les feuilles au total
-211,Total Leaves Allocated,Feuilles total alloué
-212,Total leaves allocated is mandatory,Nombre de feuilles alloués est obligatoire
-213,Total Loan Repayment,Remboursement du prêt total
-214,Total Margin,Marge totale
-215,Total Message(s),Comptes temporaires ( actif)
-216,Total Number of Depreciations,Nombre total de Amortissements
-217,Total number of emails to sync in initial sync process,Nombre total d'e-mails à synchroniser dans le processus de synchronisation initiale
-218,Total of all task weights should be 1. Please adjust weights of all Project tasks accordingly,Total de tous les poids de la tâche devrait être 1. S'il vous plaît ajuster les poids de toutes les tâches du projet en conséquence
-219,Total Operating Cost,Coût d'exploitation total
-220,Total Order Considered,Total de la commande Considéré
-221,Total Order Value,Ordre Valeur totale
-222,Total Outgoing,Sortant total
-223,Total Outstanding Amount,Encours total
-224,Total Outstanding Amt,Encours total Amt
-225,Total Paid Amount,Montant total payé
-226,Total Paid Amt,Amt total payé
-227,Total Payable Amount,Montant total à payer
-228,Total Payable Interest,Intérêts payables total
-229,Total Payment,Paiement total
-230,Total Present,Présent total
-231,Total Projected Qty,Nombre total prévu
-232,Total Purchase Cost (via Purchase Invoice),Coût d'achat total (via la facture d'achat)
-233,Total Revenue,Revenu total
-234,Total Score,Score total
-235,Total Score (Out of 5),Score total (sur 5)
-236,Total Subscribers,Nombre total d'abonnés
-237,Total Target,Cible total
-238,Total Tax,Total Tax
-239,Total Taxes and Charges,Total Taxes et frais
-240,Total Taxes and Charges (Company Currency),Total des taxes et charges (Société Monnaie)
-241,Total Unpaid: {0},Total non rémunéré: {0}
-242,Total Variance,Variance totale
-243,Total weightage assigned should be 100%. It is {0},Weightage totale attribuée devrait être de 100 % . Il est {0}
-244,Total Weightage of all Assessment Criteria must be 100%,Total des weightage de tous les critères d'évaluation doit être 100%
-245,Total Working Hours,Total des heures de travail
-246,Total working hours should not be greater than max working hours {0},Nombre total d'heures de travail ne doit pas être supérieure à la durée du travail max {0}
+206,Total Interest Payable,Total des Intérêts à Payer
+207,Total Invoiced Amount,Montant Total Facturé
+208,Total Invoiced Amt,Mnt Total Facturé
+209,Total Leave Days,Total des Jours de Congé
+210,Total Leaves,Total des Congés
+211,Total Leaves Allocated,Total des Congés Attribués
+212,Total leaves allocated is mandatory,Total des Congés attribués est obligatoire
+213,Total Loan Repayment,Total de Remboursement du Prêt
+214,Total Margin,Marge Totale
+215,Total Message(s),Total des Messages
+216,Total Number of Depreciations,Nombre Total d’Amortissements
+217,Total number of emails to sync in initial sync process,Nombre total d'emails à synchroniser dans le processus de synchronisation initiale
+218,Total of all task weights should be 1. Please adjust weights of all Project tasks accordingly,Le total des poids des tâches doit être égal à 1. Veuillez ajuster les poids de toutes les tâches du Projet en conséquence
+219,Total Operating Cost,Coût d'Exploitation Total
+220,Total Order Considered,Total de la Commande Considéré
+221,Total Order Value,Total de la Valeur de la Commande
+222,Total Outgoing,Total Sortant
+223,Total Outstanding Amount,Encours Total
+224,Total Outstanding Amt,Encours Total
+225,Total Paid Amount,Montant Total Payé
+226,Total Paid Amt,Mnt Total Payé
+227,Total Payable Amount,Montant Total Créditeur
+228,Total Payable Interest,Total des Intérêts Créditeurs
+229,Total Payment,Paiement Total
+230,Total Present,Total des Présents
+231,Total Projected Qty,Qté Totale Prévue
+232,Total Purchase Cost (via Purchase Invoice),Coût d'Achat Total (via Facture d'Achat)
+233,Total Revenue,Revenu Total
+234,Total Score,Score Total
+235,Total Score (Out of 5),Score Total (sur 5)
+236,Total Subscribers,Total d'Abonnés
+237,Total Target,Cible Totale
+238,Total Tax,Total des Taxes
+239,Total Taxes and Charges,Total des Taxes et Frais
+240,Total Taxes and Charges (Company Currency),Total des Taxes et Frais (Devise Société)
+241,Total Unpaid: {0},Total des Impayés: {0}
+242,Total Variance,Variance Totale
+243,Total weightage assigned should be 100%. It is {0},Le total des pondérations attribuées devrait être de 100 %. Il est {0}
+244,Total Weightage of all Assessment Criteria must be 100%,Le total des pondérations de tous les Critères d'Évaluation doit être égal à 100%
+245,Total Working Hours,Total des Heures Travaillées
+246,Total working hours should not be greater than max working hours {0},Le nombre total d'heures travaillées ne doit pas être supérieur à la durée maximale du travail {0}
 247,Traceability,Traçabilité
 248,Traceback,Retraçage
-249,Track Changes,Suivi des modifications
-250,Track Seen,piste Vu
-251,Track separate Income and Expense for product verticals or divisions.,Suivre les revenus et dépenses de séparée verticales ou divisions produits.
-252,Track this Delivery Note against any Project,Suivre ce bon de livraison contre tout projet
-253,Track this Sales Order against any Project,Suivre ce décret ventes contre tout projet
-254,Trainer Email,entraîneur Email
-255,Trainer Name,Nom formateur
-256,Training,Entraînement
-257,Training Event,formation événement
-258,Training Event Employee,La formation des employés de l'événement
-259,Training Feedback,Retour d'expérience sur la formation
-260,Training Result,formation Résultat
-261,Training Result Employee,Formation Résultat des employés
-262,Transaction Currency,Devise de la transaction
-263,Transaction currency must be same as Payment Gateway currency,Devise de la transaction doit être la même que la monnaie paiement passerelle
-264,Transaction Date,Date de la transaction
-265,Transaction ID,identifiant de transaction
-266,Transaction reference no {0} dated {1},Référence de la transaction ne {0} daté {1}
+249,Track Changes,Suivre les Modifications
+250,Track Seen,Suivre les Vues
+251,Track separate Income and Expense for product verticals or divisions.,Suivre les Revenus et Charges des verticales ou divisions produits séparément.
+252,Track this Delivery Note against any Project,Suivre ce Bon de Livraison pour tous les Projets
+253,Track this Sales Order against any Project,Suivre cette Commande de Vente pour tous les Projets
+254,Trainer Email,Email du Formateur
+255,Trainer Name,Nom du Formateur
+256,Training,Formation
+257,Training Event,Évènement de Formation
+258,Training Event Employee,Évènement de Formation – Employé
+259,Training Feedback,Retour d'Expérience sur la Formation
+260,Training Result,Résultat de la Formation
+261,Training Result Employee,Résultat de la Formation – Employé
+262,Transaction Currency,Devise de la Transaction
+263,Transaction currency must be same as Payment Gateway currency,La devise de la Transaction doit être la même que la devise de la Passerelle de Paiement
+264,Transaction Date,Date de la Transaction
+265,Transaction ID,Identifiant de transaction
+266,Transaction reference no {0} dated {1},Référence de la transaction n° {0} datée du {1}
 267,Transfer an asset from one warehouse to another,Transfert d'un actif d'un entrepôt à un autre
-268,Transfer Asset,Transfert d'actifs
-269,Translated Text,texte Traduit
+268,Transfer Asset,Transfert d'Actifs
+269,Translated Text,Texte Traduit
 270,Tree,Arbre
-271,Tree Details,Arbre Détails
+271,Tree Details,Détails de l’Arbre
 272,Tree of financial accounts.,Arbre des comptes financiers.
-273,Tree of financial Cost Centers.,Arbre des centres de coûts financiers.
-274,Tree of Item Groups.,Arbre de groupes des ouvrages .
-275,Tree Type,Type d' arbre
-276,Tree view not available for {0},Arborescence pas disponible pour {0}
-277,Treshold {0}% appears more than once,{0} treshold% apparaît plus d'une fois
-278,Trial Balance,Balance
+273,Tree of financial Cost Centers.,Arbre des Centres de Coûts financiers.
+274,Tree of Item Groups.,Arbre de Groupes d’Articles .
+275,Tree Type,Type d'Arbre
+276,Tree view not available for {0},Arborescence indisponible pour {0}
+277,Treshold {0}% appears more than once,Le seuil {0}% apparaît plus d'une fois
+278,Trial Balance,Balance Générale
 279,Trial Balance for Party,Balance Auxiliaire
-280,Trigger Method,Trigger Méthode
-281,"Trigger on valid methods like ""before_insert"", ""after_update"", etc (will depend on the DocType selected)","Trigger sur les méthodes valides comme ""before_insert"", ""after_update"", etc (dépendra du DocType choisi)"
-282,Try planning operations for X days in advance.,Essayez opérations de X jours de la planification à l'avance.
+280,Trigger Method,Méthode de Déclenchement
+281,"Trigger on valid methods like ""before_insert"", ""after_update"", etc (will depend on the DocType selected)","Délencher sur des méthodes valides comme ""before_insert"", ""after_update"", etc (dépendra du DocType choisi)"
+282,Try planning operations for X days in advance.,Essayez de planifer des opérations X jours à l'avance.
 283,Try to avoid repeated words and characters,Essayez d'éviter les mots et les caractères répétés
-284,Try to use a longer keyboard pattern with more turns,Essayez d'utiliser un modèle de clavier plus avec plusieurs tours
+284,Try to use a longer keyboard pattern with more turns,Essayez d'utiliser un motif de clavier avec plus de tours
 285,TS-,TS-
 286,Type of document to rename.,Type de document à renommer.
-287,"Type of leaves like casual, sick etc.","Type de feuilles comme occasionnel, etc malades"
-288,Type of Payment,Type de paiement
+287,"Type of leaves like casual, sick etc.","Type de congé comme courant, maladie, etc."
+288,Type of Payment,Type de Paiement
 289,Type something in the search box to search,Tapez quelque chose dans la zone de recherche pour rechercher
 290,Type:,Type:
-291,Types of activities for Time Logs,Types d'activités pour Time Logs
-292,Types of Expense Claim.,Types de demande de remboursement.
+291,Types of activities for Time Logs,Types d'activités pour Journaux de Temps
+292,Types of Expense Claim.,Types de Demande de Remboursement de Frais Professionnels.
 293,Table {0} cannot be empty,La Table {0} ne peut pas être vide
-294,Table for Item that will be shown in Web Site,Tableau pour l'article qui sera affiché dans le site Web
+294,Table for Item that will be shown in Web Site,Table pour l'Article qui sera affiché sur le site Web
 295,Taken,Pris
-296,Target  Amount,Montant Ciblé
+296,Target  Amount,Montant Cible
 297,"target = ""_blank""","target = ""_blank"""
-298,Target Qty,Qté cible
-299,Target Warehouse,Entrepôt cible
-300,Target warehouse in row {0} must be same as Production Order,Entrepôt cible à la ligne {0} doit être le même que l'ordre de fabrication
-301,Target warehouse is mandatory for row {0},Entrepôt cible est obligatoire pour la ligne {0}
+298,Target Qty,Qté Cible
+299,Target Warehouse,Entrepôt Cible
+300,Target warehouse in row {0} must be same as Production Order,L’Entrepôt cible à la ligne {0} doit être le même que dans l'Ordre de Production
+301,Target warehouse is mandatory for row {0},L’Entrepôt cible est obligatoire pour la ligne {0}
 302,Targets,Cibles
 303,Task,Tâche
-304,Task Depends On,Tâches dépendent de
+304,Task Depends On,Tâches Dépendente de
 305,Task ID,Tâche ID
-306,Task Name,Nom de la tâche
+306,Task Name,Nom de la Tâche
 307,Tasks,Tâches
-308,Tax,Impôt
-309,Tax Amount After Discount Amount,Montant de la taxe après le montant de la remise
-310,Tax Assets,Actifs d'impôts
-311,Tax ID,Numéro d'identification fiscale
-312,Tax Rate,Taux d'imposition
-313,Taxes,Impôts
-314,Taxes and Charges,Impôts et taxes
-315,Team Members,Membres de l'équipe
-316,Telephone Expenses,Dépenses téléphonique
+308,Tax,Taxe
+309,Tax Amount After Discount Amount,Montant de la Taxe après Remise
+310,Tax Assets,Actifs d'Impôts
+311,Tax ID,Numéro d'Identification Fiscale
+312,Tax Rate,Taux d'Imposition
+313,Taxes,Taxes
+314,Taxes and Charges,Taxes et Frais
+315,Team Members,Membres de l'Équipe
+316,Telephone Expenses,Frais Téléphonique
 317,Television,Télévision
 318,Template,Modèle
-319,Template for performance appraisals.,Modèle pour l'évaluation du rendement .
+319,Template for performance appraisals.,Modèle pour l'évaluation de la performance.
 320,Template of terms or contract.,Modèle de termes ou de contrat.
 321,Temporary,Temporaire
-322,Temporary Accounts,Comptes provisoires
-323,Temporary Opening,Ouverture temporaire
-324,Terms and Conditions Content,Contenu des termes et conditions
-325,Terms and Conditions Details,Détails des termes et conditions
-326,Terms and Conditions Template,Modèle des termes et conditions
-327,Terms and Conditions1,Termes et conditions1
+322,Temporary Accounts,Comptes Temporaires
+323,Temporary Opening,Ouverture Temporaire
+324,Terms and Conditions Content,Contenu des Termes et Conditions
+325,Terms and Conditions Details,Détails des Termes et Conditions
+326,Terms and Conditions Template,Modèle des Termes et Conditions
+327,Terms and Conditions1,Termes et Conditions
 328,Territory,Région
-329,Territory / Customer,Région / client
+329,Territory / Customer,Région / Client
 330,Territory Manager,Responsable Régional
-331,Territory Name,Nom de la région
-332,Territory Target Variance Item Group-Wise,Variance de région cible selon le groupe d'article
+331,Territory Name,Nom de la Région
+332,Territory Target Variance Item Group-Wise,Variance de la cible par région en fonction du groupe d'article
 333,Territory Targets,Les objectifs régional
-334,Test Email Address,Adresse Email de test
-335,Text Align,Aligner le texte
-336,Text Color,Couleur du texte
-337,text-width,Largeur-text
+334,Test Email Address,Adresse Email de Test
+335,Text Align,Aligner le Texte
+336,Text Color,Couleur du Texte
+337,text-width,largeur-text
 338,Thank you,Merci
 339,Thank You !!,Merci !!
 340,Thank you for your email,Merci pour votre Email
-341,Thank you for your interest in subscribing to our updates,Merci de votre intérêt pour en vous abonnant à nos mises à jour
-342,"The application has been updated to a new version, please refresh this page","L'application a été mise à jour vers une nouvelle version, s'il vous plaît rafraîchissez cette page"
+341,Thank you for your interest in subscribing to our updates,Merci de l’intérêt que vous nous montrez en vous abonnant à notre actualité
+342,"The application has been updated to a new version, please refresh this page","L'application a été mise à jour vers une nouvelle version, veuillez rafraîchir cette page"
 343,The Brand,La Marque
-344,The first Leave Approver in the list will be set as the default Leave Approver,Le premier approbateur de congé dans la liste sera définie comme approbateur par défaut
-345,The First User: You,Le premier utilisateur: Vous
-346,The Item {0} cannot have Batch,L'article {0} ne peut être en lot
+344,The first Leave Approver in the list will be set as the default Leave Approver,Le premier Approbateur de Congé dans la liste sera défini comme Approbateur par défaut
+345,The First User: You,Le Premier Utilisateur: Vous
+346,The Item {0} cannot have Batch,L'Article {0} ne peut être en Lot
 347,The name of your company for which you are setting up this system.,Le nom de l'entreprise pour laquelle vous configurez ce système .
-348,The net weight of this package. (calculated automatically as sum of net weight of items),Le poids net de ce paquet. (Calculé automatiquement est la somme du poids net des articles)
-349,The Organization,l'Organisation
+348,The net weight of this package. (calculated automatically as sum of net weight of items),Le poids net de ce paquet. (Calculé automatiquement comme la somme du poids net des articles)
+349,The Organization,L’Organisation
 350,"The task {0}, that you assigned to {1}, has been closed by {2}.","La tâche {0}, que vous avez attribué à {1}, a été fermée par {2}."
-351,"The task {0}, that you assigned to {1}, has been closed.","La tâche {0}, que vous avez attribué à {1}, a été fermé."
+351,"The task {0}, that you assigned to {1}, has been closed.","La tâche {0}, que vous avez attribué à {1}, a été fermée."
 352,Theme,Thème
-353,Then By (optional),Puis par (facultatif)
-354,"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Ensuite, les règles de tarification sont filtrés sur la base des client, par groupe de clients, région, fournisseur, le type de fournisseur, campagne, vendeur etc..."
-355,Theory,Theorie
-356,There are more holidays than working days this month.,Il n'y a plus de vacances que de jours de travail ce mois-ci.
+353,Then By (optional),Puis Par (facultatif)
+354,"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Les Règles de Tarification sont ensuite filtrées en fonction des Clients, des Groupes de Clients, des Régions, des Fournisseurs, des Groupes de Fournisseurs, des Campagnes, des Partenaires Commerciaux, etc."
+355,Theory,Théorie
+356,There are more holidays than working days this month.,Il y a plus de vacances que de jours travaillés ce mois-ci.
 357,There is nothing to edit.,Il n'y a rien à modifier.
 358,There is some problem with the file url: {0},Il y a un problème avec l'url du fichier : {0}
-359,There should remain at least one System Manager,Il devrait rester au moins un administrateur système
-360,There were errors,Il y avait des erreurs
-361,There were errors.,Il y avait des erreurs .
-362,Third Party Authentication,Autres identifiants
-363,This Currency is disabled. Enable to use in transactions,Cette devise est désactivé . Activez la pour permettre de l'utiliser
-364,This Document,Ce document
-365,This email was sent to {0},Ce courriel a été envoyé à {0}
-366,This email was sent to {0} and copied to {1},Cet Email a été envoyé à {0} et copié dans {1}
+359,There should remain at least one System Manager,Il doit rester au moins un administrateur système
+360,There were errors,Il y a eu des erreurs
+361,There were errors.,Il y a eu des erreurs.
+362,Third Party Authentication,Authentification Tierce
+363,This Currency is disabled. Enable to use in transactions,Cette devise est désactivée. Activez la pour l'utiliser dans les transactions
+364,This Document,Ce Document
+365,This email was sent to {0},Cet email a été envoyé à {0}
+366,This email was sent to {0} and copied to {1},Cet email a été envoyé à {0} et une copie à {1}
 367,This form does not have any input,Ce formulaire n'a aucune entrée
 368,This form has been modified after you have loaded it,Ce formulaire a été modifié après que vous l'ayez chargé
-369,This format is used if country specific format is not found,Ce format est utilisé si le format spécifique au pays n'est pas trouvé
-370,This is a root account and cannot be edited.,Il s'agit d'un compte racine et ne peut être modifié .
-371,This is a root item group and cannot be edited.,Ceci est un groupe d'élément racine et ne peut être modifié .
-372,This is a root territory and cannot be edited.,C'est une région de base et ne peut être modifié.
-373,This is an automatically generated reply,Ceci est une réponse généré automatiquement
-374,This is an example website auto-generated from ERPNext,Il s’agit d’un exemple de site généré automatiquement à partir de ERPNext
-375,This is PERMANENT action and you cannot undo. Continue?,Ce est une action PERMANENTE et vous ne pourrez pas l'annuler. Continuer?
+369,This format is used if country specific format is not found,Ce format est utilisé si un format spécifique au pays n'est pas trouvé
+370,This is a root account and cannot be edited.,Il s'agit d'un compte racine qui ne peut être modifié.
+371,This is a root item group and cannot be edited.,Il s’agit d’un groupe d'élément racine qui ne peut être modifié.
+372,This is a root territory and cannot be edited.,Il s’agit d’une région racine qui ne peut être modifiée.
+373,This is an automatically generated reply,Ceci est une réponse générée automatiquement
+374,This is an example website auto-generated from ERPNext,Ceci est un exemple de site généré automatiquement à partir d’ERPNext
+375,This is PERMANENT action and you cannot undo. Continue?,Il s’agit d’une action PERMANENTE que vous ne pourrez pas annuler. Voulez-vous continuer ?
 376,This is the number of the last created transaction with this prefix,Numéro de la dernière transaction créée avec ce préfixe
-377,This method can only be used to create a Comment,Cette méthode peut uniquement être utilisée pour créer un commentaire
-378,This Month's Summary,Résumé de ce mois-ci
+377,This method can only be used to create a Comment,Cette méthode peut uniquement être utilisée pour créer un Commentaire
+378,This Month's Summary,Résumé Mensuel
 379,This tool helps you to update or fix the quantity and valuation of stock in the system. It is typically used to synchronise the system values and what actually exists in your warehouses.,Cet outil vous permet de mettre à jour ou de corriger la quantité et l'évaluation de stock dans le système. Il est généralement utilisé pour synchroniser les valeurs du système et ce qui existe réellement dans vos entrepôts.
-380,This Week's Summary,Résumé de la semaine
+380,This Week's Summary,Résumé Hebdomadaire
 381,Thumbnail,Vignette
-382,Thumbnail URL,URL de la vignette
-383,thumbs-down,pouce vers le bas
+382,Thumbnail URL,URL de la Vignette
+383,thumbs-down,pouce-vers-le-bas
 384,Thursday,Jeudi
 385,Tile,Mosaïque
 386,Time,Temps
 387,Time at which materials were received,Heure à laquelle les matériaux ont été reçus
 388,Time Between Operations (in mins),Temps entre les opérations (en min)
-389,Time Tracking,Suivi du temps
-390,Time Zone,Fuseau horaire
-391,Time Zones,Fuseaux horaires
-392,Timeline Field,Chronologie Champ
-393,Timezone,Fuseau horaire
+389,Time Tracking,Suivi du Temps
+390,Time Zone,Fuseau Horaire
+391,Time Zones,Fuseaux Horaires
+392,Timeline Field,Champ Chronologie
+393,Timezone,Fuseau Horaire
 394,tint,teinte
 395,Title,Titre
-396,Title Field,Titre champ
-397,Title Prefix,Préfixe de titre
-398,Titles for print templates e.g. Proforma Invoice.,Titres pour les modèles d'impression par exemple Facture proforma.
-399,To,à
-400,To {0},A {0}
-401,To {0} | {1} {2},A {0} | {1} {2}
-402,To be delivered to customer,Pour être livré à la clientèle
-403,To Bill,A facturer
+396,Title Field,Champ Titre
+397,Title Prefix,Préfixe de Titre
+398,Titles for print templates e.g. Proforma Invoice.,Titres pour les modèles d'impression e.g. Facture Proforma.
+399,To,À
+400,To {0},À {0}
+401,To {0} | {1} {2},À {0} | {1} {2}
+402,To be delivered to customer,À livrer à la clientèle
+403,To Bill,À Facturer
 404,To Date,Jusqu'au
 405,To date cannot be before from date,La date de fin ne peut être avant la date de début
-406,To Datetime,Pour La date du
-407,To Deliver,A Livrer
-408,To Deliver and Bill,A livrer et facturer
-409,To Discuss,Pour discuter
+406,To Datetime,À la Date
+407,To Deliver,À Livrer
+408,To Deliver and Bill,À Livrer et Facturer
+409,To Discuss,À Discuter
 410,To Do,Tâche à faire
-411,To Produce,A Produire
-412,To Receive,A Recevoir
-413,To Receive and Bill,Pour recevoir et facturer
-414,To Time,Horaire de fin
-415,To Warehouse,A l'entrepôt
-416,To Warehouse (Optional),A l'entrepôt (Facultatif)
-417,Today is {0}'s birthday!,"Aujourd'hui, c'est l’anniversaire de {0} !"
-418,ToDo,Tâche à faire
-419,Too many columns. Export the report and print it using a spreadsheet application.,Trop de colonnes. Exporter le rapport et l'imprimer à l'aide d'un tableur.
+411,To Produce,À Produire
+412,To Receive,À Recevoir
+413,To Receive and Bill,À Recevoir et Facturer
+414,To Time,Horaire de Fin
+415,To Warehouse,À l'entrepôt
+416,To Warehouse (Optional),À l'entrepôt (Facultatif)
+417,Today is {0}'s birthday!,Aujourd'hui c'est l’anniversaire de {0} !
+418,ToDo,Tâche à Faire
+419,Too many columns. Export the report and print it using a spreadsheet application.,Trop de colonnes. Exportez le rapport et imprimez-le à l'aide d'un tableur.
 420,Tools,Outils
 421,Total,Total
-422,Total Actual,Total réel
-423,Total Advance,Total avance
-424,Total Amount,Montant total
-425,Total Amount Reimbursed,Montant total remboursé
-426,Total Claimed Amount,Montant total réclamé
-427,Total Cost,Coût total
+422,Total Actual,Total Réel
+423,Total Advance,Total Avance
+424,Total Amount,Montant Total
+425,Total Amount Reimbursed,Montant Total Remboursé
+426,Total Claimed Amount,Montant Total Réclamé
+427,Total Cost,Coût Total
 428,Total Earning,Total Revenus
-429,Total Expense Claim (via Expense Claim),Frais totaux (via Note de Frais)
-430,Total Expense Claim (via Expense Claims),Frais totaux (via Notes de Frais)
+429,Total Expense Claim (via Expense Claim),Frais Professionnels Totaux (via Note de Frais)
+430,Total Expense Claim (via Expense Claims),Frais Professionnels Totaux (via Notes de Frais)
 431,Total in words,Total En Toutes Lettres
-432,Total Incoming Value,Valeur entrante total
-433,Total Outgoing Value,Valeur totale sortante
-434,Total Qty,Qté totale
-435,Total Sanctioned Amount,Montant total validé
-436,Total Value Difference (Out - In),Valeur totale différence (Sor - En)
-437,Total(Amt),Total (Montant)
-438,Total(Qty),Total(Qté)
+432,Total Incoming Value,Valeur Entrante Totale
+433,Total Outgoing Value,Valeur Sortante Totale
+434,Total Qty,Qté Totale
+435,Total Sanctioned Amount,Montant Total Validé
+436,Total Value Difference (Out - In),Différence Valeur Totale (Sor - En)
+437,Total(Amt),Total (Mnt)
+438,Total(Qty),Total (Qté)
 439,Totals,Totaux
-440,Track Leads by Industry Type.,Prospects clés par Type d'Industrie
+440,Track Leads by Industry Type.,Suivre les Prospects par Type d'Industrie
 441,Transaction,Transaction
-442,Transaction not allowed against stopped Production Order {0},Transaction non autorisée contre l'ordre d'arret de production {0}
-443,Transactions can only be deleted by the creator of the Company,Transactions ne peuvent être supprimés que par le créateur de la Société
+442,Transaction not allowed against stopped Production Order {0},Transaction non autorisée pour l'Ordre de Production arrêté {0}
+443,Transactions can only be deleted by the creator of the Company,Les Transactions ne peuvent être supprimées que par le créateur de la Société
 444,Transfer,Transférer
-445,Transfer Material,transfert de matériel
+445,Transfer Material,Transfert de Matériel
 446,Transfered,Transféré
-447,Transferred Qty,Quantité transféré
-448,Transition Rules,Règles de transition
+447,Transferred Qty,Quantité Transférée
+448,Transition Rules,Règles de Transition
 449,Transitions,Transitions
 450,Translation,Traduction
-451,Transportation,transport
-452,Transporter Details,Détails du transporteur
+451,Transportation,Transport
+452,Transporter Details,Détails du Transporteur
 453,Transporter Info,Infos Transporteur
-454,Transporter Name,Nom Transporteur
+454,Transporter Name,Nom du Transporteur
 455,trash,corbeille
 456,Travel,Déplacement
-457,Travel Expenses,Frais de déplacement
-458,Tree of Bill of Materials,Arbre des nomenclatures
+457,Travel Expenses,Frais de Déplacement
+458,Tree of Bill of Materials,Arbre des Listes de Matériel
 459,Tuesday,Mardi
 460,Type,Type
-461,"Types of employment (permanent, contract, intern etc.).","Types d'emploi ( , contrat permanent, stagiaire , etc. ) ."
+461,"Types of employment (permanent, contract, intern, ect.)","Type d’emploi (CDI, CDD, Stagiaire, etc.)"
 462,Table,Table
 463,Tag,Balise
-464,Tags,balises
+464,Tags,Balises
 465,Target,Cible
-466,Technology,technologie
-467,Telecommunications,télécommunications
-468,Term Details,Détails terme
-469,Terms,termes
+466,Technology,Technologie
+467,Telecommunications,Télécommunications
+468,Term Details,Détails du Terme
+469,Terms,Termes
 470,Terms and Conditions,Termes et Conditions
 471,Test,Test
 472,Text,Texte
-473,Text Editor,Éditeur de texte
-474,text-height,Texte-hauteur
-475,Thank you for your message,Je vous remercie pour votre message
+473,Text Editor,Éditeur de Texte
+474,text-height,Hauteur-texte
+475,Thank you for your message,Merci pour votre message
