@@ -1,0 +1,163 @@
+,English,Français
+0,uid,uid
+1,uidnext,uidnext
+2,UIDVALIDITY,UIDVALIDITY
+3,"Unable to display this tree report, due to missing data. Most likely, it is being filtered out due to permissions.","Impossible d'afficher ce rapport en arborescence, en raison de données manquantes. Très probablement, il est filtré sur la base des autorisations."
+4,Unable to find exchange rate for {0} to {1} for key date {2},Impossible de trouver le taux de change pour {0} - {1} pour la date clé {2}
+5,Unable to make request to the Frappe Server URL,Impossible de faire une requête sur l'URL du Serveur Frappe
+6,Unable to open attached file. Did you export it as CSV?,Impossible d'ouvrir le fichier joint. L'avez-vous exporté au format CSV ?
+7,Unallocated Amount,Montant Non Alloué
+8,UnCategorised Tags,Mots-clefs Non Catégorisés
+9,Unclosed Fiscal Years Profit / Loss (Credit),Bénéfice / Perte (Crédit) des Exercices Non Clos
+10,Under AMC,Sous AMC
+11,Unhandled Email,Email Non Géré
+12,Units of Measure,Unités de Mesure
+13,Unlink Payment on Cancellation of Invoice,Délier Paiement à l'Annulation de la Facture
+14,Unmarked Attendance,Participation Non Marquée
+15,Unpaid Expense Claim,Note de Frais Impayée
+16,Unread,Non Lus
+17,UNSEEN,INVISIBLE
+18,Unstopped,Non Arrêté
+19,Unsubscribe,Se Désinscrire
+20,Unsubscribe from Newsletter,Se Désinscire de la Newsletter
+21,Unsubscribe Method,Méthode de Désinscription
+22,Unsubscribe Param,Paramètre de Désinscription
+23,Unsubscribed from Newsletter,Désinscrit de la Newsletter
+24,UOM,UDM
+25,UOM coversion factor required for UOM: {0} in Item: {1},Facteur de coversion UDM requis pour l'UDM : {0} dans l'Article : {1}
+26,Upcoming Calendar Events,Prochains Événements du Calendrier
+27,Update bank payment dates with journals.,Mettre à jour les dates de paiement bancaires avec les journaux.
+28,Update Bank Transaction Dates,Mettre à jour les Dates de Transation Bancaire
+29,Update Clearance Date,Mettre à Jour la Date de Compensation
+30,Update Email Group,Metter à jour le Groupe d'Email
+31,Update many values at one time.,Mettre à jour plusieurs valeurs en même temps.
+32,"Update only, do not insert new records.","Mettre à jour seulement, ne pas insérer de nouveaux enregistrements."
+33,Update Print Format,Mettre à Jour le Format d'Impression
+34,Update Series Number,Mettre à Jour la Série
+35,Upload CSV file containing all user permissions in the same format as Download.,Chargement d'un fichier CSV contenant toutes les autorisations de l'utilisateur dans le même format que le fichier Téléchargé.
+36,Uploading files please wait for a few seconds.,Chargement de fichiers veuillez patienter quelques secondes.
+37,UPPER CASE,MAJUSCULE
+38,"URL for ""All Products""","URL pour "Tous les Produits"""
+39,Usage Info,Infos d'Usage
+40,use % as wildcard,utiliser % comme joker
+41,"Use a few words, avoid common phrases.","Utiliser quelques mots, éviter les phrases courantes."
+42,Use Multi-Level BOM,Utiliser LDM à Plusieurs Niveaux
+43,Use Sandbox,Utiliser Sandbox
+44,Use this fieldname to generate title,Utilisez ce nom de champ pour générer le titre
+45,Used for Production Plan,Utilisé pour Plan de Production
+46,User Details,Détails de l'Utilisateur
+47,User editable form on Website.,Formulaire modifiable par l'utilisateur sur le Site.
+48,User Emails,Les Emails de l'Utilisateur
+49,User Forum,Forum de l'Utilisateur
+50,User ID of a Blogger,ID l'Utilisateur d'un Blogger
+51,User is mandatory for Share,L'utilisateur est obligatoire pour Partager
+52,User not allowed to delete {0}: {1},Utilisateur non autorisé à supprimer {0} : {1}
+53,User Permission DocTypes,DocTypes d'Autorisation de l'Utilisateur
+54,User Permission for Page and Report,Autorisation de l'Utilisateur pour la Page et le Rapport
+55,User permissions should not apply for this Link,Autorisations de l'utilisateur ne devraient pas s'appliquer pour ce Lien
+56,"Username should not contain any special characters other than letters, numbers and underscore","Nom d'utilisateur ne doit pas contenir de caractères spéciaux autres que des lettres, des chiffres et l'underscore"
+57,Users with this role are allowed to set frozen accounts and create / modify accounting entries against frozen accounts,Les utilisateurs ayant ce rôle sont autorisés à définir les comptes gelés et à créer / modifier des écritures comptables sur des comptes gelés
+58,Uses the Email Address mentioned in this Account as the Sender for all emails sent using this Account.,Utilise l'Adresse Email mentionnée dans ce Compte comme Expéditeur pour tous les emails envoyés de ce Compte.
+59,Unable to find attachment {0},Impossible de trouver la pièce jointe {0}
+60,Unable to find Time Slot in the next {0} days for Operation {1},Impossible de trouver le Créneau Horaires dans les {0} prochains jours pour l'Opération {1}
+61,Unable to load: {0},Impossible de charger : {0}
+62,Unable to send emails at this time,Impossible d'envoyer des emails en ce moment
+63,Unable to update event,Impossible de mettre à jour l'événement
+64,Uncheck all,Décocher tout
+65,Under Graduate,Non Diplômé
+66,Under Warranty,Sous Garantie
+67,Unique,Unique
+68,Unit,Unité
+69,Unit of Measure,Unité de Mesure
+70,Unit of Measure {0} has been entered more than once in Conversion Factor Table,Unité de Mesure {0} a été saisie plus d'une fois dans la Table de Facteur de Conversion
+71,Unknown,Inconnu
+72,Unknown app {0},Application inconnue {0}
+73,Unknown Column: {0},Colonne Inconnue : {0}
+74,"Unknown file encoding. Tried utf-8, windows-1250, windows-1252.","Encodage du fichier inconnu. Essayez utf-8, windows-1250, windows-1252."
+75,Unknown Print Format: {0},Format d'Impression Inconnu : {0}
+76,Unpaid,Impayé
+77,Unread Notification Sent,Notification Non Lue Envoyée
+78,Unreconciled Payment Details,Détails des Paiements Non Réconciliés
+79,Unscheduled,Non programmé
+80,Unsecured Loans,Prêts Non Garantis
+81,Unselect All,Tout Déselectionner
+82,Unshared,Non Partagé
+83,Unsubscribe from this Email Digest,Se Désinscire de ce Compte Rendu par Email
+84,Unsubscribe from this list,Se Désinscrire de cette liste
+85,Unsubscribed,Désinscrit
+86,Until,Jusqu'à
+87,Unused leaves,Congés non utilisés
+88,Unzip,Décompresser
+89,UOM Conversion Detail,Détails de Conversion de l'UDM
+90,UOM Conversion Factor,Facteur de Conversion de l'UDM
+91,UOM Conversion factor is required in row {0},Facteur de conversion de l'UDM est obligatoire dans la ligne {0}
+92,UOM Name,Nom UDM
+93,UOMs,UDMs
+94,Upcoming Events for Today,Événements À Venir Aujourd'hui
+95,Update,Mettre à Jour
+96,Update additional costs to calculate landed cost of items,Mettre à jour les frais additionnels pour calculer le coût au débarquement des articles
+97,Update Cost,Mettre à jour le Coût
+98,Update Field,Mettre à jour le Champ
+99,Update Rate and Availability,Mettre à Jour le Prix et la Disponibilité
+100,Update Series,Mettre à Jour les Séries
+101,Update Stock,Mettre à Jour le Stock
+102,Update the template and save in CSV (Comma Separate Values) format before attaching.,Mettre à jour le modèle et l'enregistrer au format CSV (Valeurs Séparées par Virgules) avant de l'attacher.
+103,Update Value,Mettre à Jour la valeur
+104,Updated,Mis à Jour
+105,Updated {0}: {1},Mis à jour {0} : {1}
+106,updated to {0},mis à jour pour {0}
+107,Updated To New Version,Mis à Jour vers la Nouvelle Version
+108,Updated via 'Time Log',Mis à jour via 'Journal du Temps'
+109,Updating,Réactualisation
+110,Updating Records,Mise à Jour des Enregistrements
+111,Upgrade,Mise à Niveau
+112,Upload,Charger
+113,Upload and Sync,Charger et Syncroniser
+114,Upload Attachment,Charger une Pièce Jointe
+115,Upload Attendance,Charger Fréquentation
+116,Upload attendance from a .csv file,Charger les participations à partir d'un fichier .csv
+117,Upload HTML,Charger HTML
+118,Upload stock balance via csv.,Charger solde de stock via csv.
+119,Upload User Permissions,Charger les Autorisations des Utilisateurs
+120,Upload your letter head and logo. (you can edit them later).,Charger votre en-tête et logo. (vous pouvez les modifier ultérieurement).
+121,Uploading...,Chargement ...
+122,Upper Income,Revenu Élevé
+123,UPPERCASE,MAJUSCULE
+124,Urgent,Urgent
+125,URL,URL
+126,Use for Shopping Cart,Utiliser pour le Panier
+127,Use IMAP,Utiliser IMAP
+128,Use SSL,Utiliser SSL
+129,Use the field to filter records,Utiliser le champ pour filtrer les enregistrements
+130,Use TLS,Utiliser TLS
+131,User,Utilisateur
+132,User '{0}' already has the role '{1}',Utilisateur '{0}' a déjà le rôle '{1}'
+133,User {0} cannot be deleted,Utilisateur {0} ne peut pas être supprimé
+134,User {0} cannot be disabled,Utilisateur {0} ne peut pas être désactivé
+135,User {0} cannot be renamed,Utilisateur {0} ne peut pas être renommé
+136,User {0} does not exist,Utilisateur {0} n'existe pas
+137,User {0} is already assigned to Employee {1},Utilisateur {0} est déjà attribué à l'Employé {1}
+138,User {0} is disabled,Utilisateur {0} est désactivé
+139,User Cannot Create,L'utilisateur ne peut pas Créer
+140,User Cannot Search,L'utilisateur ne peut pas Rechercher
+141,User Defaults,Profil par Défaut
+142,User Email,Email de l'Utilisateur
+143,User ID,ID de l'Utilisateur
+144,User ID not set for Employee {0},ID de l'Utilisateur non défini pour l'Employé {0}
+145,User Image,Photo de Profil
+146,User must always select,L'utilisateur doit toujours sélectionner
+147,User Permissions,Autorisations des Utilisateurs
+148,User Permissions Manager,Gestionnaire des Autorisations des Utilisateurs
+149,User Remark,Remarque de l'Utilisateur
+150,User Roles,Rôles Utilisateur
+151,User Tags,Balise Utilisateur
+152,User Type,Type d'Utilisateur
+153,user@example.com,utilisateur@exemple.com
+154,Username,Nom d'Utilisateur
+155,Username {0} already exists,Nom d'Utilisateur {0} existe déjà
+156,Users,Utilisateurs
+157,Users and Permissions,Utilisateurs et Autorisations
+158,Users who can approve a specific employee's leave applications,Les utilisateurs qui peuvent approuver les demandes de congé d'un employé en particulier
+159,Users with role {0}:,Utilisateurs avec le rôle {0} :
+160,Utilities,Utilitaires
+161,Utility Expenses,Frais de Services Publics
