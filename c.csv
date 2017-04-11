@@ -544,3 +544,16 @@
 540,Cannot Update: Incorrect / Expired Link.,Impossible d'effectuer la Mise à Jour : Lien Incorrect/Expiré.
 541,Check this if you want to show in website,Cochez cette case si vous souhaitez afficher sur le site
 542,Cheque,Chèque
+543,Can not find UIDVALIDITY in imap status response,Impossible de trouver UIDVALIDITY dans le statut de la réponse imap
+544,"Cannot overbill for Item {0} in row {1} more than {2}. To allow over-billing, please set in Buying Settings","Ne peut pas surfacturer pour l'Article {0} dans la ligne {1} plus {2}. Pour permettre la surfacturation, veuillez le définir dans les Réglages d'Achat"
+545,Cannot restore Cancelled Document,Impossible de restaurer le Document Annulée
+546,Cannot use sub-query in order by,Impossible d'utiliser la sous-requête dans l'ordre par
+547,Clear Search,Effacer la Recherche
+548,Compose Email,Écrire un Email
+549,Country of Origin,Pays d'Origine
+550,Ctrl+enter to save,Ctrl+entrée pour enregistrer
+551,Custom Column,Colonne Personnalisée
+552,Custom Role,Rôle Personnalisé
+553,Customer > Customer Group > Territory,Client > Groupe Client > Territoire
+554,Customers in Queue,Clients dans la File d'Attente
+555,Customs Tariff Number,Nombre de Tarifs Personnalisés

@@ -312,3 +312,6 @@ If series is set and Serial No is not mentioned in transactions, then automatic 
 308,Extra Small,Très Petit
 309,Earliest,Au plus tôt
 310,Entertainment Expenses,Frais de Représentation
+311,"Email id must be unique, Email Account is already exist for {0}","Id email doit être unique, le Compte Email existe déjà pour {0}"
+312,Edit Posting Date and Time,Modifier la Date et l'Heure de la Publication
+313,Email Account added multiple times,Compte Email ajouté plusieurs fois
