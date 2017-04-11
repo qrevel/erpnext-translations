@@ -1,0 +1,673 @@
+,English,Français
+0,Package Code,Code du Paquet
+1,Packing Slip Item,Article Emballé
+2,Pages in Desk (place holders),Pages sur le Bureau (espaces réservés)
+3,Paid amount + Write Off Amount can not be greater than Grand Total,Le Montant Payé + Montant Repris ne peut pas être supérieur au Total Général
+4,Paid Amount cannot be greater than total negative outstanding amount {0},Le Montant Payé ne peut pas être supérieur au montant impayé restant {0}
+5,Parent,Parent
+6,Parent Assessment Group,Groupe d’Évaluation Parent
+7,Parent Cost Center,Centre de Coûts Parent
+8,Parent Customer Group,Groupe Client Parent
+9,Parent Detail docname,Nom de Document du Détail Parent
+10,Parent Error Snapshot,Instantané d'Erreur Parent
+11,Parent Item,Article Parent
+12,Parent Item Group,Groupe d’Articles Parent
+13,Parent Label,Étiquette Parente
+14,Parent Sales Person,Commercial Parent
+15,Parent Table,Table Parente
+16,Parent Warehouse,Entrepôt Parent
+17,Parenttype,Type Parent
+18,Partially Depreciated,Partiellement Déprécié
+19,Partially Disbursed,Partiellement Décaissé
+20,Partially ordred,Partiellement Commandé
+21,Partner website,Site Partenaire
+22,Party,Partie
+23,Party Account,Compte de la Partie
+24,Party Account Currency,Devise du Compte de la Partie
+25,Party Balance,Solde de la Partie
+26,Party is mandatory,La Partie est obligatoire
+27,Party Name,Nom de la Partie
+28,Party Type,Type de Partie
+29,Party Type is mandatory,Type de Partie est Obligatoire
+30,Password cannot be more than 100 characters long,Mot de Passe ne peut pas contenir plus de 100 caractères
+31,Password for Base DN,Mot de Passe pour la Base DN
+32,Password is required or select Awaiting Password,Mot de Passe est requis ou sélectionner En Attente de Mot de Passe
+33,Password not found,Mot de Passe non trouvé
+34,Patch Log,Journal de Patch
+35,Pay To / Recd From,Payé À / Reçu De
+36,Payable,Créditeur
+37,Payer Settings,Paramètres du Payeur
+38,Payment against {0} {1} cannot be greater than Outstanding Amount {2},Paiement pour {0} {1} ne peut pas être supérieur à Encours {2}
+39,Payment Date,Date de Paiement
+40,Payment Days,Jours de Paiement
+41,Payment Deductions or Loss,Déductions sur le Paiement ou Perte
+42,Payment Document,Document de Paiement
+43,Payment Entries,Écritures de Paiement
+44,Payment Entries {0} are un-linked,Écritures de Paiement {0} ne sont pas liées
+45,Payment Entry,Écriture de Paiement
+46,"Payment Entry {0} is linked against Order {1}, check if it should be pulled as advance in this invoice.","L’Écriture de Paiement {0} est liée à la Commande {1}, vérifiez si elle doit être récupérée comme une avance dans cette facture."
+47,Payment Entry already exists,L’Écriture de Paiement existe déjà
+48,Payment Entry Deduction,Déduction d’Écriture de Paiement
+49,Payment Entry has been modified after you pulled it. Please pull it again.,L’Écriture de Paiement a été modifié après que vous l’ayez récupérée. Veuillez la récupérer à nouveau.
+50,Payment Entry is already created,L’Écriture de Paiement est déjà créée
+51,Payment Entry Reference,Référence d’Écriture de Paiement
+52,Payment From / To,Paiement De / À
+53,Payment Gateway Account,Compte Passerelle de Paiement
+54,"Payment Gateway Account not created, please create one manually.","Le Compte Passerelle de Paiement n’existe pas, veuillez en créer un manuellement."
+55,Payment Gateway Details,Détails de la Passerelle de Paiement
+56,"Payment Mode is not configured. Please check, whether account has been set on Mode of Payments or on POS Profile.",Le Mode de Paiement n’est pas configuré. Veuillez vérifier si le compte a été réglé sur Mode de Paiement ou sur Profil de Point de Vente.
+57,Payment of salary from {0} to {1},Paiement du salaire de {0} à {1}
+58,Payment Period Based On Invoice Date,Période de Paiement basée sur la Date de la Facture
+59,Payment Reconciliation,Réconciliation des Paiements
+60,Payment Reconciliation Invoice,Facture de Réconciliation des Paiements
+61,Payment Reconciliation Payment,Paiement de Réconciliation des Paiements
+62,Payment References,Références de Paiement
+63,Payment Request already exists {0},Demande de Paiement existe déjà {0}
+64,Payment Success,Paiement Effectué avec Succès
+65,Payment Success URL,URL pour Paiement Effectué avec Succès
+66,"Payment Type must be one of Receive, Pay and Internal Transfer","Type de Paiement doit être Recevoir, Payer ou Transfert Interne"
+67,PayPal payment gateway settings,Paramètres de la Passerelle de Paiement PayPal
+68,PayPal Settings,Réglages PayPal
+69,Payroll Frequency,Fréquence de la Paie
+70,Payroll Payable,Paie à Payer
+71,PE-,PE-
+72,Pending Purchase Orders,Bons de Commande en Attente
+73,Pending Quotations,Devis en Attente
+74,Pending Sales Orders,Commandes Client en Attente
+75,People who teach at your organisation,Personnes qui enseignent dans votre organisation
+76,Percentage you are allowed to receive or deliver more against the quantity ordered. For example: If you have ordered 100 units. and your Allowance is 10% then you are allowed to receive 110 units.,Pourcentage que vous êtes autorisé à recevoir ou à livrer en plus de la quantité commandée. Par exemple : Si vous avez commandé 100 unités et que votre allocation est de 10% alors que vous êtes autorisé à recevoir 110 unités.
+77,Period Closing Entry,Écriture de Clôture de la Période
+78,Period Closing Voucher,Bon de Clôture de la Période
+79,Period From and Period To dates mandatory for recurring {0},Les Dates de Période Initiale et de Période Finale sont obligatoires pour {0} récurrent(e)
+80,Perm Level,Niveau d'Autorisation
+81,Permanent Address Is,L’Adresse Permanente Est
+82,"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","Les Autorisations sont définies sur les Rôles et les Types de Documents (appelés DocTypes) en définissant des droits , tels que Lire, Écrire, Créer, Supprimer, Soumettre, Annuler, Modifier, Rapporter, Importer, Exporter, Imprimer, Envoyer un Email et Définir les Autorisations de l'Utilisateur ."
+83,Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,Les Autorisations aux niveaux supérieurs sont des permissions de Niveau Champ. Un Niveau d'Autorisation est défini pour chaque Champ et les règles définies pour ces Autorisations s’appliquent au Champ. Ceci est utile si vous voulez cacher ou mettre certains champs en lecture seule pour certains Rôles.
+84,"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","Les Autorisations au niveau 0 sont les autorisations de Niveau Document, c’est à dire qu'elles sont nécessaires pour accéder au document."
+85,Permissions get applied on Users based on what Roles they are assigned.,Autorisations sont appliqués aux utilisateurs en fonction des  Rôles qui leurs sont affectés.
+86,Permissions Settings,Réglages des Autorisations
+87,Permitted Documents For User,Documents Autorisés pour l'Utilisateur
+88,Petrol,Essence
+89,Pharmaceutical,Pharmaceutique
+90,Pharmaceuticals,Médicaments
+91,PIN,PIN
+92,PINV-,PINV-
+93,PINV-RET-,PINV-RET-
+94,Plan for maintenance visits.,Plan pour les visites de maintenance.
+95,Plan material for sub-assemblies,Plan de matériaux pour les sous-ensembles
+96,Plan time logs outside Workstation Working Hours.,Planifier les journaux de temps en dehors des Heures de Travail du Bureau.
+97,plane,plan
+98,Planned Operating Cost,Coûts de Fonctionnement Prévus
+99,Plants and Machineries,Usines et Machines
+100,play,jouer
+101,play-circle,Cercle-jouer
+102,Please ask your administrator to verify your sign-up,Veuillez demander à votre administrateur de vérifier votre inscription
+103,Please attach a file first.,Veuillez d’abord joindre un fichier.
+104,Please attach a file or set a URL,Veuillez joindre un fichier ou définir une URL
+105,Please cancel Purchase Invoice {0} first,Veuillez d’abord annuler la Facture d'Achat {0}
+106,Please check Multi Currency option to allow accounts with other currency,Veuillez vérifier l'option Multi-Devises pour permettre les comptes avec une autre devise
+107,Please check your email for verification,Veuillez vérifier votre email pour validation
+108,Please click on 'Generate Schedule' to fetch Serial No added for Item {0},Veuillez cliquer sur ‘Générer Calendrier’ pour récupérer le N° Série ajouté à l'article {0}
+109,Please click on 'Generate Schedule' to get schedule,Veuillez cliquer sur ‘Générer Calendrier’ pour obtenir le calendrier
+110,Please close this window,Veuillez fermer cette fenêtre
+111,Please contact to the user who have Sales Master Manager {0} role,Veuillez contactez l'utilisateur qui a le rôle de Directeur des Ventes {0}
+112,Please create an Account for this Warehouse and link it. This cannot be done automatically as an account with name {0} already exists,Veuillez créer un Compte pour cet Entrepôt et le lier. Cela ne peut être fait automatiquement car un compte avec le nom {0} existe déjà
+113,Please create new account from Chart of Accounts.,Veuillez créer un nouveau compte au sein du Plan Comptable.
+114,Please define grade for treshold 0%,Veuillez définir une note pour le seuil de 0% 
+115,Please do not change the template headings.,Veuillez ne pas modifier les sections du modèle.
+116,Please duplicate this to make changes,Veuillez créer un duplicata pour faire des changements
+117,Please Duplicate this Website Theme to customize.,Veuillez Dupliquer le thème de ce site Web pour le personnaliser.
+118,Please enter,Veuillez entrer
+119,Please enter 'Expected Delivery Date',Veuillez entrer ‘Date de Livraison Prévue’
+120,Please enter Account for Change Amount,Veuillez entrez un Compte pour le Montant de Change
+121,Please enter Approving Role or Approving User,Veuillez entrer un Rôle Approbateur ou un Rôle Utilisateur
+122,Please enter Asset Category in Item {0},Veuillez entrer une Catégorie d'Actif dans la rubrique {0}
+123,"Please enter both your email and message so that we \
+				can get back to you. Thanks!","Veuillez entrer à la fois votre email et votre message afin que nous \
+ puissions revenir vers vous. Merci !"
+124,Please enter Company,Veuillez entrer une Société
+125,Please enter company first,Veuillez d’abord entrer une Société
+126,Please enter Cost Center,Veuillez entrer un Centre de Coûts
+127,Please enter Employee Id of this sales person,Veuillez entrer l’ID Employé de ce commercial
+128,Please enter Expense Account,Veuillez entrer un Compte de Charges
+129,Please enter Item Code to get batch no,Veuillez entrer le Code d'Article pour obtenir n° de lot
+130,Please enter Item Code to get Batch Number,Veuillez entrer le Code d'Article pour obtenir le Numéro de Lot
+131,Please enter Item Code.,Veuillez entrer le Code d'Article.
+132,Please enter item details,Veuillez entrer les détails de l’article
+133,Please enter Item first,Veuillez d’abord entrer l'Article
+134,Please enter Maintaince Details first,Veuillez d’abord entrer les Détails de Maintenance
+135,Please enter Material Requests in the above table,Veuillez entrer les Demandes de Matériel dans le tableau ci-dessus
+136,Please enter message before sending,Veuillez entrer le message avant d'envoyer
+137,Please enter parent cost center,Veuillez entrer le centre de coût parent
+138,Please enter Preferred Contact Email,Veuillez entrer l’Email de Contact Préférré
+139,Please enter Production Item first,Veuillez d’abord entrer l'Article en Production
+140,Please enter Receipt Document,Veuillez entrer le Document de Réception
+141,Please enter relieving date.,Veuillez entrer la date de relève.
+142,Please enter repayment Amount,Veuillez entrer le Montant de remboursement
+143,Please enter Repayment Periods,Veuillez entrer les Périodes de Remboursement
+144,Please enter Sales Orders in the above table,Veuillez entrer des Commandes Clients dans le tableau ci-dessus
+145,Please enter valid Financial Year Start and End Dates,Veuillez entrer des Dates de Début et de Fin d’Exercice Comptable valides
+146,Please enter values for App Access Key and App Secret Key,Veuillez entrer des valeurs pour la Clé d’Accès à l’App et la Clé Secrète de l’App
+147,Please enter Warehouse for which Material Request will be raised,Veuillez entrer l’Entrepôt pour lequel une Demande de Matériel sera faite
+148,Please enter Write Off Account,Veuillez entrer un Compte de Reprise
+149,Please give a detailed feebdack.,Veuillez donner un retour d’expérience détaillé.
+150,Please give a fullname.,Veuillez donner un nom complet.
+151,Please give a rating.,Veuillez donner une note.
+152,Please install dropbox python module,Veuillez installer le module Python Dropbox
+153,Please make sure that there are no empty columns in the file.,Veuillez vous assurer qu'il n'y a pas de colonnes vides dans le fichier.
+154,Please make sure you really want to delete all the transactions for this company. Your master data will remain as it is. This action cannot be undone.,Veuillez vous assurer que vous voulez vraiment supprimer tous les transactions de cette société. Vos données de base resteront intactes. Cette action ne peut être annulée.
+155,Please mention no of visits required,Veuillez indiquer le nb de visites requises
+156,Please mention Round Off Account in Company,Veuillez indiquer le Compte d’Arrondi de la Société
+157,Please mention Round Off Cost Center in Company,Veuillez indiquer le Centre de Coûts d’Arrondi de la Société
+158,Please pull items from Delivery Note,Veuillez récupérer les articles des Bons de Livraison
+159,Please re-type company name to confirm,Veuillez saisir à nouveau le nom de la société pour confirmer
+160,Please save before attaching.,Veuillez enregistrer avant de joindre une pièce.
+161,Please save the document before assignment,Veuillez enregistrer le document avant l'affectation
+162,Please save the document before generating maintenance schedule,Veuillez enregistrer le document avant de générer le calendrier d'entretien
+163,Please save the document before removing assignment,Veuillez enregistrer le document avant de retirer l’affectation
+164,Please save the report first,Veuillez d’abord enregistrer le rapport
+165,Please see attachment,Veuillez voir la pièce jointe
+166,Please select {0},Veuillez sélectionner {0}
+167,Please select {0} first,Veuillez d’abord sélectionner {0}
+168,Please select a Amount Field.,Veuillez sélectionner un Champ Montant.
+169,Please select a Company,Veuillez sélectionner une Société
+170,Please select a csv file,Veuillez sélectionner un fichier csv
+171,Please select a file or url,Veuillez sélectionner un fichier ou une URL
+172,Please select a rating,Veuillez choisir une note
+173,Please select a valid csv file with data,Veuillez sélectionner un fichier CSV valide contenant des données
+174,Please select a value for {0} quotation_to {1},Veuillez sélectionner une valeur pour {0} devis à {1}
+175,"Please select Allocated Amount, Invoice Type and Invoice Number in atleast one row","Veuillez sélectionner le Montant Alloué, le Type de Facture et le Numéro de Facture dans au moins une ligne"
+176,Please select another payment method. PayPal does not support transactions in currency '{0}',Veuillez choisir un autre mode de paiement. PayPal ne supporte pas les transactions en monnaie ‘{0}’
+177,Please select another payment method. Razorpay does not support transactions in currency '{0}',Veuillez choisir un autre mode de paiement. Razorpay ne supporte pas les transactions en monnaie ‘{0}’
+178,Please select Apply Discount On,Veuillez sélectionnez Appliquer Remise Sur
+179,Please select atleast 1 column from {0} to sort/group,Veuillez sélectionner au moins 1 colonne de {0} pour trier / grouper
+180,Please select BOM for Item in Row {0},Veuillez sélectionnez une LDM pour l’Article à la Ligne {0}
+181,Please select BOM in BOM field for Item {0},Veuillez sélectionner une LDM dans le champ LDM pour l’Article {0}
+182,Please select Carry Forward if you also want to include previous fiscal year's balance leaves to this fiscal year,Veuillez sélectionnez Report si vous souhaitez également inclure le solde des congés de l'exercice précédent à cet exercice
+183,Please select Category first,Veuillez d’abord sélectionner une Catégorie
+184,Please select Charge Type first,Veuillez d’abord sélectionner le Type de Facturation
+185,Please select Company,Veuillez sélectionner une Société
+186,Please select Company and Party Type first,Veuillez d’abord sélectionner une Société et le Type de la Partie
+187,Please select Company first,Veuillez d’abord sélectionner une Société
+188,Please select correct account,Veuillez sélectionner un compte correct
+189,Please select customer,Veuillez sélectionner un client
+190,Please select date,Veuillez sélectionner une date
+191,Please select Document Type first,Veuillez d’abord sélectionner le Type de Document
+192,Please select Employee Record first.,Veuillez d’abord sélectionner le Dossier de l'Employé.
+193,Please select Existing Company for creating Chart of Accounts,Veuillez sélectionner une Société Existante pour créer un Plan de Compte
+194,Please select Incharge Person's name,Veuillez sélectionner le nom du/de la Responsable
+195,"Please select Item where ""Is Stock Item"" is ""No"" and ""Is Sales Item"" is ""Yes"" and there is no other Product Bundle","Veuillez sélectionner un Article où ""Est un Article Stocké"" est ""Non"" et ""Est un Article à Vendre"" est ""Oui"" et il n'y a pas d'autre Groupe de Produits"
+196,Please select Party Type first,Veuillez d’abord sélectionner le Type de la Partie
+197,Please select Posting Date before selecting Party,Veuillez sélectionner la Date de Comptabilisation avant de sélectionner la Partie
+198,Please select Posting Date first,Veuillez d’abord sélectionner la Date de Comptabilisation
+199,Please select Start Date and End Date for Item {0},Veuillez sélectionner la Date de Début et Date de Fin pour l'Article {0}
+200,Please select Student Group or Student Batch,Veuillez sélectionner un Groupe Étudiant ou un Lot Étudiant
+201,Please select the document type first,Veuillez d’abord sélectionner le type de document
+202,Please select weekly off day,Veuillez sélectionnez les jours de congé hebdomadaires
+203,Please set 'Apply Additional Discount On',Veuillez définir ‘Appliquer Réduction Supplémentaire Sur ‘
+204,Please set 'Asset Depreciation Cost Center' in Company {0},Veuillez définir 'Centre de Coûts des Amortissements d’Actifs’ de la Société {0}
+205,Please set 'Gain/Loss Account on Asset Disposal' in Company {0},Veuillez définir ‘Compte de Gain/Perte sur les Cessions d’Immobilisations’ de la Société {0}
+206,Please set {0},Veuillez définir {0}
+207,Please set default account in Expense Claim Type {0},Veuillez définir le compte par défaut dans le Type de Note de Frais {0}
+208,Please set default account in Salary Component {0},Veuillez définir le compte par défaut dans la Composante Salariale {0}
+209,Please set default payable account in the employee {0},Veuillez définir le compte créditeur par défaut pour l'employé {0}
+210,Please set Default Payroll Payable Account in Company {0},Veuillez définir le Compte Créditeur de Paie par Défaut pour la Société {0}
+211,Please set Depreciation related Accounts in Asset Category {0} or Company {1},Veuillez définir le Compte relatif aux Amortissements dans la Catégorie d’Actifs {0} ou la Société {1}
+212,Please set Dropbox access keys in your site config,Veuillez définir les clés d'accès Dropbox dans la configuration de votre site
+213,Please set Email Address,Veuillez définir une Adresse Email
+214,Please set filters value in Report Filter table.,Veuillez définir la valeur des filtres dans le Tableau des Filtres de Rapport.
+215,Please set Naming Series for {0} via Setup > Settings > Naming Series,Veuillez définir le Nom de la Série pour {0} via Configuration> Réglages > Nom de Série
+216,Please set Next Depreciation Date,Veuillez définir la Prochaine Date d’Amortissement
+217,Please set Number of Depreciations Booked,Veuillez définir le Nombre d’Amortissements Comptabilisés
+218,Please set recurring after saving,Veuillez définir la récurrence après avoir sauvegardé
+219,Please set User ID field in an Employee record to set Employee Role,Veuillez définir le champ ID de l'Utilisateur dans un dossier Employé pour définir le Rôle de l’Employés
+220,Please setup default Email Account from Setup > Email > Email Account,Veuillez configurer un Compte Email par défaut depuis Configuration> Email> Compte Email
+221,Please setup Employee Naming System in Human Resource > HR Settings,Veuillez configurer un Sytème de Nomage des Employés dans Ressources Humaines> Réglages RH
+222,Please setup numbering series for Attendance via Setup > Numbering Series,Veuillez configurer des numérotation de séries pour la Présence via Configuration > Numérotation Série
+223,Please share your feedback for {0},Veuillez partager votre retour d’expérience pour {0}
+224,Please sign-up or login to begin,Veuillez vous inscrire ou vous connecter pour commencer
+225,Please specify a {0},Veuillez spécifier un {0}
+226,Please specify a country for this Shipping Rule or check Worldwide Shipping,Veuillez spécifier un pays pour cette Règle de Livraison ou cocher Livraison Internationale
+227,Please specify a valid 'From Case No.',Veuillez spécifier un ‘Depuis le Cas N°.’ valide
+228,Please specify a valid Row ID for row {0} in table {1},Veuillez spécifier un N° de Ligne valide pour la ligne {0} de la table {1}
+229,Please specify at least one attribute in the Attributes table,Veuillez spécifier au moins un attribut dans la table Attributs
+230,Please specify Attribute Value for attribute {0},Veuillez spécifier une Valeur d’Attribut pour l'attribut {0}
+231,Please specify doctype,Veuillez indiquer un doctype
+232,Please specify either Quantity or Valuation Rate or both,"Veuillez spécifier la Quantité, le Taux de Valorisation ou les deux"
+233,Please specify user,Veuillez spécifier l'utilisateur
+234,Please specify which date field must be checked,Veuillez spécifier quel champ Date doit être vérifié
+235,Please specify which value field must be checked,Veuillez indiquer quel champ de valeur doit être vérifiée
+236,Please supply the specified items at the best possible rates,Veuillez fournir les articles spécifiés aux meilleurs tarifs possibles
+237,Please try again,Veuillez réessayer
+238,Please Update SMS Settings,Veuillez Mettre à Jour les Réglages de SMS
+239,Please Upgrade to add more than {0} subscribers,Veuillez choisir un Forfait supérieur pour ajouter plus que {0} abonnés
+240,Please verify your Email Address,Veuillez vérifier votre adresse e-mail
+241,Plot,Terrain
+242,PO-,PO-
+243,Point-of-Sale Profile,Profil de Point-De-Vente
+244,Policy,Politique
+245,Policy No,Politique N°
+246,Port,Port
+247,Portal,Portail
+248,Portal Menu,Menu Portail
+249,Portal Menu Item,Article du Menu Portail
+250,Portal Settings,Réglages du Portail
+251,POS Customer Group,Groupe Clients PDV
+252,POS Item Group,Groupe d'Articles PDV
+253,POS Profile,Profil PDV
+254,POS Profile {0} already created for user: {1} and company {2},Profil PDV {0} déjà créé pour l'utilisateur : {1} et la société {2}
+255,POS Profile required to make POS Entry,Profil PDV nécessaire pour faire une écriture de PDV
+256,Possible Supplier,Fournisseur Potentiel
+257,Post Graduate,Post-Diplômé
+258,Posted By,Posté par
+259,Posting Date cannot be future date,La Date de Publication ne peut pas être une date future
+260,Posting Time,Heure de Publication
+261,Posting timestamp must be after {0},Horodatage de Publication doit être après {0}
+262,Posts by {0},Messages de {0}
+263,Posts filed under {0},Messages déposés en vertu de {0}
+264,Potential Sales Deal,Ventes Potentielles
+265,PR,PR
+266,PR Detail,Détail PR
+267,Pre Sales,Prévente
+268,PREC-,PREC-
+269,PREC-RET-,PREC-RET-
+270,Predictable substitutions like '@' instead of 'a' don't help very much.,Les substitutions prévisibles comme '@' au lieu de 'a' n’aident pas beaucoup.
+271,Prefered Contact Email,Email de Contact Préféré
+272,Prefered Email,Email Préféré
+273,Press Esc to close,Appuyez sur Echap pour fermer
+274,Prevdoc DocType,DocPréc DocType
+275,Preview HTML,Aperçu HTML
+276,Preview Salary Slip,Aperçu Fiche de Salaire
+277,Previous Financial Year is not closed,L’Exercice Financier Précédent n’est pas fermé
+278,Previous Work Experience,Expérience de Travail Antérieure
+279,Price,Prix
+280,Price List {0} is disabled or does not exist,Liste des Prix {0} est désactivée ou n'existe pas
+281,Price List Country,Pays de la Liste des Prix
+282,Price List Currency,Devise de la Liste de Prix
+283,Price List Currency not selected,Devise de la Liste de Prix non sélectionnée
+284,Price List Exchange Rate,Taux de Change de la Liste de Prix
+285,Price List Rate,Taux de la Liste des Prix
+286,Price List Rate (Company Currency),Taux de la Liste de Prix (Devise Société)
+287,Price or Discount,Prix ou Réduction
+288,Prices will not be shown if Price List is not set,Les Prix ne seront pas affichés si la Liste de Prix n'est pas définie
+289,Pricing,Tarification
+290,Pricing Rule Help,Aide pour les Règles de Tarification
+291,"Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand.","La Règle de Tarification est d'abord sélectionnée sur la base du champ ‘Appliquer Sur’, qui peut être un Article, un Groupe d'Articles ou une Marque."
+292,"Pricing Rule is made to overwrite Price List / define discount percentage, based on some criteria.","La Règle de Tarification est faite pour remplacer la Liste de Prix / définir le pourcentage de remise, sur la base de certains critères."
+293,Pricing Rules are further filtered based on quantity.,Les Règles de Tarification sont d'avantage filtrés en fonction de la quantité.
+294,Primary Settings,Réglages Principaux
+295,Principal Amount,Montant Principal
+296,Print and Stationery,Impression et Papeterie
+297,Print Format {0} is disabled,Le Format d'Impression {0} est désactivé
+298,Print Format Help,Aide pour le Format d'Impression
+299,Print Format Type,Type de Format d'Impression
+300,Print Hide,Cacher à l'Impression
+301,Print settings updated in respective print format,Réglages d'impression mis à jour au format d'impression respectif
+302,"Print Width of the field, if the field is a column in a table","Imprimer la Largeur du champ, si le champ est une colonne dans une table"
+303,Print with letterhead,Imprimer avec en-tête
+304,Printed On,Imprimé sur
+305,Private Equity,Capital Risque
+306,Private or Public?,Public ou Privé ?
+307,PRO-,PRO-
+308,Probation,Essai
+309,Probationary Period,Période d’Essai
+310,Processing Payroll,Traitement de la Paie
+311,Procurement,Approvisionnement
+312,Product {0},Produit {0}
+313,Product Bundle Help,Aide pour les Ensembles de Produits
+314,Product Bundle Item,Article d'un Ensemble de Produits
+315,Product Search,Recherche de Produit
+316,Production Analytics,Analyse de la Production
+317,Production Detail,Détails de la Production
+318,Production Item,Article de Production
+319,Production Order {0} must be cancelled before cancelling this Sales Order,L'Ordre de Production {0} doit être annulé avant d’annuler cette Commande Client
+320,Production Order {0} must be submitted,L'Ordre de Production {0} doit être soumis
+321,Production Order already created for all items with BOM,Ordre de Production déjà créé pour tous les articles avec LDM
+322,Production Order cannot be raised against a Item Template,Ordre de Production ne peut être créé avec un Modèle d’Article
+323,Production Order Item,Article de l'Ordre de Production
+324,Production Order not created,Ordre de Production non créé
+325,Production Order Operation,Opération d’Ordre de Production
+326,Production Order status is {0},Le Statut de l'Ordre de Production est {0}
+327,Production Order Stock Report,Rapport de Stock de l’Ordre de Production
+328,Production Orders Created: {0},Ordres de Production Créés: {0}
+329,Production Plan Item,Article du Plan de Production
+330,Production Plan Material Request,Demande de Matériel du Plan de Production
+331,Production Plan Sales Order,Commande Client du Plan de Production
+332,Production Planning Tool,Outil de Planification de la Production
+333,Productions Orders cannot be raised for:,Les Ordres de Production ne peuvent pas être créés pour:
+334,Products Settings,Réglages des Produits
+335,Products to be shown on website homepage,Produits destinés à être affichés sur la page d’accueil du site web
+336,Profile,Profil
+337,Profit & Loss,Profits & Pertes
+338,Profit and Loss Statement,Compte de Résultat
+339,Profitability Analysis,Analyse de Profitabilité
+340,Program,Programme
+341,Program Abbreviation,Abréviation du Programme
+342,Program Code,Code du Programme
+343,Program Course,Cours du Programme
+344,Program Enrollment,Inscription au Programme
+345,Program Enrollment Fee,Frais d'Inscription au Programme
+346,Program Enrollment Tool,Outil d’Inscription au Programme
+347,Program Enrollment Tool Student,Outil d'Inscription au Programme Éudiant
+348,Program Enrollments,Inscriptions au Programme
+349,Program Fee,Frais du Programme
+350,Program Name,Nom du Programme
+351,Progress,Progression
+352,Progress % for a task cannot be more than 100.,% de Progression pour une tâche ne peut pas être supérieur à 100.
+353,Project Collaboration Invitation,Invitation de Collaboration à un Projet
+354,Project Quantity,Quantité de Projet
+355,Project Status,Statut du Projet
+356,Project User,Utilisateur du Projet
+357,Project will be accessible on the website to these users,Le Projet sera accessible sur le site web à ces utilisateurs
+358,Project wise Stock Tracking,Suivi des Stocks par Projet
+359,Project-wise data is not available for Quotation,Les données par projet ne sont pas disponibles pour un devis
+360,Projected,Projeté
+361,Projected Quantity as Source,Quantité Projetée comme Source
+362,Prompt for Email on Submission of,Demander l’Email lors de la Soumission de
+363,Property Setter,Initialisateur de Propriété
+364,Property Setter overrides a standard DocType or Field property,L’Initialisateur de Propriété remplace un DocType standard ou la propriété d’un champ
+365,Proposal Writing,Rédaction de Propositions
+366,Provide Email Address registered in company,Fournir l'Adresse Email enregistrée dans la société
+367,Provisional Profit / Loss (Credit),Gain / Perte (Crédit) Provisoire 
+368,PS-,PS-
+369,Publish Availability,Publier la Disponibilité
+370,Publish in Hub,Publier dans le Hub
+371,Publish Item to hub.erpnext.com,Publier un Artice sur hub.erpnext.com
+372,Publish Items on Website,Publier les Articles sur le Site Web
+373,Publish Items to Hub,Publier les articles sur le Hub
+374,Publish Pricing,Publier la Tarification
+375,Pull Material Request of type Manufacture based on the above criteria,Récupérer les Demandes de Matériel de Type Production sur la base des critères ci-dessus
+376,Pull sales orders (pending to deliver) based on the above criteria,Récupérer les commandes client (en attente de livraison) sur la base des critères ci-dessus
+377,Purchase Amount,Montant de l'Achat
+378,Purchase Date,Date d'Achat
+379,Purchase Invoice {0} is already submitted,La Facture d’Achat {0} est déjà soumise
+380,Purchase Invoice Advance,Avance sur Facture d’Achat
+381,Purchase Invoice Item,Article de la Facture d'Achat
+382,Purchase Invoice Trends,Tendances des Factures d'Achat
+383,Purchase Order,Bon de Commande
+384,Purchase Order Item,Article du Bon de Commande
+385,Purchase Order Item Supplied,Article Fourni du Bon de Commande
+386,Purchase Order Items To Be Billed,Articles à Facturer du Bon de Commande
+387,Purchase Order Items To Be Received,Articles à Recevoir du Bon de Commande
+388,Purchase Order Message,Message du Bon de Commande
+389,Purchase Order number required for Item {0},Numéro de Bon de Commande requis pour l'Article {0}
+390,Purchase Order Required,Bon de Commande Requis
+391,Purchase Order to Payment,Du Bon de Commande au Paiement
+392,Purchase Order Trends,Tendances des Bons de Commande
+393,Purchase Orders given to Suppliers.,Bons de Commande donnés aux Fournisseurs
+394,Purchase orders help you plan and follow up on your purchases,Les Bons de Commande vous aider à planifier et à assurer le suivi de vos achats
+395,Purchase Receipt,Reçu d’Achat
+396,Purchase Receipt {0} is not submitted,Le Reçu d’Achat {0} n'est pas soumis
+397,Purchase Receipt Item,Article du Reçu d’Achat
+398,Purchase Receipt Item Supplied,Articles Fournis du Reçus d’Achat
+399,Purchase Receipt Items,Articles du Reçu d’Achat
+400,Purchase Receipt Message,Message du Reçu d’Achat
+401,Purchase Receipt number required for Item {0},Numéro du Reçu d'Achat requis pour l'Article {0}
+402,Purchase Receipt Required,Reçu d’Achat Requis
+403,Purchase Receipt Trends,Tendances des Reçus d'Achats
+404,Purchase Receipts,Reçus d'Achats
+405,Purchase Register,Registre des Achats
+406,Purchase Tax Template,Modèle de Taxes pour les Achats
+407,Purchase Taxes and Charges,Taxes et Frais d’Achats
+408,Purchase User,Utilisateur Acheteur
+409,purple,violet
+410,Pyver,Pyver
+411,Package Weight Details,Détails du Poids du Paquet
+412,Packed Item,Article Emballé
+413,Packed Items,Articles Emballés
+414,Packed quantity must equal quantity for Item {0} in row {1},La quantité emballée doit être égale à la quantité pour l'Article {0} à la ligne {1}
+415,Packing List,Liste de Colisage
+416,Packing Slip,Bordereau de Colis
+417,Packing Slip(s) cancelled,Bordereau(x) de Colis annulé(s)
+418,Page,Page
+419,Page {0},Page {0}
+420,Page {0} of {1},Page {0} sur {1}
+421,Page Break,Saut de Page
+422,Page HTML,Page HTML
+423,Page missing or moved,Page manquante ou déplacée
+424,Page Name,Nom de la Page
+425,Page not found,Page non trouvée
+426,Page to show on the website,Page à afficher sur le site Web
+427,Paid,Payé
+428,Paid Amount,Montant Payé
+429,Paid Amount (Company Currency),Montant Payé (Devise Société)
+430,Paid and Not Delivered,Payé et Non Livré
+431,Pair,Paire
+432,Parameter,Paramètre
+433,Parent Account,Compte Parent
+434,Parent Item {0} must not be a Stock Item,L'Article Parent {0} ne doit pas être un Élément de Stock
+435,Parent Territory,Territoire Parent
+436,Part-time,Temps-Partiel
+437,Partially Completed,Partiellement Complété
+438,Participants,Les Participants
+439,Partly Billed,Partiellement Facturé
+440,Partly Delivered,Livré en Partie
+441,Partner Type,Type de Partenaire
+442,Passive,Passif
+443,Passport Number,Numéro de Passeport
+444,Password,Mot de Passe
+445,Password Reset,Réinitialisation du Mot de Passe
+446,Password reset instructions have been sent to your email,Les Instructions de réinitialisation du mot de passe ont été envoyés à votre adresse Email
+447,Password Update,Mise à Jour du Mot de Passe
+448,Password Update Notification,Notification de Mise à Jour du Mot de Passe
+449,Password Updated,Mot de Passe Mis à Jour
+450,Paste,Coller
+451,Patch,Correctif
+452,pause,pause
+453,Pay,Payer
+454,Payable Account,Comptes Créditeurs
+455,Payables,Dettes
+456,Payment,Paiement
+457,Payment Account,Compte de Paiement
+458,Payment Cancelled,Paiement Annulé
+459,Payment Complete,Paiement Complet
+460,Payment Due Date,Date d'Échéance de Paiement
+461,Payment Failed,Le Paiement a Échoué
+462,Payment Gateway,Passerelle de Paiement
+463,Payment Receipt Note,Bon de Réception du Paiement
+464,Payment Request,Requête de Paiement
+465,Payment Type,Type de Paiement
+466,payment_url,payment_url
+467,Payments,Paiements
+468,Payroll,Paie
+469,Payroll Settings,Réglages de la Paie
+470,Payslip,Fiche de Paie
+471,PDF,PDF
+472,PDF generation failed because of broken image links,La génération du PDF a échoué en raison de liens invalides vers une/des image(s)
+473,PDF Page Size,Format de Page PDF
+474,PDF Settings,Réglages PDF
+475,pencil,crayon
+476,Pending,En Attente
+477,Pending Activities,Activités en Attente
+478,Pending activities for today,Activités en Attente pour aujourd'hui
+479,Pending Amount,Montant en Attente
+480,Pending Qty,Qté en Attente
+481,Pending Review,Revue en Attente
+482,Pending SO Items For Purchase Request,Articles de Commande Client en Attente Pour la Demande d'Achat
+483,Pension Funds,Fonds de Pension
+484,per hour,par heure
+485,Percent,Pourcent
+486,Percentage,Pourcentage
+487,Percentage Allocation,Allocation en Pourcentage
+488,Percentage Allocation should be equal to 100%,Pourcentage d'Allocation doit être égale à 100 %
+489,Performance appraisal.,Évaluation des Performances.
+490,Period,Période
+491,Periodicity,Périodicité
+492,Permanent Address,Adresse Permanente
+493,Permanently Cancel {0}?,Annuler de Manière Permanente {0} ?
+494,Permanently delete {0}?,Supprimer de Manière Permanente {0} ?
+495,Permanently Submit {0}?,Soumettre de Manière Permanente {0} ?
+496,Permission already set,Autorisation déjà définie
+497,Permission Level,Niveau d'Autorisation
+498,Permission Levels,Niveaux d'Autorisation
+499,Permission Rules,Règles d'Autorisation
+500,Permissions,Autorisations
+501,Permissions are automatically translated to Standard Reports and Searches.,Les autorisations sont automatiquement converties pour les Rapports Standard et les Recherches .
+502,Permissions can be managed via Setup > Role Permissions Manager,Les autorisations peuvent être gérés via Configuration > Gestion des Rôles et Autorisation
+503,Permissions Updated,Autorisations Mises à Jour
+504,Person Name,Nom de la Personne
+505,Personal,Personnel
+506,Personal Details,Données Personnelles
+507,Personal Email,Email Personnel
+508,Phone,Téléphone
+509,Phone No,N° de Téléphone
+510,Phone No.,N° de Téléphone.
+511,Pick Columns,Choisir des Colonnes
+512,picture,image
+513,Piecework,Travail à la Pièce
+514,Pincode,Code Postal
+515,Place of Issue,Lieu d'Émission
+516,Place Order,Passer la Commande
+517,Planned End Date,Date de Fin Prévue
+518,Planned End Time,Heure de Fin Prévue
+519,Planned Qty,Qté Planifiée
+520,Planned Quantity,Quantité Planifiée
+521,Planned Start Date,Date de Début Prévue
+522,Planned Start Time,Heure de Début Prévue
+523,Planning,Planification
+524,Plant,Usine
+525,Please attach a file,Veuillez joindre un fichier
+526,Please click on 'Generate Schedule',"Veuillez cliquer sur ""Générer calendrier''"
+527,Please click on the following link to set your new password,Veuillez cliquer sur le lien suivant pour définir votre nouveau mot de passe
+528,Please create Customer from Lead {0},Veuillez créer un Client à partir du Prospect {0}
+529,Please Delivery Note first,Veuillez d’abord créer un Bon de Livraison
+530,Please do not change the rows above {0},Veuillez ne pas modifier les lignes ci-dessus {0}
+531,Please enable pop-ups,Veuillez autoriser les pop-ups
+532,Please ensure that your profile has an email address,Veuillez vous assurer que votre profil a une adresse email
+533,Please enter 'Is Subcontracted' as Yes or No,Veuillez entrer Oui ou Non pour 'Est sous-traitée' 
+534,Please enter 'Repeat on Day of Month' field value,Veuillez entrer une valeur pour 'Répéter le jour du mois'
+535,Please enter {0} first,Veuillez d’abord entrer {0}
+536,Please enter atleast 1 invoice in the table,Veuillez entrer au moins 1 facture dans le tableau
+537,Please enter company name first,Veuillez d’abord entrer le nom de l'entreprise
+538,Please enter default currency in Company Master,Veuillez entrer la devise par défaut dans les Données de Base de la Société
+539,Please enter email address,Veuillez entrer une adresse email
+540,Please enter Planned Qty for Item {0} at row {1},Veuillez entrer la Qté Planifiée pour l'Article {0} à la ligne {1}
+541,Please enter Purchase Receipt first,Veuillez d’abord entrer un Reçu d'Achat
+542,Please enter quantity for Item {0},Veuillez entrer une quantité pour l'article {0}
+543,Please enter Reference date,Veuillez entrer la date de Référence
+544,Please enter the password,Veuillez entrer le mot de passe
+545,Please enter valid mobile nos,Veuillez entrer des N° de mobiles valides
+546,Please find attached {0} #{1},Veuillez trouver ci-joint {0} # {1}
+547,Please refresh to get the latest document.,Veuillez actualiser pour obtenir la dernière version du document.
+548,Please remove this Invoice {0} from C-Form {1},Veuillez retirez cette Facture {0} du C-Form {1}
+549,Please save the document before uploading.,Veuillez enregistrer le document avant de le charger.
+550,Please save the Newsletter before sending,Veuillez sauvegarder la Newsletter avant de l'envoyer
+551,Please select DocType first,Veuillez d’abord sélectionner un DocType
+552,Please select item code,Veuillez sélectionner un code d'article
+553,Please select month and year,Veuillez sélectionner le mois et l'année
+554,Please select prefix first,Veuillez d’abord sélectionner un préfixe
+555,Please select Price List,Veuillez sélectionner une Liste de Prix
+556,Please set {0} first,Veuillez dabord mettre {0}
+557,Please set a default Holiday List for Employee {0} or Company {1},Veuillez définir une Liste de Vacances par défaut pour l'Employé {0} ou la Société {1}
+558,Please set default {0} in Company {1},Veuillez définir {0} par défaut dans la Société {1}
+559,Please set default Cash or Bank account in Mode of Payment {0},Veuillez définir un compte de Caisse ou de Banque par défaut pour le Mode de Paiement {0}
+560,Please set filter based on Item or Warehouse,Veuillez définir un filtre basé sur l'Article ou l'Entrepôt
+561,Please set filters,Veuillez définir des filtres
+562,Please specify,Veuillez spécifier
+563,Please specify Company,Veuillez spécifier la Société
+564,Please specify Company to proceed,Veuillez spécifier la Société pour continuer
+565,Please specify currency in Company,Veuillez spécifier la devise de la Société
+566,Please specify Default Currency in Company Master and Global Defaults,Veuillez spécifier la Devise par Défaut dans les Données de Base de la Société et les Réglages Globaux
+567,Please specify from/to range,Veuillez préciser la plage de / à
+568,Please upload using the same template as download.,Veuillez charger en utilisant le même modèle que celui téléchargé.
+569,plus,plus
+570,plus-sign,signe plus
+571,Point of Sale,Point de Vente
+572,Point-of-Sale,Point-de-Vente
+573,POS,PDV
+574,Post,Poster
+575,Postal,Postal
+576,Postal Code,Code Postal
+577,Posting Date,Date de Comptabilisation
+578,Posting date and posting time is mandatory,La Date et l’heure de comptabilisation sont obligatoires
+579,Posts,Messages
+580,Potential opportunities for selling.,Opportunités potentielles de vente.
+581,Precision,Précision
+582,Precision should be between 1 and 6,La précision doit être comprise entre 1 et 6
+583,Preferred Billing Address,Adresse de Facturation Principale
+584,Preferred Shipping Address,Adresse de Livraison Principale
+585,Prefix,Préfixe
+586,Present,Présent
+587,Preview,Aperçu
+588,Previous,Précedent
+589,Price List,Liste de Prix
+590,Price List {0} is disabled,La Liste de Prix {0} est désactivée
+591,Price List Master,Données de Base des Listes de Prix
+592,Price List master.,Données de Base des Listes de Prix
+593,Price List must be applicable for Buying or Selling,La Liste de Prix doit être applicable pour les Achats et les Ventes
+594,Price List Name,Nom de la Liste de Prix
+595,Price List not found or disabled,Liste de Prix introuvable ou desactivé
+596,Price List not selected,Liste des Prix non sélectionnée
+597,Pricing Rule,Règle de Tarification
+598,Primary,Primaire
+599,Print,Imprimer
+600,Print Format,Format d'Impression
+601,Print Format Builder,Éditeur de Format d'Impression
+602,Print Heading,Imprimer Titre
+603,Print Hide If No Value,Cacher à l’Impression si Aucune Valeur
+604,Print Language,Langue d’Impression
+605,Print Settings,Réglages d'Impression
+606,Print Style,Style d'Impression
+607,Print Style Preview,Aperçu Style d'Impression
+608,Print Width,Largeur d'Impression
+609,Print Without Amount,Imprimer Sans Montant
+610,Printing,Impression
+611,Printing and Branding,Impression et Marque
+612,Printing Details,Détails d'Impression
+613,Printing Settings,Réglages d'Impression
+614,Priority,Priorité
+615,Private,Privé
+616,Private and public Notes.,Remarques Privées et Publiques.
+617,Privilege Leave,Congé de Privilège
+618,Process Payroll,Processus de Paie
+619,Produced,Produit
+620,Produced Quantity,Quantité Produite
+621,Product Bundle,Ensemble de Produits
+622,Product Enquiry,Demande d'Information Produit
+623,Production,Production
+624,Production Order,Ordre de Production
+625,Production Orders,Ordres de Production
+626,Production Orders in Progress,Ordres de Production en Cours
+627,Products,Produits
+628,Profit and Loss,Pertes et Profits
+629,Project,Projet
+630,Project activity / task.,Activité du projet / tâche.
+631,Project Id,ID du Projet
+632,Project Manager,Chef de Projet
+633,Project master.,Données de Base du Projet.
+634,Project Name,Nom du Projet
+635,Project Start Date,Date de Début du Projet
+636,Project Task,Tâche du Projet
+637,Project Type,Type de Projet
+638,Project Value,Valeur du Projet
+639,Projected Qty,Qté Projetée
+640,Projects,Projets
+641,Projects User,Utilisateur/Intervenant Projets
+642,Property,Propriété
+643,Property Type,Type de Propriété
+644,Public,Public
+645,Publish on website,Publier sur le site web
+646,Publish to sync items,Publier pour synchroniser les éléments
+647,Published,Publié
+648,Published On,Publié le
+649,Publisher,Éditeur
+650,Publishing,Édition
+651,Purchase,Achat
+652,Purchase / Manufacture Details,Achat / Fabrication Détails
+653,Purchase Analytics,Analyses des Achats
+654,Purchase Common,Éléments Communs aux Achats
+655,Purchase Details,Détails de l'Achat
+656,Purchase Invoice,Facture d’Achat
+657,Purchase Manager,Responsable des Achats
+658,Purchase Master Manager,Responsable des Données d’Achats
+659,Purchase Order {0} is not submitted,Le Bon de Commande {0} n’est pas soumis
+660,Purchase Price List,Liste des Prix d'Achat
+661,Purchase Receipt No,N° du Reçu d'Achat
+662,Purchase Taxes and Charges Template,Modèle de Taxe et Frais d'Achat
+663,Purchaser,Acheteur
+664,Purchasing,Achat
+665,Purchse Order number required for Item {0},Numéro de Commande requis pour l'Article {0}
+666,Purpose,Objet
+667,Purpose must be one of {0},L'Objet doit être parmi {0}
+668,Purposes,Objets
+669,Postal Expenses,Frais Postaux
