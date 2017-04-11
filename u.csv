@@ -2,12 +2,12 @@
 0,uid,uid
 1,uidnext,uidnext
 2,UIDVALIDITY,UIDVALIDITY
-3,"Unable to display this tree report, due to missing data. Most likely, it is being filtered out due to permissions.","Impossible d'afficher ce rapport de l'arbre, en raison de données manquantes. Très probablement, il est filtré en raison d'autorisations."
-4,Unable to find exchange rate for {0} to {1} for key date {2},Impossible de trouver le taux de change pour {0} {1} pour la date clé {2}
+3,"Unable to display this tree report, due to missing data. Most likely, it is being filtered out due to permissions.","Impossible d'afficher ce rapport en arborescence, en raison de données manquantes. Très probablement, il est filtré sur la base des autorisations."
+4,Unable to find exchange rate for {0} to {1} for key date {2},Impossible de trouver le taux de change pour {0} - {1} pour la date clé {2}
 5,Unable to make request to the Frappe Server URL,Impossible de faire une requête sur l'URL du Serveur Frappe
-6,Unable to open attached file. Did you export it as CSV?,Impossible d'ouvrir le fichier joint. L'avez-vous exporter au format CSV ?
+6,Unable to open attached file. Did you export it as CSV?,Impossible d'ouvrir le fichier joint. L'avez-vous exporté au format CSV ?
 7,Unallocated Amount,Montant Non Alloué
-8,UnCategorised Tags,Mots-clefs Non Catégorisé
+8,UnCategorised Tags,Mots-clefs Non Catégorisés
 9,Unclosed Fiscal Years Profit / Loss (Credit),Bénéfice / Perte (Crédit) des Exercices Non Clos
 10,Under AMC,Sous AMC
 11,Unhandled Email,Email Non Géré
@@ -18,7 +18,7 @@
 16,Unread,Non Lus
 17,UNSEEN,INVISIBLE
 18,Unstopped,Non Arrêté
-19,Unsubscribe,Se Désabonner
+19,Unsubscribe,Se Désinscrire
 20,Unsubscribe from Newsletter,Se Désinscire de la Newsletter
 21,Unsubscribe Method,Méthode de Désinscription
 22,Unsubscribe Param,Paramètre de Désinscription
@@ -26,7 +26,7 @@
 24,UOM,UDM
 25,UOM coversion factor required for UOM: {0} in Item: {1},Facteur de coversion UDM requis pour l'UDM : {0} dans l'Article : {1}
 26,Upcoming Calendar Events,Prochains Événements du Calendrier
-27,Update bank payment dates with journals.,Mettre à jour des dates de paiement bancaires avec des journaux.
+27,Update bank payment dates with journals.,Mettre à jour les dates de paiement bancaires avec les journaux.
 28,Update Bank Transaction Dates,Mettre à jour les Dates de Transation Bancaire
 29,Update Clearance Date,Mettre à Jour la Date de Compensation
 30,Update Email Group,Metter à jour le Groupe d'Email
@@ -34,10 +34,10 @@
 32,"Update only, do not insert new records.","Mettre à jour seulement, ne pas insérer de nouveaux enregistrements."
 33,Update Print Format,Mettre à Jour le Format d'Impression
 34,Update Series Number,Mettre à Jour la Série
-35,Upload CSV file containing all user permissions in the same format as Download.,Chargement d'un fichier CSV contenant toutes les autorisations de l'utilisateur dans le même format que le Téléchargement.
+35,Upload CSV file containing all user permissions in the same format as Download.,Chargement d'un fichier CSV contenant toutes les autorisations de l'utilisateur dans le même format que le fichier Téléchargé.
 36,Uploading files please wait for a few seconds.,Chargement de fichiers veuillez patienter quelques secondes.
-37,UPPER CASE,HAUT DE CASSE
-38,"URL for ""All Products""","URL" pour "Tous les Produits"""
+37,UPPER CASE,MAJUSCULE
+38,"URL for ""All Products""","URL pour "Tous les Produits"""
 39,Usage Info,Infos d'Usage
 40,use % as wildcard,utiliser % comme joker
 41,"Use a few words, avoid common phrases.","Utiliser quelques mots, éviter les phrases courantes."
@@ -49,17 +49,17 @@
 47,User editable form on Website.,Formulaire modifiable par l'utilisateur sur le Site.
 48,User Emails,Les Emails de l'Utilisateur
 49,User Forum,Forum de l'Utilisateur
-50,User ID of a Blogger,ID de l'Utilisateur d'un Blogger
+50,User ID of a Blogger,ID l'Utilisateur d'un Blogger
 51,User is mandatory for Share,L'utilisateur est obligatoire pour Partager
 52,User not allowed to delete {0}: {1},Utilisateur non autorisé à supprimer {0} : {1}
 53,User Permission DocTypes,DocTypes d'Autorisation de l'Utilisateur
 54,User Permission for Page and Report,Autorisation de l'Utilisateur pour la Page et le Rapport
 55,User permissions should not apply for this Link,Autorisations de l'utilisateur ne devraient pas s'appliquer pour ce Lien
 56,"Username should not contain any special characters other than letters, numbers and underscore","Nom d'utilisateur ne doit pas contenir de caractères spéciaux autres que des lettres, des chiffres et l'underscore"
-57,Users with this role are allowed to set frozen accounts and create / modify accounting entries against frozen accounts,Les utilisateurs ayant ce rôle sont autorisés à définir les comptes gelés et de créer / modifier des écritures comptables des comptes gelés
-58,Uses the Email Address mentioned in this Account as the Sender for all emails sent using this Account.,Utilise l'Adresse Email mentionné dans ce Compte comme Expéditeur pour tous les emails envoyés de ce Compte.
+57,Users with this role are allowed to set frozen accounts and create / modify accounting entries against frozen accounts,Les utilisateurs ayant ce rôle sont autorisés à définir les comptes gelés et à créer / modifier des écritures comptables sur des comptes gelés
+58,Uses the Email Address mentioned in this Account as the Sender for all emails sent using this Account.,Utilise l'Adresse Email mentionnée dans ce Compte comme Expéditeur pour tous les emails envoyés de ce Compte.
 59,Unable to find attachment {0},Impossible de trouver la pièce jointe {0}
-60,Unable to find Time Slot in the next {0} days for Operation {1},Impossible de trouver le Créneau de Temps dans les {0} prochains jours pour l'Opération {1}
+60,Unable to find Time Slot in the next {0} days for Operation {1},Impossible de trouver le Créneau Horaires dans les {0} prochains jours pour l'Opération {1}
 61,Unable to load: {0},Impossible de charger : {0}
 62,Unable to send emails at this time,Impossible d'envoyer des emails en ce moment
 63,Unable to update event,Impossible de mettre à jour l'événement
@@ -81,7 +81,7 @@
 79,Unscheduled,Non programmé
 80,Unsecured Loans,Prêts Non Garantis
 81,Unselect All,Tout Déselectionner
-82,Unshared,Non Partagée
+82,Unshared,Non Partagé
 83,Unsubscribe from this Email Digest,Se Désinscire de ce Compte Rendu par Email
 84,Unsubscribe from this list,Se Désinscrire de cette liste
 85,Unsubscribed,Désinscrit
@@ -93,12 +93,12 @@
 91,UOM Conversion factor is required in row {0},Facteur de conversion de l'UDM est obligatoire dans la ligne {0}
 92,UOM Name,Nom UDM
 93,UOMs,UDMs
-94,Upcoming Events for Today,Prochains Événements pour Aujourd'hui
+94,Upcoming Events for Today,Événements À Venir Aujourd'hui
 95,Update,Mettre à Jour
-96,Update additional costs to calculate landed cost of items,Mettre à jour les coûts supplémentaires pour calculer le coût au débarquement des articles
+96,Update additional costs to calculate landed cost of items,Mettre à jour les frais additionnels pour calculer le coût au débarquement des articles
 97,Update Cost,Mettre à jour le Coût
 98,Update Field,Mettre à jour le Champ
-99,Update Rate and Availability,Mettre à Jour le Prix et Disponibilité
+99,Update Rate and Availability,Mettre à Jour le Prix et la Disponibilité
 100,Update Series,Mettre à Jour les Séries
 101,Update Stock,Mettre à Jour le Stock
 102,Update the template and save in CSV (Comma Separate Values) format before attaching.,Mettre à jour le modèle et l'enregistrer au format CSV (Valeurs Séparées par Virgules) avant de l'attacher.
@@ -160,4 +160,4 @@
 158,Users who can approve a specific employee's leave applications,Les utilisateurs qui peuvent approuver les demandes de congé d'un employé en particulier
 159,Users with role {0}:,Utilisateurs avec le rôle {0} :
 160,Utilities,Utilitaires
-161,Utility Expenses,Charges Services Publics
+161,Utility Expenses,Frais de Services Publics
