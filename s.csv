@@ -5,7 +5,7 @@
 3,Salary Component,Composante Salariale
 4,Salary Component Account,Compte Composante Salariale
 5,Salary Component for timesheet based payroll.,Composante Salariale pour la rémunération basée sur la feuille de temps
-6,Salary Components,Composantes Salariale
+6,Salary Components,Composantes Salariales
 7,Salary Detail,Détails du Salaire
 8,Salary Mode,Mode de Rémunération
 9,Salary Register,Registre du Salaire
@@ -27,7 +27,7 @@
 25,Sales Order Message,Message de la Commande Client
 26,Sales Order Required,Commande Client Requise
 27,Sales Order required for Item {0},Commande Client requise pour l'Article {0}
-28,Sales Order to Payment,De la Commandes Client au Paiement
+28,Sales Order to Payment,De la Commande Client au Paiement
 29,Sales Order Trends,Tendances des Commandes Client
 30,Sales Orders,Commandes Clients
 31,Sales Partner Name,Nom du Partenaire de Vente
@@ -60,7 +60,7 @@
 58,Score cannot be greater than Maximum Score,Score ne peut pas être supérieure à Score maximum
 59,Score Earned,Score Gagné
 60,Scrap,Mettre au Rebut
-61,Scrap %,Scrap%
+61,Scrap %,% de Rebut
 62,Scrap Items,Mettre au Rebut des Articles
 63,Scrap Material Cost,Coût de Mise au Rebut des Matériaux
 64,Scrap Material Cost(Company Currency),Coût de Mise au Rebut des Matériaux (Devise Société)
@@ -81,8 +81,8 @@
 79,"Seasonality for setting budgets, targets etc.","Saisonnalité de l'établissement des budgets, des objectifs, etc."
 80,Seating Capacity,Nombre de places
 81,Section Heading,Titre de la Section
-82,Securities & Commodity Exchanges,Valeurs Mobilières et des Bourses de Marchandises
-83,Securities and Deposits,Titres et des Dépôts
+82,Securities & Commodity Exchanges,Bourses de Valeurs Mobilières et de Marchandises
+83,Securities and Deposits,Titres et Dépôts
 84,"See ""Rate Of Materials Based On"" in Costing Section","Voir ""Taux des Matériaux Basé Sur"" dans la Section des Coûts"
 85,See on Website,Voir sur le Site
 86,Seems API Key or API Secret is wrong !!!,Il semble que la Clé API ou le Secret API soit faux !!!
@@ -105,7 +105,7 @@
 103,Select employees for current Salary Structure,Sélectionner les Employés pour la Grille de Salaire actuelle
 104,Select File Type,Sélectionner le Type de Fichier
 105,Select Fiscal Year...,Sélectionner Exercice ...
-106,Select Items to Manufacture,Sélectionner les Articles à Fabrication
+106,Select Items to Manufacture,Sélectionner les Articles à Fabriquer
 107,Select items to save the invoice,Sélectionner les articles pour sauvegarder la facture
 108,Select Mandatory,Sélectionner Obligatoirement
 109,Select Module,Sélectionner Module
@@ -141,7 +141,7 @@
 139,Send Attachements,Envoyer Pièces Jointes
 140,Send days before or after the reference date,Envoyer jours avant ou après la date de référence
 141,Send document web view link in email,Envoyer le lien de l'affichage web du document dans l'email
-142,Send Email Print Attachments as PDF (Recommended),Envoyer l'Email Imprimer Pièces Jointes au format PDF (recommandé)
+142,Send Email Print Attachments as PDF (Recommended),Envoyer les Pièces Jointes Imprimées de l'Email au format PDF (recommandé)
 143,Send Emails At,Envoyer Emails À
 144,Send enquiries to this email address,Envoyer une demande à cette adresse courriel
 145,Send Feedback Request only if there is at least one communication is available for the document.,Envoyer une Demande de Retour d'Expérience que s'il y a au moins une communication disponible pour le document.
@@ -181,7 +181,7 @@
 179,Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution.,Définir des budgets par Groupes d'Articles sur ce Territoire. Vous pouvez également inclure de la saisonnalité en définissant la Répartition.
 180,Set non-standard precision for a Float or Currency field,Définir la précision non standard pour un champ Flottant ou Devise
 181,Set Number of Backups,Définir Nombre de Sauvegardes
-182,Set Only Once,Définir qu'une Seule Fois
+182,Set Only Once, Ne Définir qu'une Seule Fois
 183,Set Permissions,Définir les Autorisations
 184,Set Role For,Définir le Rôle Pour
 185,Set Sort,Définir le Tri
@@ -191,8 +191,8 @@
 189,Set User Permissions,Définir les Autorisations des Utilisateurs
 190,Setting Account Type helps in selecting this Account in transactions.,Définir le Type de Compte aide à sélectionner ce Compte dans les transactions.
 191,"Setting Events to {0}, since the Employee attached to the below Sales Persons does not have a User ID{1}","Définir les Événements à {0}, puisque l'employé attaché au Commercial ci-dessous n'a pas d'ID Utilisateur {1}"
-192,Setting this Address Template as default as there is no other default,"Définir ce Modèle d'Adresse par défaut, car il n'y a pas d'autre défaut"
-193,Setting up Email Account,Configuration du Compte de Email
+192,Setting this Address Template as default as there is no other default,"Définition de ce Modèle d'Adresse par défaut, car il n'y a pas d'autre défaut"
+193,Setting up Email Account,Configuration du Compte Email
 194,Setting up Employees,Configuration des Employés
 195,Setting up Taxes,Configuration des Impôts
 196,Settings for Accounts,Réglages pour les Comptes
@@ -220,7 +220,7 @@
 218,Sheet 1,Feuille 1
 219,Shipping Address Name,Nom de l'Adresse de Livraison
 220,Shipping Amount,Montant de la Livraison
-221,Shipping County,Conté de Livraison
+221,Shipping County,Comté de Livraison
 222,Shipping Rule Conditions,Conditions de la Règle de Livraison
 223,Shipping Rule Country,Pays de la Règle de Livraison
 224,Shipping Rule Label,Étiquette de la Règle de Livraison
@@ -296,9 +296,9 @@
 294,Something went wrong,Quelque chose s'est mal passé
 295,"Sorry, companies cannot be merged","Désolé, les sociétés ne peuvent pas être fusionnées"
 296,"Sorry, Serial Nos cannot be merged","Désolé, les N° de Série ne peut pas être fusionnés"
-297,Sorry! I could not find what you were looking for.,Désolé ! Je n'ai pas trouver ce que vous recherchiez.
-298,Sorry! Sharing with Website User is prohibited.,Désolé ! Partage avec Utilisateur Site Web est interdit.
-299,Sorry! User should have complete access to their own record.,Désolé ! L'utilisateur devrait avoir un accès complet à leur propre dossier.
+297,Sorry! I could not find what you were looking for.,Désolé ! Je n'ai pas trouvé ce que vous recherchiez.
+298,Sorry! Sharing with Website User is prohibited.,Désolé ! Partage avec Utilisateur du Site Web est interdit.
+299,Sorry! User should have complete access to their own record.,Désolé ! Les utilisateurs devraient avoir un accès complet à leur propre dossier.
 300,Sorry. You have reached the maximum user limit for your subscription. You can either disable an existing user or buy a higher subscription plan.,Désolé. Vous avez atteint la limite maximum de l'utilisateur pour votre abonnement. Vous pouvez soit désactiver un utilisateur existant ou acheter un abonnement supérieur.
 301,Sort Field,Champ de Tri
 302,Sort field {0} must be a valid fieldname,Champ de tri {0} doit être un nom de champ valide
@@ -354,7 +354,7 @@ The tax rate you define here will be the standard tax rate for all **Items**. If
 
 #### Remarque 
 
-Le taux d'imposition que vous définissez ici sera le taux d'imposition standard pour tous les **Articles**. S'il y a des **Articles** qui ont des taux différents, ils doivent être ajoutés dans la table **Impôt de l'Article** dans le maître **Article**.
+Le taux d'imposition que vous définissez ici sera le taux d'imposition standard pour tous les **Articles**. S'il y a des **Articles** qui ont des taux différents, ils doivent être ajoutés dans la table **Taxe de l'Article** dans les donées de base **Article**.
 
 #### Description des Colonnes
 
@@ -362,15 +362,15 @@ Le taux d'imposition que vous définissez ici sera le taux d'imposition standard
     - Cela peut être le **Total Net** (qui est la somme des montants de base).
     - **Total / Montant Sur la Ligne Précédente** (pour les taxes ou frais accumulés). Si vous sélectionnez cette option, la taxe sera appliquée en pourcentage du montant ou du total de la ligne précédente (dans la table d'impôts).
     - **Réelles** (comme mentionné).
-2. Titre Compte : Le journal de compte dans lequelle cette taxe sera comptabilisée
-3. Centre de Coût : Si la taxe / redevance est un revenu (comme la livraison) ou une charge, elle doit être comptabilisé dans un Centre de Coûts.
+2. Titre du Compte : Le journal comptable dans lequel cette taxe sera comptabilisée
+3. Centre de Coût : Si la taxe / redevance est un revenu (comme la livraison) ou une charge, elle doit être comptabilisée dans un Centre de Coûts.
 4. Description : Description de la taxe (qui sera imprimée sur les factures / devis).
 5. Taux : Le taux d'imposition.
 6. Montant : Le montant de la taxe.
 7. Total : Total accumulé à ce point.
 8. Entrez la Ligne : Si elle est basée sur ""Total de la Ligne Précédente"" vous pouvez sélectionner le numéro de la ligne qui sera pris comme base pour ce calcul (par défaut la ligne précédente).
 9. Considérez Taxe ou Charge pour : Dans cette section, vous pouvez spécifier si la taxe / redevance est seulement pour la valorisation (pas une partie du total) ou seulement pour le total (n'ajoute pas de la valeur à l'article) ou pour les deux.
-10. Ajouter ou Déduire : Ce que vous voulez ajouter ou déduire la taxe."
+10. Ajouter ou Déduire : Ce que vous voulez ajouter ou déduire de la taxe."
 332,"Standard tax template that can be applied to all Sales Transactions. This template can contain list of tax heads and also other expense / income heads like ""Shipping"", ""Insurance"", ""Handling"" etc.
 
 #### Note
@@ -394,7 +394,7 @@ The tax rate you define here will be the standard tax rate for all **Items**. If
 
 #### Remarque 
 
-Le taux d'imposition que vous définissez ici sera le taux d'imposition standard pour tous les **Articles**. S'il y a des **Articles** qui ont des taux différents, ils doivent être ajoutés dans la table **Impôt de l'Article** dans le maître **Article**.
+Le taux d'imposition que vous définissez ici sera le taux d'imposition standard pour tous les **Articles**. S'il y a des **Articles** qui ont des taux différents, ils doivent être ajoutés dans la table **Taxe de l'Article** dans le maître **Article**.
 
 #### Description des Colonnes
 
@@ -402,8 +402,8 @@ Le taux d'imposition que vous définissez ici sera le taux d'imposition standard
     - Cela peut être le **Total Net** (qui est la somme des montants de base).
     - **Total / Montant Sur la Ligne Précédente** (pour les taxes ou frais accumulés). Si vous sélectionnez cette option, la taxe sera appliquée en pourcentage du montant ou du total de la ligne précédente (dans la table d'impôts).
     - **Réelles** (comme mentionné).
-2. Titre Compte : Le journal de compte dans lequelle cette taxe sera comptabilisée
-3. Centre de Coût : Si la taxe / redevance est un revenu (comme la livraison) ou une charge, elle doit être comptabilisé dans un Centre de Coûts.
+2. Titre Compte : Le journal comptable dans lequel cette taxe sera comptabilisée
+3. Centre de Coût : Si la taxe / redevance est un revenu (comme la livraison) ou une charge, elle doit être comptabilisée dans un Centre de Coûts.
 4. Description : Description de la taxe (qui sera imprimée sur les factures / devis).
 5. Taux : Le taux d'imposition.
 6. Montant : Le montant de la taxe.
@@ -628,7 +628,7 @@ Exemples :
 524,Sales Partner,Partenaire Commercial
 525,Sales Partner and Commission,Partenaire Commercial et Commission
 526,Sales Partner Target,Objectif du Partenaire Commercial
-527,Sales Partners and Territory,Partenaires Commercial et Régions
+527,Sales Partners and Territory,Partenaires Commerciaux et Régions
 528,Sales Person,Vendeur
 529,Sales Person Name,Nom du Vendeur
 530,Sales Pipeline,Pipeline de Ventes
@@ -761,7 +761,7 @@ Exemples :
 657,Service,Service
 658,Service Address,Adresse du Service
 659,Services,Services
-660,Session Expired. Logging you out,Session Expirée. Déconnextion en cours.
+660,Session Expired. Logging you out,Session Expirée. Déconnexion en cours.
 661,Session Expiry,Expiration de Session
 662,Session Expiry in Hours e.g. 06:00,"Delai d'Expiration de Session en Heures, e.g. 06:00"
 663,Session Expiry Mobile,Expiration de Session Mobile
@@ -924,7 +924,7 @@ Exemples :
 820,Support Team,Équipe de Support
 821,Symbol,Symbole
 822,Sync Now,Synchroniser Maintenant
-823,Sync Offline Invoices,Syncrhoniser les Factures hors-ligne
+823,Sync Offline Invoices,Synchroniser les Factures hors-ligne
 824,Synced With Hub,Synchronisé avec le Hub
 825,Syntax error in template,Erreur de syntaxe dans le modèle
 826,System,Système
