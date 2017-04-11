@@ -8,7 +8,7 @@
 6,You can use Customize Form to set levels on fields.,Vous pouvez utiliser Personaliser le Formulaire pour définir les niveaux de champs.
 7,You cannot delete Fiscal Year {0}. Fiscal Year {0} is set as default in Global Settings,Vous ne pouvez pas supprimer l'Exercice {0}. L'exercice {0} est défini par défaut dans les Réglages Globaux
 8,You cannot like something that you created,Vous ne pouvez pas aimer quelque chose que vous avez créé
-9,You did not apporve Dropbox Access.,Vous n'avez pas approuver l'Accès Dropbox.
+9,You did not apporve Dropbox Access.,Vous n'avez pas approuvé l'Accès Dropbox.
 10,You do not have enough permissions to access this resource. Please contact your manager to get access.,Vous ne disposez pas de suffisamment d'autorisations pour accéder à cette ressource. Veuillez contacter votre responsable pour obtenir l'accès.
 11,You do not have enough permissions to complete the action,Vous ne disposez pas de suffisamment d'autorisations pour compléter l'action
 12,You have already selected items from {0} {1},Vous avez déjà choisi des articles de {0} {1}
@@ -25,17 +25,17 @@
 23,Your system is being updated. Please refresh again after a few moments,Votre système est mis à jour. Veuillez rafraîchir à nouveau dans quelques instants
 24,Yahoo Mail,Yahoo Mail
 25,Yandex.Mail,Yandex.Mail
-26,Year End Date,Année de la Date de Fin
+26,Year End Date,Date de Fin de l'Exercice
 27,Year Name,Nom de l'Année
 28,Year of Passing,Année de Passage
-29,Year Start Date,Année de la Date de Début
+29,Year Start Date,Date de Début de l'Exercice
 30,Yearly,Annuel
 31,yellow,jaune
 32,Yes,Oui
 33,Yesterday,Hier
 34,You,Vous
 35,You are in offline mode. You will not be able to reload until you have network.,Vous êtes en mode hors connexion. Vous ne serez pas en mesure de recharger jusqu'à ce que vous ayez du réseau.
-36,You are not allowed to create / edit reports,Vous n'êtes pas autorisé à crééer / modifier des rapports
+36,You are not allowed to create / edit reports,Vous n'êtes pas autorisé à créer / modifier des rapports
 37,You are not allowed to delete a standard Website Theme,Vous n'êtes pas autorisé à supprimer un Thème standard du Site Web
 38,You are not allowed to export this report,Vous n'êtes pas autorisé à exporter ce rapport.
 39,You are not allowed to make PDF for this report,Vous n'êtes pas autorisé à faire un PDF pour ce rapport
@@ -43,17 +43,17 @@
 41,You are not allowed to print this report,Vous n'êtes pas autorisé à imprimer ce rapport
 42,You are not allowed to send emails related to this document,Vous n'êtes pas autorisé à envoyer un email en relation avec ce document
 43,You are not allowed to update this Web Form Document,Vous n'êtes pas autorisé à mettre à jour ce formulaire Web
-44,You are not authorized to add or update entries before {0},Vous n'êtes pas autorisé à ajouter ou faire une mise à jour des écritures avant {0}
+44,You are not authorized to add or update entries before {0},Vous n'êtes pas autorisé à ajouter ou faire une mise à jour des écritures avant le {0}
 45,You are not authorized to approve leaves on Block Dates,Vous n'êtes pas autorisé à approuver les congés sur les Dates Bloquées
 46,You are not authorized to set Frozen value,Vous n'êtes pas autorisé à définir des valeurs gelées
 47,You are not permitted to access this page.,Vous n'êtes pas autorisé à accéder à cette page.
 48,You are the Expense Approver for this record. Please Update the 'Status' and Save,Vous êtes l'Approbateur de Dépenses pour cet enregistrement. Veuillez Mettre à Jour le 'Status' et Enregistrer
-49,You can add dynamic properties from the document by using Jinja templating.,Vous pouvez ajouter des propriétés dynamiques au document à l'aide de modèle Jinja.
+49,You can add dynamic properties from the document by using Jinja templating.,Vous pouvez ajouter des propriétés dynamiques au document à l'aide des modèles Jinja.
 50,You can also copy-paste this link in your browser,Vous pouvez également copier-coller ce lien dans votre navigateur
 51,"You can change Submitted documents by cancelling them and then, amending them.","Vous pouvez modifier les documents Soumis en les annulant et ensuite, en les modifiant."
 52,You can enter any date manually,Vous pouvez entrer une date manuellement
-53,You can only upload upto 5000 records in one go. (may be less in some cases),Vous pouvez selement charger jusqu'à 5000 enregistrement en une seule fois. (peut-être moins dans certains cas)
-54,You can use wildcard %,Vous pouvez utiliser % de joker
+53,You can only upload upto 5000 records in one go. (may be less in some cases),Vous pouvez seulement charger jusqu'à 5000 enregistrement en une seule fois. (peut-être moins dans certains cas)
+54,You can use wildcard %,Vous pouvez utiliser % comme joker
 55,You cannot credit and debit same account at the same time,Vous ne pouvez pas créditer et débiter le même compte simultanément
 56,You cannot install this app,Vous ne pouvez pas installer cette application
 57,You cannot unset 'Read Only' for field {0},Vous ne pouvez pas désactiver 'Lecture Seule' pour le champ {0}"
