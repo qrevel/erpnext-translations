@@ -1,7 +1,7 @@
 ,English,Français
-0,"Warehouse {0} is not linked to any account, please create/link the corresponding (Asset) account for the warehouse.","L'entrepôt {0} n'est liée à auncu compte, veuillez créer/lier le compte (Actif) correspondant pour l'entrepôt."
+0,"Warehouse {0} is not linked to any account, please create/link the corresponding (Asset) account for the warehouse.","L'entrepôt {0} n'est liée à auncun compte, veuillez créer/lier le compte (Actif) correspondant pour l'entrepôt."
 1,Warehouse cannot be changed for Serial No.,L'entrepôt ne peut être modifié pour le N° de Série
-2,Warehouse company must be same as Account company,La société d'entrepôt doit être la même que la société du compte
+2,Warehouse company must be same as Account company,La société de l'entrepôt doit être la même que la société du compte
 3,Warehouse is mandatory for non group Accounts of type Stock,L'entrepôt est obligatoire pour les Comptes non-groupe de type Stock
 4,Warehouses with child nodes cannot be converted to ledger,Les entrepôts avec nœuds enfants ne peuvent pas être convertis en livre
 5,Warehouses with existing transaction can not be converted to group.,Les entrepôts avec des transactions existantes ne peuvent pas être convertis en groupe.
@@ -14,7 +14,7 @@
 12,Web View,Vue Web
 13,Website Image {0} attached to Item {1} cannot be found,Image pour le Site Web {0} attachée à l'Article {1} ne peut pas être trouvée
 14,Website Item Group,Groupe d'Articles du Site Web
-15,Website Item Groups,Groupes d'articles du Site Web
+15,Website Item Groups,Groupes d'Articles du Site Web
 16,Website Manager,Responsable du Site Web
 17,Website Sidebar,Barre Latérale du Site Web
 18,Website Sidebar Item,Objet de la Barre Latérale du Site Web
@@ -31,8 +31,8 @@
 29,Wheels,Roues
 30,"When any of the checked transactions are ""Submitted"", an email pop-up automatically opened to send an email to the associated ""Contact"" in that transaction, with the transaction as an attachment. The user may or may not send the email.","Lorsque certaines des transactions contrôlées sont ""Soumises"", une pop-up email s'ouvre automatiquement pour envoyer un email au ""Contact"" associé dans cette transaction, avec la transaction en pièce jointe. L'utilisateur peut ou peut ne pas envoyer l'email."
 31,"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.","Lorsque vous Modifiez un document après l'avoir Annulé et que vous l'enregistrez, il va obtenir un nouveau numéro qui est une version de l'ancien numéro."
-32,Where items are stored.,Là que les articles sont stockés.
-33,Where manufacturing operations are carried.,Là que les opérations de fabrication sont réalisées.
+32,Where items are stored.,Là où les articles sont stockés.
+33,Where manufacturing operations are carried.,Là où les opérations de fabrication sont réalisées.
 34,Width of amount in word,Largeur du montant en toutes lettres
 35,Width of the input box,Largeur de la boîte d'entrée
 36,Will also apply for variants,S'appliquera également pour les variantes
@@ -41,7 +41,7 @@
 39,Will be used in url (usually first name).,Sera utilisé dans l'url (généralement le prénom).
 40,Will only be shown if section headings are enabled,Ne seront montrés que si les titres de section sont activés
 41,Will send an email about the event to employees with status 'Open',Enverra un email au sujet de l'événement pour les employés ayant le statut 'Ouvert'
-42,Will show the student as Present in Student Monthly Attendance Report,Affichera l'étudiant comme Présent dans Rapport Mensuel de Présence des Étudiants
+42,Will show the student as Present in Student Monthly Attendance Report,Affichera l'étudiant comme Présent dans le Rapport Mensuel de Présence des Étudiants
 43,WIP Warehouse,Entrepôt (Travaux en Cours)
 44,With Groups,Avec Groupes
 45,With Items,Avec Articles
@@ -106,7 +106,7 @@
 104,Warning: Invalid Attachment {0},Attention : Pièce jointe non valide {0}
 105,Warning: Invalid SSL certificate on attachment {0},Attention : certificat SSL non valide sur la pièce jointe {0}
 106,Warning: Leave application contains following block dates,Attention : la demande de congé contient les dates bloquées suivantes
-107,Warning: Material Requested Qty is less than Minimum Order Qty,Attention : La Quantité de Matériel Requis est inférieure à la Qté Minimum de Commande
+107,Warning: Material Requested Qty is less than Minimum Order Qty,Attention : La Quantité de Matériel Commandé est inférieure à la Qté Minimum de Commande
 108,Warning: This Print Format is in old style and cannot be generated via the API.,Attention : Ce Format d'Impression est dans un style ancien et ne peut pas être généré via l'API.
 109,Warranty,Garantie
 110,Warranty / AMC Details,Garantie / Détails AMC
@@ -145,7 +145,7 @@
 143,White,Blanc
 144,Widowed,Veuf
 145,Width,Largeur
-146,Widths can be set in px or %.,Les largeurs peuvent être réglés en px ou %.
+146,Widths can be set in px or %.,Les largeurs peuvent être réglées en px ou %.
 147,Wire Transfer,Virement
 148,Work Done,Travaux Effectués
 149,Work In Progress,Travaux En Cours
