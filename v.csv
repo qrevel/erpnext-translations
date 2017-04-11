@@ -1,81 +1,81 @@
 ,English,Français
-0,Validate Selling Price for Item against Purchase Rate or Valuation Rate,Valider Prix de vente pour l'article contre Tarif d'achat ou d'évaluation Taux
-1,Valuation Rate is mandatory if Opening Stock entered,Évaluation Le tarif est obligatoire si Stock d'ouverture est entré
-2,"Valuation rate not found for the Item {0}, which is required to do accounting entries for {1} {2}. If the item is transacting as a sample item in the {1}, please mention that in the {1} Item table. Otherwise, please create an incoming stock transaction for the item or mention valuation rate in the Item record, and then try submiting/cancelling this entry","Taux de valorisation non trouvé pour l'élément {0}, qui est nécessaire pour faire les écritures comptables pour {1} {2}. Si l'élément transige comme un élément de l'échantillon dans le {1}, mentionnez s'il vous plaît que dans le {1} table article. Dans le cas contraire, s'il vous plaît créer une transaction en actions entrant pour l'élément ou mention taux d'évaluation dans le dossier d'objet et essayez submiting / annuler cette entrée"
-3,Valuation Rate required for Item in row {0},Évaluation Taux requis pour le point à la ligne {0}
-4,Value {0} for Attribute {1} does not exist in the list of valid Item Attribute Values for Item {2},Valeur {0} pour l'attribut {1} n'existe pas dans la liste des valeurs d'attribut valides Point pour objet {2}
+0,Validate Selling Price for Item against Purchase Rate or Valuation Rate,Valider le Prix de Vente de l'Article avec le Prix d'Achat ou le Taux de Valorisation
+1,Valuation Rate is mandatory if Opening Stock entered,Le Taux de Valorisation est obligatoir si un Stock Initial est entré
+2,"Valuation rate not found for the Item {0}, which is required to do accounting entries for {1} {2}. If the item is transacting as a sample item in the {1}, please mention that in the {1} Item table. Otherwise, please create an incoming stock transaction for the item or mention valuation rate in the Item record, and then try submiting/cancelling this entry","Taux de valorisation non trouvé pour l’article {0}, qui est nécessaire pour faire les écritures comptables pour {1} {2}. Si l’article est un l'échantillon dans {1}, veuillez le mentionner dans la table d’article de {1}. Dans le cas contraire, veuillez créer une entrée de stock pour l’article ou définir un taux de valorisation dans les données de base de l’article et essayez de soumettre / annuler cette écriture"
+3,Valuation Rate required for Item in row {0},Taux de Valorisation requis pour l’Article de la ligne {0}
+4,Value {0} for Attribute {1} does not exist in the list of valid Item Attribute Values for Item {2},La Valeur {0} pour l'Attribut {1} n'existe pas dans la liste des Valeurs d'Attribut d’Article valides pour l’Article {2}
 5,Value for Attribute {0} must be within the range of {1} to {2} in the increments of {3} for Item {4},Valeur pour l'attribut {0} doit être dans la gamme de {1} à {2} dans les incréments de {3} pour le poste {4}
-6,Values Changed,Les valeurs modifiées
+6,Values Changed,Valeurs Modifiées
 7,Variance,Variance
-8,Variant Based On,Variante sur la base
-9,Vehicle Date,Date de véhicule
-10,Vehicle Dispatch Date,Date d'envoi du véhicule
-11,Vehicle Log,Journal du véhicule
-12,View Settings,Paramètres d'affichage
+8,Variant Based On,Variante Basée Sur
+9,Vehicle Date,Date du Véhicule
+10,Vehicle Dispatch Date,Date d'Envoi du Véhicule
+11,Vehicle Log,Journal du Véhicule
+12,View Settings,Réglages d'Affichage
 13,VLOG.,VLOG.
 14,Valid,Valide
-15,Valid email and name required,Courriel valide et nom requis
+15,Valid email and name required,Email et nom valides requis
 16,Valid for Countries,Valable pour les Pays
-17,Valid From,Valide à partir de
-18,Valid Login id required.,Un Identifiant valide est nécéssaire.
-19,Valid Upto,Valide jusqu'au
+17,Valid From,Valide à Partir de
+18,Valid Login id required.,Un Identifiant de Connexion valide est nécéssaire.
+19,Valid Upto,Valide Jusqu'au
 20,Validation failed for {0},Echec de la validation pour {0}
 21,Validity,Validité
 22,Valuation,Valorisation
-23,Valuation and Total,Valorisation et total
-24,Valuation Method,Méthode de valorisation
-25,Valuation Rate,Taux de valorisation
-26,Valuation type charges can not marked as Inclusive,Frais de type valorisation ne peuvent pas marqué comme inclusive
+23,Valuation and Total,Valorisation et Total
+24,Valuation Method,Méthode de Valorisation
+25,Valuation Rate,Taux de Valorisation
+26,Valuation type charges can not marked as Inclusive,Frais de type valorisation ne peuvent pas être marqués comme inclus
 27,Value,Valeur
 28,Value / Description,Valeur / Description
-29,Value After Depreciation,Valeur après amortissement
-30,Value cannot be changed for {0},Valeur ne peut pas être changé pour {0}
-31,Value Change,Changement de valeur
-32,Value Changed,Valeur Changé
+29,Value After Depreciation,Valeur Après Amortissement
+30,Value cannot be changed for {0},Valeur ne peut pas être modifiée pour {0}
+31,Value Change,Modification de Valeur
+32,Value Changed,Valeur Modifiée
 33,Value for {0} cannot be a list,Valeur pour {0} ne peut pas être une liste
-34,Value for a check field can be either 0 or 1,La valeur pour un champ de contrôle peut être soit 0 ou 1
+34,Value for a check field can be either 0 or 1,La valeur pour un champ de contrôle peut être 0 ou 1
 35,Value missing for,Valeur manquante pour
-36,Value or Qty,Valeur ou Quantité
+36,Value or Qty,Valeur ou Qté
 37,Value too big,Valeur trop grande
 38,values and dates,valeurs et dates
 39,values separated by commas,valeurs séparées par des virgules
 40,Variable,Variable
 41,Variant,Variante
-42,Variant Of,Variante du
+42,Variant Of,Variante De
 43,Variants,Variantes
 44,Vehicle,Véhicule
-45,Vehicle Expenses,Frais de véhicule
-46,Vehicle No,No du véhicule
-47,Vehicle Number,Nombre de véhicules
-48,Vehicle Service,Entretien des véhicules
-49,Vehicle Value,Valeur du véhicule
+45,Vehicle Expenses,Frais de Véhicule
+46,Vehicle No,N° du Véhicule
+47,Vehicle Number,Numéro de Véhicule
+48,Vehicle Service,Entretien du Véhicule
+49,Vehicle Value,Valeur du Véhicule
 50,Venture Capital,Capital Risque
 51,Verdana,Verdana
-52,Verified By,Vérifié par
+52,Verified By,Vérifié Par
 53,Verify,Vérifier
 54,Verify Password,Vérifier Le Mot De Passe
-55,Verifying...,Vérification ...
-56,Version,version
+55,Verifying...,Vérification…
+56,Version,Version
 57,View,Vue
 58,View a list of all the help videos,Afficher la liste de toutes les vidéos d'aide
-59,View All Products,Voir tous les produits
+59,View All Products,Voir Tous Les Produits
 60,View in Cart,Voir Panier
 61,View it in your browser,Voir dans votre navigateur
 62,View Leads,Voir Prospects
 63,View Ledger,Voir Grand Livre
-64,View List,Voir la liste
-65,View Now,Voir maintenant
-66,View Properties (via Customize Form),Voir les propriétés (via Personnaliser le formulaire)
-67,View Subscribers,Voir abonnés
-68,View Task,Voir tâche
+64,View List,Voir La Liste
+65,View Now,Voir Maintenant
+66,View Properties (via Customize Form),Voir Les Propriétés (via Personnaliser le formulaire)
+67,View Subscribers,Voir Abonnés
+68,View Task,Voir Tâche
 69,View this in your browser,Regardez cela dans votre navigateur
-70,View Website,Voir le site
+70,View Website,Voir Le Site Web
 71,Visit,Visiter
-72,Visit report for maintenance call.,Rapport de visite pour l'appel de maintenance
-73,volume-down,Diminuer le volume
-74,volume-off,Couper le son
-75,volume-up,Augmenter le volume
-76,Voucher #,Bon #
-77,Voucher Detail No,Détail du bon No
-78,Voucher No,No du bon
-79,Voucher Type,Type de Bon
+72,Visit report for maintenance call.,Rapport de visite pour appel de maintenance
+73,volume-down,diminuer-volume
+74,volume-off,couper-son
+75,volume-up,augmenter-volume
+76,Voucher #,Référence #
+77,Voucher Detail No,Détail de la Référence N°
+78,Voucher No,N° de Référence
+79,Voucher Type,Type de Référence
