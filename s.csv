@@ -1,0 +1,935 @@
+,English,Français
+0,S.O. No.,S.O. N°.
+1,"Salary already processed for period between {0} and {1}, Leave application period cannot be between this date range.","Salaire déjà traité pour la période entre {0} et {1}, La période de demande de congé ne peut pas être entre cette plage de dates."
+2,Salary breakup based on Earning and Deduction.,Détails du Salaire basés sur les Revenus et les Prélèvements.
+3,Salary Component,Composante Salariale
+4,Salary Component Account,Compte Composante Salariale
+5,Salary Component for timesheet based payroll.,Composante Salariale pour la rémunération basée sur la feuille de temps
+6,Salary Components,Composantes Salariales
+7,Salary Detail,Détails du Salaire
+8,Salary Mode,Mode de Rémunération
+9,Salary Register,Registre du Salaire
+10,Salary Slip,Fiche de Paie
+11,Salary Slip Based on Timesheet,Fiche de Paie basée sur la Feuille de Temps
+12,Salary Slip ID,ID Fiche de Paie
+13,Salary Slip of employee {0} already created for this period,Fiche de Paie de l'employé {0} déjà créée pour cette période
+14,Salary Slip of employee {0} already created for time sheet {1},Fiche de Paie de l'employé {0} déjà créée pour la feuille de temps {1}
+15,Salary Slip Timesheet,Feuille de Temps de la Fiche de Paie
+16,Salary Structure,Grille des Salaires
+17,Salary Structure Employee,Grille des Salaires des Employés
+18,Salary Structure Missing,Grille des Salaires Manquante
+19,Salary template master.,Base du modèle de salaire.
+20,Sales Invoice Payment,Paiement de la Facture de Vente
+21,Sales Invoice Timesheet,Feuille de Temps de la Facture de Vente
+22,Sales Invoice Trends,Tendances des Factures de Vente
+23,Sales Order,Commande Client
+24,Sales Order Item,Article de la Commande Client
+25,Sales Order Message,Message de la Commande Client
+26,Sales Order Required,Commande Client Requise
+27,Sales Order required for Item {0},Commande Client requise pour l'Article {0}
+28,Sales Order to Payment,De la Commande Client au Paiement
+29,Sales Order Trends,Tendances des Commandes Client
+30,Sales Orders,Commandes Clients
+31,Sales Partner Name,Nom du Partenaire de Vente
+32,Sales Partners Commission,Commission des Partenaires de Vente
+33,Sales Person Target Variance Item Group-Wise,Variance d'Objectifs des Commerciaux par Groupe d'Articles
+34,Sales Person Targets,Objectifs des Commerciaux
+35,Sales Person-wise Transaction Summary,Résumé des Transactions par Commerciaux
+36,Sales Tax Template,Modèle de la Taxe de Vente
+37,Sales Taxes and Charges,Taxes et Frais de Vente
+38,Sales Taxes and Charges Template,Modèle de Taxes et Frais de Vente
+39,sales-browser,navigateur-ventes
+40,Salse Order Date,Date de la Commande Client
+41,Same item cannot be entered multiple times.,Le même article ne peut pas être entré plusieurs fois.
+42,Same item has been entered multiple times,Le même article a été saisi plusieurs fois
+43,Same supplier has been entered multiple times,Le même fournisseur a été saisi plusieurs fois
+44,Sanctioned,Sanctionné
+45,Scanned Cheque,Chèque Numérisé
+46,Schedule,Calendrier
+47,Schedule Course,Cours Calendrier
+48,Scheduled to send,Prévu pour envoyer
+49,Scheduled to send to {0} recipients,Prévu pour envoyer à {0} destinataires
+50,Scheduler Last Event,Dernier Événement du Calendrier
+51,Schedules,Horaires
+52,Scheduling Tool,Outil de Planification
+53,School House,Maison de l'École
+54,Schools,Écoles
+55,Scopes,Scopes
+56,Score,Score
+57,Score (0-5),Score (0-5)
+58,Score cannot be greater than Maximum Score,Score ne peut pas être supérieure à Score maximum
+59,Score Earned,Score Gagné
+60,Scrap,Mettre au Rebut
+61,Scrap %,% de Rebut
+62,Scrap Items,Mettre au Rebut des Articles
+63,Scrap Material Cost,Coût de Mise au Rebut des Matériaux
+64,Scrap Material Cost(Company Currency),Coût de Mise au Rebut des Matériaux (Devise Société)
+65,Scrap Warehouse,Entrepôt de Rebut
+66,Scrapped,Mis au Rebut
+67,Script Report,Rapport de Script
+68,Script to attach to all web pages.,Script à joindre à toutes les pages web.
+69,Search field {0} is not valid,Champ de recherche {0} n'est pas valide
+70,Search Fields,Champs de recherche
+71,Search for ',Rechercher '
+72,Search for anything,Rechercher tout
+73,Search Item,Rechercher Article
+74,Search or type a command,Rechercher ou taper une commande
+75,Search results for,Résultats de recherche pour
+76,"Search Results for ""{0}""","Résultats de la recherche pour ""{0}"""
+77,Search Sub Assemblies,Rechercher les Sous-Ensembles
+78,Search...,Rechercher...
+79,"Seasonality for setting budgets, targets etc.","Saisonnalité de l'établissement des budgets, des objectifs, etc."
+80,Seating Capacity,Nombre de places
+81,Section Heading,Titre de la Section
+82,Securities & Commodity Exchanges,Bourses de Valeurs Mobilières et de Marchandises
+83,Securities and Deposits,Titres et Dépôts
+84,"See ""Rate Of Materials Based On"" in Costing Section","Voir ""Taux des Matériaux Basé Sur"" dans la Section des Coûts"
+85,See on Website,Voir sur le Site
+86,Seems API Key or API Secret is wrong !!!,Il semble que la Clé API ou le Secret API soit faux !!!
+87,"Seems issue with server's razorpay config. Don't worry, in case of failure amount will get refunded to your account.","Il semble y avoir un problème avec la configuration razorpay du serveur. Ne vous inquiétez pas, en cas d'échec le montant sera remboursé sur votre compte."
+88,Seems ldap is not installed on system,Il semble que ldap ne soit pas installé sur le système
+89,Seen By,Vu Par
+90,Seen By Table,Table Vu Par
+91,Select a Brand Image first.,Sélectionner une Image de Marque en premier.
+92,Select a DocType to make a new format,Sélectionner un DocType pour faire un nouveau format
+93,Select account head of the bank where cheque was deposited.,Sélectionner le compte principal de la banque où le chèque a été déposé.
+94,Select an existing format to edit or start a new format.,Sélectionner un format existant pour le modifier ou pour démarrer un nouveau format.
+95,Select atleast 1 record for printing,Sélectionner au moins 1 enregistrement pour l'impression
+96,Select BOM,Sélectionner LDM
+97,Select BOM and Qty for Production,Sélectionner la LDM et la Qté pour la Production
+98,Select change amount account,Sélectionner le compte de change
+99,Select Companies,Sélectionner les Sociétés
+100,Select Default Supplier,Sélectionner le Fournisseur par Défaut
+101,Select Document Type or Role to start.,Sélectionner le Rôle ou le Type de Document pour démarrer.
+102,Select Document Types to set which User Permissions are used to limit access.,Sélectionner les Types de Document pour définir quelles Autorisations Utilisateur sont utilisées pour limiter l'accès.
+103,Select employees for current Salary Structure,Sélectionner les Employés pour la Grille de Salaire actuelle
+104,Select File Type,Sélectionner le Type de Fichier
+105,Select Fiscal Year...,Sélectionner Exercice ...
+106,Select Items to Manufacture,Sélectionner les Articles à Fabriquer
+107,Select items to save the invoice,Sélectionner les articles pour sauvegarder la facture
+108,Select Mandatory,Sélectionner Obligatoirement
+109,Select Module,Sélectionner Module
+110,Select Monthly Distribution to unevenly distribute targets across months.,Sélectionner une Répartition Mensuelle afin de repartir uniformément les objectifs sur le mois.
+111,Select or add new customer,Sélectionner ou ajoutez nouveau client
+112,Select or drag across time slots to create a new event.,Sélectionner ou glisser sur des intervalles de temps pour créer un nouvel événement.
+113,Select Payment Account to make Bank Entry,Sélectionner Compte de Crédit pour faire l'Écriture Bancaire
+114,Select Payroll Period,Sélectionner la Période de Paie
+115,Select Possible Supplier,Sélectionner le Fournisseur Possible
+116,Select Quantity,Sélectionner Quantité
+117,Select records for assignment,Sélectionner les dossiers pour attribution
+118,Select Shipping Address,Sélectionner l'Adresse de Livraison
+119,Select Supplier Address,Sélectionner l'Adresse du Fournisseur
+120,"Select target = ""_blank"" to open in a new page.","Sélectionner target = ""_blank"" pour ouvrir dans une nouvelle page."
+121,Select the nature of your business.,Sélectionner la nature de votre entreprise.
+122,Select the period when the invoice will be generated automatically,Sélectionner la période pendant laquelle la facture sera générée automatiquement
+123,Select Type of Document to Download,Sélectionner le Type de Document à Télécharger
+124,Select uploaded file,Sélectionner le fichier téléchargé
+125,Select User or DocType to start.,Sélectionner l'Utilisateur ou DocType pour commencer.
+126,Select your Domain,Sélectionner votre Nom de Domaine
+127,"Selecting ""Yes"" will give a unique identity to each entity of this item which can be viewed in the Serial No master.","La sélection de ""Oui"" donnera une identité unique à chaque entité de cet article qui peut être consulté dans le registre de N° de Série."
+128,Sell,Vendre
+129,Seller City,Ville du Vendeur
+130,Seller Country,Pays du Vendeur
+131,Seller Email,Email du Vendeur
+132,Seller Name,Nom du Vendeur
+133,Seller Website,Site du Vendeur
+134,Selling Amount,Montant de Vente
+135,"Selling must be checked, if Applicable For is selected as {0}","Vente doit être vérifiée, si ""Applicable pour"" est sélectionné comme {0}"
+136,Selling price for item {0} is lower than its {1}. Selling price should be atleast {2},Prix de vente pour l'article {0} est inférieure à sa {1}. Prix de vente devrait être au moins {2}
+137,Seminar,Séminaire
+138,Send alert if this field's value changes,Envoyer une alerte si la valeur de ce champ change
+139,Send Attachements,Envoyer Pièces Jointes
+140,Send days before or after the reference date,Envoyer jours avant ou après la date de référence
+141,Send document web view link in email,Envoyer le lien de l'affichage web du document dans l'email
+142,Send Email Print Attachments as PDF (Recommended),Envoyer les Pièces Jointes Imprimées de l'Email au format PDF (recommandé)
+143,Send Emails At,Envoyer Emails À
+144,Send enquiries to this email address,Envoyer une demande à cette adresse courriel
+145,Send Feedback Request only if there is at least one communication is available for the document.,Envoyer une Demande de Retour d'Expérience que s'il y a au moins une communication disponible pour le document.
+146,Send mass SMS to your contacts,Envoyer un SMS en masse à vos contacts
+147,Send Notifications for Transactions I Follow,Envoyer des notifications pour les Transactions que je Suis
+148,Send only if there is any data,Envoyer seulement s'il y a des données
+149,Send Print as PDF,Envoyer Imprimer en PDF
+150,Send Read Receipt,Envoyer Accusé de Réception
+151,Send Records Updated in Last X Hours,Envoyer des Enregistrements Mis à Jour ces X Dernières Heures
+152,Send Supplier Emails,Envoyer des Emails au Fournisseur
+153,Send Unsubscribe Link,Envoyer le Lien de Désabonnement
+154,Send unsubscribe message in email,Envoyer un message de désabonnement dans l'email
+155,Sendgrid,SendGrid
+156,Sending,Envoi
+157,Sent On,Envoyé le
+158,Sent Read Receipt,Accusé Réception Envoyé
+159,Separate production order will be created for each finished good item.,Des ordres de fabrication séparés seront créés pour chaque article produit fini.
+160,Serial No {0} is under maintenance contract upto {1},N° de Série {0} est sous contrat de maintenance jusqu'à {1}
+161,Serial No {0} quantity {1} cannot be a fraction,N° de série {0} quantité {1} ne peut pas être une fraction
+162,Serial no item cannot be a fraction,N° de série de l'article ne peut pas être une fraction
+163,Serial No Service Contract Expiry,Expiration du Contrat de Service du N° de Série
+164,Serial No Warranty Expiry,Expiration de Garantie du N° de Série
+165,Serial Nos Required for Serialized Item {0},N° de Séries Requis pour Article Sérialisé {0}
+166,Serial number {0} entered more than once,Numéro de série {0} est entré plus d'une fois
+167,Serial Number Series,Séries de Numéros de Série
+168,"Serialized Item {0} cannot be updated using Stock Reconciliation","Article Sérialisé {0} ne peut pas être mis à jour en utilisant la Réconciliation de Stock"
+169,Server Error,Erreur du Serveur
+170,Server Error: Please check your server logs or contact tech support.,Erreur de serveur : Veuillez vérifier vos logs du serveur ou contacter le support technique.
+171,Service Detail,Détails du Service
+172,Service Expense,Frais de Service
+173,Service Item,Poste de Service
+174,"Service Item,Type,frequency and expense amount are required","Poste de Service, le Type, la fréquence et le montant des frais sont exigés"
+175,Service_Details,Details_Service
+176,Set 0 for no limit,Définir à 0 pour aucune limite
+177,Set custom roles for page and report,Définissez des rôles personnalisés pour la page et le rapport
+178,Set Exchange Gain / Loss,Définir le change Gain / Perte
+179,Set Item Group-wise budgets on this Territory. You can also include seasonality by setting the Distribution.,Définir des budgets par Groupes d'Articles sur ce Territoire. Vous pouvez également inclure de la saisonnalité en définissant la Répartition.
+180,Set non-standard precision for a Float or Currency field,Définir la précision non standard pour un champ Flottant ou Devise
+181,Set Number of Backups,Définir Nombre de Sauvegardes
+182,Set Only Once, Ne Définir qu'une Seule Fois
+183,Set Permissions,Définir les Autorisations
+184,Set Role For,Définir le Rôle Pour
+185,Set Sort,Définir le Tri
+186,Set targets Item Group-wise for this Sales Person.,Définir des objectifs par Groupe d'Articles pour ce Commercial
+187,Set Tax Rule for shopping cart,Définir la Règle d'Impôt pour le panier
+188,Set the display label for the field,Réglez l'étiquette d'affichage pour le champ
+189,Set User Permissions,Définir les Autorisations des Utilisateurs
+190,Setting Account Type helps in selecting this Account in transactions.,Définir le Type de Compte aide à sélectionner ce Compte dans les transactions.
+191,"Setting Events to {0}, since the Employee attached to the below Sales Persons does not have a User ID{1}","Définir les Événements à {0}, puisque l'employé attaché au Commercial ci-dessous n'a pas d'ID Utilisateur {1}"
+192,Setting this Address Template as default as there is no other default,"Définition de ce Modèle d'Adresse par défaut, car il n'y a pas d'autre défaut"
+193,Setting up Email Account,Configuration du Compte Email
+194,Setting up Employees,Configuration des Employés
+195,Setting up Taxes,Configuration des Impôts
+196,Settings for Accounts,Réglages pour les Comptes
+197,Settings for Buying Module,Réglages pour le Module d'Achats
+198,Settings for Contact Us Page,Réglages pour la Page Contacter Nous
+199,Settings for Contact Us Page.,Réglages pour la Page Contacter Nous.
+200,Settings for OAuth Provider,Réglages pour le Fournisseur OAuth
+201,Settings for the About Us Page,Réglages pour la page À Propos
+202,Settings for website homepage,Réglages pour la page d'accueil du site
+203,Setup > User,Configuration > Utilisateur
+204,Setup > User Permissions Manager,Configuration > Gestionnaire des Autorisations Utilisateur
+205,Setup a simple website for my organization,Installation d'un site web simple pour mon organisation
+206,Setup already complete,Configuration déjà terminée
+207,Setup Auto Email,Configuration Auto Email
+208,Setup cheque dimensions for printing,Configurez les dimensions du chèque pour l'impression
+209,Setup Gateway accounts.,Configuration des Comptes passerelle.
+210,"Setup of top navigation bar, footer and logo.","Configuration de la barre de navigation en haut, du pied de page et du logo."
+211,Setup Reports to be emailed at regular intervals,Configurer les Rapports pour être envoyer par email à intervalles réguliers
+212,Setup SMS gateway settings,Configuration de la passerelle SMS
+213,Setup your School in ERPNext,Configurez votre École dans ERPNext
+214,SG Creation Tool Course,Cours de Création d'Outil SG
+215,SH,SH
+216,share,part
+217,share-alt,part-alt
+218,Sheet 1,Feuille 1
+219,Shipping Address Name,Nom de l'Adresse de Livraison
+220,Shipping Amount,Montant de la Livraison
+221,Shipping County,Comté de Livraison
+222,Shipping Rule Conditions,Conditions de la Règle de Livraison
+223,Shipping Rule Country,Pays de la Règle de Livraison
+224,Shipping Rule Label,Étiquette de la Règle de Livraison
+225,Shipping State,État de livraison
+226,Shopping Cart Settings,Paramètres du Panier
+227,Shopping Cart Shipping Rule,Règles de Livraison du Panier
+228,Short keyboard patterns are easy to guess,Modèles de clavier courts sont faciles à deviner
+229,Shortage,Pénurie
+230,show,montrer
+231,"Show ""In Stock"" or ""Not in Stock"" based on stock available in this warehouse.","Afficher ""En stock"" ou ""Pas en stock"" basé sur le stock disponible dans cet entrepôt."
+232,Show all data,Afficher toutes les données
+233,Show all Versions,Afficher toutes les Versions
+234,Show as cc,Afficher en tant que cc
+235,Show Barcode Field,Afficher Champ Code Barre
+236,Show Chart,Afficher le Graphique
+237,Show closed,Afficher fermé
+238,Show failed jobs,Afficher emplois échoués
+239,Show Filters,Afficher les Filtres
+240,Show in Module Section,Afficher la Section Module
+241,Show in Website (Variant),Afficher dans le Website (Variant)
+242,Show Items,Afficher les Articles
+243,Show Likes,Afficher Likes
+244,Show Line Breaks after Sections,Afficher les Sauts de Ligne après Sections
+245,Show Log,Afficher le Journal
+246,Show open,Afficher ouverte
+247,Show Operations,Afficher Opérations
+248,Show Permissions,Afficher les Autorisations
+249,Show Print First,Afficher Imprimer en Premier
+250,Show Products as a List,Afficher les Produits en Liste
+251,Show Quantity in Website,Afficher la Quantité sur le Site
+252,Show Relapses,Afficher les Rechutes
+253,Show Salary Slip,Afficher la Fiche de Salaire
+254,Show Section Headings,Voir la Section Titres
+255,Show Sidebar,Afficher la Barre Latérale
+256,Show tax break-up,Afficher le détail des impôts
+257,Show this slideshow at the top of the page,Afficher ce diaporama en haut de la page
+258,"Show title in browser window as ""Prefix - title""","Afficher le titre dans la fenêtre du navigateur comme ""Prefix - titre"""
+259,Show Totals,Afficher les Totaux
+260,Show unclosed fiscal year's P&L balances,Afficher le solde du compte de résulat des exercices non cloturés
+261,Show User Permissions,Afficher les Autorisations de l'utilisateur
+262,Show Variants,Afficher les Variantes
+263,Sibling Details,Détails Frères et Sœurs
+264,Siblings,Frères et Sœurs
+265,Sidebar and Comments,Barre Latérale et Commentaires
+266,Sidebar Items,Articles de la Barre Latérale
+267,Sidebar Settings,Réglages de la Barre Latérale
+268,Sign in,Se Connecter
+269,Sign Up is disabled,L'inscription est désactivée
+270,Signatory Position,Position Signataire
+271,Simultaneous Sessions,Sessions Simultanées
+272,Single Post (article).,Simple Post (article).
+273,Single Types have only one record no tables associated. Values are stored in tabSingles,Types Simples ont un seul enregistrement aucunes tables associées. Les valeurs sont stockées dans tabSingles
+274,Single unit of an Item.,Seule unité d'un Article.
+275,SINV-,SINV-
+276,SINV-RET-,SINV-RET-
+277,Size (MB),Taille (Mo)
+278,Skip Authorization,Passer autorisation
+279,Slideshow like display for the website,Diaporama comme écran pour le site
+280,Smallest circulating fraction unit (coin). For e.g. 1 cent for USD and it should be entered as 0.01,"La plus petite unité de fraction de circulation (pièce de monnaie). E.g. 1 centime pour l'EUR et il devrait être saisi 0,01"
+281,Smallest Currency Fraction Value,Plus Petite Valeur Fractionée de la Devise
+282,SMS,SMS
+283,SMS Gateway URL,URL de la Passerelle SMS
+284,SMTP Settings for outgoing emails,Réglages SMTP pour les emails sortants
+285,Snapshot View,Vue Snapshot
+286,SO Qty,SO Qté
+287,SO-,SO-
+288,Soap & Detergent,Savons & Détergents
+289,Social Login Keys,Clés Connexion Social
+290,Soft-Bounced,Soft-Bounced
+291,Softwares,Softwares
+292,Sold,Vendu
+293,Some information is missing,Certaines informations sont manquantes
+294,Something went wrong,Quelque chose s'est mal passé
+295,"Sorry, companies cannot be merged","Désolé, les sociétés ne peuvent pas être fusionnées"
+296,"Sorry, Serial Nos cannot be merged","Désolé, les N° de Série ne peut pas être fusionnés"
+297,Sorry! I could not find what you were looking for.,Désolé ! Je n'ai pas trouvé ce que vous recherchiez.
+298,Sorry! Sharing with Website User is prohibited.,Désolé ! Partage avec Utilisateur du Site Web est interdit.
+299,Sorry! User should have complete access to their own record.,Désolé ! Les utilisateurs devraient avoir un accès complet à leur propre dossier.
+300,Sorry. You have reached the maximum user limit for your subscription. You can either disable an existing user or buy a higher subscription plan.,Désolé. Vous avez atteint la limite maximum de l'utilisateur pour votre abonnement. Vous pouvez soit désactiver un utilisateur existant ou acheter un abonnement supérieur.
+301,Sort Field,Champ de Tri
+302,Sort field {0} must be a valid fieldname,Champ de tri {0} doit être un nom de champ valide
+303,Sort Order,Ordre de Tri
+304,Source and Target Warehouse cannot be same,Entrepôt Source et Destination ne peuvent pas être le même
+305,Source and target warehouse must be different,Entrepôt source et destination doivent être différents
+306,Source Name,Nom de la Source
+307,Source of Funds (Liabilities),Source des Fonds (Passif)
+308,Source Text,Texte Source
+309,Source Warehouse (for reserving Items),Entrepôt Source (pour la réservation des Articles)
+310,Space usage,Utilisation de l'espace
+311,Spam,Spam
+312,SparkPost,SparkPost
+313,Special Characters are not allowed,Les Caractères Spéciaux ne sont pas autorisés
+314,"Special Characters except ""-"", ""#"", ""."" and ""/"" not allowed in naming series","Les caractères spéciaux sauf ""-"", ""#"", ""."" et ""/"" ne sont pas autorisés dans le nommage des séries"
+315,Specified BOM {0} does not exist for Item {1},La LDM {0} spécifiée n'existe pas pour l'Article {1}
+316,Specify conditions to calculate shipping amount,Spécifier les conditions pour calculer le montant de la livraison
+317,Specify Exchange Rate to convert one currency into another,Spécifier le Taux de Change pour convertir une monnaie en une autre
+318,"Specify the operations, operating cost and give a unique Operation no to your operations.","Spécifier les opérations, le coût d'exploitation et donner un N° d'Opération unique à vos opérations."
+319,Specify the value of the field,Spécifier la valeur du champ
+320,Split Delivery Note into packages.,Séparer le Bon de Livraison dans des paquets.
+321,"SQL Conditions. Example: status=""Open""","Conditions SQL. Exemple : status=""Open"""
+322,SQTN-,SQTN-
+323,Sr,Sr
+324,Sr No,N° Série
+325,SR/,SR/
+326,Standard contract terms for Sales or Purchase.,Termes contractuels standards pour Ventes ou Achats
+327,Standard Reply Help,Aide pour la Réponse Standard
+328,Standard roles cannot be disabled,Les rôles standard ne peuvent pas être désactivées
+329,Standard roles cannot be renamed,Les rôles standard ne peuvent pas être renommés
+330,Standard Sidebar Menu,Menu Standard de la Barre Latérale
+331,"Standard tax template that can be applied to all Purchase Transactions. This template can contain list of tax heads and also other expense heads like ""Shipping"", ""Insurance"", ""Handling"" etc.
+
+#### Note
+
+The tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.
+
+#### Description of Columns
+
+1. Calculation Type: 
+    - This can be on **Net Total** (that is the sum of basic amount).
+    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.
+    - **Actual** (as mentioned).
+2. Account Head: The Account ledger under which this tax will be booked
+3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.
+4. Description: Description of the tax (that will be printed in invoices / quotes).
+5. Rate: Tax rate.
+6. Amount: Tax amount.
+7. Total: Cumulative total to this point.
+8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).
+9. Consider Tax or Charge for: In this section you can specify if the tax / charge is only for valuation (not a part of total) or only for total (does not add value to the item) or for both.
+10. Add or Deduct: Whether you want to add or deduct the tax.","Modèle de la taxe standard qui peut être appliqué à toutes les Opérations d'Achat. Ce modèle peut contenir la liste des titres d'impôts ainsi que d'autres titre de charges comme ""Livraison"", ""Assurance"", ""Gestion"", etc. 
+
+#### Remarque 
+
+Le taux d'imposition que vous définissez ici sera le taux d'imposition standard pour tous les **Articles**. S'il y a des **Articles** qui ont des taux différents, ils doivent être ajoutés dans la table **Taxe de l'Article** dans les donées de base **Article**.
+
+#### Description des Colonnes
+
+1. Type de Calcul : 
+    - Cela peut être le **Total Net** (qui est la somme des montants de base).
+    - **Total / Montant Sur la Ligne Précédente** (pour les taxes ou frais accumulés). Si vous sélectionnez cette option, la taxe sera appliquée en pourcentage du montant ou du total de la ligne précédente (dans la table d'impôts).
+    - **Réelles** (comme mentionné).
+2. Titre du Compte : Le journal comptable dans lequel cette taxe sera comptabilisée
+3. Centre de Coût : Si la taxe / redevance est un revenu (comme la livraison) ou une charge, elle doit être comptabilisée dans un Centre de Coûts.
+4. Description : Description de la taxe (qui sera imprimée sur les factures / devis).
+5. Taux : Le taux d'imposition.
+6. Montant : Le montant de la taxe.
+7. Total : Total accumulé à ce point.
+8. Entrez la Ligne : Si elle est basée sur ""Total de la Ligne Précédente"" vous pouvez sélectionner le numéro de la ligne qui sera pris comme base pour ce calcul (par défaut la ligne précédente).
+9. Considérez Taxe ou Charge pour : Dans cette section, vous pouvez spécifier si la taxe / redevance est seulement pour la valorisation (pas une partie du total) ou seulement pour le total (n'ajoute pas de la valeur à l'article) ou pour les deux.
+10. Ajouter ou Déduire : Ce que vous voulez ajouter ou déduire de la taxe."
+332,"Standard tax template that can be applied to all Sales Transactions. This template can contain list of tax heads and also other expense / income heads like ""Shipping"", ""Insurance"", ""Handling"" etc.
+
+#### Note
+
+The tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.
+
+#### Description of Columns
+
+1. Calculation Type: 
+    - This can be on **Net Total** (that is the sum of basic amount).
+    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.
+    - **Actual** (as mentioned).
+2. Account Head: The Account ledger under which this tax will be booked
+3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.
+4. Description: Description of the tax (that will be printed in invoices / quotes).
+5. Rate: Tax rate.
+6. Amount: Tax amount.
+7. Total: Cumulative total to this point.
+8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).
+9. Is this Tax included in Basic Rate?: If you check this, it means that this tax will not be shown below the item table, but will be included in the Basic Rate in your main item table. This is useful where you want give a flat price (inclusive of all taxes) price to customers.","Modèle de la taxe standard qui peut être appliqué à toutes les Opérations de Vente. Ce modèle peut contenir la liste des titres d'impôts ainsi que d'autres titre de produits / charges comme ""Livraison"", ""Assurance"", ""Gestion"", etc. 
+
+#### Remarque 
+
+Le taux d'imposition que vous définissez ici sera le taux d'imposition standard pour tous les **Articles**. S'il y a des **Articles** qui ont des taux différents, ils doivent être ajoutés dans la table **Taxe de l'Article** dans le maître **Article**.
+
+#### Description des Colonnes
+
+1. Type de Calcul : 
+    - Cela peut être le **Total Net** (qui est la somme des montants de base).
+    - **Total / Montant Sur la Ligne Précédente** (pour les taxes ou frais accumulés). Si vous sélectionnez cette option, la taxe sera appliquée en pourcentage du montant ou du total de la ligne précédente (dans la table d'impôts).
+    - **Réelles** (comme mentionné).
+2. Titre Compte : Le journal comptable dans lequel cette taxe sera comptabilisée
+3. Centre de Coût : Si la taxe / redevance est un revenu (comme la livraison) ou une charge, elle doit être comptabilisée dans un Centre de Coûts.
+4. Description : Description de la taxe (qui sera imprimée sur les factures / devis).
+5. Taux : Le taux d'imposition.
+6. Montant : Le montant de la taxe.
+7. Total : Total accumulé à ce point.
+8. Entrez la Ligne : Si elle est basée sur ""Total de la Ligne Précédente"" vous pouvez sélectionner le numéro de la ligne qui sera pris comme base pour ce calcul (par défaut la ligne précédente).
+9. L'Impôt est-il inclus dans le Prix de Base ? : Si vous cochez cette, cela signifie que cette taxe ne sera pas affichée sous le tableau de l'article, mais sera inclus dans le Prix de Base dans votre tableau principal de l'article. C'est utile lorsque vous voulez donner un prix plat (toutes taxes comprises) aux clients."
+333,Standard Template,Modèle Standard
+334,"Standard Terms and Conditions that can be added to Sales and Purchases.
+
+Examples:
+
+1. Validity of the offer.
+1. Payment Terms (In Advance, On Credit, part advance etc).
+1. What is extra (or payable by the Customer).
+1. Safety / usage warning.
+1. Warranty if any.
+1. Returns Policy.
+1. Terms of shipping, if applicable.
+1. Ways of addressing disputes, indemnity, liability, etc.
+1. Address and Contact of your Company.","Termes et Conditions Standard qui peuvent être ajoutés aux Ventes et Achats.
+
+Exemples : 
+
+1. Validité de l'offre.
+2. Conditions de paiement (À l'Avance, À Crédit, une partie en avance, etc).
+3. Qu'est-ce qui est en supplément (ou à payer par le Client).
+3. Avertissement d'utilisation / de sécurité.
+4. Garantie, le cas échéant.
+5. Politique de Retour.
+6. Conditions de Livraison, le cas échéant.
+7. Règlement des litiges, indemnisation, responsabilité, etc. 
+8. Adresse et Contact de votre Société."
+335,star-empty,étoile-vide
+336,Start date of current invoice's period,Date de début de la période de facturation en cours
+337,Start Year,Année de Début
+338,Starting location from left edge,Position initiale depuis bord gauche
+339,Starting position from top edge,Position initiale depuis bord haut
+340,Statement of Account,Relevé de Compte
+341,States,États
+342,"States for workflow (e.g. Draft, Approved, Cancelled).","États pour flux de travail (par exemple, Brouillons , Approuvé, Annulé)."
+343,Status must be one of {0},Le statut doit être l'un des {0}
+344,Status: {0},Statut : {0}
+345,Statutory info and other general information about your Supplier,Informations légales et autres informations générales au sujet de votre Fournisseur
+346,STE-,STE-
+347,step-backward,vers-larrière
+348,step-forward,vers-l'avant
+349,Stock Adjustment,Ajustement du Stock
+350,Stock Adjustment Account,Compte d'Ajustement du Stock
+351,Stock Ageing,Viellissement du Stock
+352,Stock Analytics,Analyse du Stock
+353,Stock Assets,Actifs du Stock
+354,Stock Balance,Solde du Stock
+355,Stock balance in Batch {0} will become negative {1} for Item {2} at Warehouse {3},Solde du stock dans le Lot {0} deviendra négatif {1} pour l'Article {2} à l'Entrepôt {3}
+356,Stock cannot be updated against Purchase Receipt {0},Stock ne peut pas être mis à jour pour le Reçu d'Achat {0}
+357,Stock cannot exist for Item {0} since has variants,Stock ne peut pas exister pour l'Article {0} puisqu'il a des variantes
+358,Stock Details,Détails du Stock
+359,"Stock entries exist against Warehouse {0}, hence you cannot re-assign or modify it","Des écritures de stock existent pour l'Entrepôt {0}, vous ne pouvez donc pas le réaffecter ou le modifier"
+360,Stock Entry {0} created,Écriture de Stock {0} créée
+361,Stock Entry Detail,Détails de l'Écriture de Stock
+362,Stock Items,Articles de Stock
+363,Stock Ledger Entries and GL Entries are reposted for the selected Purchase Receipts,Écritures du Journal du Stock et Écritures du Grand Livre sont republiées pour les Reçus d'Achat sélectionnés
+364,Stock Levels,Niveaux du Stocks
+365,Stock Liabilities,Passif du Stock
+366,Stock Options,Options du Stock
+367,Stock Projected Qty,Qté de Stock Projeté
+368,Stock Queue (FIFO),File d'Attente du Stock (FIFO)
+369,Stock Reconciliation,Réconciliation du Stock
+370,Stock Reconciliation Item,Article de Réconciliation du Stock
+371,Stock Reports,Rapports de Stock
+372,Stock Settings,Réglages de Stock
+373,Stock Summary,Résumé du Stock
+374,Stock UOM,UDM du Stock
+375,Stock Value,Valeur du Stock
+376,Stock Value Difference,Différence de Valeur du Sock
+377,Stop Birthday Reminders,Arrêter les Rappels d'Anniversaire
+378,"Stopped Production Order cannot be cancelled, Unstop it first to cancel","Un Ordre de Fabrication Arrêté ne peut pas être annulé, remettez le d'abord en marche pour l'annuler"
+379,Stores the JSON of last known versions of various installed apps. It is used to show release notes.,Conserve le JSON des dernières versions connues de diverses applications installées. Il est utilisé pour montrer les notes de version.
+380,Straight Line,Ligne Droite
+381,Straight rows of keys are easy to guess,Lignes droites de touches sont faciles à deviner
+382,STUD.,STUD.
+383,Student,Étudiant
+384,Student {0} - {1} appears Multiple times in row {2} & {3},Étudiant {0} - {1} apparaît Plusieurs fois dans la ligne {2} & {3}
+385,Student {0} exist against student applicant {1},Étudiant {0} existe pour la candidature d'un étudiant {1}
+386,Student {0}: {1} does not belong to Student Batch {2},Étudiant {0} : {1} ne fait pas partie de Lot d'Étudiants {2}
+387,Student {0}: {1} does not belong to Student Group {2},Étudiant {0} : {1} ne fait pas partie du Groupe d'Étudiants {2}
+388,Student Admission,Admission des Étudiants
+389,Student Admissions,Admissions des Étudiants
+390,Student and Guardian Contact Details,Détails des Contacts Étudiant et Tuteur
+391,Student Applicant,Candidature d'un Étudiant
+392,Student Applicants,Candidatures des Étudiants
+393,Student Attendance,Présence des Étudiants
+394,Student Attendance Tool,Outil de Présence des Étudiants
+395,Student Batch,Lot d'Étudiants
+396,Student Batch Attendance Tool,Outil de Présence de Lot d'Étudiants
+397,Student Batch Creation Tool,Outil de Création de Lot d'Étudiants
+398,Student Batch exists with same name,Lot d'Étudiant existe avec le même nom
+399,Student Batch Instructor,Instructeur du Lot d'Étudiant
+400,Student Batch Name,Nom du Lot d'Étudiants
+401,Student Batch or Course Schedule is mandatory,Lot d'Étudiants ou Planning des Cours est obligatoire
+402,Student Batch or Student Group is mandatory,Lot d'Étudiants ou Groupe d'Étudiants est obligatoire
+403,Student batch Strength,Effectif du Lot d'Étudiants
+404,Student Batch Student,Étudiant du Lot d'Étudiants
+405,Student Batch-Wise Attendance,Présence par Lots d'Étudiants
+406,"Student Batches help you track attendance, assessments and fees for students","Les Lots d'Étudiants vous aide à suivre la présence, les évaluations et les frais pour les étudiants"
+407,Student Category,Catégorie Étudiant
+408,Student Email Address,Adresse Email de l'Étudiant
+409,Student Fee Collection,Frais de Scolarité
+410,Student Group,Groupe Étudiant
+411,Student Group Creation Tool,Outil de Création de Groupe d'Étudiants
+412,Student Group Creation Tool Course,Cours sur l'Outil de Création de Groupe d'Étudiants
+413,Student Group exists with same name,Groupe d'Étudiants existe avec le même nom
+414,Student Group Name,Nom du Groupe d'Étudiants
+415,Student Group Name is mandatory in row {0},Nom du Groupe d'Étudiant est obligatoire dans la ligne {0}
+416,Student Group Student,Étudiant du Groupe d'Étudiants
+417,Student Groups created.,Groupes d'Étudiants créés.
+418,Student Guardian,Tuteur d'Étudiant
+419,Student ID,Carte d'Étudiant
+420,Student is already enrolled.,L'étudiant est déjà inscrit.
+421,Student Language,Langue des Étudiants
+422,Student Leave Application,Demande de Congé d'Étudiant
+423,Student Log,Journal des Étudiants
+424,Student Mobile No.,N° de Mobile de l'Étudiant
+425,Student Mobile Number,Numéro de Mobile de l'Étudiant
+426,Student Monthly Attendance Sheet,Feuille de Présence Mensuelle des Étudiants
+427,Student Name,Nom de l'Étudiant
+428,Student Sibling,Frère et Sœur de l'Étudiant
+429,Student Siblings,Frères et Sœurs de l'Étudiants
+430,Students,Étudiants
+431,"Students are at the heart of the system, add all your students","Les étudiants sont au cœur du système, ajouter tous vos étudiants"
+432,Students HTML,HTML Étudiants
+433,Studying in Same Institute,Étudier au même Institut
+434,"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","Style représente la couleur du bouton : Succès - Vert, Danger - Rouge, Inverse - Noir, Primaire - Bleu Foncé, Info - Bleu Clair, Avertissement - Orange"
+435,Style Settings,Réglages de Style
+436,Sub Assemblies,Sous-Ensembles
+437,Sub-contracting,Sous-traitant
+438,"Sub-currency. For e.g. ""Cent""","Sous-monnaie. E.g. : ""Cent"""
+439,Sub-domain provided by erpnext.com,Sous-domaine fourni par erpnext.com
+440,Subcontract,Sous-traiter
+441,Submit after importing.,Soumettre après l'import
+442,Submit all salary slips for the above selected criteria,Soumettre toutes les fiches de paie pour les critères sélectionnés ci-dessus
+443,Submit an Issue,Soumettre une Question
+444,Submit on creation,Soumettre à la Création
+445,Submit Salary Slip,Soumettre la Fiche de Paie
+446,Submit this document to confirm,Soumettre ce document pour confirmer
+447,Submit this Production Order for further processing.,Soumettre cet Ordre de Fabrication pour un traitement ultérieur.
+448,Submitted Document cannot be converted back to draft. Transition row {0},Document Soumis ne peut pas être reconvertis en Brouillon. Ligne de transition {0}
+449,Submitted orders can not be deleted,Commandes Soumises ne peuvent pas être supprimés
+450,Submitted Salary Slips,Fiche de Paie Soumises
+451,submitted this document,a soumis ce document
+452,Submitting,Soumission
+453,Subsidiary,Filiale
+454,Subtotal,Sous-Total
+455,Succeeded,Réussi
+456,Success,Réussite
+457,Success Message,Message de Réussite
+458,Success URL,URL de Réussite
+459,Successful: {0} to {1},Succès : {0} au {1}
+460,Successfully Reconciled,Réconcilié avec Succès
+461,Successfully Updated,Mis à Jour avec Succès
+462,Suggested Username: {0},Nom d'Utilisateur Suggérée : {0}
+463,Sum of points for all goals should be 100. It is {0},Somme des points pour tous les objectifs devraient être 100. Il est {0}
+464,Sum of Scores of Assessment Criteria needs to be {0}.,Somme des Scores de Critères d'Évaluation doit être {0}.
+465,Supervisor,Superviseur
+466,Supervisor Name,Nom du Superviseur
+467,Suplier,Fournisseur
+468,Suplier Name,Nom du Fournisseur
+469,SUPP-,SUPP-
+470,Supplier > Supplier Type,Fournisseur> Type de Fournisseur
+471,Supplier Addresses and Contacts,Adresses et Contacts des Fournisseurs
+472,Supplier database.,Base de données fournisseurs.
+473,Supplier delivers to Customer,Fournisseur livre au Client
+474,Supplier Detail,Détails du Fournisseur
+475,Supplier Id,ID du Fournisseur
+476,Supplier Invoice Date,Date de la Facture du Fournisseur
+477,Supplier Invoice Date cannot be greater than Posting Date,Fournisseur Date de la Facture du Fournisseur ne peut pas être postérieure à Date de Publication
+478,Supplier Invoice Details,Détails de la Facture du Fournisseur
+479,Supplier Invoice No,N° de Facture du Fournisseur
+480,Supplier Invoice No exists in Purchase Invoice {0},N° de la Facture du Fournisseur existe dans la Facture d'Achat {0}
+481,Supplier Name,Nom du Fournisseur
+482,Supplier Naming By,Nomenclature de Fournisseur Par
+483,Supplier of Goods or Services.,Fournisseur de Biens ou Services.
+484,Supplier Part No,N° de Pièce du Fournisseur
+485,Supplier Part Number,Numéro de Pièce du Fournisseur
+486,Supplier Quotation,Devis Fournisseur
+487,Supplier Quotation {0} created,Devis Fournisseur {0} créé
+488,Supplier Quotation Item,Article Devis Fournisseur
+489,Supplier Warehouse mandatory for sub-contracted Purchase Receipt,Entrepôt Fournisseur obligatoire pour les Reçus d'Achat sous-traités
+490,Supplier-Wise Sales Analytics,Analyse des Ventes par Fournisseur
+491,Supply Raw Materials,Fournir les Matières Premières
+492,Supply Raw Materials for Purchase,Fournir les Matières Premières pour l'Achat
+493,Support queries from customers.,Demande de support des clients
+494,Support Settings,Réglages du Support
+495,Suspend Sending,Suspendre l'Envoi
+496,Switch To Desk,Passer Au Bureau
+497,Sync Master Data,Sync Données de Base
+498,Sync on Migrate,Sync sur Migration
+499,Syntax error in formula or condition: {0},Erreur de syntaxe dans la formule ou condition : {0}
+500,"System User (login) ID. If set, it will become default for all HR forms.","L'ID (de connexion) de l'Utilisateur Système. S'il est défini, il deviendra la valeur par défaut pour tous les formulaires des RH."
+501,Safety Stock,Stock de Sécurité
+502,Salary,Salaire
+503,Salary Information,Information sur le Salaire
+504,Sales,Ventes
+505,Sales Analytics,Analyse des Ventes
+506,Sales Browser,Navigateur des Ventes
+507,Sales campaigns.,Campagnes de vente.
+508,Sales Details,Détails Ventes
+509,Sales Expenses,Charges de Vente
+510,Sales Funnel,Entonnoir de Vente
+511,Sales Invoice,Facture de Vente
+512,Sales Invoice {0} has already been submitted,La Facture Vente {0} a déjà été transmise
+513,Sales Invoice {0} must be cancelled before cancelling this Sales Order,Facture de Vente {0} doit être annulée avant l'annulation de cette Commande Client
+514,Sales Invoice Advance,Avance sur Facture de Vente
+515,Sales Invoice Item,Article de la Facture de Vente
+516,Sales Invoice Message,Message de la Facture de Vente
+517,Sales Invoice No,N° de la Facture de Vente
+518,Sales Manager,Responsable des Ventes
+519,Sales Master Manager,Directeur des Ventes
+520,Sales Order {0} is {1},Commande Client {0} est {1}
+521,Sales Order {0} is not submitted,Commande Client {0} n'a pas été transmise
+522,Sales Order {0} is not valid,Commande Client {0} invalide
+523,Sales Order Date,Date de la Commande Client
+524,Sales Partner,Partenaire Commercial
+525,Sales Partner and Commission,Partenaire Commercial et Commission
+526,Sales Partner Target,Objectif du Partenaire Commercial
+527,Sales Partners and Territory,Partenaires Commerciaux et Régions
+528,Sales Person,Vendeur
+529,Sales Person Name,Nom du Vendeur
+530,Sales Pipeline,Pipeline de Ventes
+531,Sales Price List,Liste de Prix de Vente
+532,Sales Register,Registre des Ventes
+533,Sales Return,Retour de Ventes
+534,Sales Team,Équipe des Ventes
+535,Sales Team Details,Détails de l'Équipe des Ventes
+536,Sales Team1,Équipe des Ventes 1
+537,Sales User,Chargé de Ventes
+538,Salutation,Salutations
+539,Same Company is entered more than once,La même Société a été entrée plus d'une fois
+540,Same file has already been attached to the record,Le même fichier a déjà été joint au dossier
+541,Same item has been entered multiple times.,Le même article a été saisi plusieurs fois.
+542,Sample,Échantillon
+543,Sample Size,Taille de l'Échantillon
+544,Sanctioned Amount,Montant Approuvé
+545,Sanctioned Amount cannot be greater than Claim Amount in Row {0}.,Le Montant Approuvé ne peut pas être supérieur au Montant Réclamé à la ligne {0}.
+546,Saturday,Samedi
+547,Save,Enregistrer
+548,Save As,Enregistrer Sous
+549,Save the document first.,Enregistrez le document d'abord.
+550,Saved,Enregistré
+551,Saved!,Enregistré !
+552,Saving,En Cours d'Enregistrement
+553,Schedule Date,Date du Calendrier
+554,Scheduled,Prévu
+555,Scheduled Date,Date Prévue
+556,Scheduled to send to {0},Prévu pour envoyer à {0}
+557,School/University,École/Université
+558,Score must be less than or equal to 5,Score doit être inférieur ou égal à 5
+559,screenshot,capture d'écran
+560,Script,Script
+561,Script or Query reports,Rapports Script ou Query
+562,Script Type,Type de Script
+563,Search,Rechercher
+564,Search Application,Recherche d'Application
+565,Search in a document type,Rechercher dans un type de document
+566,Search Results,Résultats de la Recherche
+567,Secretary,Secrétaire
+568,Section Break,Saut de section
+569,Secured Loans,Prêts Garantis
+570,Security,Sécurité
+571,Security Settings,Réglages de Sécurité
+572,Seen,Vu
+573,Select,Sélectionner
+574,Select {0},Sélectionner {0}
+575,Select a group node first.,Sélectionner d'abord un noeud de groupe
+576,Select All,Sélectionner Tout
+577,Select an image of approx width 150px with a transparent background for best results.,Sélectionner une image d'une largeur d'environ 150px avec un fond transparent pour de meilleurs résultats.
+578,Select Attachments,Sélectionner Pièces Jointes
+579,Select Brand...,Sélectionner une Marque ...
+580,Select Category...,Sélectionner une Catégorie...
+581,Select Columns,Sélectionner des Colonnes
+582,Select company name first.,Sélectionner d'abord le nom de la société.
+583,Select Company...,Sélectionner la Société ...
+584,Select DocType,Sélectionner le DocType
+585,Select Document Type,Sélectionner le Type de Document
+586,Select Document Types,Sélectionner les Types de Document
+587,Select Employees,Sélectionner les Employés
+588,Select Fiscal Year,Sélectionner l'Exercice
+589,Select from existing attachments,Choisir parmi les pièces jointes existantes
+590,Select Item,Sélectionner l'Article
+591,Select Item for Transfer,Sélectionner l'Article à Transferer
+592,Select Items,Sélectionner les Articles
+593,Select Languages,Sélectionner les Langues
+594,Select Print Format,Sélectionner le Format d'Impression
+595,Select Print Format to Edit,Sélectionner le Format d'Impression à Éditer
+596,Select Role,Sélectionner le Rôle
+597,Select Table Columns for {0},Sélectionner les Colonnes de la Table pour {0}
+598,Select Terms and Conditions,Sélectionner les Termes et Conditions
+599,Select the label after which you want to insert new field.,Sélectionner le libellé après lequel vous voulez insérer un nouveau champ.
+600,Select To Download:,Sélectionner Pour Télécharger :
+601,Select Transaction,Sélectionner la Transaction
+602,Select Type,Sélectionner le Type
+603,Select User,Sélectionner l'Utilisateur
+604,Select Warehouse...,Sélectionner l'Entrepôt ...
+605,"Select your Country, Time Zone and Currency","Sélectionner votre Pays, Fuseau Horaire et Devise"
+606,Select Your Language,Sélectionner votre Langue
+607,Seller Description,Description du Vendeur
+608,Selling,Vente
+609,Selling Settings,Réglages de Vente
+610,Send,Envoyer
+611,Send After,Envoyer Après
+612,Send alert if date matches this field's value,Envoyer alerte si la date correspond à la valeur de ce champ
+613,Send Alert On,Envoyer une Alerte Sur
+614,Send an email reminder in the morning,Envoyer un email de rappel dans la matinée
+615,Send As Email,Envoyer Comme Email
+616,Send automatic emails to Contacts on Submitting transactions.,Envoyer des emails automatiques aux Contacts sur les Transactions soumises.
+617,Send Email,Envoyer un Email
+618,Send Me A Copy,M'Envoyer Une Copie
+619,Send Notification to,Envoyer une Notification à
+620,Send Notifications To,Envoyer des Notifications À
+621,Send Now,Envoyer Maintenant
+622,Send Password,Envoyer le Mot de passe
+623,Send Password Update Notification,Envoyer la Notification de Changement de Mot de Passe
+624,Send regular summary reports via Email.,Envoyer régulièrement des rapports de synthèse par Email.
+625,Send SMS,Envoyer un SMS
+626,Send To,Envoyer À
+627,Send Welcome Email,Envoyer un Email de Bienvenue
+628,Sender,Expéditeur
+629,Sender Name,Nom de l'Expéditeur
+630,Sent,Envoyé
+631,Sent or Received,Envoyés ou Reçus
+632,Sent To,Envoyé À
+633,Serial #,Série #
+634,Serial No,N° de Série
+635,Serial No {0} created,N° de Série {0} créé
+636,Serial No {0} does not belong to any Warehouse,N° de Série {0} ne fait partie de aucun Entrepôt
+637,Serial No {0} does not belong to Delivery Note {1},N° de Série {0} ne fait pas partie du Bon de Livraison {1}
+638,Serial No {0} does not belong to Warehouse {1},N° de Série {0} ne fait pas partie de l’Entrepôt {1}
+639,Serial No {0} does not exist,N° de Série {0} n’existe pas
+640,Serial No {0} has already been received,N° de Série {0} a déjà été reçu
+641,Serial No {0} is under warranty upto {1},N° de Série {0} est sous garantie jusqu'au {1}
+642,Serial No {0} not found,N° de Série {0} introuvable
+643,Serial No {0} not in stock,N° de Série {0} n'est pas en stock
+644,Serial No / Batch,N° de Série / Lot
+645,Serial No and Batch,N° de Série et lot
+646,Serial No Details,Détails du N° de Série
+647,Serial No is mandatory for Item {0},N° de Série est obligatoire pour l'Article {0}
+648,Serial No Status,Statut du N° de Série
+649,Serialized Inventory,Inventaire Sérialisé
+650,Series,Séries
+651,Series {0} already used in {1},Séries {0} déjà utilisé dans {1}
+652,Series is mandatory,Série est obligatoire
+653,Series List for this Transaction,Liste des Séries pour cette Transaction
+654,Series Updated,Série Mise à Jour
+655,Series Updated Successfully,Mise à jour des Séries Réussie
+656,Server,Serveur
+657,Service,Service
+658,Service Address,Adresse du Service
+659,Services,Services
+660,Session Expired. Logging you out,Session Expirée. Déconnexion en cours.
+661,Session Expiry,Expiration de Session
+662,Session Expiry in Hours e.g. 06:00,"Delai d'Expiration de Session en Heures, e.g. 06:00"
+663,Session Expiry Mobile,Expiration de Session Mobile
+664,Session Expiry must be in format {0},Expiration de Session doit être au format {0}
+665,Set,Définir
+666,Set as Closed,Définir comme Fermé
+667,Set as Lost,Définir comme Perdu
+668,Set as Open,Définir comme Ouvert
+669,Set Banner from Image,Définir la Bannière depuis l'Image
+670,"Set default format, page size, print style etc.","Définir format par défaut, la taille de la page, le style d'impression etc."
+671,"Set Default Values like Company, Currency, Current Fiscal Year, etc.","Définir les Valeurs par Défaut comme : Societé, Devise, Exercice Actuel, etc..."
+672,Set Desktop Icons,Définir les Icônes du Bureau
+673,Set New Password,Définir un Nouveau Mot de Passe
+674,Set numbering series for transactions.,Définir des séries numérotées pour les transactions.
+675,Set Permissions on Document Types and Roles,Définir les Autorisations des Rôles sur les Types de Documents.
+676,Set Permissions per User,Définir les Autorisations par Utilisateur
+677,Set prefix for numbering series on your transactions,Définir le préfixe des séries numérotées pour vos transactions
+678,Set Quantity,Définir Quantité
+679,Set Value,Définir la Valeur
+680,Setting Up,Mise en Place
+681,Setting up Email,Configurer l'Email
+682,Settings,Réglages
+683,Settings for About Us Page.,Réglages de la page A Propos ...
+684,Settings for HR Module,Réglages pour le Module RH
+685,"Settings for online shopping cart such as shipping rules, price list etc.","Réglages pour panier telles que les règles de livraison, liste de prix, etc."
+686,Settings for Selling Module,Réglages pour le Module Vente
+687,Setup,Configuration
+688,Setup Already Complete!!,Configuration déjà terminée !
+689,Setup Complete,Configuration Terminée
+690,Setup Email Alert based on various criteria.,Configuration Alerte Email basée sur différents critères.
+691,Setup Series,Configuration des Séries
+692,Setup Wizard,Assistant de Configuration
+693,Share {0} with,Partager {0} avec
+694,Share this document with,Partager ce document avec
+695,Share With,Partager Avec
+696,Shared,Partagé
+697,Shared With,Partagé Avec
+698,Shared with {0},Partagé avec {0}
+699,Shared with everyone,Partagé avec tout le monde
+700,Shipments,Livraisons
+701,Shipments to customers.,Les livraisons aux clients.
+702,Shipping,Livraison
+703,Shipping Account,Compte de Livraison
+704,Shipping Address,Adresse de Livraison
+705,Shipping City,Ville de Livraison
+706,Shipping Country,Pays de Livraison
+707,Shipping Rule,Règle de Livraison
+708,Shipping Rule Condition,Condition de la Règle de Livraison
+709,Shop,Magasin
+710,Shopping Cart,Panier
+711,shopping-cart,panier
+712,Short biography for website and other publications.,Courte biographie pour le site web et d'autres publications.
+713,Short Name,Nom Court
+714,Shortage Qty,Qté de Pénurie
+715,Show / Hide Modules,Afficher / Cacher les Modules
+716,Show a description below the field,Afficher une description en dessous du champ
+717,Show a slideshow at the top of the page,Afficher un diaporama en haut de la page
+718,Show In Website,Afficher dans le Site Web
+719,Show more details,Montrer plus de détails
+720,Show or Hide Desktop Icons,Afficher ou Cacher les Icônes du Bureau
+721,Show or hide modules globally.,Afficher ou cacher les modules globalement.
+722,Show rows with zero values,Afficher lignes avec des valeurs nulles
+723,Show Tags,Afficher les Balises
+724,Show Title,Afficher le Titre
+725,Show zero values,Afficher les valeurs nulles
+726,Sick Leave,Congé Maladie
+727,Sign up,S'inscrire
+728,signal,signaler
+729,Signature,Signature
+730,Single,Unique
+731,Sit tight while your system is being setup. This may take a few moments.,Veuillez patienter pendant l’installation. L’opération peut prendre quelques minutes.
+732,Size,Taille
+733,Slideshow,Diaporama
+734,Slideshow Items,Articles du Diaporama
+735,Slideshow Name,Nom du Diaporama
+736,Small,Petit
+737,Small Text,Petit Texte
+738,SMS Center,Centre des SMS
+739,SMS Log,Journal des SMS
+740,SMS Parameter,Paramètres des SMS
+741,SMS Sender Name,Nom de l'Expéditeur du SMS
+742,SMS sent to following numbers: {0},SMS envoyé aux numéros suivants : {0}
+743,SMS Settings,Réglages des SMS
+744,SMTP Server,Serveur SMTP
+745,Software,Logiciel
+746,Software Developer,Developeur Logiciel
+747,Something went wrong!,Quelque chose a mal tourné !
+748,Sorry! You are not permitted to view this page.,Désolé ! Vous n'êtes pas autorisé à consulter cette page.
+749,Sorry! You cannot delete auto-generated comments,Désolé ! Vous ne pouvez pas supprimer les commentaires générés automatiquement
+750,Source,Source
+751,Source and target warehouse cannot be same for row {0},L'entrepôt source et destination ne peuvent être similaire dans la ligne {0}
+752,Source Warehouse,Entrepôt Source
+753,Source warehouse is mandatory for row {0},Entrepôt source est obligatoire à la ligne {0}
+754,Specifications,Caractéristiques
+755,Specify a default value,Spécifier une valeur par défaut
+756,Sports,Sportif
+757,Standard,Standard
+758,Standard Buying,Achat Standard
+759,Standard Print Format cannot be updated,Le Format d'Impression Standard ne peut pas être mis à jour
+760,Standard replies to common queries.,Réponse standard aux questions communes.
+761,Standard Reply,Réponse Standard
+762,Standard Reports,Rapports Standard
+763,Standard Selling,Vente Standard
+764,Standard Selling Rate,Prix de Vente Standard
+765,star,étoile
+766,Start,Démarrer
+767,Start and End Dates,Dates de Début et de Fin
+768,Start Date,Date de Début
+769,Start date should be less than end date for Item {0},La date de début doit être antérieure à la date de fin pour l'Article {0}
+770,Start entering data below this line,Commencez à entrer les données ci-dessous
+771,Start new Format,Commencer un nouveau Format
+772,Start Time,Heure de Début
+773,Starts on,Commence le
+774,State,État
+775,Static Parameters,Paramètres Statiques
+776,Status,Statut
+777,Stock,Stock
+778,Stock cannot be updated against Delivery Note {0},Stock ne peut pas être mis à jour pour le Bon de Livraison {0}
+779,Stock Entries already created for Production Order,Écritures de Stock déjà créées pour l'Ordre de Fabrication
+780,Stock Entry,Écriture de Stock
+781,Stock Entry {0} is not submitted,Écriture de Stock {0} n'est pas soumise
+782,Stock Expenses,Charges de Stock
+783,Stock Frozen Upto,Stock Gelé Jusqu'au
+784,Stock Ledger,Livre d'Inventaire
+785,Stock Ledger Entry,Écriture du Livre d'Inventaire
+786,Stock Manager,Responsable des Stocks
+787,Stock Received But Not Billed,Stock Reçus Mais Non Facturés
+788,Stock Transactions,Transactions du Stock
+789,Stock transactions before {0} are frozen,Les transactions du stock avant {0} sont gelées
+790,Stock User,Chargé des Stocks
+791,Stop,Arrêter
+792,Stop users from making Leave Applications on following days.,Empêcher les utilisateurs de faire des Demandes de Congé les jours suivants.
+793,Stopped,Arrêté
+794,Stores,Magasins
+795,Style,Style
+796,Style using CSS,Style en utilisant CSS
+797,Subdomain,Sous-domaine
+798,Subject,Sujet
+799,Submit,Soumettre
+800,Submitted,Soumis
+801,Successfully deleted all transactions related to this company!,Suppression de toutes les transactions liées à cette société avec succès !
+802,Suggestions,Suggestions
+803,Summary for this month and pending activities,Résumé du mois et des activités en suspens
+804,Summary for this week and pending activities,Résumé de la semaine et des activités en suspens
+805,Sunday,Dimanche
+806,Supplied Items,Articles Fournis
+807,Supplied Qty,Qté Fournie
+808,Supplier,Fournisseur
+809,Supplier Address,Adresse du Fournisseur
+810,Supplier Details,Détails du Fournisseur
+811,Supplier Items,Articles Fournisseur
+812,Supplier Type,Type de Fournisseur
+813,Supplier Type / Supplier,Fournisseur / Type de Fournisseur
+814,Supplier Type master.,Type de Fournisseur principal
+815,Supplier Warehouse,Entrepôt Fournisseur
+816,Supplier(s),Fournisseur(s)
+817,Support,Support
+818,Support Analtyics,Analyse du Support
+819,Support Analytics,Analyse du Support
+820,Support Team,Équipe de Support
+821,Symbol,Symbole
+822,Sync Now,Synchroniser Maintenant
+823,Sync Offline Invoices,Synchroniser les Factures hors-ligne
+824,Synced With Hub,Synchronisé avec le Hub
+825,Syntax error in template,Erreur de syntaxe dans le modèle
+826,System,Système
+827,System and Website Users,Utilisateurs Système et Site Web
+828,System Manager,Responsable Système
+829,System Settings,Réglages Système
+830,System User,Utilisateur Système
+831,Serial No {0} does not belong to Item {1},N° de Série {0} n'appartient pas à l'Article {1}
