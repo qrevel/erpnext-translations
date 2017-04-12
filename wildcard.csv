@@ -1,5 +1,5 @@
 ,English,Français
-0,{0} {1} not in any active Fiscal Year.,{0} {1} dans aucun Exercice Fiscal actif.
+0,{0} {1} not in any active Fiscal Year.,{0} {1} dans aucun Exercice actif.
 1,{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: Compte {2} de type ‘Pertes et Profits’ non admis en Écriture d’Ouverture
 2,{0} has been successfully added to the Email Group.,{0} a été ajouté avec succès au Groupe d’Email.
 3,{0} is not a valid Email Address,{0} n’est pas une Adresse Email valide
@@ -7,7 +7,7 @@
 5,> {0} year(s) ago,> {0} an(s)
 6,"%s is not a valid report format. Report format should \
 				one of the following %s",%s n’est pas un format de rapport valide. Le format de Rapport devrait \ l'un des %s suivants
-7,1 star being lowest & 5 stars being highest rating,1 étoile étant la plus basse et 5 étoiles étant la meilleure note
+7,1 star being lowest & 5 stars being highest rating,1 étoile étant la pire note et 5 étoiles étant la meilleure note
 8,1 weeks ago,Il y a 1 semaine
 9,1 year ago,Il y a 1 an
 10,'From Date' must be after 'To Date',La ‘Date de Début’ doit être antérieure à la ‘Date de Fin’
@@ -16,7 +16,7 @@
 13,'Update Stock' cannot be checked for fixed asset sale,'Mettre à Jour Le Stock’ ne peut pas être coché pour la vente d'actifs immobilisés
 14,"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item",'Est un Actif Immobilisé’ doit être coché car il existe une entrée d’Actif pour cet article
 15,"""Parent"" signifies the parent table in which this row must be added","""Parent"" indique la table parent dans laquelle cette ligne doit être ajouté"
-16,[{0}](#Form/Item/{0}) is out of stock,[{0}] (#Formuaire/Article/{0}) est en rupture de stock
+16,[{0}](#Form/Item/{0}) is out of stock,[{0}] (#Formulaire/Article/{0}) est en rupture de stock
 17,{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} n'est pas un motif de nom de champ valide. Il devrait être {{field_name}}.
 18,{0} {1} cannot be a leaf node as it has children,{0} {1} ne peut pas être un nœud feuille car elle a des enfants
 19,{0} {1} does not associated with {2} {3},{0} {1} n'est pas associé(e) à {2} {3}
@@ -31,15 +31,15 @@
 28,{0} {1} must be submitted,{0} {1} doit être soumis
 29,{0} {1} status is {2},Le Statut de {0} {1} est {2}
 30,{0} {1} to {2},{0} {1} à {2}
-31,{0} {1}: Account {2} cannot be a Group,{0} {1}: Compte {2} ne peut pas être un Groupe
-32,{0} {1}: Account {2} does not belong to Company {3},{0} {1}: Compte {2} ne fait pas partie de la Société {3}
-33,{0} {1}: Account {2} is inactive,{0} {1}: Le compte {2} est inactif
-34,{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1}: L’Écriture Comptable pour {2} peut seulement être faite en devise: {3}
-35,{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1}: Le Centre de Coûts {2} ne fait pas partie de la Société {3}
-36,{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,"{0} {1}: Un Centre de Coûts est requis pour le compte ""Pertes et Profits"" {2}.Veuillez mettre en place un centre de coûts par défaut pour la Société."
-37,{0} {1}: Customer is required against Receivable account {2},{0} {1}: Un Client est requis pour le Compte Débiteur {2}
-38,{0} {1}: Either debit or credit amount is required for {2},{0} {1}: Un montant est requis au débit ou au crédit pour {2}
-39,{0} {1}: Supplier is required against Payable account {2},{0} {1}: Un Fournisseur est requis pour le Compte Créditeur {2}
+31,{0} {1}: Account {2} cannot be a Group,{0} {1} : Compte {2} ne peut pas être un Groupe
+32,{0} {1}: Account {2} does not belong to Company {3},{0} {1} : Compte {2} ne fait pas partie de la Société {3}
+33,{0} {1}: Account {2} is inactive,{0} {1} : Compte {2} inactif
+34,{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1} : L’Écriture Comptable pour {2} peut seulement être faite en devise: {3}
+35,{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1} : Le Centre de Coûts {2} ne fait pas partie de la Société {3}
+36,{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,"{0} {1} : Un Centre de Coûts est requis pour le compte ""Pertes et Profits"" {2}.Veuillez mettre en place un centre de coûts par défaut pour la Société."
+37,{0} {1}: Customer is required against Receivable account {2},{0} {1} : Un Client est requis pour le Compte Débiteur {2}
+38,{0} {1}: Either debit or credit amount is required for {2},{0} {1} : Un montant est requis au débit ou au crédit pour {2}
+39,{0} {1}: Supplier is required against Payable account {2},{0} {1} : Un Fournisseur est requis pour le Compte Créditeur {2}
 40,{0} already allocated for Employee {1} for period {2} to {3},{0} déjà alloué pour l’Employé {1} pour la période {2} à {3}
 41,{0} already unsubscribed for {1} {2},{0} déjà désabonné pour {1} {2}
 42,{0} are currently viewing this document,{0} sont en train de regarder ce document
@@ -61,7 +61,7 @@
 57,{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}.,{0} est obligatoire. Peut-être qu’un enregistrement de Taux de Change n'est pas créé pour {1} et {2}.
 58,{0} is not a valid Batch Number for Item {1},{0} n'est pas un Numéro de Lot valide pour l’Article {1}
 59,{0} is not set,{0} n'est pas défini
-60,{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} est désormais l'Année Fiscale par défaut. Veuillez actualiser la page pour que les modifications soient prises en compte.
+60,{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} est désormais l’Exercice par défaut. Veuillez actualiser la page pour que les modifications soient prises en compte.
 61,{0} items in progress,{0} articles en cours
 62,{0} items produced,{0} articles produits
 63,{0} items selected,{0} articles sélectionnés
@@ -76,7 +76,7 @@
 72,{0} Name,{0} Nom
 73,{0} not a valid State,{0} pas un État valide
 74,{0} not allowed to be renamed,{0} ne peut pas être renommé
-75,{0} payment entries can not be filtered by {1},{0} entrées de paiement ne peuvent pas être filtrées par {1}
+75,{0} payment entries can not be filtered by {1},{0} écritures de paiement ne peuvent pas être filtrées par {1}
 76,{0} records updated,{0} enregistrements mis à jour
 77,{0} Report,Rapport {0}
 78,{0} Results,Résultats {0}
@@ -92,27 +92,27 @@
 88,{0} valid serial nos for Item {1},{0} numéro de série valide pour l'objet {1}
 89,{0} weeks ago,Il y a {0} semaines
 90,"{0}, Row {1}","{0}, Ligne {1}"
-91,"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}",{0}: {1} '({3}) sera tronqué car le nombre de caractères max est {2}
-92,{0}: {1} does not exists,{0}: {1} n’existe pas
-93,{0}: {1} in {2},{0}: {1} à {2}
-94,{0}: {1} not found in Invoice Details table,{0}: {1} introuvable dans la table de Détails de la Facture
-95,{0}: Cannot set Assign Amend if not Submittable,{0} : Vous ne pouvez pas définir ‘Assigner Modifier’ si non Soumissible
-96,{0}: Cannot set Assign Submit if not Submittable,{0} : Vous ne pouvez pas définir ‘Assigner Soumettre’ si non Soumissible
+91,"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}",{0} : {1} '({3}) sera tronqué car le nombre de caractères max est {2}
+92,{0}: {1} does not exists,{0} : {1} n’existe pas
+93,{0}: {1} in {2},{0} : {1} à {2}
+94,{0}: {1} not found in Invoice Details table,{0} : {1} introuvable dans la table de Détails de la Facture
+95,{0}: Cannot set Assign Amend if not Submittable,{0} : Impossible de définir ‘Assigner Modifier’ si non Soumissible
+96,{0}: Cannot set Assign Submit if not Submittable,{0} : Impossible de définir ‘Assigner Soumettre’ si non Soumissible
 97,{0}: Cannot set Cancel without Submit,{0} : Impossible de choisir Annuler sans Soumettre
 98,{0}: Cannot set import as {1} is not importable,{0} : Impossible de choisir import car {1} n'est pas importable
 99,{0}: Cannot set Import without Create,{0} : Impossible de choisir Import sans Créer
 100,"{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Vous ne pouvez pas choisir Envoyer, Annuler, Modifier sans Écrire"
-101,"{0}: Employee email not found, hence email not sent",{0}: Adresse email de l'employé introuvable : l’email n'a pas été envoyé
-102,{0}: From {0} for {1},{0}: Du {0} pour {1}
-103,{0}: From {0} of type {1},{0}: Du {0} de type {1}
-104,{0}: No basic permissions set,{0}: Aucune autorisation de base définie
-105,"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: Une seule règle est permise avec le même Rôle, Niveau et {1}"
+101,"{0}: Employee email not found, hence email not sent",{0} : Adresse email de l'employé introuvable : l’email n'a pas été envoyé
+102,{0}: From {0} for {1},{0} : Du {0} pour {1} 
+103,{0}: From {0} of type {1},{0} : Du {0} de type {1}
+104,{0}: No basic permissions set,{0} : Aucune autorisation de base définie
+105,"{0}: Only one rule allowed with the same Role, Level and {1}","{0} : Une seule règle est permise avec le même Rôle, Niveau et {1}"
 106,{0}: Permission at level 0 must be set before higher levels are set,{0} : L'Autorisation au niveau 0 doit être définie avant que les niveaux plus élevés soient parametrés
-107,{0}% Complete,{0}% Complète
+107,{0}% Complete,{0}% Complété
 108,{app_title},{app_title}
 109,** Failed: {0} to {1}: {2},** Échec: {0} à {1}: {2}
 110,**Currency** Master,Données de Base **Devise**
-111,**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,**Distribution Mensuelle** vous aide à diviser le Budget / la Cible sur plusieurs mois si vous avez de la saisonnalité dans votre entreprise.
+111,**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,**Répartition Mensuelle** vous aide à diviser le Budget / la Cible sur plusieurs mois si vous avez de la saisonnalité dans votre entreprise.
 112,<head> HTML,<head> HTML
 113,%  Delivered,% Livré
 114,% Amount Billed,% Montant Facturé
@@ -127,18 +127,18 @@
 123,1 hour ago,Il ya 1 heure
 124,1 item selected,1 article sélectionné
 125,1 minute ago,Il y a 1 minute
-126,1 month ago,Il ya 1 mois
+126,1 month ago,Il y a 1 mois
 127,1. Select Columns,1. Sélectionner les colonnes
 128,1. Select File,1. Sélectionner un fichier
 129,2. Download,2. Télécharger
 130,2. Upload,2. Charger
 131,Advanced Settings,Réglages Avancés
 132,`Freeze Stocks Older Than` should be smaller than %d days.,`Geler les stocks datant de plus` doit être inférieur à %d jours.
-133,'Actual Start Date' can not be greater than 'Actual End Date',"""Date de Début Réelle"" ne peut être supérieure à ""Date de Fin Réelle"""
+133,'Actual Start Date' can not be greater than 'Actual End Date',"""Date de Début Réelle"" ne peut être postérieure à ""Date de Fin Réelle"""
 134,'Based On' and 'Group By' can not be same,'Basé sur' et 'Groupé par' ne peuvent pas être identiques
 135,'Days Since Last Order' must be greater than or equal to zero,'Jours Depuis La Dernière Commande' doit être supérieur ou égal à zéro
 136,'Entries' cannot be empty,'Entrées' ne peuvent pas être vides
-137,'Expected Start Date' can not be greater than 'Expected End Date','Date de Début Prévue' ne peut pas être supérieure à 'Date de Fin Prévue'
+137,'Expected Start Date' can not be greater than 'Expected End Date','Date de Début Prévue' ne peut pas être postérieure à 'Date de Fin Prévue'
 138,'Has Serial No' can not be 'Yes' for non-stock item,'A un Numéro de Série' ne peut pas être 'Oui' pour un article hors-stock
 139,'Notification Email Addresses' not specified for recurring %s,'Adresse Email de Notification’ non spécifiée pour %s récurrents
 140,'Total','Total'
@@ -146,9 +146,9 @@
 142,"""Team Members"" or ""Management""","""Membres de l'Équipe"" ou ""Management"""
 143,(Hour Rate / 60) * Actual Operation Time,(Tarif Horaire / 60) * Temps Réel d’Opération
 144,[Label]:[Field Type]/[Options]:[Width],[Étiquette]: [Type de champ] / [Options]: [Largeur]
-145,[Select],[Choisir ]
+145,[Select],[Choisir]
 146,{0} '{1}' is disabled,{0} '{1}' est désactivé(e)
-147,{0} '{1}' not in Fiscal Year {2},{0} '{1}' n'est pas dans l’Exercice Fiscal {2}
+147,{0} '{1}' not in Fiscal Year {2},{0} '{1}' n'est pas dans l’Exercice {2}
 148,{0} ({1}) cannot be greater than planned quanitity ({2}) in Production Order {3},{0} ({1}) ne peut pas être supérieur à la quantité prévue ({2}) dans l’Ordre de Production {3}
 149,{0} ({1}) must have role 'Leave Approver',{0} ({1}) doit avoir le rôle ‘Approbateur de Congés'
 150,{0} {1} already exists,{0} {1} existe déjà
@@ -162,18 +162,18 @@
 158,{0} against Purchase Order {1},{0} pour le Bon de Commande d'Achat {1}
 159,{0} against Sales Invoice {1},{0} pour la Facture de Vente {1}
 160,{0} against Sales Order {1},{0} pour la Commande Client {1}
-161,{0} already unsubscribed,{0} déjà désabonné
+161,{0} already unsubscribed,{0} déjà désinscrit
 162,{0} days ago,Il y a {0} jours
 163,{0} does not belong to Company {1},{0} n'appartient pas à la Société {1}
 164,{0} does not exist in row {1},{0} n'existe pas dans la ligne {1}
 165,{0} entered twice in Item Tax,{0} est entré deux fois dans la Taxe de l'Article
 166,{0}: Cannot set Amend without Cancel,{0} : Impossible de choisir Modifier sans Annuler
 167,* Will be calculated in the transaction.,* Sera calculé lors de la transaction.
-168,**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,**Exercice Fiscal** représente un Exercice Financier. Toutes les écritures comptables et autres transactions majeures sont suivis en **Exercice Fiscal**.
+168,**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,**Exercice** représente un Exercice Financier. Toutes les écritures comptables et autres transactions majeures sont suivis en **Exercice**.
 169,% Completed,% Complété
 170,"1 Currency = [?] Fraction
-For e.g. 1 USD = 100 Cent","Une devise = [?] Fraction 
-Par Exemple : 1 USD = 100 centimes"
+For e.g. 1 USD = 100 Cent","1 Devise = [?] Fraction 
+E.g. 1 USD = 100 centimes"
 171,90-Above,90-Dessus
 172,for {0},pour {0}
 173,is mandatory. Maybe Currency Exchange record is not created for,est obligatoire. Peut-être que le Taux de Change n'est pas créé pour
@@ -181,7 +181,7 @@ Par Exemple : 1 USD = 100 centimes"
 175,to,à
 176,_doctype,_doctype
 177,-Above,-Au-dessus
-178,'From Date' is required,'Date début' est nécessaire
+178,'From Date' is required,'Date début' est requise
 179,'Opening','Ouverture'
 180,'To Date' is required,'Date de Fin' est requise
 181,{0} and {1},{0} et {1}
@@ -202,7 +202,7 @@ Par Exemple : 1 USD = 100 centimes"
 196,"""Company History""","""Historique de la Société"""
 197,(Ctrl + G),(Ctrl + G)
 198,[Error],[Erreur]
-199,{0} ({1}) must have role 'Expense Approver',"{0} ({1}) doit avoir le rôle ""Approbateur de frais'"
+199,{0} ({1}) must have role 'Expense Approver',"{0} ({1}) doit avoir le rôle ""Approbateur de Frais"""
 200,{0} added,{0} ajouté(e)
 201,{0} for {1},{0} pour {1}
 202,{0} is mandatory,{0} est obligatoire
