@@ -29,31 +29,31 @@ Used for Taxes and Charges",La table de détails de taxe est récupérée depuis
 26,Taxes and Charges Calculation,Calcul des Frais et Taxes
 27,Taxes and Charges Deducted,Taxes et Frais Déductibles
 28,Taxes and Charges Deducted (Company Currency),Taxes et Frais Déductibles (Devise Société)
-29,Team Members Heading,Titres des Membres de l’Équipe
+29,Team Members Heading,Titre des Membres de l’Équipe
 30,Team Updates,Mises à Jour de l’Équipe
 31,Temperorily Disabled,Temporairement Désactivé
 32,Term End Date,Date de Fin du Terme
 33,Term Name,Nom du Terme
 34,Term Start Date,Date de Début du Terme
-35,Terms and Conditions Help,Aides des Termes et Conditions
+35,Terms and Conditions Help,Aide des Termes et Conditions
 36,Terretory,Territoire
 37,Test Runner,Exécuteur de Test
 38,Test_Folder,Dossier_Test
 39,Text Content,Contenu du Texte
 40,text in document type,Texte dans le type de document
-41,Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,Texte à afficher pour le lien vers la page Web si ce formulaire dispose d'une page web. Le chemin du lien sera automatiquement généré sur la base des éléments `page_name` et `parent_website_route`
+41,Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,Texte à afficher pour le lien vers la Page Web si ce formulaire dispose d'une page web. Le chemin du lien sera automatiquement généré sur la base des éléments `page_name` et `parent_website_route`
 42,th,th
 43,th-large,th-large
 44,th-list,th-list
 45,Thank you for your business!,Merci pour votre entreprise !
-46,"The account head under Liability or Equity, in which Profit/Loss will be booked","Le titre du compte de Passif ou de Capitaux Propres, dans lequel les Bénéfices/Pertes seront comptabilisé"
+46,"The account head under Liability or Equity, in which Profit/Loss will be booked","Le titre du compte de Passif ou de Capitaux Propres, dans lequel les Bénéfices/Pertes seront comptabilisés"
 47,The BOM which will be replaced,La LDM qui sera remplacée
 48,The Condition '{0}' is invalid,La Condition '{0}' est invalide
 49,The date on which next invoice will be generated. It is generated on submit.,La date à laquelle la prochaine facture sera générée. Elle est générée à la soumission.
 50,The date on which recurring invoice will be stop,La date à laquelle la facture récurrente sera arrêtée
 51,"The day of the month on which auto invoice will be generated e.g. 05, 28 etc.","Le jour du mois où la facture automatique sera générée. e.g. 05, 28, etc."
-52,The day(s) on which you are applying for leave are holidays. You need not apply for leave.,Le(s) jour(s) pour le(s)quel(s) vous demandez un congé sont des jours fériés. Vous n’avez pas besoin d’effectuer de demande.
-53,The first user will become the System Manager (you can change this later).,Le premier utilisateur deviendra le System Manager (vous pouvez changer cela plus tard).
+52,The day(s) on which you are applying for leave are holidays. You need not apply for leave.,Le(s) jour(s) pour le(s)quel(s) vous demandez un congé sont des jour(s) férié(s). Vous n’avez pas besoin d’effectuer de demande.
+53,The first user will become the System Manager (you can change this later).,Le premier utilisateur deviendra le Responsable Système (vous pouvez changer cela plus tard).
 54,The following Production Orders were created:,Les Ordres de Production suivants ont été créés:
 55,The gross weight of the package. Usually net weight + packaging material weight. (for print),Le poids brut du colis. Habituellement poids net + poids du matériau d'emballage. (Pour l'impression)
 56,The holiday on {0} is not between From Date and To Date,Le jour de vacances {0} n’est pas compris entre la Date Initiale et la Date Finale
@@ -65,13 +65,13 @@ Used for Taxes and Charges",La table de détails de taxe est récupérée depuis
 61,The request for quotation can be accessed by clicking on the following link,La demande de devis peut être consultée en cliquant sur le lien suivant
 62,The resource you are looking for is not available,La ressource que vous recherchez n'est pas disponible
 63,The selected BOMs are not for the same item,Les LDMs sélectionnées ne sont pas pour le même article
-64,The selected item cannot have Batch,L'élément sélectionné ne peut pas avoir de Lot
+64,The selected item cannot have Batch,L’article sélectionné ne peut pas avoir de Lot
 65,The system provides many pre-defined roles. You can add new roles to set finer permissions.,Le système offre de nombreux rôles prédéfinis. Vous pouvez ajouter de nouveaux rôles pour définir des autorisations plus fines .
 66,The Term End Date cannot be earlier than the Term Start Date. Please correct the dates and try again.,La Date de Fin de Terme ne peut pas être antérieure à la Date de Début de Terme. Veuillez corriger les dates et essayer à nouveau.
 67,The Term End Date cannot be later than the Year End Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,La Date de Fin de Terme ne peut pas être postérieure à la Date de Fin de l'Année Académique à laquelle le terme est lié (Année Académique {}). Veuillez corriger les dates et essayer à nouveau.
 68,The Term Start Date cannot be earlier than the Year Start Date of the Academic Year to which the term is linked (Academic Year {}). Please correct the dates and try again.,La Date de Début de Terme ne peut pas être antérieure à la Date de Début de l'Année Académique à laquelle le terme est lié (Année Académique {}). Veuillez corriger les dates et essayer à nouveau.
 69,"The total Issue / Transfer quantity {0} in Material Request {1}  \
-							cannot be greater than requested quantity {2} for Item {3}",La quantité totale d’Émission / Transfert {0} dans la Demande de Matériel {1} \ ne peut pas être supérieure à la quantité demandée {2} pour l’article {3}
+							cannot be greater than requested quantity {2} for Item {3}",La quantité totale d’Émission / Transfert {0} dans la Demande de Matériel {1} \ ne peut pas être supérieure à la quantité demandée {2} pour l’Article {3}
 70,The unique id for tracking all recurring invoices. It is generated on submit.,L'identifiant unique pour le suivi de toutes les factures récurrentes. Il est généré lors de la soumission.
 71,The Year End Date cannot be earlier than the Year Start Date. Please correct the dates and try again.,La Date de Fin d'Année ne peut pas être antérieure à la Date de Début d’Année. Veuillez corriger les dates et essayer à nouveau.
 72,There can be only one Fold in a form,Il ne peut y avoir qu'un seul Pli dans un formulaire
@@ -81,15 +81,15 @@ Used for Taxes and Charges",La table de détails de taxe est récupérée depuis
 76,There is not enough leave balance for Leave Type {0},Il n'y a pas assez de solde de congés pour les Congés de Type {0}
 77,There must be a default incoming Email Account enabled for this to work. Please setup a default incoming Email Account (POP/IMAP) and try again.,Il doit y avoir un compte Email entrant par défaut activé pour que cela fonctionne. Veuillez configurer un compte Email entrant par défaut (POP / IMAP) et essayer à nouveau.
 78,There must be atleast one permission rule.,Il doit y avoir au moins une règle d'autorisation.
-79,There was an error. One probable reason could be that you haven't saved the form. Please contact support@erpnext.com if the problem persists.,Il y a eu une erreur. Une raison probable pourrait être que vous n'avez pas enregistré le formulaire. Veuillez contacter support@erpnext.com si le problème persiste .
-80,There were errors while deleting following schedules:,Il y a eu des erreurs lors de la suppression des horaires suivants:
-81,There were errors while scheduling course on :,Il y a eu des erreurs lors de la planification de cours sur:
+79,There was an error. One probable reason could be that you haven't saved the form. Please contact support@erpnext.com if the problem persists.,Il y a eu une erreur. Une raison probable pourrait être que vous n'avez pas enregistré le formulaire. Veuillez contacter support@erpnext.com si le problème persiste.
+80,There were errors while deleting following schedules:,Il y a eu des erreurs lors de la suppression des horaires suivants :
+81,There were errors while scheduling course on :,Il y a eu des erreurs lors de la planification de cours sur :
 82,There were errors while sending email. Please try again.,Il y a eu des erreurs lors de l'envoi d’emails. Veuillez essayer à nouveau.
 83,There were errors. Please report this.,Il y a eu des erreurs. Veuillez nous le signaler.
 84,"There were some errors setting the name, please contact the administrator","Il y a eu des erreurs lors de la configuration du nom, veuillez contacter l'administrateur"
-85,"These permissions will apply for all transactions where the permitted record is linked. For example, if Company C is added to User Permissions of user X, user X will only be able to see transactions that has company C as a linked value.","Ces autorisations s'appliquent pour toutes les transactions où l’enregistrement permis est liée. Par exemple, si la Société C est ajoutée aux Autorisations Utilisateur de l’utilisateur X, l’utilisateur X ne pourra voir que les transactions liées à la Société C."
+85,"These permissions will apply for all transactions where the permitted record is linked. For example, if Company C is added to User Permissions of user X, user X will only be able to see transactions that has company C as a linked value.","Ces autorisations s'appliquent pour toutes les transactions où l’enregistrement permis est lié. Par exemple, si la Société C est ajoutée aux Autorisations Utilisateur de l’utilisateur X, l’utilisateur X ne pourra voir que les transactions liées à la Société C."
 86,These restrictions will apply for Document Types where 'Apply User Permissions' is checked for the permission rule and a field with this value is present.,Ces restrictions seront appliquées pour les Types de Documents où «Appliquer les Autorisations des Utilisateurs» est cochée pour la règle de l'autorisation et un champ avec cette valeur est présente.
-87,These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values.,Ces valeurs seront automatiquement mis à jour dans les transactions et sera également utile pour restreindre les autorisations pour cet utilisateur sur les transactions contenant ces valeurs.
+87,These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values.,Ces valeurs seront automatiquement mises à jour dans les transactions et sera également utile pour restreindre les autorisations pour cet utilisateur sur les transactions contenant ces valeurs.
 88,"These will also be set as default values for those links, if only one such permission record is defined.","Elles seront également définies comme valeurs par défaut pour ces liens, si une telle valeur d'autorisation est définie au moins une fois."
 89,This {0} conflicts with {1} for {2} {3},Ce {0} est en conflit avec {1} pour {2} {3}
 90,This document is currently queued for execution. Please try again,Ce document est actuellement en attente d'exécution. Veuillez réessayer
@@ -100,8 +100,8 @@ myfield
 eval:doc.myfield=='My Value'
 eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a une valeur OU les règles sont vérifiées (exemples): monchamp  eval: doc.monchamp == 'Ma Valeur'  eval: doc.age> 18
 94,This goes above the slideshow.,Ceci va au-dessus du diaporama.
-95,This is a root customer group and cannot be edited.,C’est un groupe de clients racine qui ne peut être modifié .
-96,This is a root sales person and cannot be edited.,C’est un commercial racine qui ne peut être modifié .
+95,This is a root customer group and cannot be edited.,C’est un groupe de clients racine qui ne peut être modifié.
+96,This is a root sales person and cannot be edited.,C’est un commercial racine qui ne peut être modifié.
 97,This is a top-10 common password.,C’est un mot de passe commun dans le top-10.
 98,This is a top-100 common password.,C’est un mot de passe commun dans le top-100.
 99,This is a very common password.,C’est un mot de passe très commun.
@@ -109,7 +109,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 101,This is based on stock movement. See {0} for details,Basé sur les mouvements de stock. Voir {0} pour plus de détails
 102,This is based on the attendance of this Employee,Basé sur la présence de cet Employé
 103,This is based on the attendance of this Student,Basé sur la présence de cet Étudiant
-104,This is based on the Time Sheets created against this project,Basé sur les Feuilles de Temps créées sur ce projet
+104,This is based on the Time Sheets created against this project,Basé sur les Feuilles de Temps créées pour ce projet
 105,This is based on transactions against this Customer. See timeline below for details,Basé sur les transactions avec ce client. Voir la chronologie ci-dessous pour plus de détails
 106,This is based on transactions against this Supplier. See timeline below for details,Basé sur les transactions avec ce fournisseur. Voir la chronologie ci-dessous pour plus de détails
 107,This is similar to a commonly used password.,C’est similaire à un mot de passe couramment utilisé.
@@ -134,16 +134,16 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 126,Timeline Name,Nom de la Chronologie
 127,Timesheet,Feuille de Temps
 128,Timesheet {0} is already completed or cancelled,La Feuille de Temps {0} est déjà terminée ou annulée
-129,Timesheet created:,Feuille de Temps créée:
+129,Timesheet created:,Feuille de Temps créée :
 130,Timesheet Detail,Détails de la Feuille de Temps
 131,Timesheet for tasks.,Feuille de Temps pour les tâches.
 132,Timesheets,Feuilles de Temps
 133,"Timesheets help keep track of time, cost and billing for activites done by your team","Les Feuilles de Temps aident au suivi du temps, coût et facturation des activités effectuées par votre équipe"
 134,Timestamp,Horodatage
-135,Tip:  Double click cell to edit,Astuce: Double cliquez dans une cellule pour l’éditer
+135,Tip:  Double click cell to edit,Astuce : Double cliquez dans une cellule pour l’éditer
 136,Title Case,Casse du Titre
 137,Title field must be a valid fieldname,Champ Titre doit être un nom de champ valide
-138,"To allow over-billing or over-ordering, update ""Allowance"" in Stock Settings or the Item.","Pour permettre la sur-facturation ou la sur-commande, mettez à jour ""Indulgence"" dans les Paramètres de Stock ou d’Article."
+138,"To allow over-billing or over-ordering, update ""Allowance"" in Stock Settings or the Item.","Pour permettre la sur-facturation ou la sur-commande, mettez à jour ""Indulgence"" dans les Paramètres de Stock ou dans l’Article."
 139,To and CC,Pour et CC
 140,To Currency,Devise Finale
 141,To Date should be within the Fiscal Year. Assuming To Date = {0},La Date Finale doit être dans l'exercice. En supposant Date Finale = {0}
@@ -151,17 +151,17 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 143,to filter values between 5 & 10,pour filtrer des valeurs comprises entre 5 et 10
 144,"To format columns, give column labels in the query.","Pour formater des colonnes, donnez des étiquettes de colonne dans la requête."
 145,"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.","Pour tirer le meilleur parti d’ERPNext, nous vous recommandons de prendre un peu de temps et de regarder ces vidéos d'aide."
-146,"To give acess to a role for only specific records,  check the Apply User Permissions. User Permissions are used to limit users with such role to specific records.","Pour donner accès à des enregistrements spécifiques à un rôle,  vérifiez l’option Appliquer les Autorisations des Utilisateurs. Les autorisations des utilisateurs sont utilisées pour limiter les utilisateurs avec ce rôle à des enregistrements spécifiques."
+146,"To give acess to a role for only specific records,  check the Apply User Permissions. User Permissions are used to limit users with such role to specific records.","Pour donner accès à des enregistrements spécifiques à un rôle, vérifiez l’option Appliquer les Autorisations des Utilisateurs. Les autorisations des utilisateurs sont utilisées pour limiter les utilisateurs avec ce rôle à des enregistrements spécifiques."
 147,"To import or update records, you must first download the template for importing.","Pour importer ou mettre à jour des entrées, vous devez d'abord télécharger le modèle d'import."
-148,"To include tax in row {0} in Item rate, taxes in rows {1} must also be included","Pour inclure la taxe de la ligne {0} dans le prix de l'Article , les taxes des lignes {1} doivent également être incluses"
+148,"To include tax in row {0} in Item rate, taxes in rows {1} must also be included","Pour inclure la taxe de la ligne {0} dans le prix de l'Article, les taxes des lignes {1} doivent également être incluses"
 149,To Invoice Date,Date de Facture Finale
 150,"To merge, following properties must be same for both items","Pour fusionner, les propriétés suivantes doivent être les mêmes pour les deux articles"
-151,"To not apply Pricing Rule in a particular transaction, all applicable Pricing Rules should be disabled.","Pour ne pas appliquer la Règle de Tarification dans une transaction particulière, toutes les Règles de Tarification applicables doivent être désactivés."
+151,"To not apply Pricing Rule in a particular transaction, all applicable Pricing Rules should be disabled.","Pour ne pas appliquer la Règle de Tarification dans une transaction particulière, toutes les Règles de Tarification applicables doivent être désactivées."
 152,To Package No.,Au N° de Paquet
 153,To Range,Au Rang
 154,"To renew, {0}.","Pour renouveler, {0}."
 155,"To run a test add the module name in the route after '{0}'. For example, {1}","Pour exécuter un test, ajoutez le nom du module dans le chemin après '{0}'. Par exemple, {1}"
-156,"To set this Fiscal Year as Default, click on 'Set as Default'","Pour définir cet Exercice Fiscal par défaut , cliquez sur ""Définir par défaut"""
+156,"To set this Fiscal Year as Default, click on 'Set as Default'","Pour définir cet Exercice Fiscal par défaut, cliquez sur ""Définir par défaut"""
 157,To Value,Valeur Finale
 158,Token,Jeton
 159,Token is missing,Le Jeton est manquant
@@ -210,7 +210,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 202,Total Debit must be equal to Total Credit. The difference is {0},Le Total du Débit doit être égal au Total du Crédit. La différence est de {0}
 203,Total Deduction,Déduction Totale
 204,Total Experience,Expérience Totale
-205,Total hours: {0},Nombre total d'heures: {0}
+205,Total hours: {0},Nombre total d'heures : {0}
 206,Total Interest Payable,Total des Intérêts à Payer
 207,Total Invoiced Amount,Montant Total Facturé
 208,Total Invoiced Amt,Mnt Total Facturé
@@ -246,7 +246,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 238,Total Tax,Total des Taxes
 239,Total Taxes and Charges,Total des Taxes et Frais
 240,Total Taxes and Charges (Company Currency),Total des Taxes et Frais (Devise Société)
-241,Total Unpaid: {0},Total des Impayés: {0}
+241,Total Unpaid: {0},Total des Impayés : {0}
 242,Total Variance,Variance Totale
 243,Total weightage assigned should be 100%. It is {0},Le total des pondérations attribuées devrait être de 100 %. Il est {0}
 244,Total Weightage of all Assessment Criteria must be 100%,Le total des pondérations de tous les Critères d'Évaluation doit être égal à 100%
@@ -256,7 +256,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 248,Traceback,Retraçage
 249,Track Changes,Suivre les Modifications
 250,Track Seen,Suivre les Vues
-251,Track separate Income and Expense for product verticals or divisions.,Suivre les Revenus et Charges des verticales ou divisions produits séparément.
+251,Track separate Income and Expense for product verticals or divisions.,Suivre séparément les Produits et Charges pour les gammes de produits.
 252,Track this Delivery Note against any Project,Suivre ce Bon de Livraison pour tous les Projets
 253,Track this Sales Order against any Project,Suivre cette Commande de Vente pour tous les Projets
 254,Trainer Email,Email du Formateur
@@ -270,7 +270,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 262,Transaction Currency,Devise de la Transaction
 263,Transaction currency must be same as Payment Gateway currency,La devise de la Transaction doit être la même que la devise de la Passerelle de Paiement
 264,Transaction Date,Date de la Transaction
-265,Transaction ID,Identifiant de transaction
+265,Transaction ID,Identifiant de Transaction
 266,Transaction reference no {0} dated {1},Référence de la transaction n° {0} datée du {1}
 267,Transfer an asset from one warehouse to another,Transfert d'un actif d'un entrepôt à un autre
 268,Transfer Asset,Transfert d'Actifs
@@ -295,9 +295,9 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 287,"Type of leaves like casual, sick etc.","Type de congé comme courant, maladie, etc."
 288,Type of Payment,Type de Paiement
 289,Type something in the search box to search,Tapez quelque chose dans la zone de recherche pour rechercher
-290,Type:,Type:
+290,Type:,Type :
 291,Types of activities for Time Logs,Types d'activités pour Journaux de Temps
-292,Types of Expense Claim.,Types de Demande de Remboursement de Frais Professionnels.
+292,Types of Expense Claim.,Types de Notes de Frais.
 293,Table {0} cannot be empty,La Table {0} ne peut pas être vide
 294,Table for Item that will be shown in Web Site,Table pour l'Article qui sera affiché sur le site Web
 295,Taken,Pris
@@ -309,7 +309,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 301,Target warehouse is mandatory for row {0},L’Entrepôt cible est obligatoire pour la ligne {0}
 302,Targets,Cibles
 303,Task,Tâche
-304,Task Depends On,Tâches Dépendente de
+304,Task Depends On,Tâche Dépend De
 305,Task ID,Tâche ID
 306,Task Name,Nom de la Tâche
 307,Tasks,Tâches
@@ -321,7 +321,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 313,Taxes,Taxes
 314,Taxes and Charges,Taxes et Frais
 315,Team Members,Membres de l'Équipe
-316,Telephone Expenses,Frais Téléphonique
+316,Telephone Expenses,Frais Téléphoniques
 317,Television,Télévision
 318,Template,Modèle
 319,Template for performance appraisals.,Modèle pour l'évaluation de la performance.
@@ -337,8 +337,8 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 329,Territory / Customer,Région / Client
 330,Territory Manager,Responsable Régional
 331,Territory Name,Nom de la Région
-332,Territory Target Variance Item Group-Wise,Variance de la cible par région en fonction du groupe d'article
-333,Territory Targets,Les objectifs régional
+332,Territory Target Variance Item Group-Wise,Variance de l’Objectif par Région et par Groupe d’Article
+333,Territory Targets,Objectifs Régionaux
 334,Test Email Address,Adresse Email de Test
 335,Text Align,Aligner le Texte
 336,Text Color,Couleur du Texte
@@ -350,13 +350,13 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 342,"The application has been updated to a new version, please refresh this page","L'application a été mise à jour vers une nouvelle version, veuillez rafraîchir cette page"
 343,The Brand,La Marque
 344,The first Leave Approver in the list will be set as the default Leave Approver,Le premier Approbateur de Congé dans la liste sera défini comme Approbateur par défaut
-345,The First User: You,Le Premier Utilisateur: Vous
+345,The First User: You,Le Premier Utilisateur : Vous
 346,The Item {0} cannot have Batch,L'Article {0} ne peut être en Lot
-347,The name of your company for which you are setting up this system.,Le nom de l'entreprise pour laquelle vous configurez ce système .
+347,The name of your company for which you are setting up this system.,Le nom de l'entreprise pour laquelle vous configurez ce système.
 348,The net weight of this package. (calculated automatically as sum of net weight of items),Le poids net de ce paquet. (Calculé automatiquement comme la somme du poids net des articles)
 349,The Organization,L’Organisation
-350,"The task {0}, that you assigned to {1}, has been closed by {2}.","La tâche {0}, que vous avez attribué à {1}, a été fermée par {2}."
-351,"The task {0}, that you assigned to {1}, has been closed.","La tâche {0}, que vous avez attribué à {1}, a été fermée."
+350,"The task {0}, that you assigned to {1}, has been closed by {2}.","La tâche {0}, que vous avez attribuée à {1}, a été fermée par {2}."
+351,"The task {0}, that you assigned to {1}, has been closed.","La tâche {0}, que vous avez attribuée à {1}, a été fermée."
 352,Theme,Thème
 353,Then By (optional),Puis Par (facultatif)
 354,"Then Pricing Rules are filtered out based on Customer, Customer Group, Territory, Supplier, Supplier Type, Campaign, Sales Partner etc.","Les Règles de Tarification sont ensuite filtrées en fonction des Clients, des Groupes de Clients, des Régions, des Fournisseurs, des Groupes de Fournisseurs, des Campagnes, des Partenaires Commerciaux, etc."
@@ -364,7 +364,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 356,There are more holidays than working days this month.,Il y a plus de vacances que de jours travaillés ce mois-ci.
 357,There is nothing to edit.,Il n'y a rien à modifier.
 358,There is some problem with the file url: {0},Il y a un problème avec l'url du fichier : {0}
-359,There should remain at least one System Manager,Il doit rester au moins un administrateur système
+359,There should remain at least one System Manager,Il doit rester au moins un Responsable Système
 360,There were errors,Il y a eu des erreurs
 361,There were errors.,Il y a eu des erreurs.
 362,Third Party Authentication,Authentification Tierce
@@ -410,18 +410,18 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 402,To be delivered to customer,À livrer à la clientèle
 403,To Bill,À Facturer
 404,To Date,Jusqu'au
-405,To date cannot be before from date,La date de fin ne peut être avant la date de début
+405,To date cannot be before from date,La date de fin ne peut être antérieure à la date de début
 406,To Datetime,À la Date
 407,To Deliver,À Livrer
 408,To Deliver and Bill,À Livrer et Facturer
 409,To Discuss,À Discuter
-410,To Do,Tâche à faire
+410,To Do,Tâche à Faire
 411,To Produce,À Produire
 412,To Receive,À Recevoir
 413,To Receive and Bill,À Recevoir et Facturer
 414,To Time,Horaire de Fin
-415,To Warehouse,À l'entrepôt
-416,To Warehouse (Optional),À l'entrepôt (Facultatif)
+415,To Warehouse,À l'Entrepôt
+416,To Warehouse (Optional),À l'Entrepôt (Facultatif)
 417,Today is {0}'s birthday!,Aujourd'hui c'est l’anniversaire de {0} !
 418,ToDo,Tâche à Faire
 419,Too many columns. Export the report and print it using a spreadsheet application.,Trop de colonnes. Exportez le rapport et imprimez-le à l'aide d'un tableur.
@@ -434,8 +434,8 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 426,Total Claimed Amount,Montant Total Réclamé
 427,Total Cost,Coût Total
 428,Total Earning,Total Revenus
-429,Total Expense Claim (via Expense Claim),Frais Professionnels Totaux (via Note de Frais)
-430,Total Expense Claim (via Expense Claims),Frais Professionnels Totaux (via Notes de Frais)
+429,Total Expense Claim (via Expense Claim),Total des Notes de Frais (via Note de Frais)
+430,Total Expense Claim (via Expense Claims),Total des Notes de Frais (via Notes de Frais)
 431,Total in words,Total En Toutes Lettres
 432,Total Incoming Value,Valeur Entrante Totale
 433,Total Outgoing Value,Valeur Sortante Totale
@@ -463,7 +463,7 @@ eval:doc.age>18",Ce champ apparaît uniquement si le nom de champ défini ici a 
 455,trash,corbeille
 456,Travel,Déplacement
 457,Travel Expenses,Frais de Déplacement
-458,Tree of Bill of Materials,Arbre des Listes de Matériel
+458,Tree of Bill of Materials,Arbre des Listes de Matériaux
 459,Tuesday,Mardi
 460,Type,Type
 461,"Types of employment (permanent, contract, intern, ect.)","Type d’emploi (CDI, CDD, Stagiaire, etc.)"
