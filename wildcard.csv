@@ -1,0 +1,226 @@
+,English,Français
+0,{0} {1} not in any active Fiscal Year.,{0} {1} dans aucun Exercice actif.
+1,{0} {1}: 'Profit and Loss' type account {2} not allowed in Opening Entry,{0} {1}: Compte {2} de type ‘Pertes et Profits’ non admis en Écriture d’Ouverture
+2,{0} has been successfully added to the Email Group.,{0} a été ajouté avec succès au Groupe d’Email.
+3,{0} is not a valid Email Address,{0} n’est pas une Adresse Email valide
+4,{0} Settings not found,{0} Réglages introuvables
+5,> {0} year(s) ago,> {0} an(s)
+6,"%s is not a valid report format. Report format should \
+				one of the following %s",%s n’est pas un format de rapport valide. Le format de Rapport devrait \ l'un des %s suivants
+7,1 star being lowest & 5 stars being highest rating,1 étoile étant la pire note et 5 étoiles étant la meilleure note
+8,1 weeks ago,Il y a 1 semaine
+9,1 year ago,Il y a 1 an
+10,'From Date' must be after 'To Date',La ‘Date de Début’ doit être antérieure à la ‘Date de Fin’
+11,'In List View' not allowed for type {0} in row {1},'Dans La Vue En Liste’ n'est pas permis pour le type {0} à la ligne {1}
+12,'To Case No.' cannot be less than 'From Case No.','Au Cas N°’ ne peut pas être inférieur à ‘Du Cas N°’
+13,'Update Stock' cannot be checked for fixed asset sale,'Mettre à Jour Le Stock’ ne peut pas être coché pour la vente d'actifs immobilisés
+14,"""Is Fixed Asset"" cannot be unchecked, as Asset record exists against the item",'Est un Actif Immobilisé’ doit être coché car il existe une entrée d’Actif pour cet article
+15,"""Parent"" signifies the parent table in which this row must be added","""Parent"" indique la table parent dans laquelle cette ligne doit être ajouté"
+16,[{0}](#Form/Item/{0}) is out of stock,[{0}] (#Formulaire/Article/{0}) est en rupture de stock
+17,{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} n'est pas un motif de nom de champ valide. Il devrait être {{field_name}}.
+18,{0} {1} cannot be a leaf node as it has children,{0} {1} ne peut pas être un nœud feuille car elle a des enfants
+19,{0} {1} does not associated with {2} {3},{0} {1} n'est pas associé(e) à {2} {3}
+20,{0} {1} does not associated with Party Account {2},{0} {1} n'est pas associé(e) à un compte auxiliaire {2}
+21,{0} {1} does not exist,{0} {1} n'existe pas
+22,{0} {1} has been modified. Please refresh.,{0} {1} a été modifié. Veuillez actualiser.
+23,{0} {1} is cancelled or closed,{0} {1} est annulé ou fermé
+24,{0} {1} is closed,{0} {1} est fermé
+25,{0} {1} is disabled,{0} {1} est désactivé
+26,{0} {1} is frozen,{0} {1} est gelée
+27,{0} {1} is not active,{0} {1} n'est pas actif
+28,{0} {1} must be submitted,{0} {1} doit être soumis
+29,{0} {1} status is {2},Le Statut de {0} {1} est {2}
+30,{0} {1} to {2},{0} {1} à {2}
+31,{0} {1}: Account {2} cannot be a Group,{0} {1} : Compte {2} ne peut pas être un Groupe
+32,{0} {1}: Account {2} does not belong to Company {3},{0} {1} : Compte {2} ne fait pas partie de la Société {3}
+33,{0} {1}: Account {2} is inactive,{0} {1} : Compte {2} inactif
+34,{0} {1}: Accounting Entry for {2} can only be made in currency: {3},{0} {1} : L’Écriture Comptable pour {2} peut seulement être faite en devise: {3}
+35,{0} {1}: Cost Center {2} does not belong to Company {3},{0} {1} : Le Centre de Coûts {2} ne fait pas partie de la Société {3}
+36,{0} {1}: Cost Center is required for 'Profit and Loss' account {2}. Please set up a default Cost Center for the Company.,"{0} {1} : Un Centre de Coûts est requis pour le compte ""Pertes et Profits"" {2}.Veuillez mettre en place un centre de coûts par défaut pour la Société."
+37,{0} {1}: Customer is required against Receivable account {2},{0} {1} : Un Client est requis pour le Compte Débiteur {2}
+38,{0} {1}: Either debit or credit amount is required for {2},{0} {1} : Un montant est requis au débit ou au crédit pour {2}
+39,{0} {1}: Supplier is required against Payable account {2},{0} {1} : Un Fournisseur est requis pour le Compte Créditeur {2}
+40,{0} already allocated for Employee {1} for period {2} to {3},{0} déjà alloué pour l’Employé {1} pour la période {2} à {3}
+41,{0} already unsubscribed for {1} {2},{0} déjà désabonné pour {1} {2}
+42,{0} are currently viewing this document,{0} sont en train de regarder ce document
+43,{0} asset cannot be transferred,{0} actif ne peut pas être transféré
+44,{0} Budget for Account {1} against {2} {3} is {4}. It will exceed by {5},{0} le Budget du Compte {1} pour {2} {3} est de {4}. Il dépassera de {5}
+45,{0} Feedback Request,{0} Demande de Retour d'Expérience
+46,"{0} field cannot be set as unique in {1}, as there are non-unique existing values","Le champ {0} ne peut pas être défini comme unique dans {1}, car il existe des valeurs non-uniques"
+47,{0} from {1} to {2},{0} de {1} à {2}
+48,{0} from {1} to {2} in row #{3},{0} de {1} à {2} dans la ligne #{3}
+49,{0} generated on {1},{0} généré sur {1}
+50,{0} has left the conversation in {1} {2},{0} a quitté la conversation dans {1} {2}
+51,{0} hours,{0} heures
+52,{0} hours ago,Il y a {0} heures
+53,{0} in row {1} cannot have both URL and child items,{0} à la ligne {1} ne peut pas avoir à la fois une URL et des sous-articles
+54,{0} Installed,{0} Installé
+55,"{0} is an invalid email address in 'Notification \
+						Email Address'",{0} est une adresse email invalide dans 'Notification \ Adresse Email'
+56,{0} is currently viewing this document,{0} est en train de regarder ce document
+57,{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}.,{0} est obligatoire. Peut-être qu’un enregistrement de Taux de Change n'est pas créé pour {1} et {2}.
+58,{0} is not a valid Batch Number for Item {1},{0} n'est pas un Numéro de Lot valide pour l’Article {1}
+59,{0} is not set,{0} n'est pas défini
+60,{0} is now the default Fiscal Year. Please refresh your browser for the change to take effect.,{0} est désormais l’Exercice par défaut. Veuillez actualiser la page pour que les modifications soient prises en compte.
+61,{0} items in progress,{0} articles en cours
+62,{0} items produced,{0} articles produits
+63,{0} items selected,{0} articles sélectionnés
+64,{0} Items synced,{0} Articles synchronisés
+65,{0} logged out: {1},{0} déconnecté: {1}
+66,{0} mentioned you in a comment in {1},{0} vous a mentionné dans un commentaire dans {1}
+67,{0} minutes ago,Il y a {0} minutes
+68,{0} months ago,Il y a {0} mois
+69,{0} must be greater than 0,{0} doit être supérieur à 0
+70,{0} must be negative in return document,{0} doit être négatif dans le document de retour
+71,{0} must be set first,{0} doit être défini en premier
+72,{0} Name,{0} Nom
+73,{0} not a valid State,{0} pas un État valide
+74,{0} not allowed to be renamed,{0} ne peut pas être renommé
+75,{0} payment entries can not be filtered by {1},{0} écritures de paiement ne peuvent pas être filtrées par {1}
+76,{0} records updated,{0} enregistrements mis à jour
+77,{0} Report,Rapport {0}
+78,{0} Results,Résultats {0}
+79,{0} rows for {1},{0} lignes pour {1}
+80,{0} Serial Numbers required for Item {1}. You have provided {2}.,{0} Numéros de Série requis pour objet {1}. Vous en avez fourni {2}.
+81,{0} shared this document with {1},{0} a partagé ce document avec {1}
+82,{0} shared this document with everyone,{0} partagé ce document avec tout le monde
+83,{0} un-shared this document with {1},{0} ne partage plus ce document avec {1}
+84,{0} units of [{1}](#Form/Item/{1}) found in [{2}](#Form/Warehouse/{2}),{0} unités de [{1}] (#Formulaire/Article/{1}) trouvées dans [{2}] (#Formulaire/Entrepôt/{2})
+85,{0} units of {1} needed in {2} on {3} {4} for {5} to complete this transaction.,{0} unités de {1} nécessaires dans {2} sur {3} {4} pour {5} pour compléter cette transaction.
+86,{0} units of {1} needed in {2} to complete this transaction.,{0} unités de {1} nécessaires dans {2} pour compléter cette transaction.
+87,{0} updated,{0} mis(e) à jour
+88,{0} valid serial nos for Item {1},{0} numéro de série valide pour l'objet {1}
+89,{0} weeks ago,Il y a {0} semaines
+90,"{0}, Row {1}","{0}, Ligne {1}"
+91,"{0}: '{1}' ({3}) will get truncated, as max characters allowed is {2}",{0} : {1} '({3}) sera tronqué car le nombre de caractères max est {2}
+92,{0}: {1} does not exists,{0} : {1} n’existe pas
+93,{0}: {1} in {2},{0} : {1} à {2}
+94,{0}: {1} not found in Invoice Details table,{0} : {1} introuvable dans la table de Détails de la Facture
+95,{0}: Cannot set Assign Amend if not Submittable,{0} : Impossible de définir ‘Assigner Modifier’ si non Soumissible
+96,{0}: Cannot set Assign Submit if not Submittable,{0} : Impossible de définir ‘Assigner Soumettre’ si non Soumissible
+97,{0}: Cannot set Cancel without Submit,{0} : Impossible de choisir Annuler sans Soumettre
+98,{0}: Cannot set import as {1} is not importable,{0} : Impossible de choisir import car {1} n'est pas importable
+99,{0}: Cannot set Import without Create,{0} : Impossible de choisir Import sans Créer
+100,"{0}: Cannot set Submit, Cancel, Amend without Write","{0} : Vous ne pouvez pas choisir Envoyer, Annuler, Modifier sans Écrire"
+101,"{0}: Employee email not found, hence email not sent",{0} : Adresse email de l'employé introuvable : l’email n'a pas été envoyé
+102,{0}: From {0} for {1},{0} : Du {0} pour {1} 
+103,{0}: From {0} of type {1},{0} : Du {0} de type {1}
+104,{0}: No basic permissions set,{0} : Aucune autorisation de base définie
+105,"{0}: Only one rule allowed with the same Role, Level and {1}","{0} : Une seule règle est permise avec le même Rôle, Niveau et {1}"
+106,{0}: Permission at level 0 must be set before higher levels are set,{0} : L'Autorisation au niveau 0 doit être définie avant que les niveaux plus élevés soient parametrés
+107,{0}% Complete,{0}% Complété
+108,{app_title},{app_title}
+109,** Failed: {0} to {1}: {2},** Échec: {0} à {1}: {2}
+110,**Currency** Master,Données de Base **Devise**
+111,**Monthly Distribution** helps you distribute the Budget/Target across months if you have seasonality in your business.,**Répartition Mensuelle** vous aide à diviser le Budget / la Cible sur plusieurs mois si vous avez de la saisonnalité dans votre entreprise.
+112,<head> HTML,<head> HTML
+113,%  Delivered,% Livré
+114,% Amount Billed,% Montant Facturé
+115,% Billed,% Facturé
+116,% Complete Method,% Méthode Complète
+117,% Installed,% Installé
+118,% of materials billed against this Sales Order,% de matériaux facturés pour cette Commande Client
+119,% of materials delivered against this Delivery Note,% de matériaux livrés pour ce Bon de Livraison
+120,% of materials delivered against this Sales Order,% de matériaux livrés pour cette Commande Client
+121,% Ordered,% Commandé
+122,% Progress,% de Progression
+123,1 hour ago,Il ya 1 heure
+124,1 item selected,1 article sélectionné
+125,1 minute ago,Il y a 1 minute
+126,1 month ago,Il y a 1 mois
+127,1. Select Columns,1. Sélectionner les colonnes
+128,1. Select File,1. Sélectionner un fichier
+129,2. Download,2. Télécharger
+130,2. Upload,2. Charger
+131,Advanced Settings,Réglages Avancés
+132,`Freeze Stocks Older Than` should be smaller than %d days.,`Geler les stocks datant de plus` doit être inférieur à %d jours.
+133,'Actual Start Date' can not be greater than 'Actual End Date',"""Date de Début Réelle"" ne peut être postérieure à ""Date de Fin Réelle"""
+134,'Based On' and 'Group By' can not be same,'Basé sur' et 'Groupé par' ne peuvent pas être identiques
+135,'Days Since Last Order' must be greater than or equal to zero,'Jours Depuis La Dernière Commande' doit être supérieur ou égal à zéro
+136,'Entries' cannot be empty,'Entrées' ne peuvent pas être vides
+137,'Expected Start Date' can not be greater than 'Expected End Date','Date de Début Prévue' ne peut pas être postérieure à 'Date de Fin Prévue'
+138,'Has Serial No' can not be 'Yes' for non-stock item,'A un Numéro de Série' ne peut pas être 'Oui' pour un article hors-stock
+139,'Notification Email Addresses' not specified for recurring %s,'Adresse Email de Notification’ non spécifiée pour %s récurrents
+140,'Total','Total'
+141,'Update Stock' can not be checked because items are not delivered via {0},'Mettre à Jour le Stock' ne peut pas être coché car les articles ne sont pas livrés par {0}
+142,"""Team Members"" or ""Management""","""Membres de l'Équipe"" ou ""Management"""
+143,(Hour Rate / 60) * Actual Operation Time,(Tarif Horaire / 60) * Temps Réel d’Opération
+144,[Label]:[Field Type]/[Options]:[Width],[Étiquette]: [Type de champ] / [Options]: [Largeur]
+145,[Select],[Choisir]
+146,{0} '{1}' is disabled,{0} '{1}' est désactivé(e)
+147,{0} '{1}' not in Fiscal Year {2},{0} '{1}' n'est pas dans l’Exercice {2}
+148,{0} ({1}) cannot be greater than planned quanitity ({2}) in Production Order {3},{0} ({1}) ne peut pas être supérieur à la quantité prévue ({2}) dans l’Ordre de Production {3}
+149,{0} ({1}) must have role 'Leave Approver',{0} ({1}) doit avoir le rôle ‘Approbateur de Congés'
+150,{0} {1} already exists,{0} {1} existe déjà
+151,"{0} {1} cannot be ""{2}"". It should be one of ""{3}""","{0} {1} ne peut pas être ""{2}"". Il devrait être l'un de ""{3}"""
+152,"{0} {1} does not exist, select a new target to merge","{0} {1} n'existe pas, veuillez sélectionner une nouvelle cible à fusionner"
+153,{0} {1} is cancelled or stopped,{0} {1} est annulé ou arrêté
+154,{0} {1} not found,{0} {1} introuvable
+155,{0} {1}: Cost Center is mandatory for Item {2},{0} {1}: Centre de Coûts est obligatoire pour l’Article {2}
+156,{0} {1}: Submitted Record cannot be deleted.,{0} {1}: Enregistrement Soumis ne peut pas être supprimé.
+157,{0} against Bill {1} dated {2},{0} pour la Facture {1} du {2}
+158,{0} against Purchase Order {1},{0} pour le Bon de Commande d'Achat {1}
+159,{0} against Sales Invoice {1},{0} pour la Facture de Vente {1}
+160,{0} against Sales Order {1},{0} pour la Commande Client {1}
+161,{0} already unsubscribed,{0} déjà désinscrit
+162,{0} days ago,Il y a {0} jours
+163,{0} does not belong to Company {1},{0} n'appartient pas à la Société {1}
+164,{0} does not exist in row {1},{0} n'existe pas dans la ligne {1}
+165,{0} entered twice in Item Tax,{0} est entré deux fois dans la Taxe de l'Article
+166,{0}: Cannot set Amend without Cancel,{0} : Impossible de choisir Modifier sans Annuler
+167,* Will be calculated in the transaction.,* Sera calculé lors de la transaction.
+168,**Fiscal Year** represents a Financial Year. All accounting entries and other major transactions are tracked against **Fiscal Year**.,**Exercice** représente un Exercice Financier. Toutes les écritures comptables et autres transactions majeures sont suivis en **Exercice**.
+169,% Completed,% Complété
+170,"1 Currency = [?] Fraction
+For e.g. 1 USD = 100 Cent","1 Devise = [?] Fraction 
+E.g. 1 USD = 100 centimes"
+171,90-Above,90-Dessus
+172,for {0},pour {0}
+173,is mandatory. Maybe Currency Exchange record is not created for,est obligatoire. Peut-être que le Taux de Change n'est pas créé pour
+174,or,ou
+175,to,à
+176,_doctype,_doctype
+177,-Above,-Au-dessus
+178,'From Date' is required,'Date début' est requise
+179,'Opening','Ouverture'
+180,'To Date' is required,'Date de Fin' est requise
+181,{0} and {1},{0} et {1}
+182,{0} cannot be set for Single types,{0} ne peut pas être réglé pour les Types Uniques
+183,{0} comments,{0} commentaires
+184,{0} created,{0} créé
+185,{0} created this {1},{0} a créé {1}
+186,{0} edited this {1},{0} a édité {1}
+187,{0} subscribers added,{0} abonnés ajoutés
+188,{0} Tree,{0} Arbre
+189,{0}: From {1},{0}: De {1}
+190,{0}% Billed,{0}% Facturé
+191,{0}% Delivered,{0}% Livré
+192,0 - Draft; 1 - Submitted; 2 - Cancelled,0 - Brouillon; 1 - Soumis; 2 - Annulé
+193,0 is highest,0 est le plus élevé
+194,2 days ago,Il y a 2 jours
+195,by Role,par Rôle
+196,"""Company History""","""Historique de la Société"""
+197,(Ctrl + G),(Ctrl + G)
+198,[Error],[Erreur]
+199,{0} ({1}) must have role 'Expense Approver',"{0} ({1}) doit avoir le rôle ""Approbateur de Frais"""
+200,{0} added,{0} ajouté(e)
+201,{0} for {1},{0} pour {1}
+202,{0} is mandatory,{0} est obligatoire
+203,{0} is mandatory for Item {1},{0} est obligatoire pour l’Article {1}
+204,{0} is mandatory for Return,{0} est obligatoire pour un Retour
+205,{0} is not a stock Item,{0} n'est pas un Article de stock
+206,{0} is required,{0} est nécessaire
+207,{0} is saved,{0} est enregistré
+208,{0} List,{0} Liste
+209,{0} logged in,{0} connecté
+210,{0} must appear only once,{0} ne doit apparaître qu'une seule fois
+211,{0} must be one of {1},{0} doit être l'un des {1}
+212,{0} must be unique,{0} doit être unique
+213,{0} or {1},{0} ou {1}
+214,{0} {1} is fully billed,{0} {1} est entièrement facturé
+215,{0} {1} is not submitted,{0} {1} n'a pas été soumis
+216,{0} by {1},{0} par {1}
+217,{0} can not be negative,{0} ne peut pas être négatif
+218,% Received,% Reçu
+219,1 comment,1 commentaire
+220,(Half Day),(Demi-Journée)
