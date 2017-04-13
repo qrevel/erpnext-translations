@@ -1,0 +1,455 @@
+,English,Français
+0,Raise Material Request when stock reaches re-order level,Créer une demande de matériel lorsque le stock atteint le niveau de réapprovisionnement
+1,Raised By,Créé par
+2,Raised By (Email),Créé par (Email)
+3,Range,Plage
+4,Rate at which Price list currency is converted to company's base currency,Taux auquel la devise de la Liste de prix est convertie en devise société de base
+5,Rate at which Price list currency is converted to customer's base currency,Taux auquel la devise de la Liste de prix est convertie en devise du client de base
+6,Rate at which supplier's currency is converted to company's base currency,Taux auquel la devise du fournisseur est convertie en devise société de base
+7,Rate of Interest,Taux d'Intérêt
+8,Rate of Interest (%) / Year,Taux d'Intérêt (%) / Année
+9,Rate of Interest (%) Yearly,Taux d'Intérêt (%) Annuel
+10,Rate Of Materials Based On,Prix des Matériaux Basé sur
+11,Rating,Évaluation
+12,Rating:,Évaluation :
+13,Raw Email,Email Brut
+14,Raw Material Cost(Company Currency),Coût des Matières Premières (Devise Société)
+15,Razorpay Payment gateway settings,Réglages de la Passerelle de Paiement Razorpay
+16,Razorpay Settings,Réglages Razorpay
+17,Reason for losing,Raison de perdre
+18,Receipient,Bénéficiaire
+19,Receipt Document,Reçu
+20,Receipt document must be submitted,Le reçu doit être soumis
+21,Receipt Document Type,Type de Reçu
+22,Receivable Account,Compte Débiteur
+23,Received Amount,Montant Reçu
+24,Received Amount (Company Currency),Montant Reçu (Devise Société)
+25,Receiver,Récepteur
+26,Receiver Parameter,Paramètre Récepteur
+27,Recent years are easy to guess.,Les dernières années sont faciles à deviner.
+28,Rechedule,Replanifier
+29,Recipient Message And Payment Details,Message du Destinataire et Détails de Paiement
+30,Recipient Unsubscribed,Destinataire Désinscrit
+31,"Recommended bulk editing records via import, or understanding the import format.",Il est recommandé d’effectuer un import ou de comprendre le format d’import pour éditer des enregistrements en masse.
+32,Recurring Id,Id Récurrent
+33,Recurring Order,Commande Récurrente
+34,Recurring Print Format,Format d'Impression Récurrent
+35,Recurring Type,Type Récurrent
+36,Recurring Upto,Récurrent Jusqu'au
+37,Redirect To,Rediriger Vers
+38,Redirect URI Bound To Auth Code,URI de Redirection Lié au Code Auth
+39,Redirect URIs,URIs de Redirection
+40,Redirect URL,URL de Redirection
+41,Ref SQ,Réf SQ
+42,Reference Communication,Communication de Référence
+43,Reference DocType and Reference Name are required,DocType de la Référence et le Nom de la Référence sont nécessaires
+44,Reference Doctype must be one of {0},Doctype de la Référence doit être parmi {0}
+45,Reference No and Reference Date is mandatory for Bank transaction,Le N° de Référence et la Date de Référence sont nécessaires pour une Transaction Bancaire
+46,Reference Row,Ligne de Référence
+47,"Reference: %s, Item Code: %s and Customer: %s","Référence : %s, Code de l’Article: % s et Client: %s"
+48,Refresh Token,Jeton de Rafraîchissement
+49,Refuelling Details,Détails de Ravitaillement
+50,Register OAuth Client App,Inscrire App Client OAuth
+51,Registered but disabled,Enregistré mais Désactivé
+52,Rejected Qty,Qté Rejetée
+53,Relapsed,Rechuté
+54,Relapses,Rechutes
+55,Related,En Relation
+56,Related Documents,Documents Liés
+57,Relation with Guardian1,Relation avec Tuteur1
+58,Relation with Guardian2,Relation avec Tuteur2
+59,Relink,Reconnecter
+60,Relink Communication,Communication de Reconnection
+61,Relinked,Reconnecté
+62,Remember Last Selected Value,Se Souvenir de la Dernière Valeur Sélectionnée
+63,Remote,À Distance
+64,Remove {0} and delete all data?,Retirer {0} et supprimer toutes les données ?
+65,Remove Field,Supprimer le Champ
+66,Remove item if charges is not applicable to that item,Retirer l'article si les charges ne lui sont pas applicables
+67,remove-circle,retirez-cercle
+68,remove-sign,retirez-signe
+69,Removed {0},{0} Suprimé
+70,Removed items with no change in quantity or value.,Les articles avec aucune modification de quantité ou de valeur ont étés retirés.
+71,Rename Log,Journal des Renommages
+72,renamed from {0} to {1},renommé de {0} à {1}
+73,Renew / Upgrade,Renouveler / Mettre à Niveau
+74,Renew before: {0},Renouveler avant : {0}
+75,Reorder level based on Warehouse,Niveau de réapprovisionnement basé sur l’Entrepôt
+76,Repaid/Closed,Remboursé / Fermé
+77,Repay Fixed Amount per Period,Rembourser un Montant Fixe par Période
+78,Repay from Salary,Rembourser avec le Salaire
+79,Repay Over Number of Periods,Rembourser Sur le Nombre de Périodes
+80,Repayment Info,Infos de Remboursement
+81,Repayment Method,Méthode de Remboursement
+82,Repayment Period in Months,Période de Remboursement en Mois
+83,Repayment Schedule,Échéancier de Remboursement
+84,Repeat Customer Revenue,Répéter Revenu Clientèle
+85,Repeat Customers,Répéter Clients
+86,Repeat Header and Footer in PDF,Répéter En-Tête et Pied de Page en PDF
+87,"Repeats like ""aaa"" are easy to guess","Les répétitions comme ""aaa"" sont faciles à deviner"
+88,"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""","Les répétitions comme ""ABCABCABC"" sont seulement un peu plus difficiles à deviner que ""abc"""
+89,"Replace a particular BOM in all other BOMs where it is used. It will replace the old BOM link, update cost and regenerate ""BOM Explosion Item"" table as per new BOM","Remplacer une LDM particulière dans tous les autres LDMs où elle est utilisée. Elle remplacera le lien vers l’ancienne LDM, mettra à jour les coûts et régénérera la table ""LDM - Article Explosé"""
+90,Replace Item / BOM in all BOMs,Remplacer l’Article / LDM dans toutes les LDMs
+91,Reply All,Répondre à Tous
+92,Report Builder,Éditeur de Rapports
+93,Report Builder reports are managed directly by the report builder. Nothing to do.,Les rapports de l’Éditeur de Rapports sont gérés directement par l’Éditeur de Rapports. Vous n’avez rien à faire.
+94,Report cannot be set for Single types,Le Rapport ne peut pas être défini pour les types Uniques
+95,Report Filters,Filtres du Rapport
+96,Report Hide,Cacher le Rapport
+97,Report of all document shares,Rapport de tous les partages de documents
+98,Report Type is mandatory,Le Type de Rapport est nécessaire
+99,Reports,Rapports
+100,Represents a User in the system.,Représente un Utilisateur dans le système.
+101,Represents the states allowed in one document and role assigned to change the state.,Représente les états permis dans un document et le rôle assigné pour changer cet état.
+102,Reqd,Requis
+103,Reqd By Date,Requis par Date
+104,Request Feedback,Demander des Retours d’Expérience
+105,Request for,Demander Pour
+106,Request for Quotation,Appel d'Offre
+107,"Request for Quotation is disabled to access from portal, for more check portal settings.","L’accès au portail est désactivé pour les Appels d’Offres. Pour plus d’informations, vérifiez les réglages du portail."
+108,Request for Quotation Item,Article de l'Appel d'Offre
+109,Request for Quotation Supplier,Fournisseur de l'Appel d'Offre
+110,Request for quotation.,Appel d'Offre
+111,Request for Quotations,Appel d’Offres
+112,Request Timed Out,La Requête a Expirée
+113,Requested Items To Be Ordered,Articles Demandés à Commander
+114,Requested Items To Be Transferred,Articles Demandés à Transférer
+115,Requesting payment against {0} {1} for amount {2},Demande de Paiement pour {0} {1} pour le montant {2}
+116,Required,Obligatoire
+117,Required by Date,Requis à cette Date
+118,Required Date,Date Requise
+119,Required Items,Articles Requis
+120,Required only for sample item.,Requis uniquement pour les échantillons.
+121,Resend,Renvoyer
+122,Reserved for manufacturing,Réservé pour la Fabrication
+123,Reserved for sale,Réservé à la Vente
+124,Reserved Qty for Production,Qté Réservée pour la Production
+125,Reserved Warehouse in Sales Order / Finished Goods Warehouse,Entrepôt Réservé aux Commandes Clients / Entrepôt de Produits Finis
+126,Reset,Réinitialiser
+127,Reset Password Key,Réinitialiser le Mot de Passe
+128,resize-full,redimensionner-entièrement
+129,resize-horizontal,redimensionner-horizontalement
+130,resize-small,redimensionner-petit
+131,resize-vertical,redimensionner-vertical
+132,Resolution Details,Détails de la Résolution
+133,Resource Owner Password Credentials,Mot de Passe du Propriétaire de la Ressource
+134,Response Type,Type de Réponse
+135,Responsibilities,Responsabilités
+136,Restore,Restaurer
+137,Restore Original Permissions,Restaurer les Autorisations Originales
+138,Restore to default settings?,Restaurer les réglages par défaut ?
+139,Restored,Restauré
+140,restored {0} as {1},restauré(e) {0} comme {1}
+141,Result HTML,Résultat HTML
+142,Resume Attachment,Reprendre la Pièce Jointe
+143,Resume Sending,Reprendre l’Envoi
+144,Retail & Wholesale,Vente de Détail & en Gros
+145,Retained Earnings,Bénéfices Non Répartis
+146,Retirement Age,Âge de la Retraite
+147,Return / Credit Note,Retour / Note de Crédit
+148,Return / Debit Note,Retour / Note de Débit
+149,Return Against Delivery Note,Retour contre Bon de Livraison
+150,Return Against Purchase Invoice,Retour contre Facture d’Achat
+151,Return Against Purchase Receipt,Retour contre Reçu d'Achat
+152,Return Against Sales Invoice,Retour contre Facture de Vente
+153,Returned Qty,Qté Retournée
+154,Returns,Retours
+155,Reverse Icon Color,Inverser la Couleur de l'Icône
+156,Reverting length to {0} for '{1}' in '{2}'; Setting the length as {3} will cause truncation of data.,Retour à la longueur {0} pour '{1}' dans '{2}'; Le réglage de la longueur comme {3} provoque la troncature des données.
+157,Review Date,Date de Revue
+158,Revoked,Révoqué
+159,RFQ-,RFQ-
+160,rgt,rgt
+161,Right,Droit
+162,Robots.txt,robots.txt
+163,Role and Level,Rôle et Niveau
+164,Role Permission for Page and Report,Autorisation du Rôle pour la Page et le Rapport
+165,Role that is allowed to submit transactions that exceed credit limits set.,Rôle qui est autorisé à soumettre des transactions qui dépassent les limites de crédit fixées.
+166,Roles Assigned,Rôles Assignés
+167,Roles can be set for users from their User page.,Les rôles peuvent être définis pour les utilisateurs à partir de leur page Utilisateur .
+168,Roles HTML,Rôles HTML
+169,Roles Permission,Autorisations de Rôles
+170,Root {0} cannot be deleted,Racine {0} ne peut pas être supprimée
+171,Root cannot have a parent cost center,Racine ne peut pas avoir un centre de coûts parent
+172,Root Type is mandatory,Le Type de Racine est obligatoire
+173,Round Off,Arrondi
+174,Round Off Account,Compte d’Arrondi
+175,Round Off Cost Center,Centre de Coûts d’Arrondi
+176,Route,Route
+177,Row {0}: Activity Type is mandatory.,Ligne {0} : Le Type d'Activité est obligatoire.
+178,Row {0}: Advance against Customer must be credit,Ligne {0} : L’Avance du Client doit être un crédit
+179,Row {0}: Advance against Supplier must be debit,Ligne {0} : L’Avance du Fournisseur doit être un débit
+180,Row {0}: Allocated amount {1} must be less than or equals to invoice outstanding amount {2},Ligne {0} : Le montant alloué {1} doit être inférieur ou égal au montant restant sur la Facture {2}
+181,Row {0}: Allocated amount {1} must be less than or equals to Payment Entry amount {2},Ligne {0} : Le montant alloué {1} doit être inférieur ou égal au montant du Paiement {2}
+182,Row {0}: An Reorder entry already exists for this warehouse {1},Ligne {0} : Une écriture de Réapprovisionnement existe déjà pour cet entrepôt {1}
+183,Row {0}: Bill of Materials not found for the Item {1},Ligne {0} : Liste de Matériaux non trouvée pour l’Article {1}
+184,Row {0}: Completed Qty cannot be more than {1} for operation {2},Ligne {0} : Qté Complétée ne peut pas être supérieure à {1} pour l’opération {2}
+185,Row {0}: Completed Qty must be greater than zero.,Ligne {0} : Qté Complétée doit être supérieure à zéro.
+186,Row {0}: Credit entry can not be linked with a {1},Ligne {0} : L’Écriture de crédit ne peut pas être liée à un {1}
+187,Row {0}: Currency of the BOM #{1} should be equal to the selected currency {2},Ligne {0} : La devise de la LDM #{1} doit être égale à la devise sélectionnée {2}
+188,Row {0}: Debit entry can not be linked with a {1},Ligne {0} : L’Écriture de Débit ne peut pas être lié à un {1}
+189,Row {0}: For supplier {0} Email Address is required to send email,Ligne {0} : Pour le fournisseur {0} une Adresse Email est nécessaire pour envoyer des email
+190,Row {0}: From Time and To Time is mandatory.,Ligne {0} : Heure de Début et Heure de Fin obligatoires.
+191,Row {0}: From Time and To Time of {1} is overlapping with {2},Ligne {0} : Heure de Début et Heure de Fin de {1} sont en conflit avec {2}
+192,Row {0}: Hours value must be greater than zero.,Ligne {0} : La valeur des heures doit être supérieure à zéro.
+193,"Row {0}: Invoice {1} is invalid, it might be cancelled / does not exist. \
+						Please enter a valid Invoice","Ligne {0} : La Facture {1} est invalide, elle a peut-être été annulée ou n'existe pas. \ Veuillez entrer une Facture valide"
+194,Row {0}: Not allowed to enable Allow on Submit for standard fields,Ligne {0} : Il n’est pas autorisé d’activer Autoriser à la Soumission pour les champs standards
+195,Row {0}: Party / Account does not match with {1} / {2} in {3} {4},Ligne {0} : Partie / Compte ne correspond pas à {1} / {2} en {3} {4}
+196,Row {0}: Party Type and Party is only applicable against Receivable / Payable account,Ligne {0} : Le Type de Partie et la Partie sont applicables uniquement pour des Comptes Débiteurs / Créditeurs
+197,Row {0}: Party Type and Party is required for Receivable / Payable account {1},Ligne {0} : Le Type de Partie et la Partie sont requis pour le compte Débiteur / Créditeur {1}
+198,Row {0}: Payment against Sales/Purchase Order should always be marked as advance,Ligne {0} : Paiements contre Commandes Client / Fournisseur doivent toujours être marqués comme des avances
+199,Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,Ligne {0} : Veuillez vérifier 'Est Avance' sur le compte {1} si c'est une avance.
+200,Row {0}: Qty not available for {4} in warehouse {1} at posting time of the entry ({2} {3}),Ligne {0} : Qté non disponible pour {4} dans l'entrepôt {1} au moment de la comptabilisation de l’écriture ({2} {3})
+201,"Row {0}: To set {1} periodicity, difference between from and to date \
+						must be greater than or equal to {2}","Ligne {0} : Pour régler la périodicité de {1}, la différence entre la date de début et la date de fin \
+doit être supérieure ou égale à {2}"
+202,Row {0}: UOM Conversion Factor is mandatory,Ligne {0} : Facteur de Conversion LDM est obligatoire
+203,Row {0}:Start Date must be before End Date,Ligne {0} : La Date de Début doit être avant la Date de Fin
+204,Row {0}# Account must be of type 'Fixed Asset',Ligne {0} # Le compte doit être de type ‘Actif Immobilisé'
+205,Row # {0}: Batch No must be same as {1} {2},Ligne # {0} : Le N° de Lot doit être le même que {1} {2}
+206,Row # {0}: Cannot return more than {1} for Item {2},Ligne # {0} : Vous ne pouvez pas retourner plus de {1} pour l’Article {2}
+207,Row #{0}: {1} can not be negative for item {2},Ligne #{0} : {1} ne peut pas être négatif pour l’article {2}
+208,"Row #{0}: Asset {1} cannot be submitted, it is already {2}","Ligne #{0} : L’Actif {1} ne peut pas être soumis, il est déjà {2}"
+209,Row #{0}: Asset {1} does not belong to company {2},Ligne #{0} : L’Actif {1} n’appartient pas à la société {2}
+210,Row #{0}: Asset {1} does not linked to Item {2},Ligne #{0} : L’Actif {1} n’est pas lié à l'Article {2}
+211,Row #{0}: Asset {1} is already {2},Ligne #{0} : L’Actif {1} est déjà {2}
+212,Row #{0}: Asset {1} must be submitted,Ligne #{0} : L’Article {1} doit être soumis
+213,Row #{0}: Asset is mandatory for fixed asset purchase/sale,Ligne #{0} : L’Actif est obligatoire pour les achats / ventes d’actifs immobilisés
+214,Row #{0}: Clearance date {1} cannot be before Cheque Date {2},Ligne #{0} : Date de compensation {1} ne peut pas être antérieure à la Date du Chèque {2}
+215,Row #{0}: Journal Entry {1} does not have account {2} or already matched against another voucher,Ligne #{0} : L’Écriture de Journal {1} n'a pas le compte {2} ou est déjà réconciliée avec une autre référence
+216,Row #{0}: Not allowed to change Supplier as Purchase Order already exists,Ligne #{0} : Changement de Fournisseur non autorisé car un Bon de Commande existe déjà
+217,Row #{0}: Operation {1} is not completed for {2} qty of finished goods in Production Order # {3}. Please update operation status via Time Logs,Ligne #{0} : L’Opération {1} n’est pas terminée pour {2} qtés de produits finis de l’Ordre de Production # {3}. Veuillez mettre à jour le statut des opérations via les Journaux de Temps
+218,Row #{0}: Payment document is required to complete the trasaction,Ligne #{0} : Document de paiement nécessaire pour compléter la transaction
+219,Row #{0}: Please set reorder quantity,Ligne #{0} : Veuillez définir la quantité de réapprovisionnement
+220,Row #{0}: Posting Date must be same as purchase date {1} of asset {2},Ligne #{0} : La Date de Comptabilisation doit être la même que la date d'achat {1} de l’actif {2}
+221,Row #{0}: Purchase Invoice cannot be made against an existing asset {1},Ligne #{0} : La Facture d'Achat ne peut être faite pour un actif existant {1}
+222,"Row #{0}: Qty must be 1, as item is a fixed asset. Please use separate row for multiple qty.","Ligne #{0} : Qté doit égale à 1, car l’Article est un actif immobilisé. Veuillez utiliser une ligne distincte pour une qté multiple."
+223,Row #{0}: Rate must be same as {1}: {2} ({3} / {4}),Ligne #{0} : Le Prix doit être le même que {1}: {2} ({3} / {4})
+224,"Row #{0}: Reference Document Type must be one of Purchase Order, Purchase Invoice or Journal Entry","Ligne #{0} : Type de Document de Référence doit être un Bon de Commande, une Facture d'Achat ou une Écriture de Journal"
+225,"Row #{0}: Reference Document Type must be one of Sales Order, Sales Invoice or Journal Entry","Ligne #{0} : Le Type de Document de Référence doit être une Commande Client, une Facture de Vente ou une Écriture de Journal"
+226,Row #{0}: Rejected Qty can not be entered in Purchase Return,Ligne #{0} : Qté Rejetée ne peut pas être entrée dans le Retour d’Achat
+227,Row #{0}: Rejected Warehouse is mandatory against rejected Item {1},Ligne #{0} : Entrepôt de Rejet est obligatoire pour l’Article rejeté {1}
+228,Row #{0}: Set Supplier for item {1},Ligne #{0} : Définir Fournisseur pour l’article {1}
+229,Row #{0}: Timings conflicts with row {1},Ligne #{0}: Minutage en conflit avec la ligne {1}
+230,Row No {0}: Amount cannot be greater than Pending Amount against Expense Claim {1}. Pending Amount is {2},Ligne N° {0}: Le montant ne peut être supérieur au Montant en Attente pour le Remboursement de Frais {1}. Le Montant en Attente est de {2}
+231,Row Values Changed,Valeurs de Lignes Modifiées
+232,Rows Added,Lignes Ajoutées
+233,Rows Removed,Lignes Supprimées
+234,Rules defining transition of state in the workflow.,Règles définissant la transition d'état dans le flux de travail
+235,"Rules for how states are transitions, like next state and which role is allowed to change state etc.","Règles pour la manière dont les états effectuent des transitions, comme état suivant et quel rôle est autorisé à changer d'état, etc"
+236,Running,En Fonctionnement
+237,Runtime,Temps d’Exécution
+238,random,aléatoire
+239,Rate,Taux
+240,Rate (%),Taux (%)
+241,Rate (Company Currency),Prix (Devise Société)
+242,Rate and Amount,Prix et Montant
+243,Rate at which Customer Currency is converted to customer's base currency,Taux auquel la Devise Client est convertie en devise client de base
+244,Rate at which customer's currency is converted to company's base currency,Taux auquel la devise client est convertie en devise client de base
+245,Rate at which this tax is applied,Taux auquel cette taxe est appliquée
+246,Rate: {0},Prix: {0}
+247,Raw Material,Matières Premières
+248,Raw material cannot be same as main Item,Les matières premières ne peuvent être identiques à l’Article principal
+249,Raw Material Cost,Coût de Matière Première
+250,Raw Material Item Code,Code d’Article de Matière Première
+251,Raw Materials cannot be blank.,Matières Premières ne peuvent pas être vides.
+252,Raw Materials Supplied,Matières Premières Fournies
+253,Raw Materials Supplied Cost,Coût des Matières Premières Fournies
+254,Re-open,Ré-ouvrir
+255,Re-Order Level,Niveau de Réapprovisionnement
+256,Re-Order Qty,Qté de Réapprovisionnement
+257,Re:,Re:
+258,Re: {0},Re: {0}
+259,Read,Lire
+260,Read Only,Lecture Seule
+261,Read the ERPNext Manual,Lire le manuel d’ERPNext
+262,Reading 1,Lecture 1
+263,Reading 10,Lecture 10
+264,Reading 2,Lecture 2
+265,Reading 3,Lecture 3
+266,Reading 4,Lecture 4
+267,Reading 5,Lecture 5
+268,Reading 6,Lecture 6
+269,Reading 7,Lecture 7
+270,Reading 8,Lecture 8
+271,Reading 9,Lecture 9
+272,Readings,Lectures
+273,Real Estate,Immobilier
+274,Reason,Raison
+275,Reason for Leaving,Raison du Départ
+276,Reason for Resignation,Raison de la Démission
+277,Recd Quantity,Quantité Reçue
+278,Receipt,Reçu
+279,Receivable,Créance
+280,Receivable / Payable Account,Compte Débiteur / Créditeur
+281,Receivables,Créances
+282,Receive,Recevoir
+283,Received,Reçu
+284,Received and Accepted,Reçus et Acceptés
+285,Received Date,Date de Réception
+286,Received From,Reçu De
+287,Received Items To Be Billed,Articles Reçus à Facturer
+288,Received On,Reçu Le
+289,Received Qty,Qté Reçue
+290,Receiver List,Liste de Destinataires
+291,Receiver List is empty. Please create Receiver List,La Liste de Destinataires est vide. Veuillez créer une Liste de Destinataires
+292,Recipient,Destinataire
+293,Recipients,Destinataires
+294,Recommended for inserting new records.,Recommandé pour l'insertion de nouveaux enregistrements.
+295,Reconcile,Réconcilier
+296,Reconciliation JSON,Réconciliation JSON
+297,Record does not exist,L’enregistrement n’existe pas
+298,Record item movement.,Enregistrer les Mouvements de Stock
+299,"Record of all communications of type email, phone, chat, visit, etc.","Enregistrement de toutes les communications de type email, téléphone, chat, visite, etc."
+300,Recruitment,Recrutement
+301,Recurring Invoice,Facture Récurrente
+302,Red,Rouge
+303,Redis cache server not running. Please contact Administrator / Tech support,Le serveur de cache Redis ne fonctionne pas. Veuillez contacter l'administrateur / le support technique
+304,Ref,Réf
+305,Ref Code,Code de Réf.
+306,Ref Date,Date de Réf.
+307,Ref DocType,Doctype de Réf.
+308,Ref Name,Nom de Réf.
+309,Ref Type,Type de Réf.
+310,Reference,Référence
+311,Reference #{0} dated {1},Référence #{0} datée du {1}
+312,Reference Date,Date de Référence
+313,Reference Details,Détails de la Référence
+314,Reference Doc,Doc de Référence
+315,Reference DocName,DocName de la Référence
+316,Reference DocType,DocType de la Référence
+317,Reference Document,Document de Référence
+318,Reference Name,Nom de la Référence
+319,Reference No & Reference Date is required for {0},N° et Date de Référence sont nécessaires pour {0}
+320,Reference No is mandatory if you entered Reference Date,N° de Référence obligatoire si vous avez entré une date
+321,Reference Number,Numéro de Référence
+322,Reference Owner,Propriétaire de la Référence
+323,Reference Row #,Ligne de Référence #
+324,Reference Type,Type de Référence
+325,Reference: {0} {1},Référence : {0} {1}
+326,References,Références
+327,Refresh,Actualiser
+328,Refresh Form,Actualiser le Formulaire
+329,Refreshing...,Actualisation...
+330,Region,Région
+331,Regional Extensions,Extensions Régionales
+332,Register For ERPNext Hub,S'inscrire au Hub ERPNext
+333,Registration Details,Détails de l'Inscription
+334,Regular,Ordinaire
+335,Reject,Rejeter
+336,Rejected,Rejeté
+337,Rejected Quantity,Quantité Rejetée
+338,Rejected Serial No,N° de Série Rejeté
+339,Rejected Warehouse,Entrepôt Rejeté
+340,Relation,Relation
+341,Relieving Date,Date de Relève
+342,Relieving Date must be greater than Date of Joining,La Date de Relève doit être postérieure à la Date d’Embauche
+343,Reload,Recharger
+344,Remaining,Restant
+345,Remark,Remarque
+346,Remarks,Remarques
+347,remove,retirer
+348,Remove all customizations?,Retirer toutes les personnalisations ?
+349,Remove Filter,Supprimer le Filtre
+350,Remove Section,Retirer la Section
+351,removed,retiré
+352,Rename,Renommer
+353,Rename {0},Renommer {0}
+354,Rename many items by uploading a .csv file.,Renommez de nombreux éléments en chargeant un fichier.csv
+355,Rename Tool,Outil de Renommage
+356,Rent Cost,Coût de la Location
+357,Rented,Loué
+358,Reopen,Ré-ouvrir
+359,Reorder Level,Niveau de Réapprovisionnement
+360,Reorder Qty,Qté de Réapprovisionnement
+361,Repack,Ré-emballer
+362,repeat,répéter
+363,Repeat On,Répéter Le
+364,Repeat on Day of Month,Répéter le Jour du Mois
+365,Repeat this Event,Répéter cet Evénement
+366,Repeat Till,Répéter Jusqu'au
+367,Replace,Remplacer
+368,Replied,Répondu
+369,Reply,Répondre
+370,Report,Rapport
+371,Report {0},Rapport {0}
+372,Report {0} is disabled,Rapport {0} est désactivé
+373,Report an Issue,Signaler un Problème
+374,Report Date,Date du Rapport
+375,Report Manager,Gestionnaire de Rapports
+376,Report Name,Nom du Rapport
+377,Report this issue,Signaler ce problème
+378,Report Type,Type de Rapport
+379,Report was not saved (there were errors),Le Rapport n'a pas été sauvegardé (il y a eu des erreurs)
+380,Reports to,Rapports À
+381,Request for Information,Demande de Renseignements
+382,Request for purchase.,Demande d'Achat.
+383,Request Type,Type de Demande
+384,Requested,Demandé
+385,Requested For,Demandé Pour
+386,Requested Numbers,Numéros Demandés
+387,Requested Qty,Qté Demandée
+388,Requested Quantity,Quantité Demandée
+389,Requests for items.,Demandes d’Articles.
+390,Required By,Requis Par
+391,Required On,Requis Pour
+392,Required Qty,Qté Requise
+393,Research,Recherche
+394,Research & Development,Recherche & Développement
+395,Researcher,Chercheur
+396,Reseller,Revendeur
+397,Resend Payment Email,Renvoyer Email de Paiement
+398,Reserved,Reservé
+399,Reserved Qty,Qté Réservées
+400,Reserved Quantity,Quantité Réservée
+401,Reset Filters,Réinitialiser les Filtres
+402,Reset Password,Réinitialiser Mot de Passe
+403,Reset Permissions for {0}?,Réinitialiser des Autorisations pour {0} ?
+404,Reset to defaults,Rétablir par défaut
+405,Resignation Letter Date,Date de la Lettre de Démission
+406,Resolution,Résolution
+407,Resolution Date,Date de Résolution
+408,Resolved By,Résolu Par
+409,Response,Réponse
+410,Rest Of The World,Reste du Monde
+411,Restrict IP,Restreindre l'IP
+412,Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),Restreindre la connexion à partir de cette adresse IP uniquement. Plusieurs adresses IP peuvent être ajoutées en les séparant par des virgules. Les adresses IP partielles comme (111.111.111) sont acceptées
+413,Result,Résultat
+414,Retail,Vente de Détail
+415,Retailer,Détaillant
+416,Return,Retour
+417,retweet,retweet
+418,road,route
+419,Role,Rôle
+420,Role Allowed to edit frozen stock,Rôle Autorisé à modifier un stock gelé
+421,Role Allowed to Set Frozen Accounts & Edit Frozen Entries,Rôle Autorisé à Geler des Comptes & à Éditer des Écritures Gelées
+422,Role Name,Nom du Rôle
+423,Role Permissions,Autorisations du Rôle
+424,Role Permissions Manager,Gestionnaire d’Autorisations du Rôle
+425,Roles,Rôles
+426,Room,Chambre
+427,Room Name,Nom de la Chambre
+428,Room Number,Numéro de la Chambre
+429,Root Account must be a group,Le Compte Racine doit être un groupe
+430,Root cannot be edited.,La Racine ne peut pas être modifiée.
+431,Root Type,Type de Racine
+432,Rounded Total,Total Arrondi
+433,Rounded Total (Company Currency),Total Arrondi (Devise Société)
+434,Row,Ligne
+435,Row {0}: {1} {2} does not match with {3},Ligne {0} : {1} {2} ne correspond pas à {3}
+436,Row {0}: Conversion Factor is mandatory,Ligne {0} : Le Facteur de Conversion est obligatoire
+437,Row {0}: Exchange Rate is mandatory,Ligne {0} : Le Taux de Change est obligatoire
+438,Row {0}: Invalid reference {1},Ligne {0} : Référence {1} non valide
+439,Row {0}: Qty is mandatory,Ligne {0} : Qté obligatoire
+440,Row #,Ligne #
+441,Row # {0}:,Ligne # {0} :
+442,Row # {0}: Returned Item {1} does not exists in {2} {3},Ligne # {0} : article retourné {1} n’existe pas dans {2} {3}
+443,Row # {0}: Serial No {1} does not match with {2} {3},Ligne # {0} : N° de série {1} ne correspond pas à {2} {3}
+444,Row # {0}: Serial No is mandatory,Ligne # {0} : N° de série est obligatoire
+445,Row #{0}:,Ligne # {0} :
+446,Row #{0}: Please specify Serial No for Item {1},Ligne # {0} : Veuillez Indiquer le N° de série pour l'article {1}
+447,Rules for adding shipping costs.,Règles pour l'ajout de frais de port.
+448,Rules for applying pricing and discount.,Règles pour l’application des tarifs et des remises.
+449,Rules to calculate shipping amount for a sale,Règles de calcul du montant des frais de port pour une vente
+450,Run scheduled jobs only if checked,Les tâches planifiées ne sont exécutées que si la case est cochée.
